@@ -1,0 +1,69 @@
+name: Process SRC-015
+on:
+  push:
+    paths:
+      - '.github/workflows/process-src015.yml'
+permissions:
+  contents: write
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install openpyxl requests
+      - name: Convert SRC-015 and update registry
+        run: |
+          python - <<'PY'
+          import json, requests
+          from openpyxl import load_workbook
+          from io import BytesIO
+          url="https://www.nso.go.th/nsoweb/downloadFile/stat_impt/ik/file_xls_en"
+          b=requests.get(url,timeout=60).content
+          wb=load_workbook(BytesIO(b),data_only=True)
+          ws=wb.active
+          rows=list(ws.iter_rows(values_only=True))
+          years=[int(x) for x in rows[2][5:19]]
+          valid={'Total','15 - 19','20 - 24','25 - 29','30 - 34','35 - 39','40 - 44','45 - 49','50 - 54','55 - 59','60 and over'}
+          last=[None]*4; dm={}
+          for r in rows[3:]:
+              r=list(r)
+              if r[4] not in valid: continue
+              for i in range(4):
+                  if r[i] is not None: last[i]=str(r[i]).strip()
+                  else: r[i]=last[i]
+              region,province,etype,sex,age=r[:5]
+              sm=dm.setdefault(region,{}).setdefault(province,{}).setdefault(etype,{}).setdefault(sex,{})
+              sm[age]={str(y):r[5+j] for j,y in enumerate(years) if r[5+j] is not None}
+          data=[]
+          for region,provs in dm.items():
+              pp=[]
+              for province,types in provs.items():
+                  et={k:{"sex":v} for k,v in types.items()}
+                  pp.append({"province":province,"employment_type":et})
+              data.append({"region":region,"provinces":pp})
+          out={"source_id":"SRC-015","title":str(rows[0][0]).strip(),"country":"Thailand","unit":"Persons","years":years,"hierarchy":"Region > Province > Type of Employment > Sex > Age Group > Year > Number","data":data}
+          with open("processed/SRC-015.json","w",encoding="utf-8") as f: json.dump(out,f,ensure_ascii=False,indent=2)
+          p="metadata/source_registry.json"
+          reg=json.load(open(p,encoding="utf-8"))
+          def walk(x):
+              if isinstance(x,list):
+                  for v in x: walk(v)
+              elif isinstance(x,dict):
+                  if x.get("id")=="SRC-015":
+                      x["processing_status"]="done"
+                      x["processed_file"]="processed/SRC-015.json"
+                      x["completed_at"]="2026-09-25"
+                  for v in x.values(): walk(v)
+          walk(reg)
+          with open(p,"w",encoding="utf-8") as f: json.dump(reg,f,ensure_ascii=False,indent=2); f.write("\n")
+          PY
+      - name: Commit output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add processed/SRC-015.json metadata/source_registry.json
+          git commit -m "Process SRC-015 formal and informal employment data"
+          git push
