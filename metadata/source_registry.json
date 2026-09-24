@@ -204,7 +204,7 @@
           "processing_status": "done",
           "processed_file": "processed/SRC-012.json",
           "completed_at": "2026-09-25",
-          "processed_commit": "a35969ae0fefc6f9a54f627fdd59cbdf114f6df6"
+          "processed_commit": "8652dc41b273c885785c04dadbb6fc64ad0d75bd"
         },
         {
           "name": "Population growth rate",
