@@ -271,7 +271,11 @@
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
           },
-          "id": "SRC-016"
+          "id": "SRC-016",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-016.json",
+          "completed_at": "2026-09-25",
+          "processed_commit": "2669b16b72db040c861a87e306de698a10be15f7"
         },
         {
           "name": "Employment",
