@@ -95,7 +95,11 @@
             "conversion_target": "JSON",
             "verification_status": "web_verified"
           },
-          "id": "SRC-006"
+          "id": "SRC-006",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-006.json",
+          "completed_at": "2026-09-25",
+          "processed_commit": "ef08c5d1ea0839f5561afe24f555d62a3727e013"
         },
         {
           "name": "Agriculture & rural development Thailand",
