@@ -2,90 +2,5013 @@
   "source_id": "SRC-013",
   "title": "Number of Population from Registration and Growth Rate by Region: 2012-2022",
   "country": "Thailand",
-  "units": {"number":"persons","growth_rate":"%"},
+  "units": {
+    "number": "persons",
+    "growth_rate": "%"
+  },
   "data": [
-    {"region":"Whole Kingdom","province":"Whole Kingdom","values":[{"year":2012,"number":64456695,"growth_rate":0.59},{"year":2013,"number":64785909,"growth_rate":0.51},{"year":2014,"number":65124716,"growth_rate":0.52},{"year":2015,"number":65729098,"growth_rate":0.92},{"year":2016,"number":65931550,"growth_rate":0.31},{"year":2017,"number":66188503,"growth_rate":0.39},{"year":2018,"number":66413979,"growth_rate":0.34},{"year":2019,"number":66558935,"growth_rate":0.22},{"year":2020,"number":66186727,"growth_rate":-0.56},{"year":2021,"number":66171439,"growth_rate":-0.02},{"year":2022,"number":66090475,"growth_rate":-0.12242981772231103}]},
-    {"region":"Bangkok","province":"Bangkok","values":[{"year":2012,"number":5673560,"growth_rate":-0.02},{"year":2013,"number":5686252,"growth_rate":0.22},{"year":2014,"number":5692284,"growth_rate":0.11},{"year":2015,"number":5696409,"growth_rate":0.07},{"year":2016,"number":5686646,"growth_rate":-0.17},{"year":2017,"number":5682415,"growth_rate":-0.07},{"year":2018,"number":5676648,"growth_rate":-0.1},{"year":2019,"number":5666264,"growth_rate":-0.18},{"year":2020,"number":5588222,"growth_rate":-1.39},{"year":2021,"number":5527994,"growth_rate":-1.08},{"year":2022,"number":5494932,"growth_rate":-0.5998788188522651}]},
-    {"region":"Central Region","province":"Central Region","values":[{"year":2012,"number":16222892,"growth_rate":1.01},{"year":2013,"number":16366870,"growth_rate":0.88},{"year":2014,"number":16532023,"growth_rate":1},{"year":2015,"number":16753526,"growth_rate":1.33},{"year":2016,"number":16879244,"growth_rate":0.75},{"year":2017,"number":17018869,"growth_rate":0.82},{"year":2018,"number":17151984,"growth_rate":0.78},{"year":2019,"number":17265094,"growth_rate":0.66},{"year":2020,"number":17255105,"growth_rate":-0.06},{"year":2021,"number":17314234,"growth_rate":0.34},{"year":2022,"number":17339238,"growth_rate":0.1443087973363383}]},
-    {"region":"Central Region","province":"Samut Prakan Province","values":[{"year":2012,"number":1223302,"growth_rate":1.65},{"year":2013,"number":1241610,"growth_rate":1.49},{"year":2014,"number":1261530,"growth_rate":1.59},{"year":2015,"number":1279310,"growth_rate":1.4},{"year":2016,"number":1293553,"growth_rate":1.11},{"year":2017,"number":1310766,"growth_rate":1.32},{"year":2018,"number":1326608,"growth_rate":1.2},{"year":2019,"number":1344875,"growth_rate":1.37},{"year":2020,"number":1351479,"growth_rate":0.49},{"year":2021,"number":1356449,"growth_rate":0.37},{"year":2022,"number":1360227,"growth_rate":0.27813419307324583}]},
-    {"region":"Central Region","province":"Nonthaburi Province","values":[{"year":2012,"number":1141673,"growth_rate":1.68},{"year":2013,"number":1156271,"growth_rate":1.27},{"year":2014,"number":1173870,"growth_rate":1.51},{"year":2015,"number":1193711,"growth_rate":1.68},{"year":2016,"number":1211924,"growth_rate":1.51},{"year":2017,"number":1229735,"growth_rate":1.46},{"year":2018,"number":1246295,"growth_rate":1.34},{"year":2019,"number":1265387,"growth_rate":1.52},{"year":2020,"number":1276745,"growth_rate":0.89},{"year":2021,"number":1288637,"growth_rate":0.93},{"year":2022,"number":1295916,"growth_rate":0.5632710372213572}]},
-    {"region":"Central Region","province":"Pathum Thani Province","values":[{"year":2012,"number":1033837,"growth_rate":2.24},{"year":2013,"number":1053158,"growth_rate":1.85},{"year":2014,"number":1074058,"growth_rate":1.97},{"year":2015,"number":1094249,"growth_rate":1.86},{"year":2016,"number":1111376,"growth_rate":1.55},{"year":2017,"number":1129115,"growth_rate":1.58},{"year":2018,"number":1146092,"growth_rate":1.49},{"year":2019,"number":1163604,"growth_rate":1.52},{"year":2020,"number":1176412,"growth_rate":1.09},{"year":2021,"number":1190060,"growth_rate":1.15},{"year":2022,"number":1201532,"growth_rate":0.9593683194221146}]},
-    {"region":"Central Region","province":"Phra Nakhon Si Ayutthaya Province","values":[{"year":2012,"number":793509,"growth_rate":0.74},{"year":2013,"number":797970,"growth_rate":0.56},{"year":2014,"number":803599,"growth_rate":0.7},{"year":2015,"number":808360,"growth_rate":0.59},{"year":2016,"number":810320,"growth_rate":0.24},{"year":2017,"number":813852,"growth_rate":0.43},{"year":2018,"number":817441,"growth_rate":0.44},{"year":2019,"number":820188,"growth_rate":0.34},{"year":2020,"number":819088,"growth_rate":-0.13},{"year":2021,"number":820512,"growth_rate":0.17},{"year":2022,"number":820417,"growth_rate":-0.011578806896112495}]},
-    {"region":"Central Region","province":"Ang Thong Province","values":[{"year":2012,"number":283882,"growth_rate":-0.06},{"year":2013,"number":283732,"growth_rate":-0.05},{"year":2014,"number":283568,"growth_rate":-0.06},{"year":2015,"number":283173,"growth_rate":-0.14},{"year":2016,"number":282404,"growth_rate":-0.27},{"year":2017,"number":281187,"growth_rate":-0.43},{"year":2018,"number":280840,"growth_rate":-0.12},{"year":2019,"number":279654,"growth_rate":-0.42},{"year":2020,"number":276584,"growth_rate":-1.1},{"year":2021,"number":274763,"growth_rate":-0.66},{"year":2022,"number":272587,"growth_rate":-0.795107870217681}]},
-    {"region":"Central Region","province":"Lop Buri Province","values":[{"year":2012,"number":758059,"growth_rate":0.26},{"year":2013,"number":757970,"growth_rate":-0.01},{"year":2014,"number":758406,"growth_rate":0.06},{"year":2015,"number":758655,"growth_rate":0.03},{"year":2016,"number":757321,"growth_rate":-0.18},{"year":2017,"number":757273,"growth_rate":-0.01},{"year":2018,"number":758733,"growth_rate":0.19},{"year":2019,"number":755556,"growth_rate":-0.42},{"year":2020,"number":742928,"growth_rate":-1.69},{"year":2021,"number":739473,"growth_rate":-0.47},{"year":2022,"number":735293,"growth_rate":-0.5668711095098173}]},
-    {"region":"Central Region","province":"Sing Buri Province","values":[{"year":2012,"number":213216,"growth_rate":-0.17},{"year":2013,"number":212690,"growth_rate":-0.25},{"year":2014,"number":212158,"growth_rate":-0.25},{"year":2015,"number":211426,"growth_rate":-0.35},{"year":2016,"number":210588,"growth_rate":-0.4},{"year":2017,"number":210088,"growth_rate":-0.24},{"year":2018,"number":209377,"growth_rate":-0.34},{"year":2019,"number":208446,"growth_rate":-0.45},{"year":2020,"number":205898,"growth_rate":-1.23},{"year":2021,"number":204526,"growth_rate":-0.67},{"year":2022,"number":202797,"growth_rate":-0.8489628057431778}]},
-    {"region":"Central Region","province":"Chai Nat Province","values":[{"year":2012,"number":333172,"growth_rate":-0.03},{"year":2013,"number":332769,"growth_rate":-0.12},{"year":2014,"number":332283,"growth_rate":-0.15},{"year":2015,"number":331655,"growth_rate":-0.19},{"year":2016,"number":330431,"growth_rate":-0.37},{"year":2017,"number":329722,"growth_rate":-0.21},{"year":2018,"number":328263,"growth_rate":-0.44},{"year":2019,"number":326611,"growth_rate":-0.5},{"year":2020,"number":322477,"growth_rate":-1.27},{"year":2021,"number":320432,"growth_rate":-0.64},{"year":2022,"number":318308,"growth_rate":-0.6650617869027482}]},
-    {"region":"Central Region","province":"Saraburi Province","values":[{"year":2012,"number":625689,"growth_rate":0.84},{"year":2013,"number":629216,"growth_rate":0.56},{"year":2014,"number":633460,"growth_rate":0.67},{"year":2015,"number":637673,"growth_rate":0.66},{"year":2016,"number":640065,"growth_rate":0.37},{"year":2017,"number":642040,"growth_rate":0.31},{"year":2018,"number":645024,"growth_rate":0.46},{"year":2019,"number":645911,"growth_rate":0.14},{"year":2020,"number":643828,"growth_rate":-0.32},{"year":2021,"number":643963,"growth_rate":0.02},{"year":2022,"number":638582,"growth_rate":-0.8391177812578563}]},
-    {"region":"Central Region","province":"Chon Buri Province","values":[{"year":2012,"number":1364002,"growth_rate":1.88},{"year":2013,"number":1390354,"growth_rate":1.91},{"year":2014,"number":1421425,"growth_rate":2.21},{"year":2015,"number":1455039,"growth_rate":2.34},{"year":2016,"number":1483049,"growth_rate":1.91},{"year":2017,"number":1509125,"growth_rate":1.74},{"year":2018,"number":1535445,"growth_rate":1.73},{"year":2019,"number":1558301,"growth_rate":1.48},{"year":2020,"number":1566885,"growth_rate":0.55},{"year":2021,"number":1583672,"growth_rate":1.07},{"year":2022,"number":1594758,"growth_rate":0.697579934454099}]},
-    {"region":"Central Region","province":"Rayong Province","values":[{"year":2012,"number":649275,"growth_rate":1.79},{"year":2013,"number":661220,"growth_rate":1.82},{"year":2014,"number":674393,"growth_rate":1.97},{"year":2015,"number":688999,"growth_rate":2.14},{"year":2016,"number":700223,"growth_rate":1.62},{"year":2017,"number":711236,"growth_rate":1.56},{"year":2018,"number":723316,"growth_rate":1.68},{"year":2019,"number":734753,"growth_rate":1.57},{"year":2020,"number":741524,"growth_rate":0.92},{"year":2021,"number":751343,"growth_rate":1.32},{"year":2022,"number":759386,"growth_rate":1.0647940155888793}]},
-    {"region":"Central Region","province":"Chanthaburi Province","values":[{"year":2012,"number":521812,"growth_rate":0.95},{"year":2013,"number":524260,"growth_rate":0.47},{"year":2014,"number":527350,"growth_rate":0.59},{"year":2015,"number":531037,"growth_rate":0.7},{"year":2016,"number":532466,"growth_rate":0.27},{"year":2017,"number":534459,"growth_rate":0.37},{"year":2018,"number":536496,"growth_rate":0.38},{"year":2019,"number":537698,"growth_rate":0.22},{"year":2020,"number":535559,"growth_rate":-0.4},{"year":2021,"number":536557,"growth_rate":0.19},{"year":2022,"number":536144,"growth_rate":-0.07700188969836604}]},
-    {"region":"Central Region","province":"Trat Province","values":[{"year":2012,"number":222855,"growth_rate":0.38},{"year":2013,"number":224010,"growth_rate":0.52},{"year":2014,"number":224730,"growth_rate":0.32},{"year":2015,"number":229435,"growth_rate":2.07},{"year":2016,"number":229437,"growth_rate":0},{"year":2017,"number":229649,"growth_rate":0.09},{"year":2018,"number":229914,"growth_rate":0.12},{"year":2019,"number":229958,"growth_rate":0.02},{"year":2020,"number":228536,"growth_rate":-0.62},{"year":2021,"number":228376,"growth_rate":-0.07},{"year":2022,"number":227808,"growth_rate":-0.24902245301207251}]},
-    {"region":"Central Region","province":"Chachoengsao Province","values":[{"year":2012,"number":685721,"growth_rate":0.93},{"year":2013,"number":690226,"growth_rate":0.65},{"year":2014,"number":695478,"growth_rate":0.76},{"year":2015,"number":700902,"growth_rate":0.78},{"year":2016,"number":704399,"growth_rate":0.5},{"year":2017,"number":709889,"growth_rate":0.78},{"year":2018,"number":715009,"growth_rate":0.72},{"year":2019,"number":720113,"growth_rate":0.71},{"year":2020,"number":720718,"growth_rate":0.08},{"year":2021,"number":724178,"growth_rate":0.48},{"year":2022,"number":726687,"growth_rate":0.3458629853335118}]},
-    {"region":"Central Region","province":"Prachin Buri Province","values":[{"year":2012,"number":473770,"growth_rate":0.87},{"year":2013,"number":476167,"growth_rate":0.5},{"year":2014,"number":479314,"growth_rate":0.66},{"year":2015,"number":482195,"growth_rate":0.6},{"year":2016,"number":484829,"growth_rate":0.54},{"year":2017,"number":487544,"growth_rate":0.56},{"year":2018,"number":491640,"growth_rate":0.84},{"year":2019,"number":494680,"growth_rate":0.62},{"year":2020,"number":493670,"growth_rate":-0.2},{"year":2021,"number":495325,"growth_rate":0.33},{"year":2022,"number":497778,"growth_rate":0.4940081720960571}]},
-    {"region":"Central Region","province":"Nakhon Nayok Province","values":[{"year":2012,"number":255174,"growth_rate":0.53},{"year":2013,"number":256085,"growth_rate":0.36},{"year":2014,"number":257300,"growth_rate":0.47},{"year":2015,"number":258577,"growth_rate":0.5},{"year":2016,"number":258358,"growth_rate":-0.08},{"year":2017,"number":259342,"growth_rate":0.38},{"year":2018,"number":260093,"growth_rate":0.29},{"year":2019,"number":260751,"growth_rate":0.25},{"year":2020,"number":260081,"growth_rate":-0.26},{"year":2021,"number":260433,"growth_rate":0.14},{"year":2022,"number":260406,"growth_rate":-0.01036788720667265}]},
-    {"region":"Central Region","province":"Sa Kaeo Province","values":[{"year":2012,"number":548342,"growth_rate":0.5},{"year":2013,"number":550937,"growth_rate":0.47},{"year":2014,"number":552187,"growth_rate":0.23},{"year":2015,"number":556922,"growth_rate":0.85},{"year":2016,"number":559017,"growth_rate":0.38},{"year":2017,"number":561938,"growth_rate":0.52},{"year":2018,"number":564092,"growth_rate":0.38},{"year":2019,"number":566303,"growth_rate":0.39},{"year":2020,"number":560925,"growth_rate":-0.95},{"year":2021,"number":561992,"growth_rate":0.19},{"year":2022,"number":562816,"growth_rate":0.14651392013607958}]},
-    {"region":"Central Region","province":"Ratchaburi Province","values":[{"year":2012,"number":846631,"growth_rate":0.47},{"year":2013,"number":850162,"growth_rate":0.42},{"year":2014,"number":853217,"growth_rate":0.36},{"year":2015,"number":867883,"growth_rate":1.7},{"year":2016,"number":869823,"growth_rate":0.22},{"year":2017,"number":871714,"growth_rate":0.22},{"year":2018,"number":873518,"growth_rate":0.21},{"year":2019,"number":873101,"growth_rate":-0.05},{"year":2020,"number":869313,"growth_rate":-0.43},{"year":2021,"number":868281,"growth_rate":-0.12},{"year":2022,"number":865807,"growth_rate":-0.2853375005832425}]},
-    {"region":"Central Region","province":"Kanchanaburi Province","values":[{"year":2012,"number":838269,"growth_rate":-0.08},{"year":2013,"number":842882,"growth_rate":0.55},{"year":2014,"number":848198,"growth_rate":0.63},{"year":2015,"number":882146,"growth_rate":3.92},{"year":2016,"number":885112,"growth_rate":0.34},{"year":2017,"number":887979,"growth_rate":0.32},{"year":2018,"number":893151,"growth_rate":0.58},{"year":2019,"number":895525,"growth_rate":0.27},{"year":2020,"number":891976,"growth_rate":-0.4},{"year":2021,"number":894054,"growth_rate":0.23},{"year":2022,"number":894283,"growth_rate":0.025610385654574398}]},
-    {"region":"Central Region","province":"Suphan Buri Province","values":[{"year":2012,"number":847308,"growth_rate":0.27},{"year":2013,"number":848066,"growth_rate":0.09},{"year":2014,"number":849053,"growth_rate":0.12},{"year":2015,"number":849699,"growth_rate":0.08},{"year":2016,"number":848567,"growth_rate":-0.13},{"year":2017,"number":852003,"growth_rate":0.4},{"year":2018,"number":848720,"growth_rate":-0.39},{"year":2019,"number":846334,"growth_rate":-0.28},{"year":2020,"number":838628,"growth_rate":-0.91},{"year":2021,"number":835360,"growth_rate":-0.39},{"year":2022,"number":830695,"growth_rate":-0.5600069855434274}]},
-    {"region":"Central Region","province":"Nakhon Pathom Province","values":[{"year":2012,"number":874616,"growth_rate":0.98},{"year":2013,"number":882184,"growth_rate":0.86},{"year":2014,"number":891071,"growth_rate":1},{"year":2015,"number":899342,"growth_rate":0.92},{"year":2016,"number":905008,"growth_rate":0.63},{"year":2017,"number":911492,"growth_rate":0.71},{"year":2018,"number":917053,"growth_rate":0.61},{"year":2019,"number":920030,"growth_rate":0.32},{"year":2020,"number":920729,"growth_rate":0.08},{"year":2021,"number":922171,"growth_rate":0.16},{"year":2022,"number":921882,"growth_rate":-0.03134400175765898}]},
-    {"region":"Central Region","province":"Samut Sakhon Province","values":[{"year":2012,"number":508812,"growth_rate":1.93},{"year":2013,"number":519457,"growth_rate":2.07},{"year":2014,"number":531887,"growth_rate":2.36},{"year":2015,"number":545454,"growth_rate":2.52},{"year":2016,"number":556719,"growth_rate":2.04},{"year":2017,"number":568465,"growth_rate":2.09},{"year":2018,"number":577964,"growth_rate":1.66},{"year":2019,"number":584703,"growth_rate":1.16},{"year":2020,"number":586199,"growth_rate":0.26},{"year":2021,"number":586789,"growth_rate":0.1},{"year":2022,"number":589428,"growth_rate":0.44872747599468515}]},
-    {"region":"Central Region","province":"Samut Songkhram Province","values":[{"year":2012,"number":194042,"growth_rate":-0.02},{"year":2013,"number":194116,"growth_rate":0.04},{"year":2014,"number":194189,"growth_rate":0.04},{"year":2015,"number":194376,"growth_rate":0.1},{"year":2016,"number":194069,"growth_rate":-0.16},{"year":2017,"number":193902,"growth_rate":-0.09},{"year":2018,"number":193791,"growth_rate":-0.06},{"year":2019,"number":193305,"growth_rate":-0.25},{"year":2020,"number":192052,"growth_rate":-0.65},{"year":2021,"number":190842,"growth_rate":-0.63},{"year":2022,"number":189453,"growth_rate":-0.7304887924243674}]},
-    {"region":"Central Region","province":"Phetchaburi Province","values":[{"year":2012,"number":468874,"growth_rate":0.6},{"year":2013,"number":471087,"growth_rate":0.47},{"year":2014,"number":474192,"growth_rate":0.66},{"year":2015,"number":478589,"growth_rate":0.92},{"year":2016,"number":480652,"growth_rate":0.43},{"year":2017,"number":482375,"growth_rate":0.36},{"year":2018,"number":484294,"growth_rate":0.4},{"year":2019,"number":485191,"growth_rate":0.19},{"year":2020,"number":482193,"growth_rate":-0.62},{"year":2021,"number":482875,"growth_rate":0.14},{"year":2022,"number":482950,"growth_rate":0.015530763885955581}]},
-    {"region":"Central Region","province":"Prachuap Khiri Khan Province","values":[{"year":2012,"number":517050,"growth_rate":0.87},{"year":2013,"number":520271,"growth_rate":0.62},{"year":2014,"number":525107,"growth_rate":0.93},{"year":2015,"number":534719,"growth_rate":1.81},{"year":2016,"number":539534,"growth_rate":0.9},{"year":2017,"number":543979,"growth_rate":0.82},{"year":2018,"number":548815,"growth_rate":0.89},{"year":2019,"number":554116,"growth_rate":0.96},{"year":2020,"number":550678,"growth_rate":-0.62},{"year":2021,"number":553171,"growth_rate":0.45},{"year":2022,"number":553298,"growth_rate":0.022955907586695884}]},
-    {"region":"Northern Region","province":"Northern Region","values":[{"year":2012,"number":11802566,"growth_rate":0.16},{"year":2013,"number":11825955,"growth_rate":0.2},{"year":2014,"number":11846651,"growth_rate":0.17},{"year":2015,"number":12072421,"growth_rate":1.89},{"year":2016,"number":12079106,"growth_rate":0.06},{"year":2017,"number":12098164,"growth_rate":0.16},{"year":2018,"number":12115915,"growth_rate":0.15},{"year":2019,"number":12119572,"growth_rate":0.03},{"year":2020,"number":12027271,"growth_rate":-0.76},{"year":2021,"number":12010024,"growth_rate":-0.14},{"year":2022,"number":11977896,"growth_rate":-0.2678683204778444}]},
-    {"region":"Northern Region","province":"Chiang Mai Province","values":[{"year":2012,"number":1655642,"growth_rate":0.58},{"year":2013,"number":1666888,"growth_rate":0.68},{"year":2014,"number":1678284,"growth_rate":0.68},{"year":2015,"number":1728242,"growth_rate":2.93},{"year":2016,"number":1735762,"growth_rate":0.43},{"year":2017,"number":1746840,"growth_rate":0.64},{"year":2018,"number":1763742,"growth_rate":0.96},{"year":2019,"number":1779254,"growth_rate":0.88},{"year":2020,"number":1784370,"growth_rate":0.29},{"year":2021,"number":1789385,"growth_rate":0.28},{"year":2022,"number":1792474,"growth_rate":0.17248031068786246}]},
-    {"region":"Northern Region","province":"Lamphun Province","values":[{"year":2012,"number":404673,"growth_rate":0.18},{"year":2013,"number":405268,"growth_rate":0.15},{"year":2014,"number":405468,"growth_rate":0.05},{"year":2015,"number":406385,"growth_rate":0.23},{"year":2016,"number":405999,"growth_rate":-0.1},{"year":2017,"number":405918,"growth_rate":-0.02},{"year":2018,"number":405955,"growth_rate":0.01},{"year":2019,"number":405075,"growth_rate":-0.22},{"year":2020,"number":402011,"growth_rate":-0.76},{"year":2021,"number":401139,"growth_rate":-0.22},{"year":2022,"number":399557,"growth_rate":-0.39515672828680776}]},
-    {"region":"Northern Region","province":"Lampang Province","values":[{"year":2012,"number":756811,"growth_rate":-0.1},{"year":2013,"number":754862,"growth_rate":-0.26},{"year":2014,"number":753013,"growth_rate":-0.25},{"year":2015,"number":752356,"growth_rate":-0.09},{"year":2016,"number":748850,"growth_rate":-0.47},{"year":2017,"number":746547,"growth_rate":-0.31},{"year":2018,"number":742883,"growth_rate":-0.49},{"year":2019,"number":738316,"growth_rate":-0.62},{"year":2020,"number":728964,"growth_rate":-1.27},{"year":2021,"number":724678,"growth_rate":-0.59},{"year":2022,"number":718790,"growth_rate":-0.8158175528227911}]},
-    {"region":"Northern Region","province":"Uttaradit Province","values":[{"year":2012,"number":461294,"growth_rate":0.06},{"year":2013,"number":460995,"growth_rate":-0.06},{"year":2014,"number":460400,"growth_rate":-0.13},{"year":2015,"number":459768,"growth_rate":-0.14},{"year":2016,"number":458197,"growth_rate":-0.34},{"year":2017,"number":457092,"growth_rate":-0.24},{"year":2018,"number":455403,"growth_rate":-0.37},{"year":2019,"number":453103,"growth_rate":-0.51},{"year":2020,"number":448745,"growth_rate":-0.97},{"year":2021,"number":446148,"growth_rate":-0.58},{"year":2022,"number":442949,"growth_rate":-0.7196096274504462}]},
-    {"region":"Northern Region","province":"Phrae Province","values":[{"year":2012,"number":457607,"growth_rate":-0.25},{"year":2013,"number":456074,"growth_rate":-0.34},{"year":2014,"number":454083,"growth_rate":-0.44},{"year":2015,"number":452346,"growth_rate":-0.38},{"year":2016,"number":449810,"growth_rate":-0.56},{"year":2017,"number":447564,"growth_rate":-0.5},{"year":2018,"number":445090,"growth_rate":-0.55},{"year":2019,"number":441726,"growth_rate":-0.76},{"year":2020,"number":437350,"growth_rate":-1},{"year":2021,"number":434580,"growth_rate":-0.64},{"year":2022,"number":430669,"growth_rate":-0.9040233818872914}]},
-    {"region":"Northern Region","province":"Nan Province","values":[{"year":2012,"number":477673,"growth_rate":0.22},{"year":2013,"number":477912,"growth_rate":0.05},{"year":2014,"number":478264,"growth_rate":0.07},{"year":2015,"number":479518,"growth_rate":0.26},{"year":2016,"number":479916,"growth_rate":0.08},{"year":2017,"number":479838,"growth_rate":-0.02},{"year":2018,"number":478989,"growth_rate":-0.18},{"year":2019,"number":478227,"growth_rate":-0.16},{"year":2020,"number":476727,"growth_rate":-0.31},{"year":2021,"number":475875,"growth_rate":-0.18},{"year":2022,"number":474539,"growth_rate":-0.2811408249416347}]},
-    {"region":"Northern Region","province":"Phayao Province","values":[{"year":2012,"number":488120,"growth_rate":0.34},{"year":2013,"number":486744,"growth_rate":-0.28},{"year":2014,"number":484454,"growth_rate":-0.47},{"year":2015,"number":482645,"growth_rate":-0.37},{"year":2016,"number":479188,"growth_rate":-0.72},{"year":2017,"number":477100,"growth_rate":-0.44},{"year":2018,"number":475215,"growth_rate":-0.4},{"year":2019,"number":472356,"growth_rate":-0.6},{"year":2020,"number":467356,"growth_rate":-1.06},{"year":2021,"number":464505,"growth_rate":-0.61},{"year":2022,"number":461431,"growth_rate":-0.6639792153173671}]},
-    {"region":"Northern Region","province":"Chiang Rai Province","values":[{"year":2012,"number":1200423,"growth_rate":0.15},{"year":2013,"number":1204660,"growth_rate":0.35},{"year":2014,"number":1207699,"growth_rate":0.25},{"year":2015,"number":1277950,"growth_rate":5.65},{"year":2016,"number":1282544,"growth_rate":0.36},{"year":2017,"number":1287615,"growth_rate":0.39},{"year":2018,"number":1292130,"growth_rate":0.35},{"year":2019,"number":1298304,"growth_rate":0.48},{"year":2020,"number":1295026,"growth_rate":-0.25},{"year":2021,"number":1298425,"growth_rate":0.26},{"year":2022,"number":1299636,"growth_rate":0.09322337602563933}]},
-    {"region":"Northern Region","province":"Mae Hong Son Province","values":[{"year":2012,"number":244356,"growth_rate":0.13},{"year":2013,"number":246549,"growth_rate":0.89},{"year":2014,"number":248178,"growth_rate":0.66},{"year":2015,"number":273764,"growth_rate":9.81},{"year":2016,"number":275884,"growth_rate":0.77},{"year":2017,"number":279088,"growth_rate":1.15},{"year":2018,"number":282566,"growth_rate":1.24},{"year":2019,"number":284138,"growth_rate":0.55},{"year":2020,"number":284549,"growth_rate":0.14},{"year":2021,"number":285916,"growth_rate":0.48},{"year":2022,"number":286786,"growth_rate":0.3038231643111648}]},
-    {"region":"Northern Region","province":"Nakhon Sawan Province","values":[{"year":2012,"number":1073347,"growth_rate":0.15},{"year":2013,"number":1073142,"growth_rate":-0.02},{"year":2014,"number":1072756,"growth_rate":-0.04},{"year":2015,"number":1071942,"growth_rate":-0.08},{"year":2016,"number":1066455,"growth_rate":-0.51},{"year":2017,"number":1065334,"growth_rate":-0.11},{"year":2018,"number":1063964,"growth_rate":-0.13},{"year":2019,"number":1059887,"growth_rate":-0.38},{"year":2020,"number":1040308,"growth_rate":-1.86},{"year":2021,"number":1035028,"growth_rate":-0.51},{"year":2022,"number":1028814,"growth_rate":-0.6021796995778943}]},
-    {"region":"Northern Region","province":"Uthai Thani Province","values":[{"year":2012,"number":328950,"growth_rate":0.28},{"year":2013,"number":329536,"growth_rate":0.18},{"year":2014,"number":330179,"growth_rate":0.19},{"year":2015,"number":330906,"growth_rate":0.22},{"year":2016,"number":330299,"growth_rate":-0.18},{"year":2017,"number":329942,"growth_rate":-0.11},{"year":2018,"number":329433,"growth_rate":-0.15},{"year":2019,"number":328618,"growth_rate":-0.25},{"year":2020,"number":325868,"growth_rate":-0.84},{"year":2021,"number":325116,"growth_rate":-0.23},{"year":2022,"number":323860,"growth_rate":-0.38707180794470014}]},
-    {"region":"Northern Region","province":"Kamphaeng Phet Province","values":[{"year":2012,"number":727555,"growth_rate":0.21},{"year":2013,"number":728631,"growth_rate":0.15},{"year":2014,"number":729522,"growth_rate":0.12},{"year":2015,"number":730158,"growth_rate":0.09},{"year":2016,"number":729542,"growth_rate":-0.08},{"year":2017,"number":729133,"growth_rate":-0.06},{"year":2018,"number":727807,"growth_rate":-0.18},{"year":2019,"number":725867,"growth_rate":-0.27},{"year":2020,"number":714118,"growth_rate":-1.63},{"year":2021,"number":712143,"growth_rate":-0.28},{"year":2022,"number":708775,"growth_rate":-0.4740606153932814}]},
-    {"region":"Northern Region","province":"Tak Province","values":[{"year":2012,"number":526045,"growth_rate":-0.94},{"year":2013,"number":532353,"growth_rate":1.19},{"year":2014,"number":539553,"growth_rate":1.34},{"year":2015,"number":618382,"growth_rate":13.64},{"year":2016,"number":631965,"growth_rate":2.17},{"year":2017,"number":644267,"growth_rate":1.93},{"year":2018,"number":654676,"growth_rate":1.6},{"year":2019,"number":665620,"growth_rate":1.66},{"year":2020,"number":670265,"growth_rate":0.7},{"year":2021,"number":676583,"growth_rate":0.94},{"year":2022,"number":684140,"growth_rate":1.110744463855178}]},
-    {"region":"Northern Region","province":"Sukhothai Province","values":[{"year":2012,"number":602601,"growth_rate":0.18},{"year":2013,"number":602713,"growth_rate":0.02},{"year":2014,"number":602460,"growth_rate":-0.04},{"year":2015,"number":601712,"growth_rate":-0.12},{"year":2016,"number":600231,"growth_rate":-0.25},{"year":2017,"number":599319,"growth_rate":-0.15},{"year":2018,"number":597257,"growth_rate":-0.34},{"year":2019,"number":595072,"growth_rate":-0.37},{"year":2020,"number":587883,"growth_rate":-1.22},{"year":2021,"number":585352,"growth_rate":-0.43},{"year":2022,"number":581652,"growth_rate":-0.6341044928244765}]},
-    {"region":"Northern Region","province":"Phitsanulok Province","values":[{"year":2012,"number":854372,"growth_rate":0.35},{"year":2013,"number":856376,"growth_rate":0.23},{"year":2014,"number":858988,"growth_rate":0.3},{"year":2015,"number":863404,"growth_rate":0.51},{"year":2016,"number":865759,"growth_rate":0.27},{"year":2017,"number":865368,"growth_rate":-0.05},{"year":2018,"number":866891,"growth_rate":0.18},{"year":2019,"number":865247,"growth_rate":-0.19},{"year":2020,"number":849481,"growth_rate":-1.84},{"year":2021,"number":847384,"growth_rate":-0.25},{"year":2022,"number":844494,"growth_rate":-0.3416325303399382}]},
-    {"region":"Northern Region","province":"Phichit Province","values":[{"year":2012,"number":549395,"growth_rate":-0.05},{"year":2013,"number":548855,"growth_rate":-0.1},{"year":2014,"number":547543,"growth_rate":-0.24},{"year":2015,"number":545957,"growth_rate":-0.29},{"year":2016,"number":543482,"growth_rate":-0.45},{"year":2017,"number":541868,"growth_rate":-0.3},{"year":2018,"number":539374,"growth_rate":-0.46},{"year":2019,"number":536311,"growth_rate":-0.57},{"year":2020,"number":532310,"growth_rate":-0.75},{"year":2021,"number":529395,"growth_rate":-0.55},{"year":2022,"number":525944,"growth_rate":-0.6540101902372338}]},
-    {"region":"Northern Region","province":"Phetchabun Province","values":[{"year":2012,"number":993702,"growth_rate":0.29},{"year":2013,"number":994397,"growth_rate":0.07},{"year":2014,"number":995807,"growth_rate":0.14},{"year":2015,"number":996986,"growth_rate":0.12},{"year":2016,"number":995223,"growth_rate":-0.18},{"year":2017,"number":995331,"growth_rate":0.01},{"year":2018,"number":994540,"growth_rate":-0.08},{"year":2019,"number":992451,"growth_rate":-0.21},{"year":2020,"number":981940,"growth_rate":-1.06},{"year":2021,"number":978372,"growth_rate":-0.36},{"year":2022,"number":973386,"growth_rate":-0.510925109198261}]},
-    {"region":"Northeastern Region","province":"Northeastern Region","values":[{"year":2012,"number":21697488,"growth_rate":0.52},{"year":2013,"number":21775407,"growth_rate":0.36},{"year":2014,"number":21845254,"growth_rate":0.32},{"year":2015,"number":21916034,"growth_rate":0.32},{"year":2016,"number":21945392,"growth_rate":0.13},{"year":2017,"number":21989477,"growth_rate":0.2},{"year":2018,"number":22015239,"growth_rate":0.12},{"year":2019,"number":22014248,"growth_rate":0},{"year":2020,"number":21848228,"growth_rate":-0.76},{"year":2021,"number":21826920,"growth_rate":-0.1},{"year":2022,"number":21781418,"growth_rate":-0.20868493778968206}]},
-    {"region":"Northeastern Region","province":"Nakhon Ratchasima Province","values":[{"year":2012,"number":2601167,"growth_rate":0.61},{"year":2013,"number":2610164,"growth_rate":0.35},{"year":2014,"number":2620517,"growth_rate":0.4},{"year":2015,"number":2628818,"growth_rate":0.32},{"year":2016,"number":2631435,"growth_rate":0.1},{"year":2017,"number":2639226,"growth_rate":0.3},{"year":2018,"number":2646401,"growth_rate":0.27},{"year":2019,"number":2648927,"growth_rate":0.1},{"year":2020,"number":2633207,"growth_rate":-0.6},{"year":2021,"number":2634154,"growth_rate":0.04},{"year":2022,"number":2630058,"growth_rate":-0.15561686446494474}]},
-    {"region":"Northeastern Region","province":"Buri Ram Province","values":[{"year":2012,"number":1566740,"growth_rate":0.49},{"year":2013,"number":1573438,"growth_rate":0.43},{"year":2014,"number":1579248,"growth_rate":0.37},{"year":2015,"number":1584661,"growth_rate":0.34},{"year":2016,"number":1587897,"growth_rate":0.2},{"year":2017,"number":1591905,"growth_rate":0.25},{"year":2018,"number":1594850,"growth_rate":0.18},{"year":2019,"number":1595747,"growth_rate":0.06},{"year":2020,"number":1581184,"growth_rate":-0.92},{"year":2021,"number":1579805,"growth_rate":-0.09},{"year":2022,"number":1576915,"growth_rate":-0.18310149822737917}]},
-    {"region":"Northeastern Region","province":"Surin Province","values":[{"year":2012,"number":1386277,"growth_rate":0.42},{"year":2013,"number":1388194,"growth_rate":0.14},{"year":2014,"number":1391636,"growth_rate":0.25},{"year":2015,"number":1395024,"growth_rate":0.24},{"year":2016,"number":1395567,"growth_rate":0.04},{"year":2017,"number":1397180,"growth_rate":0.12},{"year":2018,"number":1397857,"growth_rate":0.05},{"year":2019,"number":1396831,"growth_rate":-0.07},{"year":2020,"number":1378221,"growth_rate":-1.34},{"year":2021,"number":1376230,"growth_rate":-0.14},{"year":2022,"number":1372910,"growth_rate":-0.24153019591476318}]},
-    {"region":"Northeastern Region","province":"Si Sa Ket Province","values":[{"year":2012,"number":1458370,"growth_rate":0.42},{"year":2013,"number":1462028,"growth_rate":0.25},{"year":2014,"number":1465213,"growth_rate":0.22},{"year":2015,"number":1468798,"growth_rate":0.24},{"year":2016,"number":1470341,"growth_rate":0.1},{"year":2017,"number":1472031,"growth_rate":0.11},{"year":2018,"number":1473011,"growth_rate":0.07},{"year":2019,"number":1472859,"growth_rate":-0.01},{"year":2020,"number":1458580,"growth_rate":-0.97},{"year":2021,"number":1457556,"growth_rate":-0.07},{"year":2022,"number":1454730,"growth_rate":-0.19407440663504988}]},
-    {"region":"Northeastern Region","province":"Ubon Ratchathani Province","values":[{"year":2012,"number":1826920,"growth_rate":0.6},{"year":2013,"number":1836523,"growth_rate":0.52},{"year":2014,"number":1844669,"growth_rate":0.44},{"year":2015,"number":1857429,"growth_rate":0.69},{"year":2016,"number":1862965,"growth_rate":0.3},{"year":2017,"number":1869633,"growth_rate":0.36},{"year":2018,"number":1874548,"growth_rate":0.26},{"year":2019,"number":1878146,"growth_rate":0.19},{"year":2020,"number":1866697,"growth_rate":-0.61},{"year":2021,"number":1868519,"growth_rate":0.1},{"year":2022,"number":1869806,"growth_rate":0.068854369314938}]},
-    {"region":"Northeastern Region","province":"Yasothon Province","values":[{"year":2012,"number":540267,"growth_rate":0.26},{"year":2013,"number":540383,"growth_rate":0.02},{"year":2014,"number":540211,"growth_rate":-0.03},{"year":2015,"number":540182,"growth_rate":-0.01},{"year":2016,"number":539815,"growth_rate":-0.07},{"year":2017,"number":539542,"growth_rate":-0.05},{"year":2018,"number":538729,"growth_rate":-0.15},{"year":2019,"number":537299,"growth_rate":-0.27},{"year":2020,"number":534500,"growth_rate":-0.52},{"year":2021,"number":533394,"growth_rate":-0.21},{"year":2022,"number":531599,"growth_rate":-0.33709173670205755}]},
-    {"region":"Northeastern Region","province":"Chaiyaphum Province","values":[{"year":2012,"number":1133034,"growth_rate":0.5},{"year":2013,"number":1135723,"growth_rate":0.24},{"year":2014,"number":1137049,"growth_rate":0.12},{"year":2015,"number":1138252,"growth_rate":0.11},{"year":2016,"number":1138199,"growth_rate":0},{"year":2017,"number":1139356,"growth_rate":0.1},{"year":2018,"number":1138777,"growth_rate":-0.05},{"year":2019,"number":1137357,"growth_rate":-0.12},{"year":2020,"number":1124924,"growth_rate":-1.1},{"year":2021,"number":1122265,"growth_rate":-0.24},{"year":2022,"number":1117925,"growth_rate":-0.38746761924141637}]},
-    {"region":"Northeastern Region","province":"Amnat Charoen Province","values":[{"year":2012,"number":373494,"growth_rate":0.34},{"year":2013,"number":374698,"growth_rate":0.32},{"year":2014,"number":375380,"growth_rate":0.18},{"year":2015,"number":376382,"growth_rate":0.27},{"year":2016,"number":377120,"growth_rate":0.2},{"year":2017,"number":378107,"growth_rate":0.26},{"year":2018,"number":378621,"growth_rate":0.14},{"year":2019,"number":378438,"growth_rate":-0.05},{"year":2020,"number":376195,"growth_rate":-0.59},{"year":2021,"number":376350,"growth_rate":0.04},{"year":2022,"number":375382,"growth_rate":-0.2575387332270754}]},
-    {"region":"Northeastern Region","province":"Bueng Kan Province","values":[{"year":2012,"number":412613,"growth_rate":1.21},{"year":2013,"number":416236,"growth_rate":0.87},{"year":2014,"number":418566,"growth_rate":0.56},{"year":2015,"number":420647,"growth_rate":0.5},{"year":2016,"number":421625,"growth_rate":0.23},{"year":2017,"number":423032,"growth_rate":0.33},{"year":2018,"number":423940,"growth_rate":0.21},{"year":2019,"number":424091,"growth_rate":0.04},{"year":2020,"number":422042,"growth_rate":-0.48},{"year":2021,"number":421995,"growth_rate":-0.01},{"year":2022,"number":421684,"growth_rate":-0.07372472565670084}]},
-    {"region":"Northeastern Region","province":"Nong Bua Lam Phu Province","values":[{"year":2012,"number":505071,"growth_rate":0.5},{"year":2013,"number":507137,"growth_rate":0.41},{"year":2014,"number":508864,"growth_rate":0.34},{"year":2015,"number":510074,"growth_rate":0.24},{"year":2016,"number":510734,"growth_rate":0.13},{"year":2017,"number":511641,"growth_rate":0.18},{"year":2018,"number":512117,"growth_rate":0.09},{"year":2019,"number":512780,"growth_rate":0.13},{"year":2020,"number":509470,"growth_rate":-0.65},{"year":2021,"number":509001,"growth_rate":-0.09},{"year":2022,"number":508325,"growth_rate":-0.1328974388729711}]},
-    {"region":"Northeastern Region","province":"Khon Kaen  Province","values":[{"year":2012,"number":1774816,"growth_rate":0.49},{"year":2013,"number":1781655,"growth_rate":0.38},{"year":2014,"number":1790049,"growth_rate":0.47},{"year":2015,"number":1798014,"growth_rate":0.44},{"year":2016,"number":1801753,"growth_rate":0.21},{"year":2017,"number":1805910,"growth_rate":0.23},{"year":2018,"number":1805895,"growth_rate":0},{"year":2019,"number":1802872,"growth_rate":-0.17},{"year":2020,"number":1794531,"growth_rate":-0.46},{"year":2021,"number":1790863,"growth_rate":-0.2},{"year":2022,"number":1784641,"growth_rate":-0.3480352017791963}]},
-    {"region":"Northeastern Region","province":"Udon Thani Province","values":[{"year":2012,"number":1557298,"growth_rate":0.59},{"year":2013,"number":1563964,"growth_rate":0.43},{"year":2014,"number":1570300,"growth_rate":0.4},{"year":2015,"number":1575152,"growth_rate":0.31},{"year":2016,"number":1578783,"growth_rate":0.23},{"year":2017,"number":1583092,"growth_rate":0.27},{"year":2018,"number":1586666,"growth_rate":0.23},{"year":2019,"number":1586646,"growth_rate":0},{"year":2020,"number":1567983,"growth_rate":-1.18},{"year":2021,"number":1566510,"growth_rate":-0.09},{"year":2022,"number":1563048,"growth_rate":-0.22124539070332913}]},
-    {"region":"Northeastern Region","province":"Loei Province","values":[{"year":2012,"number":629787,"growth_rate":0.78},{"year":2013,"number":632205,"growth_rate":0.38},{"year":2014,"number":634513,"growth_rate":0.36},{"year":2015,"number":638819,"growth_rate":0.68},{"year":2016,"number":639801,"growth_rate":0.15},{"year":2017,"number":641666,"growth_rate":0.29},{"year":2018,"number":642773,"growth_rate":0.17},{"year":2019,"number":642950,"growth_rate":0.03},{"year":2020,"number":638736,"growth_rate":-0.66},{"year":2021,"number":638732,"growth_rate":0},{"year":2022,"number":637341,"growth_rate":-0.21801269221219444}]},
-    {"region":"Northeastern Region","province":"Nong Khai Province","values":[{"year":2012,"number":512439,"growth_rate":0.5},{"year":2013,"number":514943,"growth_rate":0.49},{"year":2014,"number":517260,"growth_rate":0.45},{"year":2015,"number":519580,"growth_rate":0.45},{"year":2016,"number":520363,"growth_rate":0.15},{"year":2017,"number":521886,"growth_rate":0.29},{"year":2018,"number":522103,"growth_rate":0.04},{"year":2019,"number":522311,"growth_rate":0.04},{"year":2020,"number":517435,"growth_rate":-0.94},{"year":2021,"number":516843,"growth_rate":-0.11},{"year":2022,"number":515795,"growth_rate":-0.20297536209291728}]},
-    {"region":"Northeastern Region","province":"Maha Sarakham Province","values":[{"year":2012,"number":945149,"growth_rate":0.57},{"year":2013,"number":955644,"growth_rate":1.1},{"year":2014,"number":960588,"growth_rate":0.52},{"year":2015,"number":964596,"growth_rate":0.42},{"year":2016,"number":963484,"growth_rate":-0.12},{"year":2017,"number":963072,"growth_rate":-0.04},{"year":2018,"number":963047,"growth_rate":0},{"year":2019,"number":962665,"growth_rate":-0.04},{"year":2020,"number":953660,"growth_rate":-0.94},{"year":2021,"number":948310,"growth_rate":-0.56},{"year":2022,"number":944605,"growth_rate":-0.39146023263782453}]},
-    {"region":"Northeastern Region","province":"Roi Et Province","values":[{"year":2012,"number":1308570,"growth_rate":0.27},{"year":2013,"number":1308958,"growth_rate":0.03},{"year":2014,"number":1308318,"growth_rate":-0.05},{"year":2015,"number":1308166,"growth_rate":-0.01},{"year":2016,"number":1307982,"growth_rate":-0.01},{"year":2017,"number":1307911,"growth_rate":-0.01},{"year":2018,"number":1307208,"growth_rate":-0.05},{"year":2019,"number":1305211,"growth_rate":-0.15},{"year":2020,"number":1298640,"growth_rate":-0.5},{"year":2021,"number":1296013,"growth_rate":-0.2},{"year":2022,"number":1291131,"growth_rate":-0.37740503000306275}]},
-    {"region":"Northeastern Region","province":"Kalasin Province","values":[{"year":2012,"number":985084,"growth_rate":0.35},{"year":2013,"number":984030,"growth_rate":-0.11},{"year":2014,"number":984907,"growth_rate":0.09},{"year":2015,"number":985203,"growth_rate":0.03},{"year":2016,"number":985232,"growth_rate":0},{"year":2017,"number":986005,"growth_rate":0.08},{"year":2018,"number":985346,"growth_rate":-0.07},{"year":2019,"number":983418,"growth_rate":-0.2},{"year":2020,"number":977175,"growth_rate":-0.64},{"year":2021,"number":975570,"growth_rate":-0.16},{"year":2022,"number":972101,"growth_rate":-0.356220703421665}]},
-    {"region":"Northeastern Region","province":"Sakon Nakhon Province","values":[{"year":2012,"number":1129174,"growth_rate":0.52},{"year":2013,"number":1134322,"growth_rate":0.45},{"year":2014,"number":1138609,"growth_rate":0.38},{"year":2015,"number":1142737,"growth_rate":0.36},{"year":2016,"number":1145949,"growth_rate":0.28},{"year":2017,"number":1149472,"growth_rate":0.31},{"year":2018,"number":1152282,"growth_rate":0.24},{"year":2019,"number":1153390,"growth_rate":0.1},{"year":2020,"number":1146936,"growth_rate":-0.56},{"year":2021,"number":1146286,"growth_rate":-0.06},{"year":2022,"number":1145187,"growth_rate":-0.09592084080973282}]},
-    {"region":"Northeastern Region","province":"Nakhon Phanom Province","values":[{"year":2012,"number":708350,"growth_rate":0.51},{"year":2013,"number":710860,"growth_rate":0.35},{"year":2014,"number":713341,"growth_rate":0.35},{"year":2015,"number":715399,"growth_rate":0.29},{"year":2016,"number":716873,"growth_rate":0.21},{"year":2017,"number":718028,"growth_rate":0.16},{"year":2018,"number":718786,"growth_rate":0.11},{"year":2019,"number":719136,"growth_rate":0.05},{"year":2020,"number":717201,"growth_rate":-0.27},{"year":2021,"number":717040,"growth_rate":-0.02},{"year":2022,"number":716647,"growth_rate":-0.05482368325073194}]},
-    {"region":"Northeastern Region","province":"Mukdahan Province","values":[{"year":2012,"number":342868,"growth_rate":0.67},{"year":2013,"number":344302,"growth_rate":0.42},{"year":2014,"number":346016,"growth_rate":0.5},{"year":2015,"number":348101,"growth_rate":0.6},{"year":2016,"number":349474,"growth_rate":0.39},{"year":2017,"number":350782,"growth_rate":0.37},{"year":2018,"number":352282,"growth_rate":0.43},{"year":2019,"number":353174,"growth_rate":0.25},{"year":2020,"number":350911,"growth_rate":-0.64},{"year":2021,"number":351484,"growth_rate":0.16},{"year":2022,"number":351588,"growth_rate":0.02958445244827353}]},
-    {"region":"Southern Region","province":"Southern Region","values":[{"year":2012,"number":9060189,"growth_rate":0.98},{"year":2013,"number":9131425,"growth_rate":0.78},{"year":2014,"number":9208504,"growth_rate":0.84},{"year":2015,"number":9290708,"growth_rate":0.89},{"year":2016,"number":9341162,"growth_rate":0.54},{"year":2017,"number":9399578,"growth_rate":0.62},{"year":2018,"number":9454193,"growth_rate":0.58},{"year":2019,"number":9493757,"growth_rate":0.42},{"year":2020,"number":9467901,"growth_rate":-0.27},{"year":2021,"number":9492267,"growth_rate":0.26},{"year":2022,"number":9496991,"growth_rate":0.04975444640809895}]},
-    {"region":"Southern Region","province":"Nakhon Si Thammarat Province","values":[{"year":2012,"number":1534887,"growth_rate":0.58},{"year":2013,"number":1541843,"growth_rate":0.45},{"year":2014,"number":1548028,"growth_rate":0.4},{"year":2015,"number":1552530,"growth_rate":0.29},{"year":2016,"number":1554432,"growth_rate":0.12},{"year":2017,"number":1557482,"growth_rate":0.2},{"year":2018,"number":1560433,"growth_rate":0.19},{"year":2019,"number":1561927,"growth_rate":0.1},{"year":2020,"number":1550721,"growth_rate":-0.72},{"year":2021,"number":1549344,"growth_rate":-0.09},{"year":2022,"number":1545147,"growth_rate":-0.27125640846662874}]},
-    {"region":"Southern Region","province":"Krabi Province","values":[{"year":2012,"number":444967,"growth_rate":1.57},{"year":2013,"number":450890,"growth_rate":1.32},{"year":2014,"number":456811,"growth_rate":1.3},{"year":2015,"number":462101,"growth_rate":1.15},{"year":2016,"number":465931,"growth_rate":0.83},{"year":2017,"number":469769,"growth_rate":0.82},{"year":2018,"number":473738,"growth_rate":0.84},{"year":2019,"number":476739,"growth_rate":0.63},{"year":2020,"number":477770,"growth_rate":0.22},{"year":2021,"number":479351,"growth_rate":0.33},{"year":2022,"number":480057,"growth_rate":0.1471741172544473}]},
-    {"region":"Southern Region","province":"Phangnga Province","values":[{"year":2012,"number":257493,"growth_rate":1},{"year":2013,"number":259420,"growth_rate":0.75},{"year":2014,"number":261370,"growth_rate":0.75},{"year":2015,"number":264074,"growth_rate":1.03},{"year":2016,"number":265579,"growth_rate":0.57},{"year":2017,"number":267491,"growth_rate":0.72},{"year":2018,"number":268240,"growth_rate":0.28},{"year":2019,"number":268788,"growth_rate":0.2},{"year":2020,"number":268229,"growth_rate":-0.21},{"year":2021,"number":268016,"growth_rate":-0.08},{"year":2022,"number":267442,"growth_rate":-0.21439598245575156}]},
-    {"region":"Southern Region","province":"Phuket Province","values":[{"year":2012,"number":360905,"growth_rate":1.98},{"year":2013,"number":369522,"growth_rate":2.36},{"year":2014,"number":378364,"growth_rate":2.36},{"year":2015,"number":386605,"growth_rate":2.15},{"year":2016,"number":394169,"growth_rate":1.94},{"year":2017,"number":402017,"growth_rate":1.97},{"year":2018,"number":410211,"growth_rate":2.02},{"year":2019,"number":416582,"growth_rate":1.54},{"year":2020,"number":414471,"growth_rate":-0.51},{"year":2021,"number":418785,"growth_rate":1.04},{"year":2022,"number":417891,"growth_rate":-0.21370287667708984}]},
-    {"region":"Southern Region","province":"Surat Thani Province","values":[{"year":2012,"number":1023288,"growth_rate":1.1},{"year":2013,"number":1031812,"growth_rate":0.83},{"year":2014,"number":1040230,"growth_rate":0.81},{"year":2015,"number":1046772,"growth_rate":0.63},{"year":2016,"number":1050913,"growth_rate":0.39},{"year":2017,"number":1057581,"growth_rate":0.63},{"year":2018,"number":1063501,"growth_rate":0.56},{"year":2019,"number":1068010,"growth_rate":0.42},{"year":2020,"number":1067726,"growth_rate":-0.03},{"year":2021,"number":1072464,"growth_rate":0.44},{"year":2022,"number":1073663,"growth_rate":0.1117361763535545}]},
-    {"region":"Southern Region","province":"Ranong Province","values":[{"year":2012,"number":182648,"growth_rate":-0.66},{"year":2013,"number":174776,"growth_rate":-4.41},{"year":2014,"number":177089,"growth_rate":1.31},{"year":2015,"number":187536,"growth_rate":5.73},{"year":2016,"number":189154,"growth_rate":0.86},{"year":2017,"number":190399,"growth_rate":0.66},{"year":2018,"number":191868,"growth_rate":0.77},{"year":2019,"number":193370,"growth_rate":0.78},{"year":2020,"number":194372,"growth_rate":0.52},{"year":2021,"number":194573,"growth_rate":0.1},{"year":2022,"number":194226,"growth_rate":-0.17849844888150113}]},
-    {"region":"Southern Region","province":"Chumphon Province","values":[{"year":2012,"number":495310,"growth_rate":0.63},{"year":2013,"number":498294,"growth_rate":0.6},{"year":2014,"number":500575,"growth_rate":0.46},{"year":2015,"number":505830,"growth_rate":1.04},{"year":2016,"number":507604,"growth_rate":0.35},{"year":2017,"number":509650,"growth_rate":0.4},{"year":2018,"number":510963,"growth_rate":0.26},{"year":2019,"number":511304,"growth_rate":0.07},{"year":2020,"number":509208,"growth_rate":-0.41},{"year":2021,"number":509479,"growth_rate":0.05},{"year":2022,"number":509385,"growth_rate":-0.01845192297827746}]},
-    {"region":"Southern Region","province":"Songkhla Province","values":[{"year":2012,"number":1378574,"growth_rate":0.84},{"year":2013,"number":1389890,"growth_rate":0.82},{"year":2014,"number":1401303,"growth_rate":0.82},{"year":2015,"number":1410577,"growth_rate":0.66},{"year":2016,"number":1417440,"growth_rate":0.49},{"year":2017,"number":1424230,"growth_rate":0.48},{"year":2018,"number":1432628,"growth_rate":0.59},{"year":2019,"number":1435968,"growth_rate":0.23},{"year":2020,"number":1428609,"growth_rate":-0.51},{"year":2021,"number":1431536,"growth_rate":0.2},{"year":2022,"number":1431063,"growth_rate":-0.03304689230344237}]},
-    {"region":"Southern Region","province":"Satun  Province","values":[{"year":2012,"number":305879,"growth_rate":1.45},{"year":2013,"number":309793,"growth_rate":1.27},{"year":2014,"number":312673,"growth_rate":0.93},{"year":2015,"number":315923,"growth_rate":1.03},{"year":2016,"number":317612,"growth_rate":0.53},{"year":2017,"number":319700,"growth_rate":0.66},{"year":2018,"number":321574,"growth_rate":0.58},{"year":2019,"number":323586,"growth_rate":0.62},{"year":2020,"number":324098,"growth_rate":0.16},{"year":2021,"number":324835,"growth_rate":0.23},{"year":2022,"number":325303,"growth_rate":0.14396945904904143}]},
-    {"region":"Southern Region","province":"Trang Province","values":[{"year":2012,"number":631920,"growth_rate":0.83},{"year":2013,"number":636043,"growth_rate":0.65},{"year":2014,"number":638746,"growth_rate":0.42},{"year":2015,"number":640793,"growth_rate":0.32},{"year":2016,"number":641684,"growth_rate":0.14},{"year":2017,"number":643072,"growth_rate":0.22},{"year":2018,"number":643116,"growth_rate":0.01},{"year":2019,"number":643164,"growth_rate":0.01},{"year":2020,"number":640574,"growth_rate":-0.4},{"year":2021,"number":639788,"growth_rate":-0.12},{"year":2022,"number":638206,"growth_rate":-0.24757562368134528}]},
-    {"region":"Southern Region","province":"Phattalung Province","values":[{"year":2012,"number":514492,"growth_rate":0.67},{"year":2013,"number":518021,"growth_rate":0.68},{"year":2014,"number":520419,"growth_rate":0.46},{"year":2015,"number":522723,"growth_rate":0.44},{"year":2016,"number":523723,"growth_rate":0.19},{"year":2017,"number":524857,"growth_rate":0.22},{"year":2018,"number":525044,"growth_rate":0.04},{"year":2019,"number":524865,"growth_rate":-0.03},{"year":2020,"number":523077,"growth_rate":-0.34},{"year":2021,"number":522541,"growth_rate":-0.1},{"year":2022,"number":521619,"growth_rate":-0.1766013330577766}]},
-    {"region":"Southern Region","province":"Pattani Province","values":[{"year":2012,"number":671615,"growth_rate":1.22},{"year":2013,"number":678838,"growth_rate":1.07},{"year":2014,"number":686186,"growth_rate":1.08},{"year":2015,"number":694023,"growth_rate":1.14},{"year":2016,"number":700961,"growth_rate":0.99},{"year":2017,"number":709796,"growth_rate":1.25},{"year":2018,"number":718077,"growth_rate":1.16},{"year":2019,"number":725104,"growth_rate":0.97},{"year":2020,"number":726015,"growth_rate":0.13},{"year":2021,"number":729581,"growth_rate":0.49},{"year":2022,"number":732955,"growth_rate":0.46139117061389096}]},
-    {"region":"Southern Region","province":"Yala Province","values":[{"year":2012,"number":500814,"growth_rate":1.42},{"year":2013,"number":506138,"growth_rate":1.06},{"year":2014,"number":511911,"growth_rate":1.13},{"year":2015,"number":518139,"growth_rate":1.21},{"year":2016,"number":522279,"growth_rate":0.8},{"year":2017,"number":527295,"growth_rate":0.96},{"year":2018,"number":532326,"growth_rate":0.95},{"year":2019,"number":536330,"growth_rate":0.75},{"year":2020,"number":538602,"growth_rate":0.42},{"year":2021,"number":542314,"growth_rate":0.69},{"year":2022,"number":545913,"growth_rate":0.661445290668352}]},
-    {"region":"Southern Region","province":"Narathiwat Province","values":[{"year":2012,"number":757397,"growth_rate":1.33},{"year":2013,"number":766145,"growth_rate":1.15},{"year":2014,"number":774799,"growth_rate":1.12},{"year":2015,"number":783082,"growth_rate":1.06},{"year":2016,"number":789681,"growth_rate":0.84},{"year":2017,"number":796239,"growth_rate":0.83},{"year":2018,"number":802474,"growth_rate":0.78},{"year":2019,"number":808020,"growth_rate":0.69},{"year":2020,"number":804429,"growth_rate":-0.45},{"year":2021,"number":809660,"growth_rate":0.65},{"year":2022,"number":814121,"growth_rate":0.5494597144995547}]}
+    {
+      "region": "Whole Kingdom",
+      "province": "Whole Kingdom",
+      "values": [
+        {
+          "year": 2012,
+          "number": 64456695,
+          "growth_rate": 0.59
+        },
+        {
+          "year": 2013,
+          "number": 64785909,
+          "growth_rate": 0.51
+        },
+        {
+          "year": 2014,
+          "number": 65124716,
+          "growth_rate": 0.52
+        },
+        {
+          "year": 2015,
+          "number": 65729098,
+          "growth_rate": 0.92
+        },
+        {
+          "year": 2016,
+          "number": 65931550,
+          "growth_rate": 0.31
+        },
+        {
+          "year": 2017,
+          "number": 66188503,
+          "growth_rate": 0.39
+        },
+        {
+          "year": 2018,
+          "number": 66413979,
+          "growth_rate": 0.34
+        },
+        {
+          "year": 2019,
+          "number": 66558935,
+          "growth_rate": 0.22
+        },
+        {
+          "year": 2020,
+          "number": 66186727,
+          "growth_rate": -0.56
+        },
+        {
+          "year": 2021,
+          "number": 66171439,
+          "growth_rate": -0.02
+        },
+        {
+          "year": 2022,
+          "number": 66090475,
+          "growth_rate": -0.12242981772231103
+        }
+      ]
+    },
+    {
+      "region": "Bangkok",
+      "province": "Bangkok",
+      "values": [
+        {
+          "year": 2012,
+          "number": 5673560,
+          "growth_rate": -0.02
+        },
+        {
+          "year": 2013,
+          "number": 5686252,
+          "growth_rate": 0.22
+        },
+        {
+          "year": 2014,
+          "number": 5692284,
+          "growth_rate": 0.11
+        },
+        {
+          "year": 2015,
+          "number": 5696409,
+          "growth_rate": 0.07
+        },
+        {
+          "year": 2016,
+          "number": 5686646,
+          "growth_rate": -0.17
+        },
+        {
+          "year": 2017,
+          "number": 5682415,
+          "growth_rate": -0.07
+        },
+        {
+          "year": 2018,
+          "number": 5676648,
+          "growth_rate": -0.1
+        },
+        {
+          "year": 2019,
+          "number": 5666264,
+          "growth_rate": -0.18
+        },
+        {
+          "year": 2020,
+          "number": 5588222,
+          "growth_rate": -1.39
+        },
+        {
+          "year": 2021,
+          "number": 5527994,
+          "growth_rate": -1.08
+        },
+        {
+          "year": 2022,
+          "number": 5494932,
+          "growth_rate": -0.5998788188522651
+        }
+      ]
+    },
+    {
+      "region": "Central Region",
+      "province": "Central Region",
+      "values": [
+        {
+          "year": 2012,
+          "number": 16222892,
+          "growth_rate": 1.01
+        },
+        {
+          "year": 2013,
+          "number": 16366870,
+          "growth_rate": 0.88
+        },
+        {
+          "year": 2014,
+          "number": 16532023,
+          "growth_rate": 1
+        },
+        {
+          "year": 2015,
+          "number": 16753526,
+          "growth_rate": 1.33
+        },
+        {
+          "year": 2016,
+          "number": 16879244,
+          "growth_rate": 0.75
+        },
+        {
+          "year": 2017,
+          "number": 17018869,
+          "growth_rate": 0.82
+        },
+        {
+          "year": 2018,
+          "number": 17151984,
+          "growth_rate": 0.78
+        },
+        {
+          "year": 2019,
+          "number": 17265094,
+          "growth_rate": 0.66
+        },
+        {
+          "year": 2020,
+          "number": 17255105,
+          "growth_rate": -0.06
+        },
+        {
+          "year": 2021,
+          "number": 17314234,
+          "growth_rate": 0.34
+        },
+        {
+          "year": 2022,
+          "number": 17339238,
+          "growth_rate": 0.1443087973363383
+        }
+      ]
+    },
+    {
+      "region": "Central Region",
+      "province": "Samut Prakan Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 1223302,
+          "growth_rate": 1.65
+        },
+        {
+          "year": 2013,
+          "number": 1241610,
+          "growth_rate": 1.49
+        },
+        {
+          "year": 2014,
+          "number": 1261530,
+          "growth_rate": 1.59
+        },
+        {
+          "year": 2015,
+          "number": 1279310,
+          "growth_rate": 1.4
+        },
+        {
+          "year": 2016,
+          "number": 1293553,
+          "growth_rate": 1.11
+        },
+        {
+          "year": 2017,
+          "number": 1310766,
+          "growth_rate": 1.32
+        },
+        {
+          "year": 2018,
+          "number": 1326608,
+          "growth_rate": 1.2
+        },
+        {
+          "year": 2019,
+          "number": 1344875,
+          "growth_rate": 1.37
+        },
+        {
+          "year": 2020,
+          "number": 1351479,
+          "growth_rate": 0.49
+        },
+        {
+          "year": 2021,
+          "number": 1356449,
+          "growth_rate": 0.37
+        },
+        {
+          "year": 2022,
+          "number": 1360227,
+          "growth_rate": 0.27813419307324583
+        }
+      ]
+    },
+    {
+      "region": "Central Region",
+      "province": "Nonthaburi Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 1141673,
+          "growth_rate": 1.68
+        },
+        {
+          "year": 2013,
+          "number": 1156271,
+          "growth_rate": 1.27
+        },
+        {
+          "year": 2014,
+          "number": 1173870,
+          "growth_rate": 1.51
+        },
+        {
+          "year": 2015,
+          "number": 1193711,
+          "growth_rate": 1.68
+        },
+        {
+          "year": 2016,
+          "number": 1211924,
+          "growth_rate": 1.51
+        },
+        {
+          "year": 2017,
+          "number": 1229735,
+          "growth_rate": 1.46
+        },
+        {
+          "year": 2018,
+          "number": 1246295,
+          "growth_rate": 1.34
+        },
+        {
+          "year": 2019,
+          "number": 1265387,
+          "growth_rate": 1.52
+        },
+        {
+          "year": 2020,
+          "number": 1276745,
+          "growth_rate": 0.89
+        },
+        {
+          "year": 2021,
+          "number": 1288637,
+          "growth_rate": 0.93
+        },
+        {
+          "year": 2022,
+          "number": 1295916,
+          "growth_rate": 0.5632710372213572
+        }
+      ]
+    },
+    {
+      "region": "Central Region",
+      "province": "Pathum Thani Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 1033837,
+          "growth_rate": 2.24
+        },
+        {
+          "year": 2013,
+          "number": 1053158,
+          "growth_rate": 1.85
+        },
+        {
+          "year": 2014,
+          "number": 1074058,
+          "growth_rate": 1.97
+        },
+        {
+          "year": 2015,
+          "number": 1094249,
+          "growth_rate": 1.86
+        },
+        {
+          "year": 2016,
+          "number": 1111376,
+          "growth_rate": 1.55
+        },
+        {
+          "year": 2017,
+          "number": 1129115,
+          "growth_rate": 1.58
+        },
+        {
+          "year": 2018,
+          "number": 1146092,
+          "growth_rate": 1.49
+        },
+        {
+          "year": 2019,
+          "number": 1163604,
+          "growth_rate": 1.52
+        },
+        {
+          "year": 2020,
+          "number": 1176412,
+          "growth_rate": 1.09
+        },
+        {
+          "year": 2021,
+          "number": 1190060,
+          "growth_rate": 1.15
+        },
+        {
+          "year": 2022,
+          "number": 1201532,
+          "growth_rate": 0.9593683194221146
+        }
+      ]
+    },
+    {
+      "region": "Central Region",
+      "province": "Phra Nakhon Si Ayutthaya Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 793509,
+          "growth_rate": 0.74
+        },
+        {
+          "year": 2013,
+          "number": 797970,
+          "growth_rate": 0.56
+        },
+        {
+          "year": 2014,
+          "number": 803599,
+          "growth_rate": 0.7
+        },
+        {
+          "year": 2015,
+          "number": 808360,
+          "growth_rate": 0.59
+        },
+        {
+          "year": 2016,
+          "number": 810320,
+          "growth_rate": 0.24
+        },
+        {
+          "year": 2017,
+          "number": 813852,
+          "growth_rate": 0.43
+        },
+        {
+          "year": 2018,
+          "number": 817441,
+          "growth_rate": 0.44
+        },
+        {
+          "year": 2019,
+          "number": 820188,
+          "growth_rate": 0.34
+        },
+        {
+          "year": 2020,
+          "number": 819088,
+          "growth_rate": -0.13
+        },
+        {
+          "year": 2021,
+          "number": 820512,
+          "growth_rate": 0.17
+        },
+        {
+          "year": 2022,
+          "number": 820417,
+          "growth_rate": -0.011578806896112495
+        }
+      ]
+    },
+    {
+      "region": "Central Region",
+      "province": "Ang Thong Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 283882,
+          "growth_rate": -0.06
+        },
+        {
+          "year": 2013,
+          "number": 283732,
+          "growth_rate": -0.05
+        },
+        {
+          "year": 2014,
+          "number": 283568,
+          "growth_rate": -0.06
+        },
+        {
+          "year": 2015,
+          "number": 283173,
+          "growth_rate": -0.14
+        },
+        {
+          "year": 2016,
+          "number": 282404,
+          "growth_rate": -0.27
+        },
+        {
+          "year": 2017,
+          "number": 281187,
+          "growth_rate": -0.43
+        },
+        {
+          "year": 2018,
+          "number": 280840,
+          "growth_rate": -0.12
+        },
+        {
+          "year": 2019,
+          "number": 279654,
+          "growth_rate": -0.42
+        },
+        {
+          "year": 2020,
+          "number": 276584,
+          "growth_rate": -1.1
+        },
+        {
+          "year": 2021,
+          "number": 274763,
+          "growth_rate": -0.66
+        },
+        {
+          "year": 2022,
+          "number": 272587,
+          "growth_rate": -0.795107870217681
+        }
+      ]
+    },
+    {
+      "region": "Central Region",
+      "province": "Lop Buri Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 758059,
+          "growth_rate": 0.26
+        },
+        {
+          "year": 2013,
+          "number": 757970,
+          "growth_rate": -0.01
+        },
+        {
+          "year": 2014,
+          "number": 758406,
+          "growth_rate": 0.06
+        },
+        {
+          "year": 2015,
+          "number": 758655,
+          "growth_rate": 0.03
+        },
+        {
+          "year": 2016,
+          "number": 757321,
+          "growth_rate": -0.18
+        },
+        {
+          "year": 2017,
+          "number": 757273,
+          "growth_rate": -0.01
+        },
+        {
+          "year": 2018,
+          "number": 758733,
+          "growth_rate": 0.19
+        },
+        {
+          "year": 2019,
+          "number": 755556,
+          "growth_rate": -0.42
+        },
+        {
+          "year": 2020,
+          "number": 742928,
+          "growth_rate": -1.69
+        },
+        {
+          "year": 2021,
+          "number": 739473,
+          "growth_rate": -0.47
+        },
+        {
+          "year": 2022,
+          "number": 735293,
+          "growth_rate": -0.5668711095098173
+        }
+      ]
+    },
+    {
+      "region": "Central Region",
+      "province": "Sing Buri Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 213216,
+          "growth_rate": -0.17
+        },
+        {
+          "year": 2013,
+          "number": 212690,
+          "growth_rate": -0.25
+        },
+        {
+          "year": 2014,
+          "number": 212158,
+          "growth_rate": -0.25
+        },
+        {
+          "year": 2015,
+          "number": 211426,
+          "growth_rate": -0.35
+        },
+        {
+          "year": 2016,
+          "number": 210588,
+          "growth_rate": -0.4
+        },
+        {
+          "year": 2017,
+          "number": 210088,
+          "growth_rate": -0.24
+        },
+        {
+          "year": 2018,
+          "number": 209377,
+          "growth_rate": -0.34
+        },
+        {
+          "year": 2019,
+          "number": 208446,
+          "growth_rate": -0.45
+        },
+        {
+          "year": 2020,
+          "number": 205898,
+          "growth_rate": -1.23
+        },
+        {
+          "year": 2021,
+          "number": 204526,
+          "growth_rate": -0.67
+        },
+        {
+          "year": 2022,
+          "number": 202797,
+          "growth_rate": -0.8489628057431778
+        }
+      ]
+    },
+    {
+      "region": "Central Region",
+      "province": "Chai Nat Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 333172,
+          "growth_rate": -0.03
+        },
+        {
+          "year": 2013,
+          "number": 332769,
+          "growth_rate": -0.12
+        },
+        {
+          "year": 2014,
+          "number": 332283,
+          "growth_rate": -0.15
+        },
+        {
+          "year": 2015,
+          "number": 331655,
+          "growth_rate": -0.19
+        },
+        {
+          "year": 2016,
+          "number": 330431,
+          "growth_rate": -0.37
+        },
+        {
+          "year": 2017,
+          "number": 329722,
+          "growth_rate": -0.21
+        },
+        {
+          "year": 2018,
+          "number": 328263,
+          "growth_rate": -0.44
+        },
+        {
+          "year": 2019,
+          "number": 326611,
+          "growth_rate": -0.5
+        },
+        {
+          "year": 2020,
+          "number": 322477,
+          "growth_rate": -1.27
+        },
+        {
+          "year": 2021,
+          "number": 320432,
+          "growth_rate": -0.64
+        },
+        {
+          "year": 2022,
+          "number": 318308,
+          "growth_rate": -0.6650617869027482
+        }
+      ]
+    },
+    {
+      "region": "Central Region",
+      "province": "Saraburi Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 625689,
+          "growth_rate": 0.84
+        },
+        {
+          "year": 2013,
+          "number": 629216,
+          "growth_rate": 0.56
+        },
+        {
+          "year": 2014,
+          "number": 633460,
+          "growth_rate": 0.67
+        },
+        {
+          "year": 2015,
+          "number": 637673,
+          "growth_rate": 0.66
+        },
+        {
+          "year": 2016,
+          "number": 640065,
+          "growth_rate": 0.37
+        },
+        {
+          "year": 2017,
+          "number": 642040,
+          "growth_rate": 0.31
+        },
+        {
+          "year": 2018,
+          "number": 645024,
+          "growth_rate": 0.46
+        },
+        {
+          "year": 2019,
+          "number": 645911,
+          "growth_rate": 0.14
+        },
+        {
+          "year": 2020,
+          "number": 643828,
+          "growth_rate": -0.32
+        },
+        {
+          "year": 2021,
+          "number": 643963,
+          "growth_rate": 0.02
+        },
+        {
+          "year": 2022,
+          "number": 638582,
+          "growth_rate": -0.8391177812578563
+        }
+      ]
+    },
+    {
+      "region": "Central Region",
+      "province": "Chon Buri Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 1364002,
+          "growth_rate": 1.88
+        },
+        {
+          "year": 2013,
+          "number": 1390354,
+          "growth_rate": 1.91
+        },
+        {
+          "year": 2014,
+          "number": 1421425,
+          "growth_rate": 2.21
+        },
+        {
+          "year": 2015,
+          "number": 1455039,
+          "growth_rate": 2.34
+        },
+        {
+          "year": 2016,
+          "number": 1483049,
+          "growth_rate": 1.91
+        },
+        {
+          "year": 2017,
+          "number": 1509125,
+          "growth_rate": 1.74
+        },
+        {
+          "year": 2018,
+          "number": 1535445,
+          "growth_rate": 1.73
+        },
+        {
+          "year": 2019,
+          "number": 1558301,
+          "growth_rate": 1.48
+        },
+        {
+          "year": 2020,
+          "number": 1566885,
+          "growth_rate": 0.55
+        },
+        {
+          "year": 2021,
+          "number": 1583672,
+          "growth_rate": 1.07
+        },
+        {
+          "year": 2022,
+          "number": 1594758,
+          "growth_rate": 0.697579934454099
+        }
+      ]
+    },
+    {
+      "region": "Central Region",
+      "province": "Rayong Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 649275,
+          "growth_rate": 1.79
+        },
+        {
+          "year": 2013,
+          "number": 661220,
+          "growth_rate": 1.82
+        },
+        {
+          "year": 2014,
+          "number": 674393,
+          "growth_rate": 1.97
+        },
+        {
+          "year": 2015,
+          "number": 688999,
+          "growth_rate": 2.14
+        },
+        {
+          "year": 2016,
+          "number": 700223,
+          "growth_rate": 1.62
+        },
+        {
+          "year": 2017,
+          "number": 711236,
+          "growth_rate": 1.56
+        },
+        {
+          "year": 2018,
+          "number": 723316,
+          "growth_rate": 1.68
+        },
+        {
+          "year": 2019,
+          "number": 734753,
+          "growth_rate": 1.57
+        },
+        {
+          "year": 2020,
+          "number": 741524,
+          "growth_rate": 0.92
+        },
+        {
+          "year": 2021,
+          "number": 751343,
+          "growth_rate": 1.32
+        },
+        {
+          "year": 2022,
+          "number": 759386,
+          "growth_rate": 1.0647940155888793
+        }
+      ]
+    },
+    {
+      "region": "Central Region",
+      "province": "Chanthaburi Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 521812,
+          "growth_rate": 0.95
+        },
+        {
+          "year": 2013,
+          "number": 524260,
+          "growth_rate": 0.47
+        },
+        {
+          "year": 2014,
+          "number": 527350,
+          "growth_rate": 0.59
+        },
+        {
+          "year": 2015,
+          "number": 531037,
+          "growth_rate": 0.7
+        },
+        {
+          "year": 2016,
+          "number": 532466,
+          "growth_rate": 0.27
+        },
+        {
+          "year": 2017,
+          "number": 534459,
+          "growth_rate": 0.37
+        },
+        {
+          "year": 2018,
+          "number": 536496,
+          "growth_rate": 0.38
+        },
+        {
+          "year": 2019,
+          "number": 537698,
+          "growth_rate": 0.22
+        },
+        {
+          "year": 2020,
+          "number": 535559,
+          "growth_rate": -0.4
+        },
+        {
+          "year": 2021,
+          "number": 536557,
+          "growth_rate": 0.19
+        },
+        {
+          "year": 2022,
+          "number": 536144,
+          "growth_rate": -0.07700188969836604
+        }
+      ]
+    },
+    {
+      "region": "Central Region",
+      "province": "Trat Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 222855,
+          "growth_rate": 0.38
+        },
+        {
+          "year": 2013,
+          "number": 224010,
+          "growth_rate": 0.52
+        },
+        {
+          "year": 2014,
+          "number": 224730,
+          "growth_rate": 0.32
+        },
+        {
+          "year": 2015,
+          "number": 229435,
+          "growth_rate": 2.07
+        },
+        {
+          "year": 2016,
+          "number": 229437,
+          "growth_rate": 0
+        },
+        {
+          "year": 2017,
+          "number": 229649,
+          "growth_rate": 0.09
+        },
+        {
+          "year": 2018,
+          "number": 229914,
+          "growth_rate": 0.12
+        },
+        {
+          "year": 2019,
+          "number": 229958,
+          "growth_rate": 0.02
+        },
+        {
+          "year": 2020,
+          "number": 228536,
+          "growth_rate": -0.62
+        },
+        {
+          "year": 2021,
+          "number": 228376,
+          "growth_rate": -0.07
+        },
+        {
+          "year": 2022,
+          "number": 227808,
+          "growth_rate": -0.24902245301207251
+        }
+      ]
+    },
+    {
+      "region": "Central Region",
+      "province": "Chachoengsao Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 685721,
+          "growth_rate": 0.93
+        },
+        {
+          "year": 2013,
+          "number": 690226,
+          "growth_rate": 0.65
+        },
+        {
+          "year": 2014,
+          "number": 695478,
+          "growth_rate": 0.76
+        },
+        {
+          "year": 2015,
+          "number": 700902,
+          "growth_rate": 0.78
+        },
+        {
+          "year": 2016,
+          "number": 704399,
+          "growth_rate": 0.5
+        },
+        {
+          "year": 2017,
+          "number": 709889,
+          "growth_rate": 0.78
+        },
+        {
+          "year": 2018,
+          "number": 715009,
+          "growth_rate": 0.72
+        },
+        {
+          "year": 2019,
+          "number": 720113,
+          "growth_rate": 0.71
+        },
+        {
+          "year": 2020,
+          "number": 720718,
+          "growth_rate": 0.08
+        },
+        {
+          "year": 2021,
+          "number": 724178,
+          "growth_rate": 0.48
+        },
+        {
+          "year": 2022,
+          "number": 726687,
+          "growth_rate": 0.3458629853335118
+        }
+      ]
+    },
+    {
+      "region": "Central Region",
+      "province": "Prachin Buri Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 473770,
+          "growth_rate": 0.87
+        },
+        {
+          "year": 2013,
+          "number": 476167,
+          "growth_rate": 0.5
+        },
+        {
+          "year": 2014,
+          "number": 479314,
+          "growth_rate": 0.66
+        },
+        {
+          "year": 2015,
+          "number": 482195,
+          "growth_rate": 0.6
+        },
+        {
+          "year": 2016,
+          "number": 484829,
+          "growth_rate": 0.54
+        },
+        {
+          "year": 2017,
+          "number": 487544,
+          "growth_rate": 0.56
+        },
+        {
+          "year": 2018,
+          "number": 491640,
+          "growth_rate": 0.84
+        },
+        {
+          "year": 2019,
+          "number": 494680,
+          "growth_rate": 0.62
+        },
+        {
+          "year": 2020,
+          "number": 493670,
+          "growth_rate": -0.2
+        },
+        {
+          "year": 2021,
+          "number": 495325,
+          "growth_rate": 0.33
+        },
+        {
+          "year": 2022,
+          "number": 497778,
+          "growth_rate": 0.4940081720960571
+        }
+      ]
+    },
+    {
+      "region": "Central Region",
+      "province": "Nakhon Nayok Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 255174,
+          "growth_rate": 0.53
+        },
+        {
+          "year": 2013,
+          "number": 256085,
+          "growth_rate": 0.36
+        },
+        {
+          "year": 2014,
+          "number": 257300,
+          "growth_rate": 0.47
+        },
+        {
+          "year": 2015,
+          "number": 258577,
+          "growth_rate": 0.5
+        },
+        {
+          "year": 2016,
+          "number": 258358,
+          "growth_rate": -0.08
+        },
+        {
+          "year": 2017,
+          "number": 259342,
+          "growth_rate": 0.38
+        },
+        {
+          "year": 2018,
+          "number": 260093,
+          "growth_rate": 0.29
+        },
+        {
+          "year": 2019,
+          "number": 260751,
+          "growth_rate": 0.25
+        },
+        {
+          "year": 2020,
+          "number": 260081,
+          "growth_rate": -0.26
+        },
+        {
+          "year": 2021,
+          "number": 260433,
+          "growth_rate": 0.14
+        },
+        {
+          "year": 2022,
+          "number": 260406,
+          "growth_rate": -0.01036788720667265
+        }
+      ]
+    },
+    {
+      "region": "Central Region",
+      "province": "Sa Kaeo Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 548342,
+          "growth_rate": 0.5
+        },
+        {
+          "year": 2013,
+          "number": 550937,
+          "growth_rate": 0.47
+        },
+        {
+          "year": 2014,
+          "number": 552187,
+          "growth_rate": 0.23
+        },
+        {
+          "year": 2015,
+          "number": 556922,
+          "growth_rate": 0.85
+        },
+        {
+          "year": 2016,
+          "number": 559017,
+          "growth_rate": 0.38
+        },
+        {
+          "year": 2017,
+          "number": 561938,
+          "growth_rate": 0.52
+        },
+        {
+          "year": 2018,
+          "number": 564092,
+          "growth_rate": 0.38
+        },
+        {
+          "year": 2019,
+          "number": 566303,
+          "growth_rate": 0.39
+        },
+        {
+          "year": 2020,
+          "number": 560925,
+          "growth_rate": -0.95
+        },
+        {
+          "year": 2021,
+          "number": 561992,
+          "growth_rate": 0.19
+        },
+        {
+          "year": 2022,
+          "number": 562816,
+          "growth_rate": 0.14651392013607958
+        }
+      ]
+    },
+    {
+      "region": "Central Region",
+      "province": "Ratchaburi Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 846631,
+          "growth_rate": 0.47
+        },
+        {
+          "year": 2013,
+          "number": 850162,
+          "growth_rate": 0.42
+        },
+        {
+          "year": 2014,
+          "number": 853217,
+          "growth_rate": 0.36
+        },
+        {
+          "year": 2015,
+          "number": 867883,
+          "growth_rate": 1.7
+        },
+        {
+          "year": 2016,
+          "number": 869823,
+          "growth_rate": 0.22
+        },
+        {
+          "year": 2017,
+          "number": 871714,
+          "growth_rate": 0.22
+        },
+        {
+          "year": 2018,
+          "number": 873518,
+          "growth_rate": 0.21
+        },
+        {
+          "year": 2019,
+          "number": 873101,
+          "growth_rate": -0.05
+        },
+        {
+          "year": 2020,
+          "number": 869313,
+          "growth_rate": -0.43
+        },
+        {
+          "year": 2021,
+          "number": 868281,
+          "growth_rate": -0.12
+        },
+        {
+          "year": 2022,
+          "number": 865807,
+          "growth_rate": -0.2853375005832425
+        }
+      ]
+    },
+    {
+      "region": "Central Region",
+      "province": "Kanchanaburi Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 838269,
+          "growth_rate": -0.08
+        },
+        {
+          "year": 2013,
+          "number": 842882,
+          "growth_rate": 0.55
+        },
+        {
+          "year": 2014,
+          "number": 848198,
+          "growth_rate": 0.63
+        },
+        {
+          "year": 2015,
+          "number": 882146,
+          "growth_rate": 3.92
+        },
+        {
+          "year": 2016,
+          "number": 885112,
+          "growth_rate": 0.34
+        },
+        {
+          "year": 2017,
+          "number": 887979,
+          "growth_rate": 0.32
+        },
+        {
+          "year": 2018,
+          "number": 893151,
+          "growth_rate": 0.58
+        },
+        {
+          "year": 2019,
+          "number": 895525,
+          "growth_rate": 0.27
+        },
+        {
+          "year": 2020,
+          "number": 891976,
+          "growth_rate": -0.4
+        },
+        {
+          "year": 2021,
+          "number": 894054,
+          "growth_rate": 0.23
+        },
+        {
+          "year": 2022,
+          "number": 894283,
+          "growth_rate": 0.025610385654574398
+        }
+      ]
+    },
+    {
+      "region": "Central Region",
+      "province": "Suphan Buri Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 847308,
+          "growth_rate": 0.27
+        },
+        {
+          "year": 2013,
+          "number": 848066,
+          "growth_rate": 0.09
+        },
+        {
+          "year": 2014,
+          "number": 849053,
+          "growth_rate": 0.12
+        },
+        {
+          "year": 2015,
+          "number": 849699,
+          "growth_rate": 0.08
+        },
+        {
+          "year": 2016,
+          "number": 848567,
+          "growth_rate": -0.13
+        },
+        {
+          "year": 2017,
+          "number": 852003,
+          "growth_rate": 0.4
+        },
+        {
+          "year": 2018,
+          "number": 848720,
+          "growth_rate": -0.39
+        },
+        {
+          "year": 2019,
+          "number": 846334,
+          "growth_rate": -0.28
+        },
+        {
+          "year": 2020,
+          "number": 838628,
+          "growth_rate": -0.91
+        },
+        {
+          "year": 2021,
+          "number": 835360,
+          "growth_rate": -0.39
+        },
+        {
+          "year": 2022,
+          "number": 830695,
+          "growth_rate": -0.5600069855434274
+        }
+      ]
+    },
+    {
+      "region": "Central Region",
+      "province": "Nakhon Pathom Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 874616,
+          "growth_rate": 0.98
+        },
+        {
+          "year": 2013,
+          "number": 882184,
+          "growth_rate": 0.86
+        },
+        {
+          "year": 2014,
+          "number": 891071,
+          "growth_rate": 1
+        },
+        {
+          "year": 2015,
+          "number": 899342,
+          "growth_rate": 0.92
+        },
+        {
+          "year": 2016,
+          "number": 905008,
+          "growth_rate": 0.63
+        },
+        {
+          "year": 2017,
+          "number": 911492,
+          "growth_rate": 0.71
+        },
+        {
+          "year": 2018,
+          "number": 917053,
+          "growth_rate": 0.61
+        },
+        {
+          "year": 2019,
+          "number": 920030,
+          "growth_rate": 0.32
+        },
+        {
+          "year": 2020,
+          "number": 920729,
+          "growth_rate": 0.08
+        },
+        {
+          "year": 2021,
+          "number": 922171,
+          "growth_rate": 0.16
+        },
+        {
+          "year": 2022,
+          "number": 921882,
+          "growth_rate": -0.03134400175765898
+        }
+      ]
+    },
+    {
+      "region": "Central Region",
+      "province": "Samut Sakhon Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 508812,
+          "growth_rate": 1.93
+        },
+        {
+          "year": 2013,
+          "number": 519457,
+          "growth_rate": 2.07
+        },
+        {
+          "year": 2014,
+          "number": 531887,
+          "growth_rate": 2.36
+        },
+        {
+          "year": 2015,
+          "number": 545454,
+          "growth_rate": 2.52
+        },
+        {
+          "year": 2016,
+          "number": 556719,
+          "growth_rate": 2.04
+        },
+        {
+          "year": 2017,
+          "number": 568465,
+          "growth_rate": 2.09
+        },
+        {
+          "year": 2018,
+          "number": 577964,
+          "growth_rate": 1.66
+        },
+        {
+          "year": 2019,
+          "number": 584703,
+          "growth_rate": 1.16
+        },
+        {
+          "year": 2020,
+          "number": 586199,
+          "growth_rate": 0.26
+        },
+        {
+          "year": 2021,
+          "number": 586789,
+          "growth_rate": 0.1
+        },
+        {
+          "year": 2022,
+          "number": 589428,
+          "growth_rate": 0.44872747599468515
+        }
+      ]
+    },
+    {
+      "region": "Central Region",
+      "province": "Samut Songkhram Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 194042,
+          "growth_rate": -0.02
+        },
+        {
+          "year": 2013,
+          "number": 194116,
+          "growth_rate": 0.04
+        },
+        {
+          "year": 2014,
+          "number": 194189,
+          "growth_rate": 0.04
+        },
+        {
+          "year": 2015,
+          "number": 194376,
+          "growth_rate": 0.1
+        },
+        {
+          "year": 2016,
+          "number": 194069,
+          "growth_rate": -0.16
+        },
+        {
+          "year": 2017,
+          "number": 193902,
+          "growth_rate": -0.09
+        },
+        {
+          "year": 2018,
+          "number": 193791,
+          "growth_rate": -0.06
+        },
+        {
+          "year": 2019,
+          "number": 193305,
+          "growth_rate": -0.25
+        },
+        {
+          "year": 2020,
+          "number": 192052,
+          "growth_rate": -0.65
+        },
+        {
+          "year": 2021,
+          "number": 190842,
+          "growth_rate": -0.63
+        },
+        {
+          "year": 2022,
+          "number": 189453,
+          "growth_rate": -0.7304887924243674
+        }
+      ]
+    },
+    {
+      "region": "Central Region",
+      "province": "Phetchaburi Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 468874,
+          "growth_rate": 0.6
+        },
+        {
+          "year": 2013,
+          "number": 471087,
+          "growth_rate": 0.47
+        },
+        {
+          "year": 2014,
+          "number": 474192,
+          "growth_rate": 0.66
+        },
+        {
+          "year": 2015,
+          "number": 478589,
+          "growth_rate": 0.92
+        },
+        {
+          "year": 2016,
+          "number": 480652,
+          "growth_rate": 0.43
+        },
+        {
+          "year": 2017,
+          "number": 482375,
+          "growth_rate": 0.36
+        },
+        {
+          "year": 2018,
+          "number": 484294,
+          "growth_rate": 0.4
+        },
+        {
+          "year": 2019,
+          "number": 485191,
+          "growth_rate": 0.19
+        },
+        {
+          "year": 2020,
+          "number": 482193,
+          "growth_rate": -0.62
+        },
+        {
+          "year": 2021,
+          "number": 482875,
+          "growth_rate": 0.14
+        },
+        {
+          "year": 2022,
+          "number": 482950,
+          "growth_rate": 0.015530763885955581
+        }
+      ]
+    },
+    {
+      "region": "Central Region",
+      "province": "Prachuap Khiri Khan Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 517050,
+          "growth_rate": 0.87
+        },
+        {
+          "year": 2013,
+          "number": 520271,
+          "growth_rate": 0.62
+        },
+        {
+          "year": 2014,
+          "number": 525107,
+          "growth_rate": 0.93
+        },
+        {
+          "year": 2015,
+          "number": 534719,
+          "growth_rate": 1.81
+        },
+        {
+          "year": 2016,
+          "number": 539534,
+          "growth_rate": 0.9
+        },
+        {
+          "year": 2017,
+          "number": 543979,
+          "growth_rate": 0.82
+        },
+        {
+          "year": 2018,
+          "number": 548815,
+          "growth_rate": 0.89
+        },
+        {
+          "year": 2019,
+          "number": 554116,
+          "growth_rate": 0.96
+        },
+        {
+          "year": 2020,
+          "number": 550678,
+          "growth_rate": -0.62
+        },
+        {
+          "year": 2021,
+          "number": 553171,
+          "growth_rate": 0.45
+        },
+        {
+          "year": 2022,
+          "number": 553298,
+          "growth_rate": 0.022955907586695884
+        }
+      ]
+    },
+    {
+      "region": "Northern Region",
+      "province": "Northern Region",
+      "values": [
+        {
+          "year": 2012,
+          "number": 11802566,
+          "growth_rate": 0.16
+        },
+        {
+          "year": 2013,
+          "number": 11825955,
+          "growth_rate": 0.2
+        },
+        {
+          "year": 2014,
+          "number": 11846651,
+          "growth_rate": 0.17
+        },
+        {
+          "year": 2015,
+          "number": 12072421,
+          "growth_rate": 1.89
+        },
+        {
+          "year": 2016,
+          "number": 12079106,
+          "growth_rate": 0.06
+        },
+        {
+          "year": 2017,
+          "number": 12098164,
+          "growth_rate": 0.16
+        },
+        {
+          "year": 2018,
+          "number": 12115915,
+          "growth_rate": 0.15
+        },
+        {
+          "year": 2019,
+          "number": 12119572,
+          "growth_rate": 0.03
+        },
+        {
+          "year": 2020,
+          "number": 12027271,
+          "growth_rate": -0.76
+        },
+        {
+          "year": 2021,
+          "number": 12010024,
+          "growth_rate": -0.14
+        },
+        {
+          "year": 2022,
+          "number": 11977896,
+          "growth_rate": -0.2678683204778444
+        }
+      ]
+    },
+    {
+      "region": "Northern Region",
+      "province": "Chiang Mai Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 1655642,
+          "growth_rate": 0.58
+        },
+        {
+          "year": 2013,
+          "number": 1666888,
+          "growth_rate": 0.68
+        },
+        {
+          "year": 2014,
+          "number": 1678284,
+          "growth_rate": 0.68
+        },
+        {
+          "year": 2015,
+          "number": 1728242,
+          "growth_rate": 2.93
+        },
+        {
+          "year": 2016,
+          "number": 1735762,
+          "growth_rate": 0.43
+        },
+        {
+          "year": 2017,
+          "number": 1746840,
+          "growth_rate": 0.64
+        },
+        {
+          "year": 2018,
+          "number": 1763742,
+          "growth_rate": 0.96
+        },
+        {
+          "year": 2019,
+          "number": 1779254,
+          "growth_rate": 0.88
+        },
+        {
+          "year": 2020,
+          "number": 1784370,
+          "growth_rate": 0.29
+        },
+        {
+          "year": 2021,
+          "number": 1789385,
+          "growth_rate": 0.28
+        },
+        {
+          "year": 2022,
+          "number": 1792474,
+          "growth_rate": 0.17248031068786246
+        }
+      ]
+    },
+    {
+      "region": "Northern Region",
+      "province": "Lamphun Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 404673,
+          "growth_rate": 0.18
+        },
+        {
+          "year": 2013,
+          "number": 405268,
+          "growth_rate": 0.15
+        },
+        {
+          "year": 2014,
+          "number": 405468,
+          "growth_rate": 0.05
+        },
+        {
+          "year": 2015,
+          "number": 406385,
+          "growth_rate": 0.23
+        },
+        {
+          "year": 2016,
+          "number": 405999,
+          "growth_rate": -0.1
+        },
+        {
+          "year": 2017,
+          "number": 405918,
+          "growth_rate": -0.02
+        },
+        {
+          "year": 2018,
+          "number": 405955,
+          "growth_rate": 0.01
+        },
+        {
+          "year": 2019,
+          "number": 405075,
+          "growth_rate": -0.22
+        },
+        {
+          "year": 2020,
+          "number": 402011,
+          "growth_rate": -0.76
+        },
+        {
+          "year": 2021,
+          "number": 401139,
+          "growth_rate": -0.22
+        },
+        {
+          "year": 2022,
+          "number": 399557,
+          "growth_rate": -0.39515672828680776
+        }
+      ]
+    },
+    {
+      "region": "Northern Region",
+      "province": "Lampang Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 756811,
+          "growth_rate": -0.1
+        },
+        {
+          "year": 2013,
+          "number": 754862,
+          "growth_rate": -0.26
+        },
+        {
+          "year": 2014,
+          "number": 753013,
+          "growth_rate": -0.25
+        },
+        {
+          "year": 2015,
+          "number": 752356,
+          "growth_rate": -0.09
+        },
+        {
+          "year": 2016,
+          "number": 748850,
+          "growth_rate": -0.47
+        },
+        {
+          "year": 2017,
+          "number": 746547,
+          "growth_rate": -0.31
+        },
+        {
+          "year": 2018,
+          "number": 742883,
+          "growth_rate": -0.49
+        },
+        {
+          "year": 2019,
+          "number": 738316,
+          "growth_rate": -0.62
+        },
+        {
+          "year": 2020,
+          "number": 728964,
+          "growth_rate": -1.27
+        },
+        {
+          "year": 2021,
+          "number": 724678,
+          "growth_rate": -0.59
+        },
+        {
+          "year": 2022,
+          "number": 718790,
+          "growth_rate": -0.8158175528227911
+        }
+      ]
+    },
+    {
+      "region": "Northern Region",
+      "province": "Uttaradit Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 461294,
+          "growth_rate": 0.06
+        },
+        {
+          "year": 2013,
+          "number": 460995,
+          "growth_rate": -0.06
+        },
+        {
+          "year": 2014,
+          "number": 460400,
+          "growth_rate": -0.13
+        },
+        {
+          "year": 2015,
+          "number": 459768,
+          "growth_rate": -0.14
+        },
+        {
+          "year": 2016,
+          "number": 458197,
+          "growth_rate": -0.34
+        },
+        {
+          "year": 2017,
+          "number": 457092,
+          "growth_rate": -0.24
+        },
+        {
+          "year": 2018,
+          "number": 455403,
+          "growth_rate": -0.37
+        },
+        {
+          "year": 2019,
+          "number": 453103,
+          "growth_rate": -0.51
+        },
+        {
+          "year": 2020,
+          "number": 448745,
+          "growth_rate": -0.97
+        },
+        {
+          "year": 2021,
+          "number": 446148,
+          "growth_rate": -0.58
+        },
+        {
+          "year": 2022,
+          "number": 442949,
+          "growth_rate": -0.7196096274504462
+        }
+      ]
+    },
+    {
+      "region": "Northern Region",
+      "province": "Phrae Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 457607,
+          "growth_rate": -0.25
+        },
+        {
+          "year": 2013,
+          "number": 456074,
+          "growth_rate": -0.34
+        },
+        {
+          "year": 2014,
+          "number": 454083,
+          "growth_rate": -0.44
+        },
+        {
+          "year": 2015,
+          "number": 452346,
+          "growth_rate": -0.38
+        },
+        {
+          "year": 2016,
+          "number": 449810,
+          "growth_rate": -0.56
+        },
+        {
+          "year": 2017,
+          "number": 447564,
+          "growth_rate": -0.5
+        },
+        {
+          "year": 2018,
+          "number": 445090,
+          "growth_rate": -0.55
+        },
+        {
+          "year": 2019,
+          "number": 441726,
+          "growth_rate": -0.76
+        },
+        {
+          "year": 2020,
+          "number": 437350,
+          "growth_rate": -1
+        },
+        {
+          "year": 2021,
+          "number": 434580,
+          "growth_rate": -0.64
+        },
+        {
+          "year": 2022,
+          "number": 430669,
+          "growth_rate": -0.9040233818872914
+        }
+      ]
+    },
+    {
+      "region": "Northern Region",
+      "province": "Nan Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 477673,
+          "growth_rate": 0.22
+        },
+        {
+          "year": 2013,
+          "number": 477912,
+          "growth_rate": 0.05
+        },
+        {
+          "year": 2014,
+          "number": 478264,
+          "growth_rate": 0.07
+        },
+        {
+          "year": 2015,
+          "number": 479518,
+          "growth_rate": 0.26
+        },
+        {
+          "year": 2016,
+          "number": 479916,
+          "growth_rate": 0.08
+        },
+        {
+          "year": 2017,
+          "number": 479838,
+          "growth_rate": -0.02
+        },
+        {
+          "year": 2018,
+          "number": 478989,
+          "growth_rate": -0.18
+        },
+        {
+          "year": 2019,
+          "number": 478227,
+          "growth_rate": -0.16
+        },
+        {
+          "year": 2020,
+          "number": 476727,
+          "growth_rate": -0.31
+        },
+        {
+          "year": 2021,
+          "number": 475875,
+          "growth_rate": -0.18
+        },
+        {
+          "year": 2022,
+          "number": 474539,
+          "growth_rate": -0.2811408249416347
+        }
+      ]
+    },
+    {
+      "region": "Northern Region",
+      "province": "Phayao Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 488120,
+          "growth_rate": 0.34
+        },
+        {
+          "year": 2013,
+          "number": 486744,
+          "growth_rate": -0.28
+        },
+        {
+          "year": 2014,
+          "number": 484454,
+          "growth_rate": -0.47
+        },
+        {
+          "year": 2015,
+          "number": 482645,
+          "growth_rate": -0.37
+        },
+        {
+          "year": 2016,
+          "number": 479188,
+          "growth_rate": -0.72
+        },
+        {
+          "year": 2017,
+          "number": 477100,
+          "growth_rate": -0.44
+        },
+        {
+          "year": 2018,
+          "number": 475215,
+          "growth_rate": -0.4
+        },
+        {
+          "year": 2019,
+          "number": 472356,
+          "growth_rate": -0.6
+        },
+        {
+          "year": 2020,
+          "number": 467356,
+          "growth_rate": -1.06
+        },
+        {
+          "year": 2021,
+          "number": 464505,
+          "growth_rate": -0.61
+        },
+        {
+          "year": 2022,
+          "number": 461431,
+          "growth_rate": -0.6639792153173671
+        }
+      ]
+    },
+    {
+      "region": "Northern Region",
+      "province": "Chiang Rai Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 1200423,
+          "growth_rate": 0.15
+        },
+        {
+          "year": 2013,
+          "number": 1204660,
+          "growth_rate": 0.35
+        },
+        {
+          "year": 2014,
+          "number": 1207699,
+          "growth_rate": 0.25
+        },
+        {
+          "year": 2015,
+          "number": 1277950,
+          "growth_rate": 5.65
+        },
+        {
+          "year": 2016,
+          "number": 1282544,
+          "growth_rate": 0.36
+        },
+        {
+          "year": 2017,
+          "number": 1287615,
+          "growth_rate": 0.39
+        },
+        {
+          "year": 2018,
+          "number": 1292130,
+          "growth_rate": 0.35
+        },
+        {
+          "year": 2019,
+          "number": 1298304,
+          "growth_rate": 0.48
+        },
+        {
+          "year": 2020,
+          "number": 1295026,
+          "growth_rate": -0.25
+        },
+        {
+          "year": 2021,
+          "number": 1298425,
+          "growth_rate": 0.26
+        },
+        {
+          "year": 2022,
+          "number": 1299636,
+          "growth_rate": 0.09322337602563933
+        }
+      ]
+    },
+    {
+      "region": "Northern Region",
+      "province": "Mae Hong Son Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 244356,
+          "growth_rate": 0.13
+        },
+        {
+          "year": 2013,
+          "number": 246549,
+          "growth_rate": 0.89
+        },
+        {
+          "year": 2014,
+          "number": 248178,
+          "growth_rate": 0.66
+        },
+        {
+          "year": 2015,
+          "number": 273764,
+          "growth_rate": 9.81
+        },
+        {
+          "year": 2016,
+          "number": 275884,
+          "growth_rate": 0.77
+        },
+        {
+          "year": 2017,
+          "number": 279088,
+          "growth_rate": 1.15
+        },
+        {
+          "year": 2018,
+          "number": 282566,
+          "growth_rate": 1.24
+        },
+        {
+          "year": 2019,
+          "number": 284138,
+          "growth_rate": 0.55
+        },
+        {
+          "year": 2020,
+          "number": 284549,
+          "growth_rate": 0.14
+        },
+        {
+          "year": 2021,
+          "number": 285916,
+          "growth_rate": 0.48
+        },
+        {
+          "year": 2022,
+          "number": 286786,
+          "growth_rate": 0.3038231643111648
+        }
+      ]
+    },
+    {
+      "region": "Northern Region",
+      "province": "Nakhon Sawan Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 1073347,
+          "growth_rate": 0.15
+        },
+        {
+          "year": 2013,
+          "number": 1073142,
+          "growth_rate": -0.02
+        },
+        {
+          "year": 2014,
+          "number": 1072756,
+          "growth_rate": -0.04
+        },
+        {
+          "year": 2015,
+          "number": 1071942,
+          "growth_rate": -0.08
+        },
+        {
+          "year": 2016,
+          "number": 1066455,
+          "growth_rate": -0.51
+        },
+        {
+          "year": 2017,
+          "number": 1065334,
+          "growth_rate": -0.11
+        },
+        {
+          "year": 2018,
+          "number": 1063964,
+          "growth_rate": -0.13
+        },
+        {
+          "year": 2019,
+          "number": 1059887,
+          "growth_rate": -0.38
+        },
+        {
+          "year": 2020,
+          "number": 1040308,
+          "growth_rate": -1.86
+        },
+        {
+          "year": 2021,
+          "number": 1035028,
+          "growth_rate": -0.51
+        },
+        {
+          "year": 2022,
+          "number": 1028814,
+          "growth_rate": -0.6021796995778943
+        }
+      ]
+    },
+    {
+      "region": "Northern Region",
+      "province": "Uthai Thani Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 328950,
+          "growth_rate": 0.28
+        },
+        {
+          "year": 2013,
+          "number": 329536,
+          "growth_rate": 0.18
+        },
+        {
+          "year": 2014,
+          "number": 330179,
+          "growth_rate": 0.19
+        },
+        {
+          "year": 2015,
+          "number": 330906,
+          "growth_rate": 0.22
+        },
+        {
+          "year": 2016,
+          "number": 330299,
+          "growth_rate": -0.18
+        },
+        {
+          "year": 2017,
+          "number": 329942,
+          "growth_rate": -0.11
+        },
+        {
+          "year": 2018,
+          "number": 329433,
+          "growth_rate": -0.15
+        },
+        {
+          "year": 2019,
+          "number": 328618,
+          "growth_rate": -0.25
+        },
+        {
+          "year": 2020,
+          "number": 325868,
+          "growth_rate": -0.84
+        },
+        {
+          "year": 2021,
+          "number": 325116,
+          "growth_rate": -0.23
+        },
+        {
+          "year": 2022,
+          "number": 323860,
+          "growth_rate": -0.38707180794470014
+        }
+      ]
+    },
+    {
+      "region": "Northern Region",
+      "province": "Kamphaeng Phet Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 727555,
+          "growth_rate": 0.21
+        },
+        {
+          "year": 2013,
+          "number": 728631,
+          "growth_rate": 0.15
+        },
+        {
+          "year": 2014,
+          "number": 729522,
+          "growth_rate": 0.12
+        },
+        {
+          "year": 2015,
+          "number": 730158,
+          "growth_rate": 0.09
+        },
+        {
+          "year": 2016,
+          "number": 729542,
+          "growth_rate": -0.08
+        },
+        {
+          "year": 2017,
+          "number": 729133,
+          "growth_rate": -0.06
+        },
+        {
+          "year": 2018,
+          "number": 727807,
+          "growth_rate": -0.18
+        },
+        {
+          "year": 2019,
+          "number": 725867,
+          "growth_rate": -0.27
+        },
+        {
+          "year": 2020,
+          "number": 714118,
+          "growth_rate": -1.63
+        },
+        {
+          "year": 2021,
+          "number": 712143,
+          "growth_rate": -0.28
+        },
+        {
+          "year": 2022,
+          "number": 708775,
+          "growth_rate": -0.4740606153932814
+        }
+      ]
+    },
+    {
+      "region": "Northern Region",
+      "province": "Tak Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 526045,
+          "growth_rate": -0.94
+        },
+        {
+          "year": 2013,
+          "number": 532353,
+          "growth_rate": 1.19
+        },
+        {
+          "year": 2014,
+          "number": 539553,
+          "growth_rate": 1.34
+        },
+        {
+          "year": 2015,
+          "number": 618382,
+          "growth_rate": 13.64
+        },
+        {
+          "year": 2016,
+          "number": 631965,
+          "growth_rate": 2.17
+        },
+        {
+          "year": 2017,
+          "number": 644267,
+          "growth_rate": 1.93
+        },
+        {
+          "year": 2018,
+          "number": 654676,
+          "growth_rate": 1.6
+        },
+        {
+          "year": 2019,
+          "number": 665620,
+          "growth_rate": 1.66
+        },
+        {
+          "year": 2020,
+          "number": 670265,
+          "growth_rate": 0.7
+        },
+        {
+          "year": 2021,
+          "number": 676583,
+          "growth_rate": 0.94
+        },
+        {
+          "year": 2022,
+          "number": 684140,
+          "growth_rate": 1.110744463855178
+        }
+      ]
+    },
+    {
+      "region": "Northern Region",
+      "province": "Sukhothai Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 602601,
+          "growth_rate": 0.18
+        },
+        {
+          "year": 2013,
+          "number": 602713,
+          "growth_rate": 0.02
+        },
+        {
+          "year": 2014,
+          "number": 602460,
+          "growth_rate": -0.04
+        },
+        {
+          "year": 2015,
+          "number": 601712,
+          "growth_rate": -0.12
+        },
+        {
+          "year": 2016,
+          "number": 600231,
+          "growth_rate": -0.25
+        },
+        {
+          "year": 2017,
+          "number": 599319,
+          "growth_rate": -0.15
+        },
+        {
+          "year": 2018,
+          "number": 597257,
+          "growth_rate": -0.34
+        },
+        {
+          "year": 2019,
+          "number": 595072,
+          "growth_rate": -0.37
+        },
+        {
+          "year": 2020,
+          "number": 587883,
+          "growth_rate": -1.22
+        },
+        {
+          "year": 2021,
+          "number": 585352,
+          "growth_rate": -0.43
+        },
+        {
+          "year": 2022,
+          "number": 581652,
+          "growth_rate": -0.6341044928244765
+        }
+      ]
+    },
+    {
+      "region": "Northern Region",
+      "province": "Phitsanulok Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 854372,
+          "growth_rate": 0.35
+        },
+        {
+          "year": 2013,
+          "number": 856376,
+          "growth_rate": 0.23
+        },
+        {
+          "year": 2014,
+          "number": 858988,
+          "growth_rate": 0.3
+        },
+        {
+          "year": 2015,
+          "number": 863404,
+          "growth_rate": 0.51
+        },
+        {
+          "year": 2016,
+          "number": 865759,
+          "growth_rate": 0.27
+        },
+        {
+          "year": 2017,
+          "number": 865368,
+          "growth_rate": -0.05
+        },
+        {
+          "year": 2018,
+          "number": 866891,
+          "growth_rate": 0.18
+        },
+        {
+          "year": 2019,
+          "number": 865247,
+          "growth_rate": -0.19
+        },
+        {
+          "year": 2020,
+          "number": 849481,
+          "growth_rate": -1.84
+        },
+        {
+          "year": 2021,
+          "number": 847384,
+          "growth_rate": -0.25
+        },
+        {
+          "year": 2022,
+          "number": 844494,
+          "growth_rate": -0.3416325303399382
+        }
+      ]
+    },
+    {
+      "region": "Northern Region",
+      "province": "Phichit Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 549395,
+          "growth_rate": -0.05
+        },
+        {
+          "year": 2013,
+          "number": 548855,
+          "growth_rate": -0.1
+        },
+        {
+          "year": 2014,
+          "number": 547543,
+          "growth_rate": -0.24
+        },
+        {
+          "year": 2015,
+          "number": 545957,
+          "growth_rate": -0.29
+        },
+        {
+          "year": 2016,
+          "number": 543482,
+          "growth_rate": -0.45
+        },
+        {
+          "year": 2017,
+          "number": 541868,
+          "growth_rate": -0.3
+        },
+        {
+          "year": 2018,
+          "number": 539374,
+          "growth_rate": -0.46
+        },
+        {
+          "year": 2019,
+          "number": 536311,
+          "growth_rate": -0.57
+        },
+        {
+          "year": 2020,
+          "number": 532310,
+          "growth_rate": -0.75
+        },
+        {
+          "year": 2021,
+          "number": 529395,
+          "growth_rate": -0.55
+        },
+        {
+          "year": 2022,
+          "number": 525944,
+          "growth_rate": -0.6540101902372338
+        }
+      ]
+    },
+    {
+      "region": "Northern Region",
+      "province": "Phetchabun Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 993702,
+          "growth_rate": 0.29
+        },
+        {
+          "year": 2013,
+          "number": 994397,
+          "growth_rate": 0.07
+        },
+        {
+          "year": 2014,
+          "number": 995807,
+          "growth_rate": 0.14
+        },
+        {
+          "year": 2015,
+          "number": 996986,
+          "growth_rate": 0.12
+        },
+        {
+          "year": 2016,
+          "number": 995223,
+          "growth_rate": -0.18
+        },
+        {
+          "year": 2017,
+          "number": 995331,
+          "growth_rate": 0.01
+        },
+        {
+          "year": 2018,
+          "number": 994540,
+          "growth_rate": -0.08
+        },
+        {
+          "year": 2019,
+          "number": 992451,
+          "growth_rate": -0.21
+        },
+        {
+          "year": 2020,
+          "number": 981940,
+          "growth_rate": -1.06
+        },
+        {
+          "year": 2021,
+          "number": 978372,
+          "growth_rate": -0.36
+        },
+        {
+          "year": 2022,
+          "number": 973386,
+          "growth_rate": -0.510925109198261
+        }
+      ]
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Northeastern Region",
+      "values": [
+        {
+          "year": 2012,
+          "number": 21697488,
+          "growth_rate": 0.52
+        },
+        {
+          "year": 2013,
+          "number": 21775407,
+          "growth_rate": 0.36
+        },
+        {
+          "year": 2014,
+          "number": 21845254,
+          "growth_rate": 0.32
+        },
+        {
+          "year": 2015,
+          "number": 21916034,
+          "growth_rate": 0.32
+        },
+        {
+          "year": 2016,
+          "number": 21945392,
+          "growth_rate": 0.13
+        },
+        {
+          "year": 2017,
+          "number": 21989477,
+          "growth_rate": 0.2
+        },
+        {
+          "year": 2018,
+          "number": 22015239,
+          "growth_rate": 0.12
+        },
+        {
+          "year": 2019,
+          "number": 22014248,
+          "growth_rate": 0
+        },
+        {
+          "year": 2020,
+          "number": 21848228,
+          "growth_rate": -0.76
+        },
+        {
+          "year": 2021,
+          "number": 21826920,
+          "growth_rate": -0.1
+        },
+        {
+          "year": 2022,
+          "number": 21781418,
+          "growth_rate": -0.20868493778968206
+        }
+      ]
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Nakhon Ratchasima Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 2601167,
+          "growth_rate": 0.61
+        },
+        {
+          "year": 2013,
+          "number": 2610164,
+          "growth_rate": 0.35
+        },
+        {
+          "year": 2014,
+          "number": 2620517,
+          "growth_rate": 0.4
+        },
+        {
+          "year": 2015,
+          "number": 2628818,
+          "growth_rate": 0.32
+        },
+        {
+          "year": 2016,
+          "number": 2631435,
+          "growth_rate": 0.1
+        },
+        {
+          "year": 2017,
+          "number": 2639226,
+          "growth_rate": 0.3
+        },
+        {
+          "year": 2018,
+          "number": 2646401,
+          "growth_rate": 0.27
+        },
+        {
+          "year": 2019,
+          "number": 2648927,
+          "growth_rate": 0.1
+        },
+        {
+          "year": 2020,
+          "number": 2633207,
+          "growth_rate": -0.6
+        },
+        {
+          "year": 2021,
+          "number": 2634154,
+          "growth_rate": 0.04
+        },
+        {
+          "year": 2022,
+          "number": 2630058,
+          "growth_rate": -0.15561686446494474
+        }
+      ]
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Buri Ram Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 1566740,
+          "growth_rate": 0.49
+        },
+        {
+          "year": 2013,
+          "number": 1573438,
+          "growth_rate": 0.43
+        },
+        {
+          "year": 2014,
+          "number": 1579248,
+          "growth_rate": 0.37
+        },
+        {
+          "year": 2015,
+          "number": 1584661,
+          "growth_rate": 0.34
+        },
+        {
+          "year": 2016,
+          "number": 1587897,
+          "growth_rate": 0.2
+        },
+        {
+          "year": 2017,
+          "number": 1591905,
+          "growth_rate": 0.25
+        },
+        {
+          "year": 2018,
+          "number": 1594850,
+          "growth_rate": 0.18
+        },
+        {
+          "year": 2019,
+          "number": 1595747,
+          "growth_rate": 0.06
+        },
+        {
+          "year": 2020,
+          "number": 1581184,
+          "growth_rate": -0.92
+        },
+        {
+          "year": 2021,
+          "number": 1579805,
+          "growth_rate": -0.09
+        },
+        {
+          "year": 2022,
+          "number": 1576915,
+          "growth_rate": -0.18310149822737917
+        }
+      ]
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Surin Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 1386277,
+          "growth_rate": 0.42
+        },
+        {
+          "year": 2013,
+          "number": 1388194,
+          "growth_rate": 0.14
+        },
+        {
+          "year": 2014,
+          "number": 1391636,
+          "growth_rate": 0.25
+        },
+        {
+          "year": 2015,
+          "number": 1395024,
+          "growth_rate": 0.24
+        },
+        {
+          "year": 2016,
+          "number": 1395567,
+          "growth_rate": 0.04
+        },
+        {
+          "year": 2017,
+          "number": 1397180,
+          "growth_rate": 0.12
+        },
+        {
+          "year": 2018,
+          "number": 1397857,
+          "growth_rate": 0.05
+        },
+        {
+          "year": 2019,
+          "number": 1396831,
+          "growth_rate": -0.07
+        },
+        {
+          "year": 2020,
+          "number": 1378221,
+          "growth_rate": -1.34
+        },
+        {
+          "year": 2021,
+          "number": 1376230,
+          "growth_rate": -0.14
+        },
+        {
+          "year": 2022,
+          "number": 1372910,
+          "growth_rate": -0.24153019591476318
+        }
+      ]
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Si Sa Ket Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 1458370,
+          "growth_rate": 0.42
+        },
+        {
+          "year": 2013,
+          "number": 1462028,
+          "growth_rate": 0.25
+        },
+        {
+          "year": 2014,
+          "number": 1465213,
+          "growth_rate": 0.22
+        },
+        {
+          "year": 2015,
+          "number": 1468798,
+          "growth_rate": 0.24
+        },
+        {
+          "year": 2016,
+          "number": 1470341,
+          "growth_rate": 0.1
+        },
+        {
+          "year": 2017,
+          "number": 1472031,
+          "growth_rate": 0.11
+        },
+        {
+          "year": 2018,
+          "number": 1473011,
+          "growth_rate": 0.07
+        },
+        {
+          "year": 2019,
+          "number": 1472859,
+          "growth_rate": -0.01
+        },
+        {
+          "year": 2020,
+          "number": 1458580,
+          "growth_rate": -0.97
+        },
+        {
+          "year": 2021,
+          "number": 1457556,
+          "growth_rate": -0.07
+        },
+        {
+          "year": 2022,
+          "number": 1454730,
+          "growth_rate": -0.19407440663504988
+        }
+      ]
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Ubon Ratchathani Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 1826920,
+          "growth_rate": 0.6
+        },
+        {
+          "year": 2013,
+          "number": 1836523,
+          "growth_rate": 0.52
+        },
+        {
+          "year": 2014,
+          "number": 1844669,
+          "growth_rate": 0.44
+        },
+        {
+          "year": 2015,
+          "number": 1857429,
+          "growth_rate": 0.69
+        },
+        {
+          "year": 2016,
+          "number": 1862965,
+          "growth_rate": 0.3
+        },
+        {
+          "year": 2017,
+          "number": 1869633,
+          "growth_rate": 0.36
+        },
+        {
+          "year": 2018,
+          "number": 1874548,
+          "growth_rate": 0.26
+        },
+        {
+          "year": 2019,
+          "number": 1878146,
+          "growth_rate": 0.19
+        },
+        {
+          "year": 2020,
+          "number": 1866697,
+          "growth_rate": -0.61
+        },
+        {
+          "year": 2021,
+          "number": 1868519,
+          "growth_rate": 0.1
+        },
+        {
+          "year": 2022,
+          "number": 1869806,
+          "growth_rate": 0.068854369314938
+        }
+      ]
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Yasothon Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 540267,
+          "growth_rate": 0.26
+        },
+        {
+          "year": 2013,
+          "number": 540383,
+          "growth_rate": 0.02
+        },
+        {
+          "year": 2014,
+          "number": 540211,
+          "growth_rate": -0.03
+        },
+        {
+          "year": 2015,
+          "number": 540182,
+          "growth_rate": -0.01
+        },
+        {
+          "year": 2016,
+          "number": 539815,
+          "growth_rate": -0.07
+        },
+        {
+          "year": 2017,
+          "number": 539542,
+          "growth_rate": -0.05
+        },
+        {
+          "year": 2018,
+          "number": 538729,
+          "growth_rate": -0.15
+        },
+        {
+          "year": 2019,
+          "number": 537299,
+          "growth_rate": -0.27
+        },
+        {
+          "year": 2020,
+          "number": 534500,
+          "growth_rate": -0.52
+        },
+        {
+          "year": 2021,
+          "number": 533394,
+          "growth_rate": -0.21
+        },
+        {
+          "year": 2022,
+          "number": 531599,
+          "growth_rate": -0.33709173670205755
+        }
+      ]
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Chaiyaphum Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 1133034,
+          "growth_rate": 0.5
+        },
+        {
+          "year": 2013,
+          "number": 1135723,
+          "growth_rate": 0.24
+        },
+        {
+          "year": 2014,
+          "number": 1137049,
+          "growth_rate": 0.12
+        },
+        {
+          "year": 2015,
+          "number": 1138252,
+          "growth_rate": 0.11
+        },
+        {
+          "year": 2016,
+          "number": 1138199,
+          "growth_rate": 0
+        },
+        {
+          "year": 2017,
+          "number": 1139356,
+          "growth_rate": 0.1
+        },
+        {
+          "year": 2018,
+          "number": 1138777,
+          "growth_rate": -0.05
+        },
+        {
+          "year": 2019,
+          "number": 1137357,
+          "growth_rate": -0.12
+        },
+        {
+          "year": 2020,
+          "number": 1124924,
+          "growth_rate": -1.1
+        },
+        {
+          "year": 2021,
+          "number": 1122265,
+          "growth_rate": -0.24
+        },
+        {
+          "year": 2022,
+          "number": 1117925,
+          "growth_rate": -0.38746761924141637
+        }
+      ]
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Amnat Charoen Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 373494,
+          "growth_rate": 0.34
+        },
+        {
+          "year": 2013,
+          "number": 374698,
+          "growth_rate": 0.32
+        },
+        {
+          "year": 2014,
+          "number": 375380,
+          "growth_rate": 0.18
+        },
+        {
+          "year": 2015,
+          "number": 376382,
+          "growth_rate": 0.27
+        },
+        {
+          "year": 2016,
+          "number": 377120,
+          "growth_rate": 0.2
+        },
+        {
+          "year": 2017,
+          "number": 378107,
+          "growth_rate": 0.26
+        },
+        {
+          "year": 2018,
+          "number": 378621,
+          "growth_rate": 0.14
+        },
+        {
+          "year": 2019,
+          "number": 378438,
+          "growth_rate": -0.05
+        },
+        {
+          "year": 2020,
+          "number": 376195,
+          "growth_rate": -0.59
+        },
+        {
+          "year": 2021,
+          "number": 376350,
+          "growth_rate": 0.04
+        },
+        {
+          "year": 2022,
+          "number": 375382,
+          "growth_rate": -0.2575387332270754
+        }
+      ]
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Bueng Kan Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 412613,
+          "growth_rate": 1.21
+        },
+        {
+          "year": 2013,
+          "number": 416236,
+          "growth_rate": 0.87
+        },
+        {
+          "year": 2014,
+          "number": 418566,
+          "growth_rate": 0.56
+        },
+        {
+          "year": 2015,
+          "number": 420647,
+          "growth_rate": 0.5
+        },
+        {
+          "year": 2016,
+          "number": 421625,
+          "growth_rate": 0.23
+        },
+        {
+          "year": 2017,
+          "number": 423032,
+          "growth_rate": 0.33
+        },
+        {
+          "year": 2018,
+          "number": 423940,
+          "growth_rate": 0.21
+        },
+        {
+          "year": 2019,
+          "number": 424091,
+          "growth_rate": 0.04
+        },
+        {
+          "year": 2020,
+          "number": 422042,
+          "growth_rate": -0.48
+        },
+        {
+          "year": 2021,
+          "number": 421995,
+          "growth_rate": -0.01
+        },
+        {
+          "year": 2022,
+          "number": 421684,
+          "growth_rate": -0.07372472565670084
+        }
+      ]
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Nong Bua Lam Phu Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 505071,
+          "growth_rate": 0.5
+        },
+        {
+          "year": 2013,
+          "number": 507137,
+          "growth_rate": 0.41
+        },
+        {
+          "year": 2014,
+          "number": 508864,
+          "growth_rate": 0.34
+        },
+        {
+          "year": 2015,
+          "number": 510074,
+          "growth_rate": 0.24
+        },
+        {
+          "year": 2016,
+          "number": 510734,
+          "growth_rate": 0.13
+        },
+        {
+          "year": 2017,
+          "number": 511641,
+          "growth_rate": 0.18
+        },
+        {
+          "year": 2018,
+          "number": 512117,
+          "growth_rate": 0.09
+        },
+        {
+          "year": 2019,
+          "number": 512780,
+          "growth_rate": 0.13
+        },
+        {
+          "year": 2020,
+          "number": 509470,
+          "growth_rate": -0.65
+        },
+        {
+          "year": 2021,
+          "number": 509001,
+          "growth_rate": -0.09
+        },
+        {
+          "year": 2022,
+          "number": 508325,
+          "growth_rate": -0.1328974388729711
+        }
+      ]
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Khon Kaen  Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 1774816,
+          "growth_rate": 0.49
+        },
+        {
+          "year": 2013,
+          "number": 1781655,
+          "growth_rate": 0.38
+        },
+        {
+          "year": 2014,
+          "number": 1790049,
+          "growth_rate": 0.47
+        },
+        {
+          "year": 2015,
+          "number": 1798014,
+          "growth_rate": 0.44
+        },
+        {
+          "year": 2016,
+          "number": 1801753,
+          "growth_rate": 0.21
+        },
+        {
+          "year": 2017,
+          "number": 1805910,
+          "growth_rate": 0.23
+        },
+        {
+          "year": 2018,
+          "number": 1805895,
+          "growth_rate": 0
+        },
+        {
+          "year": 2019,
+          "number": 1802872,
+          "growth_rate": -0.17
+        },
+        {
+          "year": 2020,
+          "number": 1794531,
+          "growth_rate": -0.46
+        },
+        {
+          "year": 2021,
+          "number": 1790863,
+          "growth_rate": -0.2
+        },
+        {
+          "year": 2022,
+          "number": 1784641,
+          "growth_rate": -0.3480352017791963
+        }
+      ]
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Udon Thani Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 1557298,
+          "growth_rate": 0.59
+        },
+        {
+          "year": 2013,
+          "number": 1563964,
+          "growth_rate": 0.43
+        },
+        {
+          "year": 2014,
+          "number": 1570300,
+          "growth_rate": 0.4
+        },
+        {
+          "year": 2015,
+          "number": 1575152,
+          "growth_rate": 0.31
+        },
+        {
+          "year": 2016,
+          "number": 1578783,
+          "growth_rate": 0.23
+        },
+        {
+          "year": 2017,
+          "number": 1583092,
+          "growth_rate": 0.27
+        },
+        {
+          "year": 2018,
+          "number": 1586666,
+          "growth_rate": 0.23
+        },
+        {
+          "year": 2019,
+          "number": 1586646,
+          "growth_rate": 0
+        },
+        {
+          "year": 2020,
+          "number": 1567983,
+          "growth_rate": -1.18
+        },
+        {
+          "year": 2021,
+          "number": 1566510,
+          "growth_rate": -0.09
+        },
+        {
+          "year": 2022,
+          "number": 1563048,
+          "growth_rate": -0.22124539070332913
+        }
+      ]
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Loei Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 629787,
+          "growth_rate": 0.78
+        },
+        {
+          "year": 2013,
+          "number": 632205,
+          "growth_rate": 0.38
+        },
+        {
+          "year": 2014,
+          "number": 634513,
+          "growth_rate": 0.36
+        },
+        {
+          "year": 2015,
+          "number": 638819,
+          "growth_rate": 0.68
+        },
+        {
+          "year": 2016,
+          "number": 639801,
+          "growth_rate": 0.15
+        },
+        {
+          "year": 2017,
+          "number": 641666,
+          "growth_rate": 0.29
+        },
+        {
+          "year": 2018,
+          "number": 642773,
+          "growth_rate": 0.17
+        },
+        {
+          "year": 2019,
+          "number": 642950,
+          "growth_rate": 0.03
+        },
+        {
+          "year": 2020,
+          "number": 638736,
+          "growth_rate": -0.66
+        },
+        {
+          "year": 2021,
+          "number": 638732,
+          "growth_rate": 0
+        },
+        {
+          "year": 2022,
+          "number": 637341,
+          "growth_rate": -0.21801269221219444
+        }
+      ]
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Nong Khai Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 512439,
+          "growth_rate": 0.5
+        },
+        {
+          "year": 2013,
+          "number": 514943,
+          "growth_rate": 0.49
+        },
+        {
+          "year": 2014,
+          "number": 517260,
+          "growth_rate": 0.45
+        },
+        {
+          "year": 2015,
+          "number": 519580,
+          "growth_rate": 0.45
+        },
+        {
+          "year": 2016,
+          "number": 520363,
+          "growth_rate": 0.15
+        },
+        {
+          "year": 2017,
+          "number": 521886,
+          "growth_rate": 0.29
+        },
+        {
+          "year": 2018,
+          "number": 522103,
+          "growth_rate": 0.04
+        },
+        {
+          "year": 2019,
+          "number": 522311,
+          "growth_rate": 0.04
+        },
+        {
+          "year": 2020,
+          "number": 517435,
+          "growth_rate": -0.94
+        },
+        {
+          "year": 2021,
+          "number": 516843,
+          "growth_rate": -0.11
+        },
+        {
+          "year": 2022,
+          "number": 515795,
+          "growth_rate": -0.20297536209291728
+        }
+      ]
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Maha Sarakham Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 945149,
+          "growth_rate": 0.57
+        },
+        {
+          "year": 2013,
+          "number": 955644,
+          "growth_rate": 1.1
+        },
+        {
+          "year": 2014,
+          "number": 960588,
+          "growth_rate": 0.52
+        },
+        {
+          "year": 2015,
+          "number": 964596,
+          "growth_rate": 0.42
+        },
+        {
+          "year": 2016,
+          "number": 963484,
+          "growth_rate": -0.12
+        },
+        {
+          "year": 2017,
+          "number": 963072,
+          "growth_rate": -0.04
+        },
+        {
+          "year": 2018,
+          "number": 963047,
+          "growth_rate": 0
+        },
+        {
+          "year": 2019,
+          "number": 962665,
+          "growth_rate": -0.04
+        },
+        {
+          "year": 2020,
+          "number": 953660,
+          "growth_rate": -0.94
+        },
+        {
+          "year": 2021,
+          "number": 948310,
+          "growth_rate": -0.56
+        },
+        {
+          "year": 2022,
+          "number": 944605,
+          "growth_rate": -0.39146023263782453
+        }
+      ]
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Roi Et Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 1308570,
+          "growth_rate": 0.27
+        },
+        {
+          "year": 2013,
+          "number": 1308958,
+          "growth_rate": 0.03
+        },
+        {
+          "year": 2014,
+          "number": 1308318,
+          "growth_rate": -0.05
+        },
+        {
+          "year": 2015,
+          "number": 1308166,
+          "growth_rate": -0.01
+        },
+        {
+          "year": 2016,
+          "number": 1307982,
+          "growth_rate": -0.01
+        },
+        {
+          "year": 2017,
+          "number": 1307911,
+          "growth_rate": -0.01
+        },
+        {
+          "year": 2018,
+          "number": 1307208,
+          "growth_rate": -0.05
+        },
+        {
+          "year": 2019,
+          "number": 1305211,
+          "growth_rate": -0.15
+        },
+        {
+          "year": 2020,
+          "number": 1298640,
+          "growth_rate": -0.5
+        },
+        {
+          "year": 2021,
+          "number": 1296013,
+          "growth_rate": -0.2
+        },
+        {
+          "year": 2022,
+          "number": 1291131,
+          "growth_rate": -0.37740503000306275
+        }
+      ]
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Kalasin Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 985084,
+          "growth_rate": 0.35
+        },
+        {
+          "year": 2013,
+          "number": 984030,
+          "growth_rate": -0.11
+        },
+        {
+          "year": 2014,
+          "number": 984907,
+          "growth_rate": 0.09
+        },
+        {
+          "year": 2015,
+          "number": 985203,
+          "growth_rate": 0.03
+        },
+        {
+          "year": 2016,
+          "number": 985232,
+          "growth_rate": 0
+        },
+        {
+          "year": 2017,
+          "number": 986005,
+          "growth_rate": 0.08
+        },
+        {
+          "year": 2018,
+          "number": 985346,
+          "growth_rate": -0.07
+        },
+        {
+          "year": 2019,
+          "number": 983418,
+          "growth_rate": -0.2
+        },
+        {
+          "year": 2020,
+          "number": 977175,
+          "growth_rate": -0.64
+        },
+        {
+          "year": 2021,
+          "number": 975570,
+          "growth_rate": -0.16
+        },
+        {
+          "year": 2022,
+          "number": 972101,
+          "growth_rate": -0.356220703421665
+        }
+      ]
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Sakon Nakhon Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 1129174,
+          "growth_rate": 0.52
+        },
+        {
+          "year": 2013,
+          "number": 1134322,
+          "growth_rate": 0.45
+        },
+        {
+          "year": 2014,
+          "number": 1138609,
+          "growth_rate": 0.38
+        },
+        {
+          "year": 2015,
+          "number": 1142737,
+          "growth_rate": 0.36
+        },
+        {
+          "year": 2016,
+          "number": 1145949,
+          "growth_rate": 0.28
+        },
+        {
+          "year": 2017,
+          "number": 1149472,
+          "growth_rate": 0.31
+        },
+        {
+          "year": 2018,
+          "number": 1152282,
+          "growth_rate": 0.24
+        },
+        {
+          "year": 2019,
+          "number": 1153390,
+          "growth_rate": 0.1
+        },
+        {
+          "year": 2020,
+          "number": 1146936,
+          "growth_rate": -0.56
+        },
+        {
+          "year": 2021,
+          "number": 1146286,
+          "growth_rate": -0.06
+        },
+        {
+          "year": 2022,
+          "number": 1145187,
+          "growth_rate": -0.09592084080973282
+        }
+      ]
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Nakhon Phanom Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 708350,
+          "growth_rate": 0.51
+        },
+        {
+          "year": 2013,
+          "number": 710860,
+          "growth_rate": 0.35
+        },
+        {
+          "year": 2014,
+          "number": 713341,
+          "growth_rate": 0.35
+        },
+        {
+          "year": 2015,
+          "number": 715399,
+          "growth_rate": 0.29
+        },
+        {
+          "year": 2016,
+          "number": 716873,
+          "growth_rate": 0.21
+        },
+        {
+          "year": 2017,
+          "number": 718028,
+          "growth_rate": 0.16
+        },
+        {
+          "year": 2018,
+          "number": 718786,
+          "growth_rate": 0.11
+        },
+        {
+          "year": 2019,
+          "number": 719136,
+          "growth_rate": 0.05
+        },
+        {
+          "year": 2020,
+          "number": 717201,
+          "growth_rate": -0.27
+        },
+        {
+          "year": 2021,
+          "number": 717040,
+          "growth_rate": -0.02
+        },
+        {
+          "year": 2022,
+          "number": 716647,
+          "growth_rate": -0.05482368325073194
+        }
+      ]
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Mukdahan Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 342868,
+          "growth_rate": 0.67
+        },
+        {
+          "year": 2013,
+          "number": 344302,
+          "growth_rate": 0.42
+        },
+        {
+          "year": 2014,
+          "number": 346016,
+          "growth_rate": 0.5
+        },
+        {
+          "year": 2015,
+          "number": 348101,
+          "growth_rate": 0.6
+        },
+        {
+          "year": 2016,
+          "number": 349474,
+          "growth_rate": 0.39
+        },
+        {
+          "year": 2017,
+          "number": 350782,
+          "growth_rate": 0.37
+        },
+        {
+          "year": 2018,
+          "number": 352282,
+          "growth_rate": 0.43
+        },
+        {
+          "year": 2019,
+          "number": 353174,
+          "growth_rate": 0.25
+        },
+        {
+          "year": 2020,
+          "number": 350911,
+          "growth_rate": -0.64
+        },
+        {
+          "year": 2021,
+          "number": 351484,
+          "growth_rate": 0.16
+        },
+        {
+          "year": 2022,
+          "number": 351588,
+          "growth_rate": 0.02958445244827353
+        }
+      ]
+    },
+    {
+      "region": "Southern Region",
+      "province": "Southern Region",
+      "values": [
+        {
+          "year": 2012,
+          "number": 9060189,
+          "growth_rate": 0.98
+        },
+        {
+          "year": 2013,
+          "number": 9131425,
+          "growth_rate": 0.78
+        },
+        {
+          "year": 2014,
+          "number": 9208504,
+          "growth_rate": 0.84
+        },
+        {
+          "year": 2015,
+          "number": 9290708,
+          "growth_rate": 0.89
+        },
+        {
+          "year": 2016,
+          "number": 9341162,
+          "growth_rate": 0.54
+        },
+        {
+          "year": 2017,
+          "number": 9399578,
+          "growth_rate": 0.62
+        },
+        {
+          "year": 2018,
+          "number": 9454193,
+          "growth_rate": 0.58
+        },
+        {
+          "year": 2019,
+          "number": 9493757,
+          "growth_rate": 0.42
+        },
+        {
+          "year": 2020,
+          "number": 9467901,
+          "growth_rate": -0.27
+        },
+        {
+          "year": 2021,
+          "number": 9492267,
+          "growth_rate": 0.26
+        },
+        {
+          "year": 2022,
+          "number": 9496991,
+          "growth_rate": 0.04975444640809895
+        }
+      ]
+    },
+    {
+      "region": "Southern Region",
+      "province": "Nakhon Si Thammarat Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 1534887,
+          "growth_rate": 0.58
+        },
+        {
+          "year": 2013,
+          "number": 1541843,
+          "growth_rate": 0.45
+        },
+        {
+          "year": 2014,
+          "number": 1548028,
+          "growth_rate": 0.4
+        },
+        {
+          "year": 2015,
+          "number": 1552530,
+          "growth_rate": 0.29
+        },
+        {
+          "year": 2016,
+          "number": 1554432,
+          "growth_rate": 0.12
+        },
+        {
+          "year": 2017,
+          "number": 1557482,
+          "growth_rate": 0.2
+        },
+        {
+          "year": 2018,
+          "number": 1560433,
+          "growth_rate": 0.19
+        },
+        {
+          "year": 2019,
+          "number": 1561927,
+          "growth_rate": 0.1
+        },
+        {
+          "year": 2020,
+          "number": 1550721,
+          "growth_rate": -0.72
+        },
+        {
+          "year": 2021,
+          "number": 1549344,
+          "growth_rate": -0.09
+        },
+        {
+          "year": 2022,
+          "number": 1545147,
+          "growth_rate": -0.27125640846662874
+        }
+      ]
+    },
+    {
+      "region": "Southern Region",
+      "province": "Krabi Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 444967,
+          "growth_rate": 1.57
+        },
+        {
+          "year": 2013,
+          "number": 450890,
+          "growth_rate": 1.32
+        },
+        {
+          "year": 2014,
+          "number": 456811,
+          "growth_rate": 1.3
+        },
+        {
+          "year": 2015,
+          "number": 462101,
+          "growth_rate": 1.15
+        },
+        {
+          "year": 2016,
+          "number": 465931,
+          "growth_rate": 0.83
+        },
+        {
+          "year": 2017,
+          "number": 469769,
+          "growth_rate": 0.82
+        },
+        {
+          "year": 2018,
+          "number": 473738,
+          "growth_rate": 0.84
+        },
+        {
+          "year": 2019,
+          "number": 476739,
+          "growth_rate": 0.63
+        },
+        {
+          "year": 2020,
+          "number": 477770,
+          "growth_rate": 0.22
+        },
+        {
+          "year": 2021,
+          "number": 479351,
+          "growth_rate": 0.33
+        },
+        {
+          "year": 2022,
+          "number": 480057,
+          "growth_rate": 0.1471741172544473
+        }
+      ]
+    },
+    {
+      "region": "Southern Region",
+      "province": "Phangnga Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 257493,
+          "growth_rate": 1
+        },
+        {
+          "year": 2013,
+          "number": 259420,
+          "growth_rate": 0.75
+        },
+        {
+          "year": 2014,
+          "number": 261370,
+          "growth_rate": 0.75
+        },
+        {
+          "year": 2015,
+          "number": 264074,
+          "growth_rate": 1.03
+        },
+        {
+          "year": 2016,
+          "number": 265579,
+          "growth_rate": 0.57
+        },
+        {
+          "year": 2017,
+          "number": 267491,
+          "growth_rate": 0.72
+        },
+        {
+          "year": 2018,
+          "number": 268240,
+          "growth_rate": 0.28
+        },
+        {
+          "year": 2019,
+          "number": 268788,
+          "growth_rate": 0.2
+        },
+        {
+          "year": 2020,
+          "number": 268229,
+          "growth_rate": -0.21
+        },
+        {
+          "year": 2021,
+          "number": 268016,
+          "growth_rate": -0.08
+        },
+        {
+          "year": 2022,
+          "number": 267442,
+          "growth_rate": -0.21439598245575156
+        }
+      ]
+    },
+    {
+      "region": "Southern Region",
+      "province": "Phuket Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 360905,
+          "growth_rate": 1.98
+        },
+        {
+          "year": 2013,
+          "number": 369522,
+          "growth_rate": 2.36
+        },
+        {
+          "year": 2014,
+          "number": 378364,
+          "growth_rate": 2.36
+        },
+        {
+          "year": 2015,
+          "number": 386605,
+          "growth_rate": 2.15
+        },
+        {
+          "year": 2016,
+          "number": 394169,
+          "growth_rate": 1.94
+        },
+        {
+          "year": 2017,
+          "number": 402017,
+          "growth_rate": 1.97
+        },
+        {
+          "year": 2018,
+          "number": 410211,
+          "growth_rate": 2.02
+        },
+        {
+          "year": 2019,
+          "number": 416582,
+          "growth_rate": 1.54
+        },
+        {
+          "year": 2020,
+          "number": 414471,
+          "growth_rate": -0.51
+        },
+        {
+          "year": 2021,
+          "number": 418785,
+          "growth_rate": 1.04
+        },
+        {
+          "year": 2022,
+          "number": 417891,
+          "growth_rate": -0.21370287667708984
+        }
+      ]
+    },
+    {
+      "region": "Southern Region",
+      "province": "Surat Thani Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 1023288,
+          "growth_rate": 1.1
+        },
+        {
+          "year": 2013,
+          "number": 1031812,
+          "growth_rate": 0.83
+        },
+        {
+          "year": 2014,
+          "number": 1040230,
+          "growth_rate": 0.81
+        },
+        {
+          "year": 2015,
+          "number": 1046772,
+          "growth_rate": 0.63
+        },
+        {
+          "year": 2016,
+          "number": 1050913,
+          "growth_rate": 0.39
+        },
+        {
+          "year": 2017,
+          "number": 1057581,
+          "growth_rate": 0.63
+        },
+        {
+          "year": 2018,
+          "number": 1063501,
+          "growth_rate": 0.56
+        },
+        {
+          "year": 2019,
+          "number": 1068010,
+          "growth_rate": 0.42
+        },
+        {
+          "year": 2020,
+          "number": 1067726,
+          "growth_rate": -0.03
+        },
+        {
+          "year": 2021,
+          "number": 1072464,
+          "growth_rate": 0.44
+        },
+        {
+          "year": 2022,
+          "number": 1073663,
+          "growth_rate": 0.1117361763535545
+        }
+      ]
+    },
+    {
+      "region": "Southern Region",
+      "province": "Ranong Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 182648,
+          "growth_rate": -0.66
+        },
+        {
+          "year": 2013,
+          "number": 174776,
+          "growth_rate": -4.41
+        },
+        {
+          "year": 2014,
+          "number": 177089,
+          "growth_rate": 1.31
+        },
+        {
+          "year": 2015,
+          "number": 187536,
+          "growth_rate": 5.73
+        },
+        {
+          "year": 2016,
+          "number": 189154,
+          "growth_rate": 0.86
+        },
+        {
+          "year": 2017,
+          "number": 190399,
+          "growth_rate": 0.66
+        },
+        {
+          "year": 2018,
+          "number": 191868,
+          "growth_rate": 0.77
+        },
+        {
+          "year": 2019,
+          "number": 193370,
+          "growth_rate": 0.78
+        },
+        {
+          "year": 2020,
+          "number": 194372,
+          "growth_rate": 0.52
+        },
+        {
+          "year": 2021,
+          "number": 194573,
+          "growth_rate": 0.1
+        },
+        {
+          "year": 2022,
+          "number": 194226,
+          "growth_rate": -0.17849844888150113
+        }
+      ]
+    },
+    {
+      "region": "Southern Region",
+      "province": "Chumphon Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 495310,
+          "growth_rate": 0.63
+        },
+        {
+          "year": 2013,
+          "number": 498294,
+          "growth_rate": 0.6
+        },
+        {
+          "year": 2014,
+          "number": 500575,
+          "growth_rate": 0.46
+        },
+        {
+          "year": 2015,
+          "number": 505830,
+          "growth_rate": 1.04
+        },
+        {
+          "year": 2016,
+          "number": 507604,
+          "growth_rate": 0.35
+        },
+        {
+          "year": 2017,
+          "number": 509650,
+          "growth_rate": 0.4
+        },
+        {
+          "year": 2018,
+          "number": 510963,
+          "growth_rate": 0.26
+        },
+        {
+          "year": 2019,
+          "number": 511304,
+          "growth_rate": 0.07
+        },
+        {
+          "year": 2020,
+          "number": 509208,
+          "growth_rate": -0.41
+        },
+        {
+          "year": 2021,
+          "number": 509479,
+          "growth_rate": 0.05
+        },
+        {
+          "year": 2022,
+          "number": 509385,
+          "growth_rate": -0.01845192297827746
+        }
+      ]
+    },
+    {
+      "region": "Southern Region",
+      "province": "Songkhla Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 1378574,
+          "growth_rate": 0.84
+        },
+        {
+          "year": 2013,
+          "number": 1389890,
+          "growth_rate": 0.82
+        },
+        {
+          "year": 2014,
+          "number": 1401303,
+          "growth_rate": 0.82
+        },
+        {
+          "year": 2015,
+          "number": 1410577,
+          "growth_rate": 0.66
+        },
+        {
+          "year": 2016,
+          "number": 1417440,
+          "growth_rate": 0.49
+        },
+        {
+          "year": 2017,
+          "number": 1424230,
+          "growth_rate": 0.48
+        },
+        {
+          "year": 2018,
+          "number": 1432628,
+          "growth_rate": 0.59
+        },
+        {
+          "year": 2019,
+          "number": 1435968,
+          "growth_rate": 0.23
+        },
+        {
+          "year": 2020,
+          "number": 1428609,
+          "growth_rate": -0.51
+        },
+        {
+          "year": 2021,
+          "number": 1431536,
+          "growth_rate": 0.2
+        },
+        {
+          "year": 2022,
+          "number": 1431063,
+          "growth_rate": -0.03304689230344237
+        }
+      ]
+    },
+    {
+      "region": "Southern Region",
+      "province": "Satun  Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 305879,
+          "growth_rate": 1.45
+        },
+        {
+          "year": 2013,
+          "number": 309793,
+          "growth_rate": 1.27
+        },
+        {
+          "year": 2014,
+          "number": 312673,
+          "growth_rate": 0.93
+        },
+        {
+          "year": 2015,
+          "number": 315923,
+          "growth_rate": 1.03
+        },
+        {
+          "year": 2016,
+          "number": 317612,
+          "growth_rate": 0.53
+        },
+        {
+          "year": 2017,
+          "number": 319700,
+          "growth_rate": 0.66
+        },
+        {
+          "year": 2018,
+          "number": 321574,
+          "growth_rate": 0.58
+        },
+        {
+          "year": 2019,
+          "number": 323586,
+          "growth_rate": 0.62
+        },
+        {
+          "year": 2020,
+          "number": 324098,
+          "growth_rate": 0.16
+        },
+        {
+          "year": 2021,
+          "number": 324835,
+          "growth_rate": 0.23
+        },
+        {
+          "year": 2022,
+          "number": 325303,
+          "growth_rate": 0.14396945904904143
+        }
+      ]
+    },
+    {
+      "region": "Southern Region",
+      "province": "Trang Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 631920,
+          "growth_rate": 0.83
+        },
+        {
+          "year": 2013,
+          "number": 636043,
+          "growth_rate": 0.65
+        },
+        {
+          "year": 2014,
+          "number": 638746,
+          "growth_rate": 0.42
+        },
+        {
+          "year": 2015,
+          "number": 640793,
+          "growth_rate": 0.32
+        },
+        {
+          "year": 2016,
+          "number": 641684,
+          "growth_rate": 0.14
+        },
+        {
+          "year": 2017,
+          "number": 643072,
+          "growth_rate": 0.22
+        },
+        {
+          "year": 2018,
+          "number": 643116,
+          "growth_rate": 0.01
+        },
+        {
+          "year": 2019,
+          "number": 643164,
+          "growth_rate": 0.01
+        },
+        {
+          "year": 2020,
+          "number": 640574,
+          "growth_rate": -0.4
+        },
+        {
+          "year": 2021,
+          "number": 639788,
+          "growth_rate": -0.12
+        },
+        {
+          "year": 2022,
+          "number": 638206,
+          "growth_rate": -0.24757562368134528
+        }
+      ]
+    },
+    {
+      "region": "Southern Region",
+      "province": "Phattalung Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 514492,
+          "growth_rate": 0.67
+        },
+        {
+          "year": 2013,
+          "number": 518021,
+          "growth_rate": 0.68
+        },
+        {
+          "year": 2014,
+          "number": 520419,
+          "growth_rate": 0.46
+        },
+        {
+          "year": 2015,
+          "number": 522723,
+          "growth_rate": 0.44
+        },
+        {
+          "year": 2016,
+          "number": 523723,
+          "growth_rate": 0.19
+        },
+        {
+          "year": 2017,
+          "number": 524857,
+          "growth_rate": 0.22
+        },
+        {
+          "year": 2018,
+          "number": 525044,
+          "growth_rate": 0.04
+        },
+        {
+          "year": 2019,
+          "number": 524865,
+          "growth_rate": -0.03
+        },
+        {
+          "year": 2020,
+          "number": 523077,
+          "growth_rate": -0.34
+        },
+        {
+          "year": 2021,
+          "number": 522541,
+          "growth_rate": -0.1
+        },
+        {
+          "year": 2022,
+          "number": 521619,
+          "growth_rate": -0.1766013330577766
+        }
+      ]
+    },
+    {
+      "region": "Southern Region",
+      "province": "Pattani Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 671615,
+          "growth_rate": 1.22
+        },
+        {
+          "year": 2013,
+          "number": 678838,
+          "growth_rate": 1.07
+        },
+        {
+          "year": 2014,
+          "number": 686186,
+          "growth_rate": 1.08
+        },
+        {
+          "year": 2015,
+          "number": 694023,
+          "growth_rate": 1.14
+        },
+        {
+          "year": 2016,
+          "number": 700961,
+          "growth_rate": 0.99
+        },
+        {
+          "year": 2017,
+          "number": 709796,
+          "growth_rate": 1.25
+        },
+        {
+          "year": 2018,
+          "number": 718077,
+          "growth_rate": 1.16
+        },
+        {
+          "year": 2019,
+          "number": 725104,
+          "growth_rate": 0.97
+        },
+        {
+          "year": 2020,
+          "number": 726015,
+          "growth_rate": 0.13
+        },
+        {
+          "year": 2021,
+          "number": 729581,
+          "growth_rate": 0.49
+        },
+        {
+          "year": 2022,
+          "number": 732955,
+          "growth_rate": 0.46139117061389096
+        }
+      ]
+    },
+    {
+      "region": "Southern Region",
+      "province": "Yala Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 500814,
+          "growth_rate": 1.42
+        },
+        {
+          "year": 2013,
+          "number": 506138,
+          "growth_rate": 1.06
+        },
+        {
+          "year": 2014,
+          "number": 511911,
+          "growth_rate": 1.13
+        },
+        {
+          "year": 2015,
+          "number": 518139,
+          "growth_rate": 1.21
+        },
+        {
+          "year": 2016,
+          "number": 522279,
+          "growth_rate": 0.8
+        },
+        {
+          "year": 2017,
+          "number": 527295,
+          "growth_rate": 0.96
+        },
+        {
+          "year": 2018,
+          "number": 532326,
+          "growth_rate": 0.95
+        },
+        {
+          "year": 2019,
+          "number": 536330,
+          "growth_rate": 0.75
+        },
+        {
+          "year": 2020,
+          "number": 538602,
+          "growth_rate": 0.42
+        },
+        {
+          "year": 2021,
+          "number": 542314,
+          "growth_rate": 0.69
+        },
+        {
+          "year": 2022,
+          "number": 545913,
+          "growth_rate": 0.661445290668352
+        }
+      ]
+    },
+    {
+      "region": "Southern Region",
+      "province": "Narathiwat Province",
+      "values": [
+        {
+          "year": 2012,
+          "number": 757397,
+          "growth_rate": 1.33
+        },
+        {
+          "year": 2013,
+          "number": 766145,
+          "growth_rate": 1.15
+        },
+        {
+          "year": 2014,
+          "number": 774799,
+          "growth_rate": 1.12
+        },
+        {
+          "year": 2015,
+          "number": 783082,
+          "growth_rate": 1.06
+        },
+        {
+          "year": 2016,
+          "number": 789681,
+          "growth_rate": 0.84
+        },
+        {
+          "year": 2017,
+          "number": 796239,
+          "growth_rate": 0.83
+        },
+        {
+          "year": 2018,
+          "number": 802474,
+          "growth_rate": 0.78
+        },
+        {
+          "year": 2019,
+          "number": 808020,
+          "growth_rate": 0.69
+        },
+        {
+          "year": 2020,
+          "number": 804429,
+          "growth_rate": -0.45
+        },
+        {
+          "year": 2021,
+          "number": 809660,
+          "growth_rate": 0.65
+        },
+        {
+          "year": 2022,
+          "number": 814121,
+          "growth_rate": 0.5494597144995547
+        }
+      ]
+    }
   ],
   "source": "Department of Provincial Administration, Ministry of Interior",
   "source_file": "SRC-013.xlsx"
