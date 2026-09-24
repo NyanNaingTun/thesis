@@ -148,7 +148,11 @@
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
           },
-          "id": "SRC-009"
+          "id": "SRC-009",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-009.json",
+          "completed_at": "2026-09-25",
+          "processed_commit": "4db9bb1a5447352d2c88a86b45451ffc387b45ba"
         },
         {
           "name": "Life expectancy",
@@ -161,7 +165,11 @@
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
           },
-          "id": "SRC-010"
+          "id": "SRC-010",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-010.json",
+          "completed_at": "2026-09-25",
+          "processed_commit": "09cddb9284e2c1d475e8e07cbea4ebd621dcfad9"
         },
         {
           "name": "Life expectancy above 60",
@@ -174,7 +182,11 @@
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
           },
-          "id": "SRC-011"
+          "id": "SRC-011",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-011.json",
+          "completed_at": "2026-09-25",
+          "processed_commit": "982b6c94fe9266334d26122783fdf71f54637570"
         },
         {
           "name": "Elderly population",
@@ -188,7 +200,11 @@
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
           },
-          "id": "SRC-012"
+          "id": "SRC-012",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-012.json",
+          "completed_at": "2026-09-25",
+          "processed_commit": "a35969ae0fefc6f9a54f627fdd59cbdf114f6df6"
         },
         {
           "name": "Population growth rate",
@@ -202,7 +218,11 @@
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
           },
-          "id": "SRC-013"
+          "id": "SRC-013",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-013.json",
+          "completed_at": "2026-09-25",
+          "processed_commit": "f182645c403afbbe765893a24379316c7246bf61"
         },
         {
           "name": "Population by age group",
