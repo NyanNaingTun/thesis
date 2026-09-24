@@ -4,8 +4,5056 @@
   "country": "Thailand",
   "unit": "Person",
   "data": [
-    {"year":2021,"records":[{"region":"Whole Kingdom","province":"Whole kingdom","age_groups":[{"age_group":"Total","total":13358751,"male":5974022,"female":7384729},{"age_group":"60-69 year","total":7645141,"male":3552956,"female":4092185},{"age_group":"70-79 year","total":3942668,"male":1740244,"female":2202424},{"age_group":"80 year and over","total":1770942,"male":680822,"female":1090120}]},{"region":"Whole Kingdom","province":"Municipal area","age_groups":[{"age_group":"Total","total":5560347,"male":2453773,"female":3106574},{"age_group":"60-69 year","total":3245350,"male":1491128,"female":1754222},{"age_group":"70-79 year","total":1602668,"male":693426,"female":909242},{"age_group":"80 year and over","total":712329,"male":269219,"female":443110}]},{"region":"Whole Kingdom","province":"Non-municipal area","age_groups":[{"age_group":"Total","total":7798404,"male":3520249,"female":4278155},{"age_group":"60-69 year","total":4399791,"male":2061828,"female":2337963},{"age_group":"70-79 year","total":2340000,"male":1046818,"female":1293182},{"age_group":"80 year and over","total":1058613,"male":411603,"female":647010}]},{"region":"Bangkok","province":"Bangkok","age_groups":[{"age_group":"Total","total":1342826,"male":589175,"female":753651},{"age_group":"60-69 year","total":826009,"male":378757,"female":447252},{"age_group":"70-79 year","total":365262,"male":154097,"female":211165},{"age_group":"80 year and over","total":151555,"male":56321,"female":95234}]},{"region":"Central Region","province":"Central region","age_groups":[{"age_group":"Total","total":3518228,"male":1540293,"female":1977935},{"age_group":"60-69 year","total":2045818,"male":935789,"female":1110029},{"age_group":"70-79 year","total":1005596,"male":429348,"female":576248},{"age_group":"80 year and over","total":466814,"male":175156,"female":291658}]},{"region":"Central Region","province":"Samut Prakan","age_groups":[{"age_group":"Total","total":320274,"male":137830,"female":182444},{"age_group":"60-69 year","total":196729,"male":88958,"female":107771},{"age_group":"70-79 year","total":87202,"male":35835,"female":51367},{"age_group":"80 year and over","total":36343,"male":13037,"female":23306}]},{"region":"Central Region","province":"Nonthaburi","age_groups":[{"age_group":"Total","total":302803,"male":128189,"female":174614},{"age_group":"60-69 year","total":187814,"male":82638,"female":105176},{"age_group":"70-79 year","total":83347,"male":34707,"female":48640},{"age_group":"80 year and over","total":31642,"male":10844,"female":20798}]},{"region":"Central Region","province":"Pathum Thani","age_groups":[{"age_group":"Total","total":219289,"male":98456,"female":120833},{"age_group":"60-69 year","total":136226,"male":62393,"female":73833},{"age_group":"70-79 year","total":59429,"male":26114,"female":33315},{"age_group":"80 year and over","total":23634,"male":9949,"female":13685}]},{"region":"Central Region","province":"Phra Nakhon Si Ayutthaya","age_groups":[{"age_group":"Total","total":156786,"male":65807,"female":90979},{"age_group":"60-69 year","total":85779,"male":37721,"female":48058},{"age_group":"70-79 year","total":45984,"male":19082,"female":26902},{"age_group":"80 year and over","total":25023,"male":9004,"female":16019}]},{"region":"Central Region","province":"Ang Thong","age_groups":[{"age_group":"Total","total":66174,"male":27208,"female":38966},{"age_group":"60-69 year","total":34951,"male":15235,"female":19716},{"age_group":"70-79 year","total":20457,"male":8181,"female":12276},{"age_group":"80 year and over","total":10766,"male":3792,"female":6974}]},{"region":"Central Region","province":"Lop Buri","age_groups":[{"age_group":"Total","total":166755,"male":74161,"female":92594},{"age_group":"60-69 year","total":94839,"male":43615,"female":51224},{"age_group":"70-79 year","total":48282,"male":21076,"female":27206},{"age_group":"80 year and over","total":23634,"male":9470,"female":14164}]},{"region":"Central Region","province":"Sing Buri","age_groups":[{"age_group":"Total","total":54552,"male":23174,"female":31378},{"age_group":"60-69 year","total":30153,"male":13428,"female":16725},{"age_group":"70-79 year","total":16331,"male":6807,"female":9524},{"age_group":"80 year and over","total":8068,"male":2939,"female":5129}]},{"region":"Central Region","province":"Chai Nat","age_groups":[{"age_group":"Total","total":85752,"male":36844,"female":48908},{"age_group":"60-69 year","total":47335,"male":21184,"female":26151},{"age_group":"70-79 year","total":25589,"male":10805,"female":14784},{"age_group":"80 year and over","total":12828,"male":4855,"female":7973}]},{"region":"Central Region","province":"Saraburi","age_groups":[{"age_group":"Total","total":128638,"male":55320,"female":73318},{"age_group":"60-69 year","total":73791,"male":33170,"female":40621},{"age_group":"70-79 year","total":36380,"male":15297,"female":21083},{"age_group":"80 year and over","total":18467,"male":6853,"female":11614}]},{"region":"Central Region","province":"Chon Buri","age_groups":[{"age_group":"Total","total":218071,"male":107107,"female":110964},{"age_group":"60-69 year","total":139962,"male":72974,"female":66988},{"age_group":"70-79 year","total":54752,"male":24863,"female":29889},{"age_group":"80 year and over","total":23357,"male":9270,"female":14087}]},{"region":"Central Region","province":"Rayong","age_groups":[{"age_group":"Total","total":117611,"male":52377,"female":65234},{"age_group":"60-69 year","total":70999,"male":32999,"female":38000},{"age_group":"70-79 year","total":32709,"male":14231,"female":18478},{"age_group":"80 year and over","total":13903,"male":5147,"female":8756}]},{"region":"Central Region","province":"Chanthaburi","age_groups":[{"age_group":"Total","total":104235,"male":47360,"female":56875},{"age_group":"60-69 year","total":57716,"male":27555,"female":30161},{"age_group":"70-79 year","total":31236,"male":13870,"female":17366},{"age_group":"80 year and over","total":15283,"male":5935,"female":9348}]},{"region":"Central Region","province":"Trat","age_groups":[{"age_group":"Total","total":49025,"male":23054,"female":25971},{"age_group":"60-69 year","total":28687,"male":13825,"female":14862},{"age_group":"70-79 year","total":14093,"male":6649,"female":7444},{"age_group":"80 year and over","total":6245,"male":2580,"female":3665}]},{"region":"Central Region","province":"Chachoengsao","age_groups":[{"age_group":"Total","total":153891,"male":67525,"female":86366},{"age_group":"60-69 year","total":85738,"male":39421,"female":46317},{"age_group":"70-79 year","total":44795,"male":19431,"female":25364},{"age_group":"80 year and over","total":23358,"male":8673,"female":14685}]},{"region":"Central Region","province":"Prachin Buri","age_groups":[{"age_group":"Total","total":120036,"male":51630,"female":68406},{"age_group":"60-69 year","total":66347,"male":29912,"female":36435},{"age_group":"70-79 year","total":35848,"male":15018,"female":20830},{"age_group":"80 year and over","total":17841,"male":6700,"female":11141}]},{"region":"Central Region","province":"Nakhon Nayok","age_groups":[{"age_group":"Total","total":62836,"male":26992,"female":35844},{"age_group":"60-69 year","total":34052,"male":15200,"female":18852},{"age_group":"70-79 year","total":19117,"male":8200,"female":10917},{"age_group":"80 year and over","total":9667,"male":3592,"female":6075}]},{"region":"Central Region","province":"Sa Kaeo","age_groups":[{"age_group":"Total","total":113772,"male":51632,"female":62140},{"age_group":"60-69 year","total":68561,"male":32276,"female":36285},{"age_group":"70-79 year","total":32500,"male":14406,"female":18094},{"age_group":"80 year and over","total":12711,"male":4950,"female":7761}]},{"region":"Central Region","province":"Ratchaburi","age_groups":[{"age_group":"Total","total":175942,"male":74936,"female":101006},{"age_group":"60-69 year","total":96264,"male":42654,"female":53610},{"age_group":"70-79 year","total":52513,"male":22238,"female":30275},{"age_group":"80 year and over","total":27165,"male":10044,"female":17121}]},{"region":"Central Region","province":"Kanchanaburi","age_groups":[{"age_group":"Total","total":146071,"male":66274,"female":79797},{"age_group":"60-69 year","total":86451,"male":40551,"female":45900},{"age_group":"70-79 year","total":41068,"male":18605,"female":22463},{"age_group":"80 year and over","total":18552,"male":7118,"female":11434}]},{"region":"Central Region","province":"Suphan Buri","age_groups":[{"age_group":"Total","total":217297,"male":93268,"female":124029},{"age_group":"60-69 year","total":120072,"male":53475,"female":66597},{"age_group":"70-79 year","total":66235,"male":28259,"female":37976},{"age_group":"80 year and over","total":30990,"male":11534,"female":19456}]},{"region":"Central Region","province":"Nakhon Pathom","age_groups":[{"age_group":"Total","total":201754,"male":85536,"female":116218},{"age_group":"60-69 year","total":114110,"male":50872,"female":63238},{"age_group":"70-79 year","total":59485,"male":24032,"female":35453},{"age_group":"80 year and over","total":28159,"male":10632,"female":17527}]},{"region":"Central Region","province":"Samut Sakhon","age_groups":[{"age_group":"Total","total":102220,"male":43894,"female":58326},{"age_group":"60-69 year","total":61108,"male":27548,"female":33560},{"age_group":"70-79 year","total":28954,"male":11859,"female":17095},{"age_group":"80 year and over","total":12158,"male":4487,"female":7671}]},{"region":"Central Region","province":"Samut Songkhram","age_groups":[{"age_group":"Total","total":50798,"male":20926,"female":29872},{"age_group":"60-69 year","total":26827,"male":11625,"female":15202},{"age_group":"70-79 year","total":15326,"male":6385,"female":8941},{"age_group":"80 year and over","total":8645,"male":2916,"female":5729}]},{"region":"Central Region","province":"Phetchaburi","age_groups":[{"age_group":"Total","total":105800,"male":45638,"female":60162},{"age_group":"60-69 year","total":57261,"male":25868,"female":31393},{"age_group":"70-79 year","total":31388,"male":13334,"female":18054},{"age_group":"80 year and over","total":17151,"male":6436,"female":10715}]},{"region":"Central Region","province":"Prachuap Khiri Khan","age_groups":[{"age_group":"Total","total":77846,"male":35155,"female":42691},{"age_group":"60-69 year","total":44046,"male":20692,"female":23354},{"age_group":"70-79 year","total":22576,"male":10064,"female":12512},{"age_group":"80 year and over","total":11224,"male":4399,"female":6825}]},{"region":"Northern Region","province":"Northern region","age_groups":[{"age_group":"Total","total":2810618,"male":1278780,"female":1531838},{"age_group":"60-69 year","total":1632743,"male":762599,"female":870144},{"age_group":"70-79 year","total":800688,"male":364448,"female":436240},{"age_group":"80 year and over","total":377187,"male":151733,"female":225454}]},{"region":"Northern Region","province":"Chiang Mai","age_groups":[{"age_group":"Total","total":359752,"male":167363,"female":192389},{"age_group":"60-69 year","total":200437,"male":95420,"female":105017},{"age_group":"70-79 year","total":104074,"male":48182,"female":55892},{"age_group":"80 year and over","total":55241,"male":23761,"female":31480}]},{"region":"Northern Region","province":"Lamphun","age_groups":[{"age_group":"Total","total":99013,"male":46193,"female":52820},{"age_group":"60-69 year","total":56298,"male":26686,"female":29612},{"age_group":"70-79 year","total":27809,"male":13164,"female":14645},{"age_group":"80 year and over","total":14906,"male":6343,"female":8563}]},{"region":"Northern Region","province":"Lampang","age_groups":[{"age_group":"Total","total":206790,"male":96591,"female":110199},{"age_group":"60-69 year","total":115454,"male":55543,"female":59911},{"age_group":"70-79 year","total":60954,"male":28546,"female":32408},{"age_group":"80 year and over","total":30382,"male":12502,"female":17880}]},{"region":"Northern Region","province":"Uttaradit","age_groups":[{"age_group":"Total","total":123626,"male":55443,"female":68183},{"age_group":"60-69 year","total":70987,"male":32946,"female":38041},{"age_group":"70-79 year","total":35949,"male":16088,"female":19861},{"age_group":"80 year and over","total":16690,"male":6409,"female":10281}]},{"region":"Northern Region","province":"Phrae","age_groups":[{"age_group":"Total","total":122373,"male":54405,"female":67968},{"age_group":"60-69 year","total":75046,"male":34496,"female":40550},{"age_group":"70-79 year","total":34209,"male":14704,"female":19505},{"age_group":"80 year and over","total":13118,"male":5205,"female":7913}]},{"region":"Northern Region","province":"Nan","age_groups":[{"age_group":"Total","total":112032,"male":53050,"female":58982},{"age_group":"60-69 year","total":65511,"male":31738,"female":33773},{"age_group":"70-79 year","total":31688,"male":14923,"female":16765},{"age_group":"80 year and over","total":14833,"male":6389,"female":8444}]},{"region":"Northern Region","province":"Phayao","age_groups":[{"age_group":"Total","total":105481,"male":49978,"female":55503},{"age_group":"60-69 year","total":62021,"male":29958,"female":32063},{"age_group":"70-79 year","total":30677,"male":14540,"female":16137},{"age_group":"80 year and over","total":12783,"male":5480,"female":7303}]},{"region":"Northern Region","province":"Chiang Rai","age_groups":[{"age_group":"Total","total":262953,"male":123511,"female":139442},{"age_group":"60-69 year","total":155352,"male":74441,"female":80911},{"age_group":"70-79 year","total":73598,"male":34447,"female":39151},{"age_group":"80 year and over","total":34003,"male":14623,"female":19380}]},{"region":"Northern Region","province":"Mae Hong Son","age_groups":[{"age_group":"Total","total":35260,"male":17745,"female":17515},{"age_group":"60-69 year","total":20199,"male":10224,"female":9975},{"age_group":"70-79 year","total":9817,"male":4931,"female":4886},{"age_group":"80 year and over","total":5244,"male":2590,"female":2654}]},{"region":"Northern Region","province":"Nakhon Sawan","age_groups":[{"age_group":"Total","total":260531,"male":114761,"female":145770},{"age_group":"60-69 year","total":149873,"male":67860,"female":82013},{"age_group":"70-79 year","total":75624,"male":33486,"female":42138},{"age_group":"80 year and over","total":35034,"male":13415,"female":21619}]},{"region":"Northern Region","province":"Uthai Thani","age_groups":[{"age_group":"Total","total":83436,"male":36904,"female":46532},{"age_group":"60-69 year","total":48384,"male":22226,"female":26158},{"age_group":"70-79 year","total":23483,"male":10498,"female":12985},{"age_group":"80 year and over","total":11569,"male":4180,"female":7389}]},{"region":"Northern Region","province":"Kamphaeng Phet","age_groups":[{"age_group":"Total","total":182158,"male":82408,"female":99750},{"age_group":"60-69 year","total":108858,"male":50487,"female":58371},{"age_group":"70-79 year","total":50723,"male":23097,"female":27626},{"age_group":"80 year and over","total":22577,"male":8824,"female":13753}]},{"region":"Northern Region","province":"Tak","age_groups":[{"age_group":"Total","total":89804,"male":41416,"female":48388},{"age_group":"60-69 year","total":55476,"male":26163,"female":29313},{"age_group":"70-79 year","total":23742,"male":10991,"female":12751},{"age_group":"80 year and over","total":10586,"male":4262,"female":6324}]},{"region":"Northern Region","province":"Sukhothai","age_groups":[{"age_group":"Total","total":169273,"male":72485,"female":96788},{"age_group":"60-69 year","total":98917,"male":44028,"female":54889},{"age_group":"70-79 year","total":48931,"male":20969,"female":27962},{"age_group":"80 year and over","total":21425,"male":7488,"female":13937}]},{"region":"Northern Region","province":"Phitsanulok","age_groups":[{"age_group":"Total","total":216167,"male":95606,"female":120561},{"age_group":"60-69 year","total":126939,"male":57923,"female":69016},{"age_group":"70-79 year","total":60741,"male":27029,"female":33712},{"age_group":"80 year and over","total":28487,"male":10654,"female":17833}]},{"region":"Northern Region","province":"Phichit","age_groups":[{"age_group":"Total","total":153160,"male":67084,"female":86076},{"age_group":"60-69 year","total":88293,"male":39655,"female":48638},{"age_group":"70-79 year","total":44649,"male":19884,"female":24765},{"age_group":"80 year and over","total":20218,"male":7545,"female":12673}]},{"region":"Northern Region","province":"Phetchabun","age_groups":[{"age_group":"Total","total":228809,"male":103837,"female":124972},{"age_group":"60-69 year","total":134698,"male":62805,"female":71893},{"age_group":"70-79 year","total":64020,"male":28969,"female":35051},{"age_group":"80 year and over","total":30091,"male":12063,"female":18028}]},{"region":"Northeastern Region","province":"Northeastern region","age_groups":[{"age_group":"Total","total":4120579,"male":1869679,"female":2250900},{"age_group":"60-69 year","total":2267458,"male":1068220,"female":1199238},{"age_group":"70-79 year","total":1311402,"male":590961,"female":720441},{"age_group":"80 year and over","total":541719,"male":210498,"female":331221}]},{"region":"Northeastern Region","province":"Nakhon Ratchasima","age_groups":[{"age_group":"Total","total":550475,"male":249798,"female":300677},{"age_group":"60-69 year","total":278647,"male":131727,"female":146920},{"age_group":"70-79 year","total":186782,"male":86086,"female":100696},{"age_group":"80 year and over","total":85046,"male":31985,"female":53061}]},{"region":"Northeastern Region","province":"Buri Ram","age_groups":[{"age_group":"Total","total":295415,"male":133938,"female":161477},{"age_group":"60-69 year","total":155959,"male":73609,"female":82350},{"age_group":"70-79 year","total":97262,"male":44207,"female":53055},{"age_group":"80 year and over","total":42194,"male":16122,"female":26072}]},{"region":"Northeastern Region","province":"Surin","age_groups":[{"age_group":"Total","total":276229,"male":123319,"female":152910},{"age_group":"60-69 year","total":143601,"male":66087,"female":77514},{"age_group":"70-79 year","total":92135,"male":41456,"female":50679},{"age_group":"80 year and over","total":40493,"male":15776,"female":24717}]},{"region":"Northeastern Region","province":"Si Sa Ket","age_groups":[{"age_group":"Total","total":240885,"male":106805,"female":134080},{"age_group":"60-69 year","total":131839,"male":61103,"female":70736},{"age_group":"70-79 year","total":77526,"male":33961,"female":43565},{"age_group":"80 year and over","total":31520,"male":11741,"female":19779}]},{"region":"Northeastern Region","province":"Ubon Ratchathani","age_groups":[{"age_group":"Total","total":354191,"male":163703,"female":190488},{"age_group":"60-69 year","total":186910,"male":89368,"female":97542},{"age_group":"70-79 year","total":114934,"male":52626,"female":62308},{"age_group":"80 year and over","total":52347,"male":21709,"female":30638}]},{"region":"Northeastern Region","province":"Yasothon","age_groups":[{"age_group":"Total","total":118540,"male":53272,"female":65268},{"age_group":"60-69 year","total":65969,"male":31148,"female":34821},{"age_group":"70-79 year","total":37981,"male":16782,"female":21199},{"age_group":"80 year and over","total":14590,"male":5342,"female":9248}]},{"region":"Northeastern Region","province":"Chaiyaphum","age_groups":[{"age_group":"Total","total":238368,"male":108848,"female":129520},{"age_group":"60-69 year","total":128442,"male":60849,"female":67593},{"age_group":"70-79 year","total":78600,"male":36015,"female":42585},{"age_group":"80 year and over","total":31326,"male":11984,"female":19342}]},{"region":"Northeastern Region","province":"Amnat Charoen","age_groups":[{"age_group":"Total","total":59924,"male":26838,"female":33086},{"age_group":"60-69 year","total":32620,"male":15426,"female":17194},{"age_group":"70-79 year","total":19281,"male":8312,"female":10969},{"age_group":"80 year and over","total":8023,"male":3100,"female":4923}]},{"region":"Northeastern Region","province":"Bueng Kan","age_groups":[{"age_group":"Total","total":70356,"male":33192,"female":37164},{"age_group":"60-69 year","total":39031,"male":19032,"female":19999},{"age_group":"70-79 year","total":21978,"male":10203,"female":11775},{"age_group":"80 year and over","total":9347,"male":3957,"female":5390}]},{"region":"Northeastern Region","province":"Nong Bua Lamphu","age_groups":[{"age_group":"Total","total":97896,"male":44231,"female":53665},{"age_group":"60-69 year","total":56746,"male":26658,"female":30088},{"age_group":"70-79 year","total":29584,"male":13271,"female":16313},{"age_group":"80 year and over","total":11566,"male":4302,"female":7264}]},{"region":"Northeastern Region","province":"Khon kaen","age_groups":[{"age_group":"Total","total":375753,"male":170906,"female":204847},{"age_group":"60-69 year","total":214153,"male":100747,"female":113406},{"age_group":"70-79 year","total":116005,"male":52351,"female":63654},{"age_group":"80 year and over","total":45595,"male":17808,"female":27787}]},{"region":"Northeastern Region","province":"Udon Thani","age_groups":[{"age_group":"Total","total":243817,"male":111399,"female":132418},{"age_group":"60-69 year","total":142268,"male":67156,"female":75112},{"age_group":"70-79 year","total":74072,"male":33693,"female":40379},{"age_group":"80 year and over","total":27477,"male":10550,"female":16927}]},{"region":"Northeastern Region","province":"Loei","age_groups":[{"age_group":"Total","total":118514,"male":57542,"female":60972},{"age_group":"60-69 year","total":63052,"male":31503,"female":31549},{"age_group":"70-79 year","total":37409,"male":18054,"female":19355},{"age_group":"80 year and over","total":18053,"male":7985,"female":10068}]},{"region":"Northeastern Region","province":"Nong Khai","age_groups":[{"age_group":"Total","total":91065,"male":41515,"female":49550},{"age_group":"60-69 year","total":50371,"male":23725,"female":26646},{"age_group":"70-79 year","total":29085,"male":12997,"female":16088},{"age_group":"80 year and over","total":11609,"male":4793,"female":6816}]},{"region":"Northeastern Region","province":"Maha Sarakham","age_groups":[{"age_group":"Total","total":186683,"male":82690,"female":103993},{"age_group":"60-69 year","total":112532,"male":52194,"female":60338},{"age_group":"70-79 year","total":55187,"male":23755,"female":31432},{"age_group":"80 year and over","total":18964,"male":6741,"female":12223}]},{"region":"Northeastern Region","province":"Roi Et","age_groups":[{"age_group":"Total","total":263873,"male":117813,"female":146060},{"age_group":"60-69 year","total":154077,"male":72044,"female":82033},{"age_group":"70-79 year","total":80920,"male":35182,"female":45738},{"age_group":"80 year and over","total":28876,"male":10587,"female":18289}]},{"region":"Northeastern Region","province":"Kalasin","age_groups":[{"age_group":"Total","total":179162,"male":80939,"female":98223},{"age_group":"60-69 year","total":105157,"male":49358,"female":55799},{"age_group":"70-79 year","total":53683,"male":23653,"female":30030},{"age_group":"80 year and over","total":20322,"male":7928,"female":12394}]},{"region":"Northeastern Region","province":"Sakon Nakhon","age_groups":[{"age_group":"Total","total":175565,"male":79742,"female":95823},{"age_group":"60-69 year","total":103569,"male":48301,"female":55268},{"age_group":"70-79 year","total":52198,"male":23408,"female":28790},{"age_group":"80 year and over","total":19798,"male":8033,"female":11765}]},{"region":"Northeastern Region","province":"Nakhon Phanom","age_groups":[{"age_group":"Total","total":115995,"male":51578,"female":64417},{"age_group":"60-69 year","total":65670,"male":30378,"female":35292},{"age_group":"70-79 year","total":35037,"male":15101,"female":19936},{"age_group":"80 year and over","total":15288,"male":6099,"female":9189}]},{"region":"Northeastern Region","province":"Mukdahan","age_groups":[{"age_group":"Total","total":67873,"male":31611,"female":36262},{"age_group":"60-69 year","total":36845,"male":17807,"female":19038},{"age_group":"70-79 year","total":21743,"male":9848,"female":11895},{"age_group":"80 year and over","total":9285,"male":3956,"female":5329}]},{"region":"Southern Region","province":"Southern region","age_groups":[{"age_group":"Total","total":1566500,"male":696095,"female":870405},{"age_group":"60-69 year","total":873113,"male":407591,"female":465522},{"age_group":"70-79 year","total":459720,"male":201390,"female":258330},{"age_group":"80 year and over","total":233667,"male":87114,"female":146553}]},{"region":"Southern Region","province":"Nakhon Si Thammarat","age_groups":[{"age_group":"Total","total":335402,"male":145979,"female":189423},{"age_group":"60-69 year","total":181289,"male":83468,"female":97821},{"age_group":"70-79 year","total":99802,"male":43033,"female":56769},{"age_group":"80 year and over","total":54311,"male":19478,"female":34833}]},{"region":"Southern Region","province":"Krabi","age_groups":[{"age_group":"Total","total":51920,"male":24437,"female":27483},{"age_group":"60-69 year","total":28673,"male":13912,"female":14761},{"age_group":"70-79 year","total":15438,"male":7270,"female":8168},{"age_group":"80 year and over","total":7809,"male":3255,"female":4554}]},{"region":"Southern Region","province":"Phangnga","age_groups":[{"age_group":"Total","total":43029,"male":20132,"female":22897},{"age_group":"60-69 year","total":24100,"male":11749,"female":12351},{"age_group":"70-79 year","total":12602,"male":5843,"female":6759},{"age_group":"80 year and over","total":6327,"male":2540,"female":3787}]},{"region":"Southern Region","province":"Phuket","age_groups":[{"age_group":"Total","total":60741,"male":29379,"female":31362},{"age_group":"60-69 year","total":39049,"male":20006,"female":19043},{"age_group":"70-79 year","total":14857,"male":6930,"female":7927},{"age_group":"80 year and over","total":6835,"male":2443,"female":4392}]},{"region":"Southern Region","province":"Surat Thani","age_groups":[{"age_group":"Total","total":171490,"male":73961,"female":97529},{"age_group":"60-69 year","total":93128,"male":42427,"female":50701},{"age_group":"70-79 year","total":50887,"male":21703,"female":29184},{"age_group":"80 year and over","total":27475,"male":9831,"female":17644}]},{"region":"Southern Region","province":"Ranong","age_groups":[{"age_group":"Total","total":30336,"male":14182,"female":16154},{"age_group":"60-69 year","total":17641,"male":8509,"female":9132},{"age_group":"70-79 year","total":8497,"male":4047,"female":4450},{"age_group":"80 year and over","total":4198,"male":1626,"female":2572}]},{"region":"Southern Region","province":"Chumphon","age_groups":[{"age_group":"Total","total":88123,"male":39559,"female":48564},{"age_group":"60-69 year","total":47468,"male":22426,"female":25042},{"age_group":"70-79 year","total":26421,"male":11897,"female":14524},{"age_group":"80 year and over","total":14234,"male":5236,"female":8998}]},{"region":"Southern Region","province":"Songkhla","age_groups":[{"age_group":"Total","total":260769,"male":114688,"female":146081},{"age_group":"60-69 year","total":145905,"male":67325,"female":78580},{"age_group":"70-79 year","total":76030,"male":33047,"female":42983},{"age_group":"80 year and over","total":38834,"male":14316,"female":24518}]},{"region":"Southern Region","province":"Satun","age_groups":[{"age_group":"Total","total":41579,"male":19589,"female":21990},{"age_group":"60-69 year","total":23685,"male":11506,"female":12179},{"age_group":"70-79 year","total":12322,"male":5735,"female":6587},{"age_group":"80 year and over","total":5572,"male":2348,"female":3224}]},{"region":"Southern Region","province":"Trang","age_groups":[{"age_group":"Total","total":110221,"male":48030,"female":62191},{"age_group":"60-69 year","total":59895,"male":27416,"female":32479},{"age_group":"70-79 year","total":32971,"male":14420,"female":18551},{"age_group":"80 year and over","total":17355,"male":6194,"female":11161}]},{"region":"Southern Region","province":"Phatthalung","age_groups":[{"age_group":"Total","total":114663,"male":49519,"female":65144},{"age_group":"60-69 year","total":63970,"male":29061,"female":34909},{"age_group":"70-79 year","total":32597,"male":13967,"female":18630},{"age_group":"80 year and over","total":18096,"male":6491,"female":11605}]},{"region":"Southern Region","province":"Pattani","age_groups":[{"age_group":"Total","total":98139,"male":42692,"female":55447},{"age_group":"60-69 year","total":53973,"male":24622,"female":29351},{"age_group":"70-79 year","total":30636,"male":12788,"female":17848},{"age_group":"80 year and over","total":13530,"male":5282,"female":8248}]},{"region":"Southern Region","province":"Yala","age_groups":[{"age_group":"Total","total":62244,"male":29137,"female":33107},{"age_group":"60-69 year","total":36647,"male":17642,"female":19005},{"age_group":"70-79 year","total":18242,"male":8316,"female":9926},{"age_group":"80 year and over","total":7355,"male":3179,"female":4176}]},{"region":"Southern Region","province":"Narathiwat","age_groups":[{"age_group":"Total","total":97844,"male":44811,"female":53033},{"age_group":"60-69 year","total":57690,"male":27522,"female":30168},{"age_group":"70-79 year","total":28418,"male":12394,"female":16024},{"age_group":"80 year and over","total":11736,"male":4895,"female":6841}]}]},
-    {"year":2024,"records":[{"region":"Whole Kingdom","province":"Whole kingdom","age_groups":[{"age_group":"Total","total":14027411,"male":5904327,"female":8123084},{"age_group":"60-69 year","total":8321036,"male":3770728,"female":4550308},{"age_group":"70-79 year","total":4180852,"male":1666979,"female":2513873},{"age_group":"80 year and over","total":1525523,"male":466620,"female":1058903}]},{"region":"Whole Kingdom","province":"Municipal area","age_groups":[{"age_group":"Total","total":null,"male":null,"female":null},{"age_group":"60-69 year","total":null,"male":null,"female":null},{"age_group":"70-79 year","total":null,"male":null,"female":null},{"age_group":"80 year and over","total":null,"male":null,"female":null}]},{"region":"Whole Kingdom","province":"Non-municipal area","age_groups":[{"age_group":"Total","total":null,"male":null,"female":null},{"age_group":"60-69 year","total":null,"male":null,"female":null},{"age_group":"70-79 year","total":null,"male":null,"female":null},{"age_group":"80 year and over","total":null,"male":null,"female":null}]},{"region":"Bangkok","province":"Bangkok","age_groups":[{"age_group":"Total","total":1456740,"male":601042,"female":855698},{"age_group":"60-69 year","total":926478,"male":413565,"female":512913},{"age_group":"70-79 year","total":399697,"male":150445,"female":249252},{"age_group":"80 year and over","total":130565,"male":37032,"female":93533}]},{"region":"Central Region","province":"Central region","age_groups":[{"age_group":"Total","total":3778750,"male":1561905,"female":2216845},{"age_group":"60-69 year","total":2301256,"male":1035478,"female":1265778},{"age_group":"70-79 year","total":1074719,"male":409701,"female":665018},{"age_group":"80 year and over","total":402775,"male":116726,"female":286049}]},{"region":"Central Region","province":"Samut Prakan","age_groups":[{"age_group":"Total","total":386458,"male":158261,"female":228197},{"age_group":"60-69 year","total":242000,"male":108026,"female":133974},{"age_group":"70-79 year","total":106779,"male":39819,"female":66960},{"age_group":"80 year and over","total":37679,"male":10416,"female":27263}]},{"region":"Central Region","province":"Nonthaburi","age_groups":[{"age_group":"Total","total":296396,"male":121965,"female":174431},{"age_group":"60-69 year","total":186308,"male":83569,"female":102739},{"age_group":"70-79 year","total":81426,"male":30405,"female":51021},{"age_group":"80 year and over","total":28662,"male":7991,"female":20671}]},{"region":"Central Region","province":"Pathum Thani","age_groups":[{"age_group":"Total","total":289629,"male":119475,"female":170154},{"age_group":"60-69 year","total":182300,"male":82111,"female":100189},{"age_group":"70-79 year","total":79296,"male":29435,"female":49861},{"age_group":"80 year and over","total":28033,"male":7929,"female":20104}]},{"region":"Central Region","province":"Phra Nakhon Si Ayutthaya","age_groups":[{"age_group":"Total","total":193469,"male":77526,"female":115943},{"age_group":"60-69 year","total":113562,"male":49728,"female":63834},{"age_group":"70-79 year","total":57170,"male":21277,"female":35893},{"age_group":"80 year and over","total":22737,"male":6521,"female":16216}]},{"region":"Central Region","province":"Ang Thong","age_groups":[{"age_group":"Total","total":52696,"male":21088,"female":31608},{"age_group":"60-69 year","total":30969,"male":13546,"female":17423},{"age_group":"70-79 year","total":15551,"male":5785,"female":9766},{"age_group":"80 year and over","total":6176,"male":1757,"female":4419}]},{"region":"Central Region","province":"Lop Buri","age_groups":[{"age_group":"Total","total":165292,"male":66181,"female":99111},{"age_group":"60-69 year","total":97226,"male":42532,"female":54694},{"age_group":"70-79 year","total":48750,"male":18158,"female":30592},{"age_group":"80 year and over","total":19316,"male":5491,"female":13825}]},{"region":"Central Region","province":"Sing Buri","age_groups":[{"age_group":"Total","total":39487,"male":15800,"female":23687},{"age_group":"60-69 year","total":23212,"male":10151,"female":13061},{"age_group":"70-79 year","total":11652,"male":4335,"female":7317},{"age_group":"80 year and over","total":4623,"male":1314,"female":3309}]},{"region":"Central Region","province":"Chai Nat","age_groups":[{"age_group":"Total","total":62252,"male":24956,"female":37296},{"age_group":"60-69 year","total":36568,"male":16003,"female":20565},{"age_group":"70-79 year","total":18357,"male":6841,"female":11516},{"age_group":"80 year and over","total":7327,"male":2112,"female":5215}]},{"region":"Central Region","province":"Saraburi","age_groups":[{"age_group":"Total","total":163118,"male":65428,"female":97690},{"age_group":"60-69 year","total":95693,"male":41918,"female":53775},{"age_group":"70-79 year","total":48126,"male":17972,"female":30154},{"age_group":"80 year and over","total":19299,"male":5538,"female":13761}]},{"region":"Central Region","province":"Chon Buri","age_groups":[{"age_group":"Total","total":317126,"male":143545,"female":173581},{"age_group":"60-69 year","total":202425,"male":100740,"female":101685},{"age_group":"70-79 year","total":84234,"male":33685,"female":50549},{"age_group":"80 year and over","total":30467,"male":9120,"female":21347}]},{"region":"Central Region","province":"Rayong","age_groups":[{"age_group":"Total","total":161668,"male":67686,"female":93982},{"age_group":"60-69 year","total":100188,"male":45555,"female":54633},{"age_group":"70-79 year","total":44932,"male":17263,"female":27669},{"age_group":"80 year and over","total":16548,"male":4868,"female":11680}]},{"region":"Central Region","province":"Chanthaburi","age_groups":[{"age_group":"Total","total":87509,"male":36230,"female":51279},{"age_group":"60-69 year","total":54160,"male":24337,"female":29823},{"age_group":"70-79 year","total":24341,"male":9252,"female":15089},{"age_group":"80 year and over","total":9008,"male":2641,"female":6367}]},{"region":"Central Region","province":"Trat","age_groups":[{"age_group":"Total","total":43483,"male":17956,"female":25527},{"age_group":"60-69 year","total":26866,"male":12041,"female":14825},{"age_group":"70-79 year","total":12122,"male":4600,"female":7522},{"age_group":"80 year and over","total":4495,"male":1315,"female":3180}]},{"region":"Central Region","province":"Chachoengsao","age_groups":[{"age_group":"Total","total":133307,"male":55283,"female":78024},{"age_group":"60-69 year","total":82451,"male":37090,"female":45361},{"age_group":"70-79 year","total":37112,"male":14158,"female":22954},{"age_group":"80 year and over","total":13744,"male":4035,"female":9709}]},{"region":"Central Region","province":"Prachin Buri","age_groups":[{"age_group":"Total","total":104890,"male":43153,"female":61737},{"age_group":"60-69 year","total":64863,"male":29021,"female":35842},{"age_group":"70-79 year","total":29151,"male":11018,"female":18133},{"age_group":"80 year and over","total":10876,"male":3114,"female":7762}]},{"region":"Central Region","province":"Nakhon Nayok","age_groups":[{"age_group":"Total","total":40935,"male":16935,"female":24000},{"age_group":"60-69 year","total":25297,"male":11366,"female":13931},{"age_group":"70-79 year","total":11410,"male":4334,"female":7076},{"age_group":"80 year and over","total":4228,"male":1235,"female":2993}]},{"region":"Central Region","province":"Sa Kaeo","age_groups":[{"age_group":"Total","total":105368,"male":44082,"female":61286},{"age_group":"60-69 year","total":65180,"male":29570,"female":35610},{"age_group":"70-79 year","total":29337,"male":11286,"female":18051},{"age_group":"80 year and over","total":10851,"male":3226,"female":7625}]},{"region":"Central Region","province":"Ratchaburi","age_groups":[{"age_group":"Total","total":176962,"male":72648,"female":104314},{"age_group":"60-69 year","total":102092,"male":45162,"female":56930},{"age_group":"70-79 year","total":53685,"male":21118,"female":32567},{"age_group":"80 year and over","total":21185,"male":6368,"female":14817}]},{"region":"Central Region","province":"Kanchanaburi","age_groups":[{"age_group":"Total","total":186627,"male":76625,"female":110002},{"age_group":"60-69 year","total":107798,"male":47658,"female":60140},{"age_group":"70-79 year","total":56490,"male":22253,"female":34237},{"age_group":"80 year and over","total":22339,"male":6714,"female":15625}]},{"region":"Central Region","province":"Suphan Buri","age_groups":[{"age_group":"Total","total":191461,"male":78678,"female":112783},{"age_group":"60-69 year","total":110242,"male":48720,"female":61522},{"age_group":"70-79 year","total":57964,"male":22817,"female":35147},{"age_group":"80 year and over","total":23255,"male":7141,"female":16114}]},{"region":"Central Region","province":"Nakhon Pathom","age_groups":[{"age_group":"Total","total":187892,"male":76923,"female":110969},{"age_group":"60-69 year","total":117852,"male":52566,"female":65286},{"age_group":"70-79 year","total":51826,"male":19336,"female":32490},{"age_group":"80 year and over","total":18214,"male":5021,"female":13193}]},{"region":"Central Region","province":"Samut Sakhon","age_groups":[{"age_group":"Total","total":139891,"male":57119,"female":82772},{"age_group":"60-69 year","total":87784,"male":39066,"female":48718},{"age_group":"70-79 year","total":38543,"male":14287,"female":24256},{"age_group":"80 year and over","total":13564,"male":3766,"female":9798}]},{"region":"Central Region","province":"Samut Songkhram","age_groups":[{"age_group":"Total","total":37404,"male":15342,"female":22062},{"age_group":"60-69 year","total":21589,"male":9530,"female":12059},{"age_group":"70-79 year","total":11334,"male":4465,"female":6869},{"age_group":"80 year and over","total":4481,"male":1347,"female":3134}]},{"region":"Central Region","province":"Phetchaburi","age_groups":[{"age_group":"Total","total":110524,"male":45527,"female":64997},{"age_group":"60-69 year","total":63851,"male":28338,"female":35513},{"age_group":"70-79 year","total":33447,"male":13201,"female":20246},{"age_group":"80 year and over","total":13226,"male":3988,"female":9238}]},{"region":"Central Region","province":"Prachuap Khiri Khan","age_groups":[{"age_group":"Total","total":104906,"male":43493,"female":61413},{"age_group":"60-69 year","total":60780,"male":27134,"female":33646},{"age_group":"70-79 year","total":31684,"male":12601,"female":19083},{"age_group":"80 year and over","total":12442,"male":3758,"female":8684}]},{"region":"Northern Region","province":"Northern region","age_groups":[{"age_group":"Total","total":2913885,"male":1238314,"female":1675571},{"age_group":"60-69 year","total":1728120,"male":1238314,"female":947806},{"age_group":"70-79 year","total":874308,"male":780314,"female":515618},{"age_group":"80 year and over","total":311457,"male":358690,"female":212147}]},{"region":"Northern Region","province":"Chiang Mai","age_groups":[{"age_group":"Total","total":451761,"male":192729,"female":259032},{"age_group":"60-69 year","total":268468,"male":121765,"female":146703},{"age_group":"70-79 year","total":135166,"male":55581,"female":79585},{"age_group":"80 year and over","total":48127,"male":15383,"female":32744}]},{"region":"Northern Region","province":"Lamphun","age_groups":[{"age_group":"Total","total":97707,"male":41582,"female":56125},{"age_group":"60-69 year","total":57942,"male":26215,"female":31727},{"age_group":"70-79 year","total":29328,"male":12025,"female":17303},{"age_group":"80 year and over","total":10437,"male":3342,"female":7095}]},{"region":"Northern Region","province":"Lampang","age_groups":[{"age_group":"Total","total":181332,"male":76981,"female":104351},{"age_group":"60-69 year","total":107475,"male":48477,"female":58998},{"age_group":"70-79 year","total":54445,"male":22319,"female":32126},{"age_group":"80 year and over","total":19412,"male":6185,"female":13227}]},{"region":"Northern Region","province":"Uttaradit","age_groups":[{"age_group":"Total","total":105086,"male":44617,"female":60469},{"age_group":"60-69 year","total":62296,"male":28094,"female":34202},{"age_group":"70-79 year","total":31551,"male":12941,"female":18610},{"age_group":"80 year and over","total":11239,"male":3582,"female":7657}]},{"region":"Northern Region","province":"Phrae","age_groups":[{"age_group":"Total","total":95266,"male":40465,"female":54801},{"age_group":"60-69 year","total":56486,"male":25490,"female":30996},{"age_group":"70-79 year","total":28601,"male":11734,"female":16867},{"age_group":"80 year and over","total":10179,"male":3241,"female":6938}]},{"region":"Northern Region","province":"Nan","age_groups":[{"age_group":"Total","total":115400,"male":48977,"female":66423},{"age_group":"60-69 year","total":68398,"male":30831,"female":37567},{"age_group":"70-79 year","total":34659,"male":14210,"female":20449},{"age_group":"80 year and over","total":12343,"male":3936,"female":8407}]},{"region":"Northern Region","province":"Phayao","age_groups":[{"age_group":"Total","total":93714,"male":39788,"female":53926},{"age_group":"60-69 year","total":55558,"male":25059,"female":30499},{"age_group":"70-79 year","total":28136,"male":11537,"female":16599},{"age_group":"80 year and over","total":10020,"male":3192,"female":6828}]},{"region":"Northern Region","province":"Chiang Rai","age_groups":[{"age_group":"Total","total":294813,"male":125204,"female":169609},{"age_group":"60-69 year","total":174656,"male":78815,"female":95841},{"age_group":"70-79 year","total":88519,"male":36306,"female":52213},{"age_group":"80 year and over","total":31638,"male":10083,"female":21555}]},{"region":"Northern Region","province":"Mae Hong Son","age_groups":[{"age_group":"Total","total":64036,"male":27195,"female":36841},{"age_group":"60-69 year","total":37944,"male":17125,"female":20819},{"age_group":"70-79 year","total":19233,"male":7874,"female":11359},{"age_group":"80 year and over","total":6859,"male":2196,"female":4663}]},{"region":"Northern Region","province":"Nakhon Sawan","age_groups":[{"age_group":"Total","total":235671,"male":100014,"female":135657},{"age_group":"60-69 year","total":139688,"male":62960,"female":76728},{"age_group":"70-79 year","total":70772,"male":29025,"female":41747},{"age_group":"80 year and over","total":25211,"male":8029,"female":17182}]},{"region":"Northern Region","province":"Uthai Thani","age_groups":[{"age_group":"Total","total":71108,"male":30184,"female":40924},{"age_group":"60-69 year","total":42157,"male":19011,"female":23146},{"age_group":"70-79 year","total":21347,"male":8750,"female":12597},{"age_group":"80 year and over","total":7604,"male":2423,"female":5181}]},{"region":"Northern Region","province":"Kamphaeng Phet","age_groups":[{"age_group":"Total","total":206479,"male":87634,"female":118845},{"age_group":"60-69 year","total":122391,"male":55168,"female":67223},{"age_group":"70-79 year","total":62005,"male":25429,"female":36576},{"age_group":"80 year and over","total":22083,"male":7037,"female":15046}]},{"region":"Northern Region","province":"Tak","age_groups":[{"age_group":"Total","total":137476,"male":58384,"female":79092},{"age_group":"60-69 year","total":81591,"male":36798,"female":44793},{"age_group":"70-79 year","total":41221,"male":16910,"female":24311},{"age_group":"80 year and over","total":14664,"male":4676,"female":9988}]},{"region":"Northern Region","province":"Sukhothai","age_groups":[{"age_group":"Total","total":160351,"male":68062,"female":92289},{"age_group":"60-69 year","total":95041,"male":42839,"female":52202},{"age_group":"70-79 year","total":48173,"male":19765,"female":28408},{"age_group":"80 year and over","total":17137,"male":5458,"female":11679}]},{"region":"Northern Region","province":"Phitsanulok","age_groups":[{"age_group":"Total","total":236706,"male":100498,"female":136208},{"age_group":"60-69 year","total":140324,"male":63292,"female":77032},{"age_group":"70-79 year","total":71058,"male":29135,"female":41923},{"age_group":"80 year and over","total":25324,"male":8071,"female":17253}]},{"region":"Northern Region","province":"Phichit","age_groups":[{"age_group":"Total","total":131168,"male":55712,"female":75456},{"age_group":"60-69 year","total":77771,"male":35091,"female":42680},{"age_group":"70-79 year","total":39387,"male":16161,"female":23226},{"age_group":"80 year and over","total":14010,"male":4460,"female":9550}]},{"region":"Northern Region","province":"Phetchabun","age_groups":[{"age_group":"Total","total":235811,"male":100288,"female":135523},{"age_group":"60-69 year","total":139934,"male":63284,"female":76650},{"age_group":"70-79 year","total":70707,"male":28988,"female":41719},{"age_group":"80 year and over","total":25170,"male":8016,"female":17154}]},{"region":"Northeastern Region","province":"Northeastern region","age_groups":[{"age_group":"Total","total":4218846,"male":1801307,"female":2417539},{"age_group":"60-69 year","total":2398123,"male":1097325,"female":1300798},{"age_group":"70-79 year","total":1343846,"male":551615,"female":792231},{"age_group":"80 year and over","total":476877,"male":152367,"female":324510}]},{"region":"Northeastern Region","province":"Nakhon Ratchasima","age_groups":[{"age_group":"Total","total":575128,"male":245841,"female":329287},{"age_group":"60-69 year","total":326780,"male":149583,"female":177197},{"age_group":"70-79 year","total":183368,"male":75465,"female":107903},{"age_group":"80 year and over","total":64980,"male":20793,"female":44187}]},{"region":"Northeastern Region","province":"Buri Ram","age_groups":[{"age_group":"Total","total":273882,"male":116853,"female":157029},{"age_group":"60-69 year","total":155706,"male":71221,"female":84485},{"age_group":"70-79 year","total":87220,"male":35757,"female":51463},{"age_group":"80 year and over","total":30956,"male":9875,"female":21081}]},{"region":"Northeastern Region","province":"Surin","age_groups":[{"age_group":"Total","total":238398,"male":101724,"female":136674},{"age_group":"60-69 year","total":135522,"male":61990,"female":73532},{"age_group":"70-79 year","total":75918,"male":31127,"female":44791},{"age_group":"80 year and over","total":26958,"male":8607,"female":18351}]},{"region":"Northeastern Region","province":"Si Sa Ket","age_groups":[{"age_group":"Total","total":212438,"male":90585,"female":121853},{"age_group":"60-69 year","total":120755,"male":55191,"female":65564},{"age_group":"70-79 year","total":67663,"male":27729,"female":39934},{"age_group":"80 year and over","total":24020,"male":7665,"female":16355}]},{"region":"Northeastern Region","province":"Ubon Ratchathani","age_groups":[{"age_group":"Total","total":401029,"male":170956,"female":230073},{"age_group":"60-69 year","total":227954,"male":104143,"female":123811},{"age_group":"70-79 year","total":127723,"male":52335,"female":75388},{"age_group":"80 year and over","total":45352,"male":14478,"female":30874}]},{"region":"Northeastern Region","province":"Yasothon","age_groups":[{"age_group":"Total","total":102598,"male":43743,"female":58855},{"age_group":"60-69 year","total":58305,"male":26641,"female":31664},{"age_group":"70-79 year","total":32685,"male":13396,"female":19289},{"age_group":"80 year and over","total":11608,"male":3706,"female":7902}]},{"region":"Northeastern Region","province":"Chaiyaphum","age_groups":[{"age_group":"Total","total":211949,"male":90374,"female":121575},{"age_group":"60-69 year","total":120472,"male":55060,"female":65412},{"age_group":"70-79 year","total":67512,"male":27666,"female":39846},{"age_group":"80 year and over","total":23965,"male":7648,"female":16317}]},{"region":"Northeastern Region","province":"Amnat Charoen","age_groups":[{"age_group":"Total","total":65212,"male":27863,"female":37349},{"age_group":"60-69 year","total":37074,"male":16974,"female":20100},{"age_group":"70-79 year","total":20772,"male":8533,"female":12239},{"age_group":"80 year and over","total":7366,"male":2356,"female":5010}]},{"region":"Northeastern Region","province":"Bueng Kan","age_groups":[{"age_group":"Total","total":82400,"male":35522,"female":46878},{"age_group":"60-69 year","total":46862,"male":21639,"female":25223},{"age_group":"70-79 year","total":26239,"male":10876,"female":15363},{"age_group":"80 year and over","total":9299,"male":3007,"female":6292}]},{"region":"Northeastern Region","province":"Nong Bua Lamphu","age_groups":[{"age_group":"Total","total":108740,"male":46279,"female":62461},{"age_group":"60-69 year","total":61811,"male":28201,"female":33610},{"age_group":"70-79 year","total":34632,"male":14165,"female":20467},{"age_group":"80 year and over","total":12297,"male":3913,"female":8384}]},{"region":"Northeastern Region","province":"Khon kaen","age_groups":[{"age_group":"Total","total":395680,"male":169211,"female":226469},{"age_group":"60-69 year","total":225029,"male":103207,"female":121822},{"age_group":"70-79 year","total":125941,"male":51683,"female":74258},{"age_group":"80 year and over","total":44710,"male":14321,"female":30389}]},{"region":"Northeastern Region","province":"Udon Thani","age_groups":[{"age_group":"Total","total":288957,"male":123976,"female":164981},{"age_group":"60-69 year","total":164317,"male":75564,"female":88753},{"age_group":"70-79 year","total":92030,"male":37984,"female":54046},{"age_group":"80 year and over","total":32610,"male":10428,"female":22182}]},{"region":"Northeastern Region","province":"Loei","age_groups":[{"age_group":"Total","total":123546,"male":52762,"female":70784},{"age_group":"60-69 year","total":70223,"male":32116,"female":38107},{"age_group":"70-79 year","total":39359,"male":16177,"female":23182},{"age_group":"80 year and over","total":13964,"male":4469,"female":9495}]},{"region":"Northeastern Region","province":"Nong Khai","age_groups":[{"age_group":"Total","total":105058,"male":44723,"female":60335},{"age_group":"60-69 year","total":59778,"male":27292,"female":32486},{"age_group":"70-79 year","total":33419,"male":13665,"female":19754},{"age_group":"80 year and over","total":11861,"male":3766,"female":8095}]},{"region":"Northeastern Region","province":"Maha Sarakham","age_groups":[{"age_group":"Total","total":176569,"male":75293,"female":101276},{"age_group":"60-69 year","total":100356,"male":45864,"female":54492},{"age_group":"70-79 year","total":56254,"male":23063,"female":33191},{"age_group":"80 year and over","total":19959,"male":6366,"female":13593}]},{"region":"Northeastern Region","province":"Roi Et","age_groups":[{"age_group":"Total","total":240691,"male":102685,"female":138006},{"age_group":"60-69 year","total":136753,"male":62496,"female":74257},{"age_group":"70-79 year","total":76735,"male":31510,"female":45225},{"age_group":"80 year and over","total":27203,"male":8679,"female":18524}]},{"region":"Northeastern Region","province":"Kalasin","age_groups":[{"age_group":"Total","total":180552,"male":76979,"female":103573},{"age_group":"60-69 year","total":102620,"male":46889,"female":55731},{"age_group":"70-79 year","total":57513,"male":23573,"female":33940},{"age_group":"80 year and over","total":20419,"male":6517,"female":13902}]},{"region":"Northeastern Region","province":"Sakon Nakhon","age_groups":[{"age_group":"Total","total":210063,"male":89560,"female":120503},{"age_group":"60-69 year","total":119374,"male":54546,"female":64828},{"age_group":"70-79 year","total":66914,"male":27412,"female":39502},{"age_group":"80 year and over","total":23775,"male":7602,"female":16173}]},{"region":"Northeastern Region","province":"Nakhon Phanom","age_groups":[{"age_group":"Total","total":124668,"male":53186,"female":71482},{"age_group":"60-69 year","total":70866,"male":32394,"female":38472},{"age_group":"70-79 year","total":39695,"male":16281,"female":23414},{"age_group":"80 year and over","total":14107,"male":4511,"female":9596}]},{"region":"Northeastern Region","province":"Mukdahan","age_groups":[{"age_group":"Total","total":101288,"male":43192,"female":58096},{"age_group":"60-69 year","total":57566,"male":26314,"female":31252},{"age_group":"70-79 year","total":32254,"male":13218,"female":19036},{"age_group":"80 year and over","total":11468,"male":3660,"female":7808}]},{"region":"Southern Region","province":"Southern region","age_groups":[{"age_group":"Total","total":1659190,"male":701759,"female":957431},{"age_group":"60-69 year","total":967059,"male":444046,"female":523013},{"age_group":"70-79 year","total":488282,"male":196528,"female":291754},{"age_group":"80 year and over","total":203849,"male":61185,"female":142664}]},{"region":"Southern Region","province":"Nakhon Si Thammarat","age_groups":[{"age_group":"Total","total":264846,"male":111859,"female":152987},{"age_group":"60-69 year","total":154140,"male":70665,"female":83475},{"age_group":"70-79 year","total":78048,"male":31390,"female":46658},{"age_group":"80 year and over","total":32658,"male":9804,"female":22854}]},{"region":"Southern Region","province":"Krabi","age_groups":[{"age_group":"Total","total":72843,"male":30579,"female":42264},{"age_group":"60-69 year","total":42209,"male":19378,"female":22831},{"age_group":"70-79 year","total":21268,"male":8545,"female":12723},{"age_group":"80 year and over","total":9366,"male":2656,"female":6710}]},{"region":"Southern Region","province":"Phangnga","age_groups":[{"age_group":"Total","total":40081,"male":16955,"female":23126},{"age_group":"60-69 year","total":23400,"male":10748,"female":12652},{"age_group":"70-79 year","total":11781,"male":4736,"female":7045},{"age_group":"80 year and over","total":4900,"male":1471,"female":3429}]},{"region":"Southern Region","province":"Phuket","age_groups":[{"age_group":"Total","total":100895,"male":43843,"female":57052},{"age_group":"60-69 year","total":59300,"male":28015,"female":31285},{"age_group":"70-79 year","total":29439,"male":12146,"female":17293},{"age_group":"80 year and over","total":12156,"male":3682,"female":8474}]},{"region":"Southern Region","province":"Surat Thani","age_groups":[{"age_group":"Total","total":188304,"male":79530,"female":108774},{"age_group":"60-69 year","total":109751,"male":50318,"female":59433},{"age_group":"70-79 year","total":55477,"male":22301,"female":33176},{"age_group":"80 year and over","total":23076,"male":6911,"female":17644}]},{"region":"Southern Region","province":"Ranong","age_groups":[{"age_group":"Total","total":45288,"male":19133,"female":26155},{"age_group":"60-69 year","total":26429,"male":12113,"female":14316},{"age_group":"70-79 year","total":13323,"male":5352,"female":7971},{"age_group":"80 year and over","total":5536,"male":1668,"female":3868}]},{"region":"Southern Region","province":"Chumphon","age_groups":[{"age_group":"Total","total":80183,"male":33869,"female":46314},{"age_group":"60-69 year","total":46810,"male":21456,"female":25354},{"age_group":"70-79 year","total":23566,"male":9468,"female":14098},{"age_group":"80 year and over","total":9807,"male":2945,"female":6862}]},{"region":"Southern Region","province":"Songkhla","age_groups":[{"age_group":"Total","total":290261,"male":122687,"female":167574},{"age_group":"60-69 year","total":169082,"male":77463,"female":91619},{"age_group":"70-79 year","total":85534,"male":34402,"female":51132},{"age_group":"80 year and over","total":35645,"male":10822,"female":24823}]},{"region":"Southern Region","province":"Satun","age_groups":[{"age_group":"Total","total":52531,"male":22167,"female":30364},{"age_group":"60-69 year","total":30602,"male":14020,"female":16582},{"age_group":"70-79 year","total":15484,"male":6211,"female":9273},{"age_group":"80 year and over","total":6445,"male":1936,"female":4509}]},{"region":"Southern Region","province":"Trang","age_groups":[{"age_group":"Total","total":108775,"male":45917,"female":62858},{"age_group":"60-69 year","total":63385,"male":29041,"female":34344},{"age_group":"70-79 year","total":32050,"male":12870,"female":19180},{"age_group":"80 year and over","total":13340,"male":4006,"female":9334}]},{"region":"Southern Region","province":"Phatthalung","age_groups":[{"age_group":"Total","total":86202,"male":36388,"female":49814},{"age_group":"60-69 year","total":50221,"male":23004,"female":27217},{"age_group":"70-79 year","total":25409,"male":10213,"female":15196},{"age_group":"80 year and over","total":10572,"male":3171,"female":7401}]},{"region":"Southern Region","province":"Pattani","age_groups":[{"age_group":"Total","total":113580,"male":47924,"female":65656},{"age_group":"60-69 year","total":66188,"male":30313,"female":35875},{"age_group":"70-79 year","total":33462,"male":13430,"female":20032},{"age_group":"80 year and over","total":13930,"male":4181,"female":9749}]},{"region":"Southern Region","province":"Yala","age_groups":[{"age_group":"Total","total":85031,"male":35890,"female":49141},{"age_group":"60-69 year","total":49551,"male":22702,"female":26849},{"age_group":"70-79 year","total":25046,"male":10055,"female":14991},{"age_group":"80 year and over","total":10434,"male":3133,"female":7301}]},{"region":"Southern Region","province":"Narathiwat","age_groups":[{"age_group":"Total","total":130370,"male":55018,"female":75352},{"age_group":"60-69 year","total":75991,"male":34810,"female":41181},{"age_group":"70-79 year","total":38395,"male":15409,"female":22986},{"age_group":"80 year and over","total":15984,"male":4799,"female":11185}]}]}
+    {
+      "year": 2021,
+      "records": [
+        {
+          "region": "Whole Kingdom",
+          "province": "Whole kingdom",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 13358751,
+              "male": 5974022,
+              "female": 7384729
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 7645141,
+              "male": 3552956,
+              "female": 4092185
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 3942668,
+              "male": 1740244,
+              "female": 2202424
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 1770942,
+              "male": 680822,
+              "female": 1090120
+            }
+          ]
+        },
+        {
+          "region": "Whole Kingdom",
+          "province": "Municipal area",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 5560347,
+              "male": 2453773,
+              "female": 3106574
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 3245350,
+              "male": 1491128,
+              "female": 1754222
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 1602668,
+              "male": 693426,
+              "female": 909242
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 712329,
+              "male": 269219,
+              "female": 443110
+            }
+          ]
+        },
+        {
+          "region": "Whole Kingdom",
+          "province": "Non-municipal area",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 7798404,
+              "male": 3520249,
+              "female": 4278155
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 4399791,
+              "male": 2061828,
+              "female": 2337963
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 2340000,
+              "male": 1046818,
+              "female": 1293182
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 1058613,
+              "male": 411603,
+              "female": 647010
+            }
+          ]
+        },
+        {
+          "region": "Bangkok",
+          "province": "Bangkok",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 1342826,
+              "male": 589175,
+              "female": 753651
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 826009,
+              "male": 378757,
+              "female": 447252
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 365262,
+              "male": 154097,
+              "female": 211165
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 151555,
+              "male": 56321,
+              "female": 95234
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Central region",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 3518228,
+              "male": 1540293,
+              "female": 1977935
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 2045818,
+              "male": 935789,
+              "female": 1110029
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 1005596,
+              "male": 429348,
+              "female": 576248
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 466814,
+              "male": 175156,
+              "female": 291658
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Samut Prakan",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 320274,
+              "male": 137830,
+              "female": 182444
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 196729,
+              "male": 88958,
+              "female": 107771
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 87202,
+              "male": 35835,
+              "female": 51367
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 36343,
+              "male": 13037,
+              "female": 23306
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Nonthaburi",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 302803,
+              "male": 128189,
+              "female": 174614
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 187814,
+              "male": 82638,
+              "female": 105176
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 83347,
+              "male": 34707,
+              "female": 48640
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 31642,
+              "male": 10844,
+              "female": 20798
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Pathum Thani",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 219289,
+              "male": 98456,
+              "female": 120833
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 136226,
+              "male": 62393,
+              "female": 73833
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 59429,
+              "male": 26114,
+              "female": 33315
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 23634,
+              "male": 9949,
+              "female": 13685
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Phra Nakhon Si Ayutthaya",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 156786,
+              "male": 65807,
+              "female": 90979
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 85779,
+              "male": 37721,
+              "female": 48058
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 45984,
+              "male": 19082,
+              "female": 26902
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 25023,
+              "male": 9004,
+              "female": 16019
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Ang Thong",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 66174,
+              "male": 27208,
+              "female": 38966
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 34951,
+              "male": 15235,
+              "female": 19716
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 20457,
+              "male": 8181,
+              "female": 12276
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 10766,
+              "male": 3792,
+              "female": 6974
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Lop Buri",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 166755,
+              "male": 74161,
+              "female": 92594
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 94839,
+              "male": 43615,
+              "female": 51224
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 48282,
+              "male": 21076,
+              "female": 27206
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 23634,
+              "male": 9470,
+              "female": 14164
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Sing Buri",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 54552,
+              "male": 23174,
+              "female": 31378
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 30153,
+              "male": 13428,
+              "female": 16725
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 16331,
+              "male": 6807,
+              "female": 9524
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 8068,
+              "male": 2939,
+              "female": 5129
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Chai Nat",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 85752,
+              "male": 36844,
+              "female": 48908
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 47335,
+              "male": 21184,
+              "female": 26151
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 25589,
+              "male": 10805,
+              "female": 14784
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 12828,
+              "male": 4855,
+              "female": 7973
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Saraburi",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 128638,
+              "male": 55320,
+              "female": 73318
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 73791,
+              "male": 33170,
+              "female": 40621
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 36380,
+              "male": 15297,
+              "female": 21083
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 18467,
+              "male": 6853,
+              "female": 11614
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Chon Buri",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 218071,
+              "male": 107107,
+              "female": 110964
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 139962,
+              "male": 72974,
+              "female": 66988
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 54752,
+              "male": 24863,
+              "female": 29889
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 23357,
+              "male": 9270,
+              "female": 14087
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Rayong",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 117611,
+              "male": 52377,
+              "female": 65234
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 70999,
+              "male": 32999,
+              "female": 38000
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 32709,
+              "male": 14231,
+              "female": 18478
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 13903,
+              "male": 5147,
+              "female": 8756
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Chanthaburi",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 104235,
+              "male": 47360,
+              "female": 56875
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 57716,
+              "male": 27555,
+              "female": 30161
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 31236,
+              "male": 13870,
+              "female": 17366
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 15283,
+              "male": 5935,
+              "female": 9348
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Trat",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 49025,
+              "male": 23054,
+              "female": 25971
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 28687,
+              "male": 13825,
+              "female": 14862
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 14093,
+              "male": 6649,
+              "female": 7444
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 6245,
+              "male": 2580,
+              "female": 3665
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Chachoengsao",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 153891,
+              "male": 67525,
+              "female": 86366
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 85738,
+              "male": 39421,
+              "female": 46317
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 44795,
+              "male": 19431,
+              "female": 25364
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 23358,
+              "male": 8673,
+              "female": 14685
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Prachin Buri",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 120036,
+              "male": 51630,
+              "female": 68406
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 66347,
+              "male": 29912,
+              "female": 36435
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 35848,
+              "male": 15018,
+              "female": 20830
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 17841,
+              "male": 6700,
+              "female": 11141
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Nakhon Nayok",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 62836,
+              "male": 26992,
+              "female": 35844
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 34052,
+              "male": 15200,
+              "female": 18852
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 19117,
+              "male": 8200,
+              "female": 10917
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 9667,
+              "male": 3592,
+              "female": 6075
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Sa Kaeo",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 113772,
+              "male": 51632,
+              "female": 62140
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 68561,
+              "male": 32276,
+              "female": 36285
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 32500,
+              "male": 14406,
+              "female": 18094
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 12711,
+              "male": 4950,
+              "female": 7761
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Ratchaburi",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 175942,
+              "male": 74936,
+              "female": 101006
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 96264,
+              "male": 42654,
+              "female": 53610
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 52513,
+              "male": 22238,
+              "female": 30275
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 27165,
+              "male": 10044,
+              "female": 17121
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Kanchanaburi",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 146071,
+              "male": 66274,
+              "female": 79797
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 86451,
+              "male": 40551,
+              "female": 45900
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 41068,
+              "male": 18605,
+              "female": 22463
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 18552,
+              "male": 7118,
+              "female": 11434
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Suphan Buri",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 217297,
+              "male": 93268,
+              "female": 124029
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 120072,
+              "male": 53475,
+              "female": 66597
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 66235,
+              "male": 28259,
+              "female": 37976
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 30990,
+              "male": 11534,
+              "female": 19456
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Nakhon Pathom",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 201754,
+              "male": 85536,
+              "female": 116218
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 114110,
+              "male": 50872,
+              "female": 63238
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 59485,
+              "male": 24032,
+              "female": 35453
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 28159,
+              "male": 10632,
+              "female": 17527
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Samut Sakhon",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 102220,
+              "male": 43894,
+              "female": 58326
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 61108,
+              "male": 27548,
+              "female": 33560
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 28954,
+              "male": 11859,
+              "female": 17095
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 12158,
+              "male": 4487,
+              "female": 7671
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Samut Songkhram",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 50798,
+              "male": 20926,
+              "female": 29872
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 26827,
+              "male": 11625,
+              "female": 15202
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 15326,
+              "male": 6385,
+              "female": 8941
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 8645,
+              "male": 2916,
+              "female": 5729
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Phetchaburi",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 105800,
+              "male": 45638,
+              "female": 60162
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 57261,
+              "male": 25868,
+              "female": 31393
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 31388,
+              "male": 13334,
+              "female": 18054
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 17151,
+              "male": 6436,
+              "female": 10715
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Prachuap Khiri Khan",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 77846,
+              "male": 35155,
+              "female": 42691
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 44046,
+              "male": 20692,
+              "female": 23354
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 22576,
+              "male": 10064,
+              "female": 12512
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 11224,
+              "male": 4399,
+              "female": 6825
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Northern region",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 2810618,
+              "male": 1278780,
+              "female": 1531838
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 1632743,
+              "male": 762599,
+              "female": 870144
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 800688,
+              "male": 364448,
+              "female": 436240
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 377187,
+              "male": 151733,
+              "female": 225454
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Chiang Mai",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 359752,
+              "male": 167363,
+              "female": 192389
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 200437,
+              "male": 95420,
+              "female": 105017
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 104074,
+              "male": 48182,
+              "female": 55892
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 55241,
+              "male": 23761,
+              "female": 31480
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Lamphun",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 99013,
+              "male": 46193,
+              "female": 52820
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 56298,
+              "male": 26686,
+              "female": 29612
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 27809,
+              "male": 13164,
+              "female": 14645
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 14906,
+              "male": 6343,
+              "female": 8563
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Lampang",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 206790,
+              "male": 96591,
+              "female": 110199
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 115454,
+              "male": 55543,
+              "female": 59911
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 60954,
+              "male": 28546,
+              "female": 32408
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 30382,
+              "male": 12502,
+              "female": 17880
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Uttaradit",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 123626,
+              "male": 55443,
+              "female": 68183
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 70987,
+              "male": 32946,
+              "female": 38041
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 35949,
+              "male": 16088,
+              "female": 19861
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 16690,
+              "male": 6409,
+              "female": 10281
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Phrae",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 122373,
+              "male": 54405,
+              "female": 67968
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 75046,
+              "male": 34496,
+              "female": 40550
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 34209,
+              "male": 14704,
+              "female": 19505
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 13118,
+              "male": 5205,
+              "female": 7913
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Nan",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 112032,
+              "male": 53050,
+              "female": 58982
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 65511,
+              "male": 31738,
+              "female": 33773
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 31688,
+              "male": 14923,
+              "female": 16765
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 14833,
+              "male": 6389,
+              "female": 8444
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Phayao",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 105481,
+              "male": 49978,
+              "female": 55503
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 62021,
+              "male": 29958,
+              "female": 32063
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 30677,
+              "male": 14540,
+              "female": 16137
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 12783,
+              "male": 5480,
+              "female": 7303
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Chiang Rai",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 262953,
+              "male": 123511,
+              "female": 139442
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 155352,
+              "male": 74441,
+              "female": 80911
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 73598,
+              "male": 34447,
+              "female": 39151
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 34003,
+              "male": 14623,
+              "female": 19380
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Mae Hong Son",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 35260,
+              "male": 17745,
+              "female": 17515
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 20199,
+              "male": 10224,
+              "female": 9975
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 9817,
+              "male": 4931,
+              "female": 4886
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 5244,
+              "male": 2590,
+              "female": 2654
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Nakhon Sawan",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 260531,
+              "male": 114761,
+              "female": 145770
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 149873,
+              "male": 67860,
+              "female": 82013
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 75624,
+              "male": 33486,
+              "female": 42138
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 35034,
+              "male": 13415,
+              "female": 21619
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Uthai Thani",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 83436,
+              "male": 36904,
+              "female": 46532
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 48384,
+              "male": 22226,
+              "female": 26158
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 23483,
+              "male": 10498,
+              "female": 12985
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 11569,
+              "male": 4180,
+              "female": 7389
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Kamphaeng Phet",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 182158,
+              "male": 82408,
+              "female": 99750
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 108858,
+              "male": 50487,
+              "female": 58371
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 50723,
+              "male": 23097,
+              "female": 27626
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 22577,
+              "male": 8824,
+              "female": 13753
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Tak",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 89804,
+              "male": 41416,
+              "female": 48388
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 55476,
+              "male": 26163,
+              "female": 29313
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 23742,
+              "male": 10991,
+              "female": 12751
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 10586,
+              "male": 4262,
+              "female": 6324
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Sukhothai",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 169273,
+              "male": 72485,
+              "female": 96788
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 98917,
+              "male": 44028,
+              "female": 54889
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 48931,
+              "male": 20969,
+              "female": 27962
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 21425,
+              "male": 7488,
+              "female": 13937
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Phitsanulok",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 216167,
+              "male": 95606,
+              "female": 120561
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 126939,
+              "male": 57923,
+              "female": 69016
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 60741,
+              "male": 27029,
+              "female": 33712
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 28487,
+              "male": 10654,
+              "female": 17833
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Phichit",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 153160,
+              "male": 67084,
+              "female": 86076
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 88293,
+              "male": 39655,
+              "female": 48638
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 44649,
+              "male": 19884,
+              "female": 24765
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 20218,
+              "male": 7545,
+              "female": 12673
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Phetchabun",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 228809,
+              "male": 103837,
+              "female": 124972
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 134698,
+              "male": 62805,
+              "female": 71893
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 64020,
+              "male": 28969,
+              "female": 35051
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 30091,
+              "male": 12063,
+              "female": 18028
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Northeastern region",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 4120579,
+              "male": 1869679,
+              "female": 2250900
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 2267458,
+              "male": 1068220,
+              "female": 1199238
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 1311402,
+              "male": 590961,
+              "female": 720441
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 541719,
+              "male": 210498,
+              "female": 331221
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Nakhon Ratchasima",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 550475,
+              "male": 249798,
+              "female": 300677
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 278647,
+              "male": 131727,
+              "female": 146920
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 186782,
+              "male": 86086,
+              "female": 100696
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 85046,
+              "male": 31985,
+              "female": 53061
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Buri Ram",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 295415,
+              "male": 133938,
+              "female": 161477
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 155959,
+              "male": 73609,
+              "female": 82350
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 97262,
+              "male": 44207,
+              "female": 53055
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 42194,
+              "male": 16122,
+              "female": 26072
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Surin",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 276229,
+              "male": 123319,
+              "female": 152910
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 143601,
+              "male": 66087,
+              "female": 77514
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 92135,
+              "male": 41456,
+              "female": 50679
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 40493,
+              "male": 15776,
+              "female": 24717
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Si Sa Ket",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 240885,
+              "male": 106805,
+              "female": 134080
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 131839,
+              "male": 61103,
+              "female": 70736
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 77526,
+              "male": 33961,
+              "female": 43565
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 31520,
+              "male": 11741,
+              "female": 19779
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Ubon Ratchathani",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 354191,
+              "male": 163703,
+              "female": 190488
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 186910,
+              "male": 89368,
+              "female": 97542
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 114934,
+              "male": 52626,
+              "female": 62308
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 52347,
+              "male": 21709,
+              "female": 30638
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Yasothon",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 118540,
+              "male": 53272,
+              "female": 65268
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 65969,
+              "male": 31148,
+              "female": 34821
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 37981,
+              "male": 16782,
+              "female": 21199
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 14590,
+              "male": 5342,
+              "female": 9248
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Chaiyaphum",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 238368,
+              "male": 108848,
+              "female": 129520
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 128442,
+              "male": 60849,
+              "female": 67593
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 78600,
+              "male": 36015,
+              "female": 42585
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 31326,
+              "male": 11984,
+              "female": 19342
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Amnat Charoen",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 59924,
+              "male": 26838,
+              "female": 33086
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 32620,
+              "male": 15426,
+              "female": 17194
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 19281,
+              "male": 8312,
+              "female": 10969
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 8023,
+              "male": 3100,
+              "female": 4923
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Bueng Kan",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 70356,
+              "male": 33192,
+              "female": 37164
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 39031,
+              "male": 19032,
+              "female": 19999
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 21978,
+              "male": 10203,
+              "female": 11775
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 9347,
+              "male": 3957,
+              "female": 5390
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Nong Bua Lamphu",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 97896,
+              "male": 44231,
+              "female": 53665
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 56746,
+              "male": 26658,
+              "female": 30088
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 29584,
+              "male": 13271,
+              "female": 16313
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 11566,
+              "male": 4302,
+              "female": 7264
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Khon kaen",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 375753,
+              "male": 170906,
+              "female": 204847
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 214153,
+              "male": 100747,
+              "female": 113406
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 116005,
+              "male": 52351,
+              "female": 63654
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 45595,
+              "male": 17808,
+              "female": 27787
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Udon Thani",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 243817,
+              "male": 111399,
+              "female": 132418
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 142268,
+              "male": 67156,
+              "female": 75112
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 74072,
+              "male": 33693,
+              "female": 40379
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 27477,
+              "male": 10550,
+              "female": 16927
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Loei",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 118514,
+              "male": 57542,
+              "female": 60972
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 63052,
+              "male": 31503,
+              "female": 31549
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 37409,
+              "male": 18054,
+              "female": 19355
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 18053,
+              "male": 7985,
+              "female": 10068
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Nong Khai",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 91065,
+              "male": 41515,
+              "female": 49550
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 50371,
+              "male": 23725,
+              "female": 26646
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 29085,
+              "male": 12997,
+              "female": 16088
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 11609,
+              "male": 4793,
+              "female": 6816
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Maha Sarakham",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 186683,
+              "male": 82690,
+              "female": 103993
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 112532,
+              "male": 52194,
+              "female": 60338
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 55187,
+              "male": 23755,
+              "female": 31432
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 18964,
+              "male": 6741,
+              "female": 12223
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Roi Et",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 263873,
+              "male": 117813,
+              "female": 146060
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 154077,
+              "male": 72044,
+              "female": 82033
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 80920,
+              "male": 35182,
+              "female": 45738
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 28876,
+              "male": 10587,
+              "female": 18289
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Kalasin",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 179162,
+              "male": 80939,
+              "female": 98223
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 105157,
+              "male": 49358,
+              "female": 55799
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 53683,
+              "male": 23653,
+              "female": 30030
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 20322,
+              "male": 7928,
+              "female": 12394
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Sakon Nakhon",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 175565,
+              "male": 79742,
+              "female": 95823
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 103569,
+              "male": 48301,
+              "female": 55268
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 52198,
+              "male": 23408,
+              "female": 28790
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 19798,
+              "male": 8033,
+              "female": 11765
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Nakhon Phanom",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 115995,
+              "male": 51578,
+              "female": 64417
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 65670,
+              "male": 30378,
+              "female": 35292
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 35037,
+              "male": 15101,
+              "female": 19936
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 15288,
+              "male": 6099,
+              "female": 9189
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Mukdahan",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 67873,
+              "male": 31611,
+              "female": 36262
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 36845,
+              "male": 17807,
+              "female": 19038
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 21743,
+              "male": 9848,
+              "female": 11895
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 9285,
+              "male": 3956,
+              "female": 5329
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Southern region",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 1566500,
+              "male": 696095,
+              "female": 870405
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 873113,
+              "male": 407591,
+              "female": 465522
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 459720,
+              "male": 201390,
+              "female": 258330
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 233667,
+              "male": 87114,
+              "female": 146553
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Nakhon Si Thammarat",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 335402,
+              "male": 145979,
+              "female": 189423
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 181289,
+              "male": 83468,
+              "female": 97821
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 99802,
+              "male": 43033,
+              "female": 56769
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 54311,
+              "male": 19478,
+              "female": 34833
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Krabi",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 51920,
+              "male": 24437,
+              "female": 27483
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 28673,
+              "male": 13912,
+              "female": 14761
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 15438,
+              "male": 7270,
+              "female": 8168
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 7809,
+              "male": 3255,
+              "female": 4554
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Phangnga",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 43029,
+              "male": 20132,
+              "female": 22897
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 24100,
+              "male": 11749,
+              "female": 12351
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 12602,
+              "male": 5843,
+              "female": 6759
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 6327,
+              "male": 2540,
+              "female": 3787
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Phuket",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 60741,
+              "male": 29379,
+              "female": 31362
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 39049,
+              "male": 20006,
+              "female": 19043
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 14857,
+              "male": 6930,
+              "female": 7927
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 6835,
+              "male": 2443,
+              "female": 4392
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Surat Thani",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 171490,
+              "male": 73961,
+              "female": 97529
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 93128,
+              "male": 42427,
+              "female": 50701
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 50887,
+              "male": 21703,
+              "female": 29184
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 27475,
+              "male": 9831,
+              "female": 17644
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Ranong",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 30336,
+              "male": 14182,
+              "female": 16154
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 17641,
+              "male": 8509,
+              "female": 9132
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 8497,
+              "male": 4047,
+              "female": 4450
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 4198,
+              "male": 1626,
+              "female": 2572
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Chumphon",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 88123,
+              "male": 39559,
+              "female": 48564
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 47468,
+              "male": 22426,
+              "female": 25042
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 26421,
+              "male": 11897,
+              "female": 14524
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 14234,
+              "male": 5236,
+              "female": 8998
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Songkhla",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 260769,
+              "male": 114688,
+              "female": 146081
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 145905,
+              "male": 67325,
+              "female": 78580
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 76030,
+              "male": 33047,
+              "female": 42983
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 38834,
+              "male": 14316,
+              "female": 24518
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Satun",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 41579,
+              "male": 19589,
+              "female": 21990
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 23685,
+              "male": 11506,
+              "female": 12179
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 12322,
+              "male": 5735,
+              "female": 6587
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 5572,
+              "male": 2348,
+              "female": 3224
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Trang",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 110221,
+              "male": 48030,
+              "female": 62191
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 59895,
+              "male": 27416,
+              "female": 32479
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 32971,
+              "male": 14420,
+              "female": 18551
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 17355,
+              "male": 6194,
+              "female": 11161
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Phatthalung",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 114663,
+              "male": 49519,
+              "female": 65144
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 63970,
+              "male": 29061,
+              "female": 34909
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 32597,
+              "male": 13967,
+              "female": 18630
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 18096,
+              "male": 6491,
+              "female": 11605
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Pattani",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 98139,
+              "male": 42692,
+              "female": 55447
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 53973,
+              "male": 24622,
+              "female": 29351
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 30636,
+              "male": 12788,
+              "female": 17848
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 13530,
+              "male": 5282,
+              "female": 8248
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Yala",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 62244,
+              "male": 29137,
+              "female": 33107
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 36647,
+              "male": 17642,
+              "female": 19005
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 18242,
+              "male": 8316,
+              "female": 9926
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 7355,
+              "male": 3179,
+              "female": 4176
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Narathiwat",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 97844,
+              "male": 44811,
+              "female": 53033
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 57690,
+              "male": 27522,
+              "female": 30168
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 28418,
+              "male": 12394,
+              "female": 16024
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 11736,
+              "male": 4895,
+              "female": 6841
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "records": [
+        {
+          "region": "Whole Kingdom",
+          "province": "Whole kingdom",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 14027411,
+              "male": 5904327,
+              "female": 8123084
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 8321036,
+              "male": 3770728,
+              "female": 4550308
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 4180852,
+              "male": 1666979,
+              "female": 2513873
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 1525523,
+              "male": 466620,
+              "female": 1058903
+            }
+          ]
+        },
+        {
+          "region": "Whole Kingdom",
+          "province": "Municipal area",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": null,
+              "male": null,
+              "female": null
+            },
+            {
+              "age_group": "60-69 year",
+              "total": null,
+              "male": null,
+              "female": null
+            },
+            {
+              "age_group": "70-79 year",
+              "total": null,
+              "male": null,
+              "female": null
+            },
+            {
+              "age_group": "80 year and over",
+              "total": null,
+              "male": null,
+              "female": null
+            }
+          ]
+        },
+        {
+          "region": "Whole Kingdom",
+          "province": "Non-municipal area",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": null,
+              "male": null,
+              "female": null
+            },
+            {
+              "age_group": "60-69 year",
+              "total": null,
+              "male": null,
+              "female": null
+            },
+            {
+              "age_group": "70-79 year",
+              "total": null,
+              "male": null,
+              "female": null
+            },
+            {
+              "age_group": "80 year and over",
+              "total": null,
+              "male": null,
+              "female": null
+            }
+          ]
+        },
+        {
+          "region": "Bangkok",
+          "province": "Bangkok",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 1456740,
+              "male": 601042,
+              "female": 855698
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 926478,
+              "male": 413565,
+              "female": 512913
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 399697,
+              "male": 150445,
+              "female": 249252
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 130565,
+              "male": 37032,
+              "female": 93533
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Central region",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 3778750,
+              "male": 1561905,
+              "female": 2216845
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 2301256,
+              "male": 1035478,
+              "female": 1265778
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 1074719,
+              "male": 409701,
+              "female": 665018
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 402775,
+              "male": 116726,
+              "female": 286049
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Samut Prakan",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 386458,
+              "male": 158261,
+              "female": 228197
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 242000,
+              "male": 108026,
+              "female": 133974
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 106779,
+              "male": 39819,
+              "female": 66960
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 37679,
+              "male": 10416,
+              "female": 27263
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Nonthaburi",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 296396,
+              "male": 121965,
+              "female": 174431
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 186308,
+              "male": 83569,
+              "female": 102739
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 81426,
+              "male": 30405,
+              "female": 51021
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 28662,
+              "male": 7991,
+              "female": 20671
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Pathum Thani",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 289629,
+              "male": 119475,
+              "female": 170154
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 182300,
+              "male": 82111,
+              "female": 100189
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 79296,
+              "male": 29435,
+              "female": 49861
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 28033,
+              "male": 7929,
+              "female": 20104
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Phra Nakhon Si Ayutthaya",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 193469,
+              "male": 77526,
+              "female": 115943
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 113562,
+              "male": 49728,
+              "female": 63834
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 57170,
+              "male": 21277,
+              "female": 35893
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 22737,
+              "male": 6521,
+              "female": 16216
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Ang Thong",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 52696,
+              "male": 21088,
+              "female": 31608
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 30969,
+              "male": 13546,
+              "female": 17423
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 15551,
+              "male": 5785,
+              "female": 9766
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 6176,
+              "male": 1757,
+              "female": 4419
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Lop Buri",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 165292,
+              "male": 66181,
+              "female": 99111
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 97226,
+              "male": 42532,
+              "female": 54694
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 48750,
+              "male": 18158,
+              "female": 30592
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 19316,
+              "male": 5491,
+              "female": 13825
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Sing Buri",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 39487,
+              "male": 15800,
+              "female": 23687
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 23212,
+              "male": 10151,
+              "female": 13061
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 11652,
+              "male": 4335,
+              "female": 7317
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 4623,
+              "male": 1314,
+              "female": 3309
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Chai Nat",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 62252,
+              "male": 24956,
+              "female": 37296
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 36568,
+              "male": 16003,
+              "female": 20565
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 18357,
+              "male": 6841,
+              "female": 11516
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 7327,
+              "male": 2112,
+              "female": 5215
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Saraburi",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 163118,
+              "male": 65428,
+              "female": 97690
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 95693,
+              "male": 41918,
+              "female": 53775
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 48126,
+              "male": 17972,
+              "female": 30154
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 19299,
+              "male": 5538,
+              "female": 13761
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Chon Buri",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 317126,
+              "male": 143545,
+              "female": 173581
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 202425,
+              "male": 100740,
+              "female": 101685
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 84234,
+              "male": 33685,
+              "female": 50549
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 30467,
+              "male": 9120,
+              "female": 21347
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Rayong",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 161668,
+              "male": 67686,
+              "female": 93982
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 100188,
+              "male": 45555,
+              "female": 54633
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 44932,
+              "male": 17263,
+              "female": 27669
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 16548,
+              "male": 4868,
+              "female": 11680
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Chanthaburi",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 87509,
+              "male": 36230,
+              "female": 51279
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 54160,
+              "male": 24337,
+              "female": 29823
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 24341,
+              "male": 9252,
+              "female": 15089
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 9008,
+              "male": 2641,
+              "female": 6367
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Trat",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 43483,
+              "male": 17956,
+              "female": 25527
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 26866,
+              "male": 12041,
+              "female": 14825
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 12122,
+              "male": 4600,
+              "female": 7522
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 4495,
+              "male": 1315,
+              "female": 3180
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Chachoengsao",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 133307,
+              "male": 55283,
+              "female": 78024
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 82451,
+              "male": 37090,
+              "female": 45361
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 37112,
+              "male": 14158,
+              "female": 22954
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 13744,
+              "male": 4035,
+              "female": 9709
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Prachin Buri",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 104890,
+              "male": 43153,
+              "female": 61737
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 64863,
+              "male": 29021,
+              "female": 35842
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 29151,
+              "male": 11018,
+              "female": 18133
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 10876,
+              "male": 3114,
+              "female": 7762
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Nakhon Nayok",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 40935,
+              "male": 16935,
+              "female": 24000
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 25297,
+              "male": 11366,
+              "female": 13931
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 11410,
+              "male": 4334,
+              "female": 7076
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 4228,
+              "male": 1235,
+              "female": 2993
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Sa Kaeo",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 105368,
+              "male": 44082,
+              "female": 61286
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 65180,
+              "male": 29570,
+              "female": 35610
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 29337,
+              "male": 11286,
+              "female": 18051
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 10851,
+              "male": 3226,
+              "female": 7625
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Ratchaburi",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 176962,
+              "male": 72648,
+              "female": 104314
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 102092,
+              "male": 45162,
+              "female": 56930
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 53685,
+              "male": 21118,
+              "female": 32567
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 21185,
+              "male": 6368,
+              "female": 14817
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Kanchanaburi",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 186627,
+              "male": 76625,
+              "female": 110002
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 107798,
+              "male": 47658,
+              "female": 60140
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 56490,
+              "male": 22253,
+              "female": 34237
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 22339,
+              "male": 6714,
+              "female": 15625
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Suphan Buri",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 191461,
+              "male": 78678,
+              "female": 112783
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 110242,
+              "male": 48720,
+              "female": 61522
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 57964,
+              "male": 22817,
+              "female": 35147
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 23255,
+              "male": 7141,
+              "female": 16114
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Nakhon Pathom",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 187892,
+              "male": 76923,
+              "female": 110969
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 117852,
+              "male": 52566,
+              "female": 65286
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 51826,
+              "male": 19336,
+              "female": 32490
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 18214,
+              "male": 5021,
+              "female": 13193
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Samut Sakhon",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 139891,
+              "male": 57119,
+              "female": 82772
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 87784,
+              "male": 39066,
+              "female": 48718
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 38543,
+              "male": 14287,
+              "female": 24256
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 13564,
+              "male": 3766,
+              "female": 9798
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Samut Songkhram",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 37404,
+              "male": 15342,
+              "female": 22062
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 21589,
+              "male": 9530,
+              "female": 12059
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 11334,
+              "male": 4465,
+              "female": 6869
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 4481,
+              "male": 1347,
+              "female": 3134
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Phetchaburi",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 110524,
+              "male": 45527,
+              "female": 64997
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 63851,
+              "male": 28338,
+              "female": 35513
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 33447,
+              "male": 13201,
+              "female": 20246
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 13226,
+              "male": 3988,
+              "female": 9238
+            }
+          ]
+        },
+        {
+          "region": "Central Region",
+          "province": "Prachuap Khiri Khan",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 104906,
+              "male": 43493,
+              "female": 61413
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 60780,
+              "male": 27134,
+              "female": 33646
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 31684,
+              "male": 12601,
+              "female": 19083
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 12442,
+              "male": 3758,
+              "female": 8684
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Northern region",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 2913885,
+              "male": 1238314,
+              "female": 1675571
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 1728120,
+              "male": 1238314,
+              "female": 947806
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 874308,
+              "male": 780314,
+              "female": 515618
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 311457,
+              "male": 358690,
+              "female": 212147
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Chiang Mai",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 451761,
+              "male": 192729,
+              "female": 259032
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 268468,
+              "male": 121765,
+              "female": 146703
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 135166,
+              "male": 55581,
+              "female": 79585
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 48127,
+              "male": 15383,
+              "female": 32744
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Lamphun",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 97707,
+              "male": 41582,
+              "female": 56125
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 57942,
+              "male": 26215,
+              "female": 31727
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 29328,
+              "male": 12025,
+              "female": 17303
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 10437,
+              "male": 3342,
+              "female": 7095
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Lampang",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 181332,
+              "male": 76981,
+              "female": 104351
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 107475,
+              "male": 48477,
+              "female": 58998
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 54445,
+              "male": 22319,
+              "female": 32126
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 19412,
+              "male": 6185,
+              "female": 13227
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Uttaradit",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 105086,
+              "male": 44617,
+              "female": 60469
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 62296,
+              "male": 28094,
+              "female": 34202
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 31551,
+              "male": 12941,
+              "female": 18610
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 11239,
+              "male": 3582,
+              "female": 7657
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Phrae",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 95266,
+              "male": 40465,
+              "female": 54801
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 56486,
+              "male": 25490,
+              "female": 30996
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 28601,
+              "male": 11734,
+              "female": 16867
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 10179,
+              "male": 3241,
+              "female": 6938
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Nan",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 115400,
+              "male": 48977,
+              "female": 66423
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 68398,
+              "male": 30831,
+              "female": 37567
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 34659,
+              "male": 14210,
+              "female": 20449
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 12343,
+              "male": 3936,
+              "female": 8407
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Phayao",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 93714,
+              "male": 39788,
+              "female": 53926
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 55558,
+              "male": 25059,
+              "female": 30499
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 28136,
+              "male": 11537,
+              "female": 16599
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 10020,
+              "male": 3192,
+              "female": 6828
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Chiang Rai",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 294813,
+              "male": 125204,
+              "female": 169609
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 174656,
+              "male": 78815,
+              "female": 95841
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 88519,
+              "male": 36306,
+              "female": 52213
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 31638,
+              "male": 10083,
+              "female": 21555
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Mae Hong Son",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 64036,
+              "male": 27195,
+              "female": 36841
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 37944,
+              "male": 17125,
+              "female": 20819
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 19233,
+              "male": 7874,
+              "female": 11359
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 6859,
+              "male": 2196,
+              "female": 4663
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Nakhon Sawan",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 235671,
+              "male": 100014,
+              "female": 135657
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 139688,
+              "male": 62960,
+              "female": 76728
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 70772,
+              "male": 29025,
+              "female": 41747
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 25211,
+              "male": 8029,
+              "female": 17182
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Uthai Thani",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 71108,
+              "male": 30184,
+              "female": 40924
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 42157,
+              "male": 19011,
+              "female": 23146
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 21347,
+              "male": 8750,
+              "female": 12597
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 7604,
+              "male": 2423,
+              "female": 5181
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Kamphaeng Phet",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 206479,
+              "male": 87634,
+              "female": 118845
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 122391,
+              "male": 55168,
+              "female": 67223
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 62005,
+              "male": 25429,
+              "female": 36576
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 22083,
+              "male": 7037,
+              "female": 15046
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Tak",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 137476,
+              "male": 58384,
+              "female": 79092
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 81591,
+              "male": 36798,
+              "female": 44793
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 41221,
+              "male": 16910,
+              "female": 24311
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 14664,
+              "male": 4676,
+              "female": 9988
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Sukhothai",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 160351,
+              "male": 68062,
+              "female": 92289
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 95041,
+              "male": 42839,
+              "female": 52202
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 48173,
+              "male": 19765,
+              "female": 28408
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 17137,
+              "male": 5458,
+              "female": 11679
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Phitsanulok",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 236706,
+              "male": 100498,
+              "female": 136208
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 140324,
+              "male": 63292,
+              "female": 77032
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 71058,
+              "male": 29135,
+              "female": 41923
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 25324,
+              "male": 8071,
+              "female": 17253
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Phichit",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 131168,
+              "male": 55712,
+              "female": 75456
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 77771,
+              "male": 35091,
+              "female": 42680
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 39387,
+              "male": 16161,
+              "female": 23226
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 14010,
+              "male": 4460,
+              "female": 9550
+            }
+          ]
+        },
+        {
+          "region": "Northern Region",
+          "province": "Phetchabun",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 235811,
+              "male": 100288,
+              "female": 135523
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 139934,
+              "male": 63284,
+              "female": 76650
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 70707,
+              "male": 28988,
+              "female": 41719
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 25170,
+              "male": 8016,
+              "female": 17154
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Northeastern region",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 4218846,
+              "male": 1801307,
+              "female": 2417539
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 2398123,
+              "male": 1097325,
+              "female": 1300798
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 1343846,
+              "male": 551615,
+              "female": 792231
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 476877,
+              "male": 152367,
+              "female": 324510
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Nakhon Ratchasima",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 575128,
+              "male": 245841,
+              "female": 329287
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 326780,
+              "male": 149583,
+              "female": 177197
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 183368,
+              "male": 75465,
+              "female": 107903
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 64980,
+              "male": 20793,
+              "female": 44187
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Buri Ram",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 273882,
+              "male": 116853,
+              "female": 157029
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 155706,
+              "male": 71221,
+              "female": 84485
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 87220,
+              "male": 35757,
+              "female": 51463
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 30956,
+              "male": 9875,
+              "female": 21081
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Surin",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 238398,
+              "male": 101724,
+              "female": 136674
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 135522,
+              "male": 61990,
+              "female": 73532
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 75918,
+              "male": 31127,
+              "female": 44791
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 26958,
+              "male": 8607,
+              "female": 18351
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Si Sa Ket",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 212438,
+              "male": 90585,
+              "female": 121853
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 120755,
+              "male": 55191,
+              "female": 65564
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 67663,
+              "male": 27729,
+              "female": 39934
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 24020,
+              "male": 7665,
+              "female": 16355
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Ubon Ratchathani",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 401029,
+              "male": 170956,
+              "female": 230073
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 227954,
+              "male": 104143,
+              "female": 123811
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 127723,
+              "male": 52335,
+              "female": 75388
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 45352,
+              "male": 14478,
+              "female": 30874
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Yasothon",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 102598,
+              "male": 43743,
+              "female": 58855
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 58305,
+              "male": 26641,
+              "female": 31664
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 32685,
+              "male": 13396,
+              "female": 19289
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 11608,
+              "male": 3706,
+              "female": 7902
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Chaiyaphum",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 211949,
+              "male": 90374,
+              "female": 121575
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 120472,
+              "male": 55060,
+              "female": 65412
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 67512,
+              "male": 27666,
+              "female": 39846
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 23965,
+              "male": 7648,
+              "female": 16317
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Amnat Charoen",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 65212,
+              "male": 27863,
+              "female": 37349
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 37074,
+              "male": 16974,
+              "female": 20100
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 20772,
+              "male": 8533,
+              "female": 12239
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 7366,
+              "male": 2356,
+              "female": 5010
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Bueng Kan",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 82400,
+              "male": 35522,
+              "female": 46878
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 46862,
+              "male": 21639,
+              "female": 25223
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 26239,
+              "male": 10876,
+              "female": 15363
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 9299,
+              "male": 3007,
+              "female": 6292
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Nong Bua Lamphu",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 108740,
+              "male": 46279,
+              "female": 62461
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 61811,
+              "male": 28201,
+              "female": 33610
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 34632,
+              "male": 14165,
+              "female": 20467
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 12297,
+              "male": 3913,
+              "female": 8384
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Khon kaen",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 395680,
+              "male": 169211,
+              "female": 226469
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 225029,
+              "male": 103207,
+              "female": 121822
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 125941,
+              "male": 51683,
+              "female": 74258
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 44710,
+              "male": 14321,
+              "female": 30389
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Udon Thani",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 288957,
+              "male": 123976,
+              "female": 164981
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 164317,
+              "male": 75564,
+              "female": 88753
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 92030,
+              "male": 37984,
+              "female": 54046
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 32610,
+              "male": 10428,
+              "female": 22182
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Loei",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 123546,
+              "male": 52762,
+              "female": 70784
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 70223,
+              "male": 32116,
+              "female": 38107
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 39359,
+              "male": 16177,
+              "female": 23182
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 13964,
+              "male": 4469,
+              "female": 9495
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Nong Khai",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 105058,
+              "male": 44723,
+              "female": 60335
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 59778,
+              "male": 27292,
+              "female": 32486
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 33419,
+              "male": 13665,
+              "female": 19754
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 11861,
+              "male": 3766,
+              "female": 8095
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Maha Sarakham",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 176569,
+              "male": 75293,
+              "female": 101276
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 100356,
+              "male": 45864,
+              "female": 54492
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 56254,
+              "male": 23063,
+              "female": 33191
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 19959,
+              "male": 6366,
+              "female": 13593
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Roi Et",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 240691,
+              "male": 102685,
+              "female": 138006
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 136753,
+              "male": 62496,
+              "female": 74257
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 76735,
+              "male": 31510,
+              "female": 45225
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 27203,
+              "male": 8679,
+              "female": 18524
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Kalasin",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 180552,
+              "male": 76979,
+              "female": 103573
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 102620,
+              "male": 46889,
+              "female": 55731
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 57513,
+              "male": 23573,
+              "female": 33940
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 20419,
+              "male": 6517,
+              "female": 13902
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Sakon Nakhon",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 210063,
+              "male": 89560,
+              "female": 120503
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 119374,
+              "male": 54546,
+              "female": 64828
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 66914,
+              "male": 27412,
+              "female": 39502
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 23775,
+              "male": 7602,
+              "female": 16173
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Nakhon Phanom",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 124668,
+              "male": 53186,
+              "female": 71482
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 70866,
+              "male": 32394,
+              "female": 38472
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 39695,
+              "male": 16281,
+              "female": 23414
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 14107,
+              "male": 4511,
+              "female": 9596
+            }
+          ]
+        },
+        {
+          "region": "Northeastern Region",
+          "province": "Mukdahan",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 101288,
+              "male": 43192,
+              "female": 58096
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 57566,
+              "male": 26314,
+              "female": 31252
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 32254,
+              "male": 13218,
+              "female": 19036
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 11468,
+              "male": 3660,
+              "female": 7808
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Southern region",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 1659190,
+              "male": 701759,
+              "female": 957431
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 967059,
+              "male": 444046,
+              "female": 523013
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 488282,
+              "male": 196528,
+              "female": 291754
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 203849,
+              "male": 61185,
+              "female": 142664
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Nakhon Si Thammarat",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 264846,
+              "male": 111859,
+              "female": 152987
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 154140,
+              "male": 70665,
+              "female": 83475
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 78048,
+              "male": 31390,
+              "female": 46658
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 32658,
+              "male": 9804,
+              "female": 22854
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Krabi",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 72843,
+              "male": 30579,
+              "female": 42264
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 42209,
+              "male": 19378,
+              "female": 22831
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 21268,
+              "male": 8545,
+              "female": 12723
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 9366,
+              "male": 2656,
+              "female": 6710
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Phangnga",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 40081,
+              "male": 16955,
+              "female": 23126
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 23400,
+              "male": 10748,
+              "female": 12652
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 11781,
+              "male": 4736,
+              "female": 7045
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 4900,
+              "male": 1471,
+              "female": 3429
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Phuket",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 100895,
+              "male": 43843,
+              "female": 57052
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 59300,
+              "male": 28015,
+              "female": 31285
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 29439,
+              "male": 12146,
+              "female": 17293
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 12156,
+              "male": 3682,
+              "female": 8474
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Surat Thani",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 188304,
+              "male": 79530,
+              "female": 108774
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 109751,
+              "male": 50318,
+              "female": 59433
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 55477,
+              "male": 22301,
+              "female": 33176
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 23076,
+              "male": 6911,
+              "female": 17644
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Ranong",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 45288,
+              "male": 19133,
+              "female": 26155
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 26429,
+              "male": 12113,
+              "female": 14316
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 13323,
+              "male": 5352,
+              "female": 7971
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 5536,
+              "male": 1668,
+              "female": 3868
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Chumphon",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 80183,
+              "male": 33869,
+              "female": 46314
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 46810,
+              "male": 21456,
+              "female": 25354
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 23566,
+              "male": 9468,
+              "female": 14098
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 9807,
+              "male": 2945,
+              "female": 6862
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Songkhla",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 290261,
+              "male": 122687,
+              "female": 167574
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 169082,
+              "male": 77463,
+              "female": 91619
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 85534,
+              "male": 34402,
+              "female": 51132
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 35645,
+              "male": 10822,
+              "female": 24823
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Satun",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 52531,
+              "male": 22167,
+              "female": 30364
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 30602,
+              "male": 14020,
+              "female": 16582
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 15484,
+              "male": 6211,
+              "female": 9273
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 6445,
+              "male": 1936,
+              "female": 4509
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Trang",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 108775,
+              "male": 45917,
+              "female": 62858
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 63385,
+              "male": 29041,
+              "female": 34344
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 32050,
+              "male": 12870,
+              "female": 19180
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 13340,
+              "male": 4006,
+              "female": 9334
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Phatthalung",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 86202,
+              "male": 36388,
+              "female": 49814
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 50221,
+              "male": 23004,
+              "female": 27217
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 25409,
+              "male": 10213,
+              "female": 15196
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 10572,
+              "male": 3171,
+              "female": 7401
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Pattani",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 113580,
+              "male": 47924,
+              "female": 65656
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 66188,
+              "male": 30313,
+              "female": 35875
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 33462,
+              "male": 13430,
+              "female": 20032
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 13930,
+              "male": 4181,
+              "female": 9749
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Yala",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 85031,
+              "male": 35890,
+              "female": 49141
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 49551,
+              "male": 22702,
+              "female": 26849
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 25046,
+              "male": 10055,
+              "female": 14991
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 10434,
+              "male": 3133,
+              "female": 7301
+            }
+          ]
+        },
+        {
+          "region": "Southern Region",
+          "province": "Narathiwat",
+          "age_groups": [
+            {
+              "age_group": "Total",
+              "total": 130370,
+              "male": 55018,
+              "female": 75352
+            },
+            {
+              "age_group": "60-69 year",
+              "total": 75991,
+              "male": 34810,
+              "female": 41181
+            },
+            {
+              "age_group": "70-79 year",
+              "total": 38395,
+              "male": 15409,
+              "female": 22986
+            },
+            {
+              "age_group": "80 year and over",
+              "total": 15984,
+              "male": 4799,
+              "female": 11185
+            }
+          ]
+        }
+      ]
+    }
   ],
   "source": "Survey Of The Older Persons in Thailand, National Statistical Office, Ministry of Digital Economy and Society",
   "source_file": "SRC-012.xlsx"
