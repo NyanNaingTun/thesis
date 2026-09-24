@@ -122,7 +122,11 @@
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
           },
-          "id": "SRC-008"
+          "id": "SRC-008",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-008.json",
+          "completed_at": "2026-09-24",
+          "processed_commit": "dd7c5ee68a0faf09229ee8b10402b73ded51bea9"
         },
         {
           "name": "Demo by area",
