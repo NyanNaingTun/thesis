@@ -222,7 +222,7 @@
           "processing_status": "done",
           "processed_file": "processed/SRC-013.json",
           "completed_at": "2026-09-25",
-          "processed_commit": "f182645c403afbbe765893a24379316c7246bf61"
+          "processed_commit": "3eb8effe547a63a1e39e4729d695e0a7670dd650"
         },
         {
           "name": "Population by age group",
