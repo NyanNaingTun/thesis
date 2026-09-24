@@ -835,7 +835,11 @@
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
           },
-          "id": "SRC-056"
+          "id": "SRC-056",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-056.json",
+          "completed_at": "2026-09-25",
+          "processed_commit": "8b9b581e027ef1e3fff39ec5dfcfd33ef990cae9"
         }
       ]
     },
