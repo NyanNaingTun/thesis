@@ -291,7 +291,11 @@
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
           },
-          "id": "SRC-020"
+          "id": "SRC-020",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-020.json",
+          "completed_at": "2026-09-24",
+          "processed_commit": "fd5cee27ba50264d0dcaed89d5383f68f30c7a00"
         },
         {
           "name": "Labor force survey reports",
