@@ -253,7 +253,11 @@
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
           },
-          "id": "SRC-015"
+          "id": "SRC-015",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-015.json",
+          "completed_at": "2026-09-25",
+          "processed_commit": "fe83e8b0504073f4e507a6804acca2f67ff39efc"
         },
         {
           "name": "Unemployment",
