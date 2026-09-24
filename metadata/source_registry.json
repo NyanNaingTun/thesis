@@ -169,7 +169,7 @@
           "processing_status": "done",
           "processed_file": "processed/SRC-010.json",
           "completed_at": "2026-09-25",
-          "processed_commit": "09cddb9284e2c1d475e8e07cbea4ebd621dcfad9"
+          "processed_commit": "f4de3255c698080cd4d1b26ab9d8b41f4c8db2cd"
         },
         {
           "name": "Life expectancy above 60",
