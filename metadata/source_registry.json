@@ -325,7 +325,11 @@
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
           },
-          "id": "SRC-019"
+          "id": "SRC-019",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-019.json",
+          "completed_at": "2026-09-25",
+          "processed_commit": "dca6afbf3669b0807dd79d1fb5f502e9efdf5cc8"
         },
         {
           "name": "Academic population",
