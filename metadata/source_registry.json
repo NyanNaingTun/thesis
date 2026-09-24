@@ -1,0 +1,324 @@
+{
+  "project": "F&B Thesis",
+  "country": "Thailand",
+  "registered_at": "2026-09-24",
+  "note": "Source registry supplied by the project owner. Labels and year ranges are preserved from the supplied source list; source contents have not been independently verified in this registry.",
+  "categories": [
+    {
+      "category": "Halal Food Data",
+      "sources": [
+        {
+          "name": "Business matching",
+          "url": "https://www.thic.or.th/en/stats/business_matching?period=year"
+        },
+        {
+          "name": "Product",
+          "year": 2025,
+          "url": "https://www.thic.or.th/en/stats/product_service?year=2025"
+        },
+        {
+          "name": "Top 20 certification request",
+          "year": 2026,
+          "month": 1,
+          "url": "https://www.thic.or.th/en/stats/certification_request?year=2026&month=1"
+        },
+        {
+          "name": "Trader and factory",
+          "year": 2026,
+          "url": "https://www.thic.or.th/en/stats/trader_factory?year=2026"
+        },
+        {
+          "name": "Export statistics",
+          "year": 2025,
+          "chart_type": "product_type",
+          "metric": "volume",
+          "url": "https://www.thic.or.th/en/stats/export?year=2025&chart_type=product_type&metric=volume"
+        }
+      ]
+    },
+    {
+      "category": "Population & Demographics",
+      "sources": [
+        {
+          "name": "World Bank Thailand overview/by theme/by SDG",
+          "url": "https://data.worldbank.org/country/thailand"
+        },
+        {
+          "name": "Agriculture & rural development Thailand",
+          "format": "csv",
+          "url": "https://data.humdata.org/dataset/0269cd75-8d7a-411d-aeb8-b0c88fa5e6ed/resource/224dc929-1e02-4347-aaef-fe32f3d44435/download/agriculture-and-rural-development_tha.csv"
+        },
+        {
+          "name": "NSO demo",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/ie/file_xls_en"
+        },
+        {
+          "name": "Demo by area",
+          "period": "2012-2025",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/i7/file_xls_en"
+        },
+        {
+          "name": "Life expectancy",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/ij/file_xls_en"
+        },
+        {
+          "name": "Life expectancy above 60",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/im/file_xls_en"
+        },
+        {
+          "name": "Elderly population",
+          "period": "2021, 2024",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/is/file_xls_en"
+        },
+        {
+          "name": "Population growth rate",
+          "period": "2012-2022",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/iK/file_xls_en"
+        },
+        {
+          "name": "Population by age group",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/gJ/file_xls_en"
+        },
+        {
+          "name": "Formal/informal work",
+          "period": "2012-2025",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/ik/file_xls_en"
+        },
+        {
+          "name": "Unemployment",
+          "period": "2012-2023",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/iC/file_xls_en"
+        },
+        {
+          "name": "Employment",
+          "period": "2012-2023",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/id/file_xls_en"
+        },
+        {
+          "name": "Labor force participation",
+          "period": "2017-2024",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/iE/file_xls_en"
+        },
+        {
+          "name": "Elderly workers",
+          "period": "2012-2022",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/iz/file_xls_en"
+        },
+        {
+          "name": "Academic population",
+          "period": "2012-2021",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/jg/file_xls_en"
+        },
+        {
+          "name": "Labor force survey reports",
+          "desired_period": "2021-2026",
+          "url": "https://www.nso.go.th/nsoweb/nso/survey_detail/9u?set_lang=en#gsc.tab=0"
+        },
+        {
+          "name": "Health outpatient",
+          "period": "2012-2024",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/8u/file_xls_en"
+        },
+        {
+          "name": "Health inpatient",
+          "period": "2017-2024",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/8t/file_xls_en"
+        },
+        {
+          "name": "Number of households",
+          "period": "2012-2022",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/j8/file_xls_en"
+        },
+        {
+          "name": "Income",
+          "period": "2004-2023",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/jj/file_xls_en"
+        },
+        {
+          "name": "Debt",
+          "period": "2004-2023",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/jm/file_xls_en"
+        },
+        {
+          "name": "Monthly Expenditure",
+          "period": "2012-2023",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/jA/file_xls_en"
+        },
+        {
+          "name": "Consumption expenditure by poor, non-poor, overall",
+          "period": "1988-2023",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/jF/file_xls_en"
+        },
+        {
+          "name": "Poor expenditure by region",
+          "period": "2012-2023",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/jy/file_xls_en"
+        },
+        {
+          "name": "Poverty line expenditure",
+          "period": "2012-2023",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/ja/file_xls_en"
+        },
+        {
+          "name": "Monthly expenditure by type",
+          "url": "https://catalog.nso.go.th/dataset/ns_08_20242/resource/74047d79-7fed-419e-afe8-38a3ec72d336?inner_span=True"
+        },
+        {
+          "name": "Average monthly expenses",
+          "url": "https://catalog.nso.go.th/dataset/ns_08_20242/resource/74047d79-7fed-419e-afe8-38a3ec72d336?inner_span=True"
+        },
+        {
+          "name": "Household income and expenditure yearly",
+          "url": "https://www.nso.go.th/nsoweb/nso/survey_detail/qC?set_lang=en#gsc.tab=0"
+        },
+        {
+          "name": "Household use IT",
+          "format": "pdf",
+          "url": "https://www.nso.go.th/nsoweb/storage/survey_detail/2026/20260826113840_69863.pdf"
+        },
+        {
+          "name": "National income",
+          "period": "2011-2023",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/jd/file_xls_en"
+        },
+        {
+          "name": "Consumption expenditure",
+          "period": "2011-2021",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/j6/file_xls_en"
+        },
+        {
+          "name": "Personal income, saving, expenditure",
+          "period": "2011-2023",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/jI/file_xls_en"
+        },
+        {
+          "name": "GDP GNI",
+          "period": "2019-2024",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/jQ/file_xls_en"
+        },
+        {
+          "name": "GDP per capita",
+          "period": "2011-2020",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/mf/file_xls_en"
+        },
+        {
+          "name": "Logistics cost",
+          "period": "2012-2024",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/AE/file_xls_en"
+        },
+        {
+          "name": "General consumer price by province & commodity",
+          "period": "2010-2021",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/Al/file_xls_en"
+        },
+        {
+          "name": "General consumer price by region & commodity",
+          "period": "2012-2024",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/AL/file_xls_en"
+        },
+        {
+          "name": "Rural consumer price",
+          "period": "2012-2022",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/Aw/file_xls_en"
+        },
+        {
+          "name": "Producer price index",
+          "period": "2015-2022 / 2015-2023",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/Aq/file_xls_en"
+        },
+        {
+          "name": "Retail Sales",
+          "period": "2010-2021",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/At/file_xls_en"
+        },
+        {
+          "name": "Wholesale",
+          "period": "2010-2021",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/AU/file_xls_en"
+        },
+        {
+          "name": "Agriculture price",
+          "period": "2005-2023",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/Ab/file_xls_en"
+        },
+        {
+          "name": "CPI & rate of change Thailand",
+          "note": "yearly; supplied note says download from 2020, through 2026",
+          "url": "https://index.tpso.go.th/cpi/index-price-change-rate/5"
+        },
+        {
+          "name": "CPI for low-income group",
+          "note": "supplied note says download from 2020",
+          "url": "https://index.tpso.go.th/cpi/index-price-change-rate/12"
+        },
+        {
+          "name": "Rice cultivation by region & province",
+          "period": "2021/2022",
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/mP/file_xls_en"
+        }
+      ]
+    },
+    {
+      "category": "Review",
+      "sources": [
+        {
+          "name": "Wongnai Corpus",
+          "url": "https://github.com/wongnai/wongnai-corpus"
+        },
+        {
+          "name": "Wongnai Reviews",
+          "url": "https://huggingface.co/datasets/Wongnai/wongnai_reviews"
+        }
+      ]
+    },
+    {
+      "category": "Thai Food Composition",
+      "sources": [
+        {
+          "name": "Thai food dataset",
+          "note": "supplied note: 2025; Kaggle dataset described as from Mahidol",
+          "url": "https://www.kaggle.com/datasets/chanipornnerunchorn/thai-food-dataset"
+        },
+        {
+          "name": "Thai Nutrition Dataset",
+          "url": "https://huggingface.co/datasets/BaoWio/Thai_Nutrition_Dataset"
+        },
+        {
+          "name": "Traditional Thai dishes / Foods in Thailand",
+          "url": "https://www.kaggle.com/datasets/ponthakornsodchun/foods-in-thailand"
+        }
+      ]
+    },
+    {
+      "category": "OTOP",
+      "sources": [
+        {
+          "name": "OTOP Food",
+          "url": "https://opendata.dla.go.th/dataset/otopfood/resource/8a386806-2647-4725-9deb-57bf92041193"
+        }
+      ]
+    },
+    {
+      "category": "Consumption",
+      "sources": [
+        {
+          "name": "ACFS Consumption",
+          "url": "http://consumption.acfs.go.th/manual#"
+        }
+      ]
+    },
+    {
+      "category": "Thai Food Images",
+      "sources": [
+        {
+          "name": "THFOOD-50",
+          "url": "https://github.com/chakkritte/THFOOD-50"
+        },
+        {
+          "name": "Thai food classification",
+          "url": "https://www.kaggle.com/code/vexxingbanana/thai-food-classification-97-acc"
+        }
+      ]
+    }
+  ]
+}
