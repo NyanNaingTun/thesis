@@ -323,7 +323,11 @@
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
           },
-          "id": "SRC-022"
+          "id": "SRC-022",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-022.json",
+          "completed_at": "2026-09-24",
+          "processed_commit": "ca3c0efd4c44cc467c57efc5d51dce243eb38081"
         },
         {
           "name": "Health inpatient",
