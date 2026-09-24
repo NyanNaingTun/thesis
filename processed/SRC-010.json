@@ -1,0 +1,27 @@
+{
+  "source_id": "SRC-010",
+  "title": "Life Expectancy at Birth: 2010 - 2026",
+  "country": "Thailand",
+  "unit": "Years",
+  "data": [
+    {"year":2010,"male":69.5,"female":76.3},
+    {"year":2011,"male":69.5,"female":76.3},
+    {"year":2012,"male":69.6,"female":76.9},
+    {"year":2013,"male":71.1,"female":78.1},
+    {"year":2014,"male":71.3,"female":78.2},
+    {"year":2015,"male":71.6,"female":78.4},
+    {"year":2016,"male":71.8,"female":78.6},
+    {"year":2017,"male":72,"female":78.8},
+    {"year":2018,"male":72.2,"female":78.9},
+    {"year":2019,"male":73,"female":80.1},
+    {"year":2020,"male":73.2,"female":80.3},
+    {"year":2021,"male":73.5,"female":80.5},
+    {"year":2022,"male":73.6,"female":80.7},
+    {"year":2023,"male":71.9,"female":79.9},
+    {"year":2024,"male":71.9,"female":80},
+    {"year":2025,"male":72,"female":80.1},
+    {"year":2026,"male":72,"female":80.2}
+  ],
+  "source": "Mahidol Population Gazette, January",
+  "source_file": "SRC-010.xlsx"
+}
