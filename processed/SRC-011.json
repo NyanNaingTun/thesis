@@ -4,23 +4,261 @@
   "country": "Thailand",
   "unit": "Years",
   "data": [
-    {"year":2010,"age_60":{"male":19.4,"female":21.9},"age_65":{"male":"-","female":"-"},"age_80":{"male":"-","female":"-"}},
-    {"year":2011,"age_60":{"male":19.4,"female":21.9},"age_65":{"male":16.1,"female":18.1},"age_80":{"male":"-","female":"-"}},
-    {"year":2012,"age_60":{"male":19.1,"female":22.2},"age_65":{"male":15.7,"female":18.2},"age_80":{"male":"-","female":"-"}},
-    {"year":2013,"age_60":{"male":19.9,"female":23.1},"age_65":{"male":16.3,"female":19.1},"age_80":{"male":"-","female":"-"}},
-    {"year":2014,"age_60":{"male":20,"female":23.2},"age_65":{"male":16.4,"female":19.2},"age_80":{"male":"-","female":"-"}},
-    {"year":2015,"age_60":{"male":20.1,"female":23.3},"age_65":{"male":16.4,"female":19.2},"age_80":{"male":"-","female":"-"}},
-    {"year":2016,"age_60":{"male":20.1,"female":23.4},"age_65":{"male":16.4,"female":19.3},"age_80":{"male":"-","female":"-"}},
-    {"year":2017,"age_60":{"male":20.2,"female":23.5},"age_65":{"male":16.5,"female":19.4},"age_80":{"male":"-","female":"-"}},
-    {"year":2018,"age_60":{"male":20.2,"female":23.6},"age_65":{"male":16.5,"female":19.5},"age_80":{"male":"-","female":"-"}},
-    {"year":2019,"age_60":{"male":17.1,"female":22.8},"age_65":{"male":"-","female":"-"},"age_80":{"male":6,"female":8.3}},
-    {"year":2020,"age_60":{"male":17.2,"female":23},"age_65":{"male":"-","female":"-"},"age_80":{"male":6.1,"female":8.3}},
-    {"year":2021,"age_60":{"male":17.4,"female":23.2},"age_65":{"male":"-","female":"-"},"age_80":{"male":6.1,"female":8.4}},
-    {"year":2022,"age_60":{"male":18.3,"female":23.7},"age_65":{"male":"-","female":"-"},"age_80":{"male":6.1,"female":8.6}},
-    {"year":2023,"age_60":{"male":17.5,"female":23},"age_65":{"male":"-","female":"-"},"age_80":{"male":5.8,"female":8.3}},
-    {"year":2024,"age_60":{"male":17.4,"female":23.1},"age_65":{"male":"-","female":"-"},"age_80":{"male":5.8,"female":8.3}},
-    {"year":2025,"age_60":{"male":17.5,"female":23.2},"age_65":{"male":"-","female":"-"},"age_80":{"male":5.8,"female":8.3}},
-    {"year":2026,"age_60":{"male":17.5,"female":23.3},"age_65":{"male":"-","female":"-"},"age_80":{"male":5.8,"female":8.4}}
+    {
+      "year": 2010,
+      "age_60": {
+        "male": 19.4,
+        "female": 21.9
+      },
+      "age_65": {
+        "male": "-",
+        "female": "-"
+      },
+      "age_80": {
+        "male": "-",
+        "female": "-"
+      }
+    },
+    {
+      "year": 2011,
+      "age_60": {
+        "male": 19.4,
+        "female": 21.9
+      },
+      "age_65": {
+        "male": 16.1,
+        "female": 18.1
+      },
+      "age_80": {
+        "male": "-",
+        "female": "-"
+      }
+    },
+    {
+      "year": 2012,
+      "age_60": {
+        "male": 19.1,
+        "female": 22.2
+      },
+      "age_65": {
+        "male": 15.7,
+        "female": 18.2
+      },
+      "age_80": {
+        "male": "-",
+        "female": "-"
+      }
+    },
+    {
+      "year": 2013,
+      "age_60": {
+        "male": 19.9,
+        "female": 23.1
+      },
+      "age_65": {
+        "male": 16.3,
+        "female": 19.1
+      },
+      "age_80": {
+        "male": "-",
+        "female": "-"
+      }
+    },
+    {
+      "year": 2014,
+      "age_60": {
+        "male": 20,
+        "female": 23.2
+      },
+      "age_65": {
+        "male": 16.4,
+        "female": 19.2
+      },
+      "age_80": {
+        "male": "-",
+        "female": "-"
+      }
+    },
+    {
+      "year": 2015,
+      "age_60": {
+        "male": 20.1,
+        "female": 23.3
+      },
+      "age_65": {
+        "male": 16.4,
+        "female": 19.2
+      },
+      "age_80": {
+        "male": "-",
+        "female": "-"
+      }
+    },
+    {
+      "year": 2016,
+      "age_60": {
+        "male": 20.1,
+        "female": 23.4
+      },
+      "age_65": {
+        "male": 16.4,
+        "female": 19.3
+      },
+      "age_80": {
+        "male": "-",
+        "female": "-"
+      }
+    },
+    {
+      "year": 2017,
+      "age_60": {
+        "male": 20.2,
+        "female": 23.5
+      },
+      "age_65": {
+        "male": 16.5,
+        "female": 19.4
+      },
+      "age_80": {
+        "male": "-",
+        "female": "-"
+      }
+    },
+    {
+      "year": 2018,
+      "age_60": {
+        "male": 20.2,
+        "female": 23.6
+      },
+      "age_65": {
+        "male": 16.5,
+        "female": 19.5
+      },
+      "age_80": {
+        "male": "-",
+        "female": "-"
+      }
+    },
+    {
+      "year": 2019,
+      "age_60": {
+        "male": 17.1,
+        "female": 22.8
+      },
+      "age_65": {
+        "male": "-",
+        "female": "-"
+      },
+      "age_80": {
+        "male": 6,
+        "female": 8.3
+      }
+    },
+    {
+      "year": 2020,
+      "age_60": {
+        "male": 17.2,
+        "female": 23
+      },
+      "age_65": {
+        "male": "-",
+        "female": "-"
+      },
+      "age_80": {
+        "male": 6.1,
+        "female": 8.3
+      }
+    },
+    {
+      "year": 2021,
+      "age_60": {
+        "male": 17.4,
+        "female": 23.2
+      },
+      "age_65": {
+        "male": "-",
+        "female": "-"
+      },
+      "age_80": {
+        "male": 6.1,
+        "female": 8.4
+      }
+    },
+    {
+      "year": 2022,
+      "age_60": {
+        "male": 18.3,
+        "female": 23.7
+      },
+      "age_65": {
+        "male": "-",
+        "female": "-"
+      },
+      "age_80": {
+        "male": 6.1,
+        "female": 8.6
+      }
+    },
+    {
+      "year": 2023,
+      "age_60": {
+        "male": 17.5,
+        "female": 23
+      },
+      "age_65": {
+        "male": "-",
+        "female": "-"
+      },
+      "age_80": {
+        "male": 5.8,
+        "female": 8.3
+      }
+    },
+    {
+      "year": 2024,
+      "age_60": {
+        "male": 17.4,
+        "female": 23.1
+      },
+      "age_65": {
+        "male": "-",
+        "female": "-"
+      },
+      "age_80": {
+        "male": 5.8,
+        "female": 8.3
+      }
+    },
+    {
+      "year": 2025,
+      "age_60": {
+        "male": 17.5,
+        "female": 23.2
+      },
+      "age_65": {
+        "male": "-",
+        "female": "-"
+      },
+      "age_80": {
+        "male": 5.8,
+        "female": 8.3
+      }
+    },
+    {
+      "year": 2026,
+      "age_60": {
+        "male": 17.5,
+        "female": 23.3
+      },
+      "age_65": {
+        "male": "-",
+        "female": "-"
+      },
+      "age_80": {
+        "male": 5.8,
+        "female": 8.4
+      }
+    }
   ],
   "source": "Mahidol Population Gazette, January",
   "source_file": "SRC-011.xlsx"
