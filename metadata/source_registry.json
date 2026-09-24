@@ -9,30 +9,70 @@
       "sources": [
         {
           "name": "Business matching",
-          "url": "https://www.thic.or.th/en/stats/business_matching?period=year"
+          "url": "https://www.thic.or.th/en/stats/business_matching?period=year",
+          "data_access": {
+            "access_type": "interactive_web_statistics",
+            "data_format": "HTML/chart data",
+            "retrieval_method": "Interactive statistics page; retrieve chart/page data from the page or its underlying network data source when crawling.",
+            "direct_data_url": false,
+            "conversion_target": "JSON",
+            "verification_status": "web_verified"
+          }
         },
         {
           "name": "Product",
           "year": 2025,
-          "url": "https://www.thic.or.th/en/stats/product_service?year=2025"
+          "url": "https://www.thic.or.th/en/stats/product_service?year=2025",
+          "data_access": {
+            "access_type": "interactive_web_statistics",
+            "data_format": "HTML/chart data",
+            "retrieval_method": "Interactive statistics page; retrieve chart/page data from the page or its underlying network data source when crawling.",
+            "direct_data_url": false,
+            "conversion_target": "JSON",
+            "verification_status": "web_verified"
+          }
         },
         {
           "name": "Top 20 certification request",
           "year": 2026,
           "month": 1,
-          "url": "https://www.thic.or.th/en/stats/certification_request?year=2026&month=1"
+          "url": "https://www.thic.or.th/en/stats/certification_request?year=2026&month=1",
+          "data_access": {
+            "access_type": "interactive_web_statistics",
+            "data_format": "HTML/chart data",
+            "retrieval_method": "Interactive statistics page; retrieve chart/page data from the page or its underlying network data source when crawling.",
+            "direct_data_url": false,
+            "conversion_target": "JSON",
+            "verification_status": "web_verified"
+          }
         },
         {
           "name": "Trader and factory",
           "year": 2026,
-          "url": "https://www.thic.or.th/en/stats/trader_factory?year=2026"
+          "url": "https://www.thic.or.th/en/stats/trader_factory?year=2026",
+          "data_access": {
+            "access_type": "interactive_web_statistics",
+            "data_format": "HTML/chart data",
+            "retrieval_method": "Interactive statistics page; retrieve chart/page data from the page or its underlying network data source when crawling.",
+            "direct_data_url": false,
+            "conversion_target": "JSON",
+            "verification_status": "web_verified"
+          }
         },
         {
           "name": "Export statistics",
           "year": 2025,
           "chart_type": "product_type",
           "metric": "volume",
-          "url": "https://www.thic.or.th/en/stats/export?year=2025&chart_type=product_type&metric=volume"
+          "url": "https://www.thic.or.th/en/stats/export?year=2025&chart_type=product_type&metric=volume",
+          "data_access": {
+            "access_type": "interactive_web_statistics",
+            "data_format": "HTML/chart data",
+            "retrieval_method": "Interactive statistics page; retrieve chart/page data from the page or its underlying network data source when crawling.",
+            "direct_data_url": false,
+            "conversion_target": "JSON",
+            "verification_status": "web_verified"
+          }
         }
       ]
     },
@@ -41,220 +81,580 @@
       "sources": [
         {
           "name": "World Bank Thailand overview/by theme/by SDG",
-          "url": "https://data.worldbank.org/country/thailand"
+          "url": "https://data.worldbank.org/country/thailand",
+          "data_access": {
+            "access_type": "web_page_plus_api",
+            "data_format": "Web/CSV/API JSON",
+            "retrieval_method": "Country portal; World Bank indicators can also be retrieved programmatically through World Bank API/download tools.",
+            "direct_data_url": false,
+            "conversion_target": "JSON",
+            "verification_status": "web_verified"
+          }
         },
         {
           "name": "Agriculture & rural development Thailand",
           "format": "csv",
-          "url": "https://data.humdata.org/dataset/0269cd75-8d7a-411d-aeb8-b0c88fa5e6ed/resource/224dc929-1e02-4347-aaef-fe32f3d44435/download/agriculture-and-rural-development_tha.csv"
+          "url": "https://data.humdata.org/dataset/0269cd75-8d7a-411d-aeb8-b0c88fa5e6ed/resource/224dc929-1e02-4347-aaef-fe32f3d44435/download/agriculture-and-rural-development_tha.csv",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "CSV",
+            "retrieval_method": "Direct CSV download; parse rows directly to JSON.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "NSO demo",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/ie/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/ie/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Demo by area",
           "period": "2012-2025",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/i7/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/i7/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Life expectancy",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/ij/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/ij/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Life expectancy above 60",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/im/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/im/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Elderly population",
           "period": "2021, 2024",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/is/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/is/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Population growth rate",
           "period": "2012-2022",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/iK/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/iK/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Population by age group",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/gJ/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/gJ/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Formal/informal work",
           "period": "2012-2025",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/ik/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/ik/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Unemployment",
           "period": "2012-2023",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/iC/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/iC/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Employment",
           "period": "2012-2023",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/id/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/id/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Labor force participation",
           "period": "2017-2024",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/iE/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/iE/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Elderly workers",
           "period": "2012-2022",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/iz/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/iz/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Academic population",
           "period": "2012-2021",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/jg/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/jg/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Labor force survey reports",
           "desired_period": "2021-2026",
-          "url": "https://www.nso.go.th/nsoweb/nso/survey_detail/9u?set_lang=en#gsc.tab=0"
+          "url": "https://www.nso.go.th/nsoweb/nso/survey_detail/9u?set_lang=en#gsc.tab=0",
+          "data_access": {
+            "access_type": "download_page",
+            "data_format": "Excel/PDF/other survey files",
+            "retrieval_method": "Survey detail page; select/download attached files (Excel and/or full-report PDF depending on survey/year).",
+            "direct_data_url": false,
+            "conversion_target": "JSON",
+            "verification_status": "web_verified"
+          }
         },
         {
           "name": "Health outpatient",
           "period": "2012-2024",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/8u/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/8u/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Health inpatient",
           "period": "2017-2024",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/8t/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/8t/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Number of households",
           "period": "2012-2022",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/j8/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/j8/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Income",
           "period": "2004-2023",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/jj/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/jj/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Debt",
           "period": "2004-2023",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/jm/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/jm/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Monthly Expenditure",
           "period": "2012-2023",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/jA/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/jA/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Consumption expenditure by poor, non-poor, overall",
           "period": "1988-2023",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/jF/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/jF/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Poor expenditure by region",
           "period": "2012-2023",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/jy/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/jy/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Poverty line expenditure",
           "period": "2012-2023",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/ja/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/ja/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Monthly expenditure by type",
-          "url": "https://catalog.nso.go.th/dataset/ns_08_20242/resource/74047d79-7fed-419e-afe8-38a3ec72d336?inner_span=True"
+          "url": "https://catalog.nso.go.th/dataset/ns_08_20242/resource/74047d79-7fed-419e-afe8-38a3ec72d336?inner_span=True",
+          "data_access": {
+            "access_type": "dataset_resource_page",
+            "data_format": "Dataset resource (format to verify on resource page)",
+            "retrieval_method": "Open NSO catalog resource, then follow its download/resource link.",
+            "direct_data_url": false,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Average monthly expenses",
-          "url": "https://catalog.nso.go.th/dataset/ns_08_20242/resource/74047d79-7fed-419e-afe8-38a3ec72d336?inner_span=True"
+          "url": "https://catalog.nso.go.th/dataset/ns_08_20242/resource/74047d79-7fed-419e-afe8-38a3ec72d336?inner_span=True",
+          "data_access": {
+            "access_type": "dataset_resource_page",
+            "data_format": "Dataset resource (format to verify on resource page)",
+            "retrieval_method": "Open NSO catalog resource, then follow its download/resource link.",
+            "direct_data_url": false,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Household income and expenditure yearly",
-          "url": "https://www.nso.go.th/nsoweb/nso/survey_detail/qC?set_lang=en#gsc.tab=0"
+          "url": "https://www.nso.go.th/nsoweb/nso/survey_detail/qC?set_lang=en#gsc.tab=0",
+          "data_access": {
+            "access_type": "download_page",
+            "data_format": "Excel/PDF/other survey files",
+            "retrieval_method": "Survey detail page; select/download attached files (Excel and/or full-report PDF depending on survey/year).",
+            "direct_data_url": false,
+            "conversion_target": "JSON",
+            "verification_status": "web_verified"
+          }
         },
         {
           "name": "Household use IT",
           "format": "pdf",
-          "url": "https://www.nso.go.th/nsoweb/storage/survey_detail/2026/20260826113840_69863.pdf"
+          "url": "https://www.nso.go.th/nsoweb/storage/survey_detail/2026/20260826113840_69863.pdf",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "PDF",
+            "retrieval_method": "Direct PDF download; extract tables/text before JSON conversion.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "National income",
           "period": "2011-2023",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/jd/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/jd/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Consumption expenditure",
           "period": "2011-2021",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/j6/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/j6/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Personal income, saving, expenditure",
           "period": "2011-2023",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/jI/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/jI/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "GDP GNI",
           "period": "2019-2024",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/jQ/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/jQ/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "GDP per capita",
           "period": "2011-2020",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/mf/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/mf/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Logistics cost",
           "period": "2012-2024",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/AE/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/AE/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "General consumer price by province & commodity",
           "period": "2010-2021",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/Al/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/Al/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "General consumer price by region & commodity",
           "period": "2012-2024",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/AL/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/AL/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Rural consumer price",
           "period": "2012-2022",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/Aw/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/Aw/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Producer price index",
           "period": "2015-2022 / 2015-2023",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/Aq/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/Aq/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Retail Sales",
           "period": "2010-2021",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/At/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/At/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Wholesale",
           "period": "2010-2021",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/AU/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/AU/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Agriculture price",
           "period": "2005-2023",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/Ab/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/Ab/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "CPI & rate of change Thailand",
           "note": "yearly; supplied note says download from 2020, through 2026",
-          "url": "https://index.tpso.go.th/cpi/index-price-change-rate/5"
+          "url": "https://index.tpso.go.th/cpi/index-price-change-rate/5",
+          "data_access": {
+            "access_type": "interactive_web_statistics",
+            "data_format": "CPI web data / downloadable output",
+            "retrieval_method": "Interactive CPI page; select period/index and use its download/export or underlying request when crawling.",
+            "direct_data_url": false,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "CPI for low-income group",
           "note": "supplied note says download from 2020",
-          "url": "https://index.tpso.go.th/cpi/index-price-change-rate/12"
+          "url": "https://index.tpso.go.th/cpi/index-price-change-rate/12",
+          "data_access": {
+            "access_type": "interactive_web_statistics",
+            "data_format": "CPI web data / downloadable output",
+            "retrieval_method": "Interactive CPI page; select period/index and use its download/export or underlying request when crawling.",
+            "direct_data_url": false,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Rice cultivation by region & province",
           "period": "2021/2022",
-          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/mP/file_xls_en"
+          "url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/mP/file_xls_en",
+          "data_access": {
+            "access_type": "direct_file",
+            "data_format": "Excel (XLS/XLSX)",
+            "retrieval_method": "Direct NSO Excel download endpoint.",
+            "direct_data_url": true,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         }
       ]
     },
@@ -263,11 +663,27 @@
       "sources": [
         {
           "name": "Wongnai Corpus",
-          "url": "https://github.com/wongnai/wongnai-corpus"
+          "url": "https://github.com/wongnai/wongnai-corpus",
+          "data_access": {
+            "access_type": "repository",
+            "data_format": "TXT + ZIP/CSV review archive",
+            "retrieval_method": "Clone/download repository; review dataset is available through review/review_dataset.zip; text dictionaries are repository files.",
+            "direct_data_url": false,
+            "conversion_target": "JSON",
+            "verification_status": "web_verified"
+          }
         },
         {
           "name": "Wongnai Reviews",
-          "url": "https://huggingface.co/datasets/Wongnai/wongnai_reviews"
+          "url": "https://huggingface.co/datasets/Wongnai/wongnai_reviews",
+          "data_access": {
+            "access_type": "dataset_page",
+            "data_format": "Dataset files / API where available",
+            "retrieval_method": "Use dataset files/viewer/API if exposed; original Wongnai corpus also provides downloadable review archive.",
+            "direct_data_url": false,
+            "conversion_target": "JSON",
+            "verification_status": "web_verified"
+          }
         }
       ]
     },
@@ -277,15 +693,40 @@
         {
           "name": "Thai food dataset",
           "note": "supplied note: 2025; Kaggle dataset described as from Mahidol",
-          "url": "https://www.kaggle.com/datasets/chanipornnerunchorn/thai-food-dataset"
+          "url": "https://www.kaggle.com/datasets/chanipornnerunchorn/thai-food-dataset",
+          "data_access": {
+            "access_type": "dataset_page",
+            "data_format": "Kaggle dataset files",
+            "retrieval_method": "Download files from the Kaggle dataset page (or Kaggle API when authorized); inspect file formats before JSON conversion.",
+            "direct_data_url": false,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         },
         {
           "name": "Thai Nutrition Dataset",
-          "url": "https://huggingface.co/datasets/BaoWio/Thai_Nutrition_Dataset"
+          "url": "https://huggingface.co/datasets/BaoWio/Thai_Nutrition_Dataset",
+          "data_access": {
+            "access_type": "dataset_page_plus_api",
+            "data_format": "CSV / auto-converted Parquet / Dataset Viewer API",
+            "retrieval_method": "Download nutrition_dataset.csv directly from dataset files or retrieve rows via Hugging Face dataset server/API.",
+            "direct_data_url": false,
+            "conversion_target": "JSON",
+            "verification_status": "web_verified",
+            "known_file": "nutrition_dataset.csv"
+          }
         },
         {
           "name": "Traditional Thai dishes / Foods in Thailand",
-          "url": "https://www.kaggle.com/datasets/ponthakornsodchun/foods-in-thailand"
+          "url": "https://www.kaggle.com/datasets/ponthakornsodchun/foods-in-thailand",
+          "data_access": {
+            "access_type": "dataset_page",
+            "data_format": "Kaggle dataset files",
+            "retrieval_method": "Download files from the Kaggle dataset page (or Kaggle API when authorized); inspect file formats before JSON conversion.",
+            "direct_data_url": false,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         }
       ]
     },
@@ -294,7 +735,15 @@
       "sources": [
         {
           "name": "OTOP Food",
-          "url": "https://opendata.dla.go.th/dataset/otopfood/resource/8a386806-2647-4725-9deb-57bf92041193"
+          "url": "https://opendata.dla.go.th/dataset/otopfood/resource/8a386806-2647-4725-9deb-57bf92041193",
+          "data_access": {
+            "access_type": "dataset_resource_page",
+            "data_format": "Open-data resource (download format to verify)",
+            "retrieval_method": "Open resource page and follow the resource download/API link exposed there.",
+            "direct_data_url": false,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         }
       ]
     },
@@ -303,7 +752,15 @@
       "sources": [
         {
           "name": "ACFS Consumption",
-          "url": "http://consumption.acfs.go.th/manual#"
+          "url": "http://consumption.acfs.go.th/manual#",
+          "data_access": {
+            "access_type": "web_application_manual",
+            "data_format": "Web application data",
+            "retrieval_method": "Manual/application entry page; identify its query/export/download mechanism before extraction.",
+            "direct_data_url": false,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         }
       ]
     },
@@ -312,13 +769,34 @@
       "sources": [
         {
           "name": "THFOOD-50",
-          "url": "https://github.com/chakkritte/THFOOD-50"
+          "url": "https://github.com/chakkritte/THFOOD-50",
+          "data_access": {
+            "access_type": "repository_with_external_download",
+            "data_format": "Image dataset",
+            "retrieval_method": "Repository metadata/README points to an external Google Drive dataset download.",
+            "direct_data_url": false,
+            "conversion_target": "JSON",
+            "verification_status": "web_verified"
+          }
         },
         {
           "name": "Thai food classification",
-          "url": "https://www.kaggle.com/code/vexxingbanana/thai-food-classification-97-acc"
+          "url": "https://www.kaggle.com/code/vexxingbanana/thai-food-classification-97-acc",
+          "data_access": {
+            "access_type": "notebook_page",
+            "data_format": "Notebook + referenced dataset/images",
+            "retrieval_method": "Notebook page; follow the notebook's input dataset references/downloads rather than treating the notebook URL as raw data.",
+            "direct_data_url": false,
+            "conversion_target": "JSON",
+            "verification_status": "classified_by_url_pattern"
+          }
         }
       ]
     }
-  ]
+  ],
+  "metadata_schema_version": "1.1",
+  "access_metadata_updated_at": "2026-09-24",
+  "access_metadata_note": "data_access describes whether each registry URL is a direct data file, API/dataset interface, or an intermediate page requiring a second download/request. Pattern classifications are marked separately from web-verified classifications; exact downstream file/API endpoints should be recorded during crawl.",
+  "source_count": 59,
+  "direct_data_url_count": 38
 }
