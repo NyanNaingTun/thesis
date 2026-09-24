@@ -99,7 +99,8 @@
           "processing_status": "done",
           "processed_file": "processed/SRC-006.json",
           "completed_at": "2026-09-25",
-          "processed_commit": "fe4422ad906f0c2db19d45f7e969443cfb058ab1"
+          "processed_commit": "fe4422ad906f0c2db19d45f7e969443cfb058ab1",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-006.json"
         },
         {
           "name": "Agriculture & rural development Thailand",
@@ -117,7 +118,8 @@
           "processing_status": "done",
           "processed_file": "processed/SRC-007.json",
           "completed_at": "2026-09-24",
-          "processed_commit": "837abd6a5ff53b67c7ce7dfb93a9cb6da60a7171"
+          "processed_commit": "837abd6a5ff53b67c7ce7dfb93a9cb6da60a7171",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-007.json"
         },
         {
           "name": "NSO demo",
@@ -134,7 +136,8 @@
           "processing_status": "done",
           "processed_file": "processed/SRC-008.json",
           "completed_at": "2026-09-24",
-          "processed_commit": "dd7c5ee68a0faf09229ee8b10402b73ded51bea9"
+          "processed_commit": "dd7c5ee68a0faf09229ee8b10402b73ded51bea9",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-008.json"
         },
         {
           "name": "Demo by area",
@@ -152,7 +155,8 @@
           "processing_status": "done",
           "processed_file": "processed/SRC-009.json",
           "completed_at": "2026-09-25",
-          "processed_commit": "69622abdab7152751c0e8277a57532f1402ec2af"
+          "processed_commit": "69622abdab7152751c0e8277a57532f1402ec2af",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-009.json"
         },
         {
           "name": "Life expectancy",
@@ -169,7 +173,8 @@
           "processing_status": "done",
           "processed_file": "processed/SRC-010.json",
           "completed_at": "2026-09-25",
-          "processed_commit": "f4de3255c698080cd4d1b26ab9d8b41f4c8db2cd"
+          "processed_commit": "f4de3255c698080cd4d1b26ab9d8b41f4c8db2cd",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-010.json"
         },
         {
           "name": "Life expectancy above 60",
@@ -186,7 +191,8 @@
           "processing_status": "done",
           "processed_file": "processed/SRC-011.json",
           "completed_at": "2026-09-25",
-          "processed_commit": "69ee50c51d425aacc2415801e235f0502d0c61ad"
+          "processed_commit": "69ee50c51d425aacc2415801e235f0502d0c61ad",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-011.json"
         },
         {
           "name": "Elderly population",
@@ -204,7 +210,8 @@
           "processing_status": "done",
           "processed_file": "processed/SRC-012.json",
           "completed_at": "2026-09-25",
-          "processed_commit": "8652dc41b273c885785c04dadbb6fc64ad0d75bd"
+          "processed_commit": "8652dc41b273c885785c04dadbb6fc64ad0d75bd",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-012.json"
         },
         {
           "name": "Population growth rate",
@@ -222,7 +229,8 @@
           "processing_status": "done",
           "processed_file": "processed/SRC-013.json",
           "completed_at": "2026-09-25",
-          "processed_commit": "3eb8effe547a63a1e39e4729d695e0a7670dd650"
+          "processed_commit": "3eb8effe547a63a1e39e4729d695e0a7670dd650",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-013.json"
         },
         {
           "name": "Population by age group",
@@ -239,7 +247,8 @@
           "processing_status": "done",
           "processed_file": "processed/SRC-014.json",
           "completed_at": "2026-09-25",
-          "processed_commit": "2f8ad5704f4c8df360aa426f5f19cf4714a6e73b"
+          "processed_commit": "2f8ad5704f4c8df360aa426f5f19cf4714a6e73b",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-014.json"
         },
         {
           "name": "Formal/informal work",
@@ -257,7 +266,8 @@
           "processing_status": "done",
           "processed_file": "processed/SRC-015.json",
           "completed_at": "2026-09-25",
-          "processed_commit": "fe83e8b0504073f4e507a6804acca2f67ff39efc"
+          "processed_commit": "fe83e8b0504073f4e507a6804acca2f67ff39efc",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-015.json"
         },
         {
           "name": "Unemployment",
@@ -275,7 +285,8 @@
           "processing_status": "done",
           "processed_file": "processed/SRC-016.json",
           "completed_at": "2026-09-25",
-          "processed_commit": "2669b16b72db040c861a87e306de698a10be15f7"
+          "processed_commit": "2669b16b72db040c861a87e306de698a10be15f7",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-016.json"
         },
         {
           "name": "Employment",
@@ -293,7 +304,8 @@
           "processing_status": "done",
           "processed_file": "processed/SRC-017.json",
           "completed_at": "2026-09-25",
-          "processed_commit": "3ea097f4dd0d211b6a3a384fc10e03be47aabdc0"
+          "processed_commit": "3ea097f4dd0d211b6a3a384fc10e03be47aabdc0",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-017.json"
         },
         {
           "name": "Labor force participation",
@@ -311,7 +323,8 @@
           "processing_status": "done",
           "processed_file": "processed/SRC-018.json",
           "completed_at": "2026-09-25",
-          "processed_commit": "1d0f912fad3010f8a270108d1ae74e2a7f934da1"
+          "processed_commit": "1d0f912fad3010f8a270108d1ae74e2a7f934da1",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-018.json"
         },
         {
           "name": "Elderly workers",
@@ -329,7 +342,8 @@
           "processing_status": "done",
           "processed_file": "processed/SRC-019.json",
           "completed_at": "2026-09-25",
-          "processed_commit": "dca6afbf3669b0807dd79d1fb5f502e9efdf5cc8"
+          "processed_commit": "dca6afbf3669b0807dd79d1fb5f502e9efdf5cc8",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-019.json"
         },
         {
           "name": "Academic population",
@@ -347,7 +361,8 @@
           "processing_status": "done",
           "processed_file": "processed/SRC-020.json",
           "completed_at": "2026-09-24",
-          "processed_commit": "fd5cee27ba50264d0dcaed89d5383f68f30c7a00"
+          "processed_commit": "fd5cee27ba50264d0dcaed89d5383f68f30c7a00",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-020.json"
         },
         {
           "name": "Labor force survey reports",
@@ -379,7 +394,8 @@
           "processing_status": "done",
           "processed_file": "processed/SRC-022.json",
           "completed_at": "2026-09-24",
-          "processed_commit": "ca3c0efd4c44cc467c57efc5d51dce243eb38081"
+          "processed_commit": "ca3c0efd4c44cc467c57efc5d51dce243eb38081",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-022.json"
         },
         {
           "name": "Health inpatient",
@@ -495,7 +511,8 @@
           "processing_status": "done",
           "processed_file": "processed/SRC-030.json",
           "completed_at": "2026-09-24",
-          "processed_commit": "07e135615f37715a6c140e8c32280fa95a575708"
+          "processed_commit": "07e135615f37715a6c140e8c32280fa95a575708",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-030.json"
         },
         {
           "name": "Monthly expenditure by type",
@@ -566,7 +583,8 @@
           "processing_status": "done",
           "processed_file": "processed/SRC-035.json",
           "completed_at": "2026-09-24",
-          "processed_commit": "ecba2911f299542953e6fc5ed27cb5409d23063d"
+          "processed_commit": "ecba2911f299542953e6fc5ed27cb5409d23063d",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-035.json"
         },
         {
           "name": "Consumption expenditure",
@@ -738,7 +756,8 @@
           "processing_status": "done",
           "processed_file": "processed/SRC-047.json",
           "completed_at": "2026-09-25",
-          "processed_commit": "3d3d372bc873c82a95b655f964c940980f26eedc"
+          "processed_commit": "3d3d372bc873c82a95b655f964c940980f26eedc",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-047.json"
         },
         {
           "name": "CPI & rate of change Thailand",
@@ -784,7 +803,8 @@
           "processing_status": "done",
           "processed_file": "processed/SRC-050.json",
           "completed_at": "2026-09-24",
-          "processed_commit": "user_uploaded"
+          "processed_commit": "user_uploaded",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-050.json"
         }
       ]
     },
@@ -883,7 +903,8 @@
           "processing_status": "done",
           "processed_file": "processed/SRC-056.json",
           "completed_at": "2026-09-25",
-          "processed_commit": "8b9b581e027ef1e3fff39ec5dfcfd33ef990cae9"
+          "processed_commit": "8b9b581e027ef1e3fff39ec5dfcfd33ef990cae9",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-056.json"
         }
       ]
     },
