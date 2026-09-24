@@ -439,7 +439,11 @@
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
           },
-          "id": "SRC-030"
+          "id": "SRC-030",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-030.json",
+          "completed_at": "2026-09-24",
+          "processed_commit": "07e135615f37715a6c140e8c32280fa95a575708"
         },
         {
           "name": "Monthly expenditure by type",
