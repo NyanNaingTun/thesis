@@ -289,7 +289,11 @@
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
           },
-          "id": "SRC-017"
+          "id": "SRC-017",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-017.json",
+          "completed_at": "2026-09-25",
+          "processed_commit": "3ea097f4dd0d211b6a3a384fc10e03be47aabdc0"
         },
         {
           "name": "Labor force participation",
