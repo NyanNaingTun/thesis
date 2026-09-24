@@ -17,7 +17,8 @@
             "direct_data_url": false,
             "conversion_target": "JSON",
             "verification_status": "web_verified"
-          }
+          },
+          "id": "SRC-001"
         },
         {
           "name": "Product",
@@ -30,7 +31,8 @@
             "direct_data_url": false,
             "conversion_target": "JSON",
             "verification_status": "web_verified"
-          }
+          },
+          "id": "SRC-002"
         },
         {
           "name": "Top 20 certification request",
@@ -44,7 +46,8 @@
             "direct_data_url": false,
             "conversion_target": "JSON",
             "verification_status": "web_verified"
-          }
+          },
+          "id": "SRC-003"
         },
         {
           "name": "Trader and factory",
@@ -57,7 +60,8 @@
             "direct_data_url": false,
             "conversion_target": "JSON",
             "verification_status": "web_verified"
-          }
+          },
+          "id": "SRC-004"
         },
         {
           "name": "Export statistics",
@@ -72,7 +76,8 @@
             "direct_data_url": false,
             "conversion_target": "JSON",
             "verification_status": "web_verified"
-          }
+          },
+          "id": "SRC-005"
         }
       ]
     },
@@ -89,7 +94,8 @@
             "direct_data_url": false,
             "conversion_target": "JSON",
             "verification_status": "web_verified"
-          }
+          },
+          "id": "SRC-006"
         },
         {
           "name": "Agriculture & rural development Thailand",
@@ -102,7 +108,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-007"
         },
         {
           "name": "NSO demo",
@@ -114,7 +121,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-008"
         },
         {
           "name": "Demo by area",
@@ -127,7 +135,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-009"
         },
         {
           "name": "Life expectancy",
@@ -139,7 +148,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-010"
         },
         {
           "name": "Life expectancy above 60",
@@ -151,7 +161,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-011"
         },
         {
           "name": "Elderly population",
@@ -164,7 +175,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-012"
         },
         {
           "name": "Population growth rate",
@@ -177,7 +189,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-013"
         },
         {
           "name": "Population by age group",
@@ -189,7 +202,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-014"
         },
         {
           "name": "Formal/informal work",
@@ -202,7 +216,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-015"
         },
         {
           "name": "Unemployment",
@@ -215,7 +230,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-016"
         },
         {
           "name": "Employment",
@@ -228,7 +244,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-017"
         },
         {
           "name": "Labor force participation",
@@ -241,7 +258,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-018"
         },
         {
           "name": "Elderly workers",
@@ -254,7 +272,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-019"
         },
         {
           "name": "Academic population",
@@ -267,7 +286,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-020"
         },
         {
           "name": "Labor force survey reports",
@@ -280,7 +300,8 @@
             "direct_data_url": false,
             "conversion_target": "JSON",
             "verification_status": "web_verified"
-          }
+          },
+          "id": "SRC-021"
         },
         {
           "name": "Health outpatient",
@@ -293,7 +314,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-022"
         },
         {
           "name": "Health inpatient",
@@ -306,7 +328,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-023"
         },
         {
           "name": "Number of households",
@@ -319,7 +342,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-024"
         },
         {
           "name": "Income",
@@ -332,7 +356,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-025"
         },
         {
           "name": "Debt",
@@ -345,7 +370,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-026"
         },
         {
           "name": "Monthly Expenditure",
@@ -358,7 +384,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-027"
         },
         {
           "name": "Consumption expenditure by poor, non-poor, overall",
@@ -371,7 +398,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-028"
         },
         {
           "name": "Poor expenditure by region",
@@ -384,7 +412,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-029"
         },
         {
           "name": "Poverty line expenditure",
@@ -397,7 +426,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-030"
         },
         {
           "name": "Monthly expenditure by type",
@@ -409,7 +439,8 @@
             "direct_data_url": false,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-031"
         },
         {
           "name": "Average monthly expenses",
@@ -421,7 +452,8 @@
             "direct_data_url": false,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-032"
         },
         {
           "name": "Household income and expenditure yearly",
@@ -433,7 +465,8 @@
             "direct_data_url": false,
             "conversion_target": "JSON",
             "verification_status": "web_verified"
-          }
+          },
+          "id": "SRC-033"
         },
         {
           "name": "Household use IT",
@@ -446,7 +479,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-034"
         },
         {
           "name": "National income",
@@ -459,7 +493,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-035"
         },
         {
           "name": "Consumption expenditure",
@@ -472,7 +507,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-036"
         },
         {
           "name": "Personal income, saving, expenditure",
@@ -485,7 +521,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-037"
         },
         {
           "name": "GDP GNI",
@@ -498,7 +535,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-038"
         },
         {
           "name": "GDP per capita",
@@ -511,7 +549,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-039"
         },
         {
           "name": "Logistics cost",
@@ -524,7 +563,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-040"
         },
         {
           "name": "General consumer price by province & commodity",
@@ -537,7 +577,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-041"
         },
         {
           "name": "General consumer price by region & commodity",
@@ -550,7 +591,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-042"
         },
         {
           "name": "Rural consumer price",
@@ -563,7 +605,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-043"
         },
         {
           "name": "Producer price index",
@@ -576,7 +619,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-044"
         },
         {
           "name": "Retail Sales",
@@ -589,7 +633,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-045"
         },
         {
           "name": "Wholesale",
@@ -602,7 +647,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-046"
         },
         {
           "name": "Agriculture price",
@@ -615,7 +661,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-047"
         },
         {
           "name": "CPI & rate of change Thailand",
@@ -628,7 +675,8 @@
             "direct_data_url": false,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-048"
         },
         {
           "name": "CPI for low-income group",
@@ -641,7 +689,8 @@
             "direct_data_url": false,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-049"
         },
         {
           "name": "Rice cultivation by region & province",
@@ -654,7 +703,8 @@
             "direct_data_url": true,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-050"
         }
       ]
     },
@@ -671,7 +721,8 @@
             "direct_data_url": false,
             "conversion_target": "JSON",
             "verification_status": "web_verified"
-          }
+          },
+          "id": "SRC-051"
         },
         {
           "name": "Wongnai Reviews",
@@ -683,7 +734,8 @@
             "direct_data_url": false,
             "conversion_target": "JSON",
             "verification_status": "web_verified"
-          }
+          },
+          "id": "SRC-052"
         }
       ]
     },
@@ -701,7 +753,8 @@
             "direct_data_url": false,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-053"
         },
         {
           "name": "Thai Nutrition Dataset",
@@ -714,7 +767,8 @@
             "conversion_target": "JSON",
             "verification_status": "web_verified",
             "known_file": "nutrition_dataset.csv"
-          }
+          },
+          "id": "SRC-054"
         },
         {
           "name": "Traditional Thai dishes / Foods in Thailand",
@@ -726,7 +780,8 @@
             "direct_data_url": false,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-055"
         }
       ]
     },
@@ -743,7 +798,8 @@
             "direct_data_url": false,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-056"
         }
       ]
     },
@@ -760,7 +816,8 @@
             "direct_data_url": false,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-057"
         }
       ]
     },
@@ -777,7 +834,8 @@
             "direct_data_url": false,
             "conversion_target": "JSON",
             "verification_status": "web_verified"
-          }
+          },
+          "id": "SRC-058"
         },
         {
           "name": "Thai food classification",
@@ -789,7 +847,8 @@
             "direct_data_url": false,
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
-          }
+          },
+          "id": "SRC-059"
         }
       ]
     }
@@ -798,5 +857,10 @@
   "access_metadata_updated_at": "2026-09-24",
   "access_metadata_note": "data_access describes whether each registry URL is a direct data file, API/dataset interface, or an intermediate page requiring a second download/request. Pattern classifications are marked separately from web-verified classifications; exact downstream file/API endpoints should be recorded during crawl.",
   "source_count": 59,
-  "direct_data_url_count": 38
+  "direct_data_url_count": 38,
+  "id_scheme": {
+    "field": "id",
+    "format": "SRC-NNN",
+    "description": "Stable human-friendly source identifier. Use this ID when referring to a source in crawl logs, raw/processed data metadata, and discussions."
+  }
 }
