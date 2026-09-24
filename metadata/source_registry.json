@@ -235,7 +235,11 @@
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
           },
-          "id": "SRC-014"
+          "id": "SRC-014",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-014.json",
+          "completed_at": "2026-09-25",
+          "processed_commit": "c3afa30b55e787ced0879afd3747a5e14603974c"
         },
         {
           "name": "Formal/informal work",
