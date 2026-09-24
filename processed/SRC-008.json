@@ -1,0 +1,2973 @@
+{
+  "source_id": "SRC-008",
+  "title": "Number of Population from Registration, Male, Female and House by Region and Province: 2021-2025",
+  "country": "Thailand",
+  "unit": {
+    "population": "Person",
+    "house": "House"
+  },
+  "source_organization": "Department of Provincial Administration, Ministry of Interior",
+  "source_url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/ie/file_xls_en",
+  "original_file_name": "20230416183859_17581 (1).xlsx",
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "data": [
+    {
+      "region": "Whole Kingdom",
+      "province": "Whole Kingdom",
+      "values": {
+        "2021": {
+          "total": 66171439,
+          "male": 32339118,
+          "female": 33832321,
+          "house": 27708635
+        },
+        "2022": {
+          "total": 66090475,
+          "male": 32270615,
+          "female": 33819860,
+          "house": 28188470
+        },
+        "2023": {
+          "total": 66052615,
+          "male": 32224008,
+          "female": 33828607,
+          "house": 28675857
+        },
+        "2024": {
+          "total": 65951210,
+          "male": 32145282,
+          "female": 33805928,
+          "house": 29128519
+        },
+        "2025": {
+          "total": 65809011,
+          "male": 32045088,
+          "female": 33763923,
+          "house": 29540110
+        }
+      }
+    },
+    {
+      "region": "Bangkok",
+      "province": "Bangkok",
+      "values": {
+        "2021": {
+          "total": 5527994,
+          "male": 2592292,
+          "female": 2935702,
+          "house": 3147231
+        },
+        "2022": {
+          "total": 5494932,
+          "male": 2571974,
+          "female": 2922958,
+          "house": 3197865
+        },
+        "2023": {
+          "total": 5471588,
+          "male": 2555426,
+          "female": 2916162,
+          "house": 3251621
+        },
+        "2024": {
+          "total": 5455020,
+          "male": 2544400,
+          "female": 2910620,
+          "house": 3304462
+        },
+        "2025": {
+          "total": 5422568,
+          "male": 2526272,
+          "female": 2896296,
+          "house": 3356358
+        }
+      }
+    },
+    {
+      "region": "Central Region",
+      "province": "Central Region",
+      "values": {
+        "2021": {
+          "total": 17314234,
+          "male": 8392697,
+          "female": 8921537,
+          "house": 8508593
+        },
+        "2022": {
+          "total": 17339238,
+          "male": 8397469,
+          "female": 8941769,
+          "house": 8678643
+        },
+        "2023": {
+          "total": 17410753,
+          "male": 8419933,
+          "female": 8990820,
+          "house": 8870380
+        },
+        "2024": {
+          "total": 17463077,
+          "male": 8436417,
+          "female": 9026660,
+          "house": 9041466
+        },
+        "2025": {
+          "total": 17475317,
+          "male": 8433372,
+          "female": 9041945,
+          "house": 9178940
+        }
+      }
+    },
+    {
+      "region": "Central Region",
+      "province": "Samut Prakan",
+      "values": {
+        "2021": {
+          "total": 1356449,
+          "male": 645884,
+          "female": 710565,
+          "house": 733185
+        },
+        "2022": {
+          "total": 1360227,
+          "male": 646798,
+          "female": 713429,
+          "house": 750422
+        },
+        "2023": {
+          "total": 1372970,
+          "male": 651455,
+          "female": 721515,
+          "house": 767957
+        },
+        "2024": {
+          "total": 1380826,
+          "male": 654057,
+          "female": 726769,
+          "house": 783230
+        },
+        "2025": {
+          "total": 1383924,
+          "male": 654644,
+          "female": 729280,
+          "house": 792409
+        }
+      }
+    },
+    {
+      "region": "Central Region",
+      "province": "Nonthaburi",
+      "values": {
+        "2021": {
+          "total": 1288637,
+          "male": 599167,
+          "female": 689470,
+          "house": 728953
+        },
+        "2022": {
+          "total": 1295916,
+          "male": 601682,
+          "female": 694234,
+          "house": 739849
+        },
+        "2023": {
+          "total": 1308092,
+          "male": 606134,
+          "female": 701958,
+          "house": 756885
+        },
+        "2024": {
+          "total": 1317919,
+          "male": 609722,
+          "female": 708197,
+          "house": 768221
+        },
+        "2025": {
+          "total": 1322280,
+          "male": 610989,
+          "female": 711291,
+          "house": 775919
+        }
+      }
+    },
+    {
+      "region": "Central Region",
+      "province": "Pathum Thani",
+      "values": {
+        "2021": {
+          "total": 1190060,
+          "male": 563851,
+          "female": 626209,
+          "house": 660020
+        },
+        "2022": {
+          "total": 1201532,
+          "male": 568877,
+          "female": 632655,
+          "house": 677046
+        },
+        "2023": {
+          "total": 1219199,
+          "male": 576746,
+          "female": 642453,
+          "house": 698024
+        },
+        "2024": {
+          "total": 1236471,
+          "male": 584170,
+          "female": 652301,
+          "house": 716096
+        },
+        "2025": {
+          "total": 1246062,
+          "male": 587603,
+          "female": 658459,
+          "house": 728164
+        }
+      }
+    },
+    {
+      "region": "Central Region",
+      "province": "Phra Nakhon Si Ayutthaya",
+      "values": {
+        "2021": {
+          "total": 820512,
+          "male": 394024,
+          "female": 426488,
+          "house": 342753
+        },
+        "2022": {
+          "total": 820417,
+          "male": 393685,
+          "female": 426732,
+          "house": 349313
+        },
+        "2023": {
+          "total": 822106,
+          "male": 394255,
+          "female": 427851,
+          "house": 356235
+        },
+        "2024": {
+          "total": 822720,
+          "male": 394331,
+          "female": 428389,
+          "house": 362285
+        },
+        "2025": {
+          "total": 822703,
+          "male": 393983,
+          "female": 428720,
+          "house": 366492
+        }
+      }
+    },
+    {
+      "region": "Central Region",
+      "province": "Ang Thong",
+      "values": {
+        "2021": {
+          "total": 274763,
+          "male": 131399,
+          "female": 143364,
+          "house": 102684
+        },
+        "2022": {
+          "total": 272587,
+          "male": 130337,
+          "female": 142250,
+          "house": 102932
+        },
+        "2023": {
+          "total": 270726,
+          "male": 129432,
+          "female": 141294,
+          "house": 104166
+        },
+        "2024": {
+          "total": 268875,
+          "male": 128445,
+          "female": 140430,
+          "house": 105354
+        },
+        "2025": {
+          "total": 266923,
+          "male": 127448,
+          "female": 139475,
+          "house": 106411
+        }
+      }
+    },
+    {
+      "region": "Central Region",
+      "province": "Lop Buri",
+      "values": {
+        "2021": {
+          "total": 739473,
+          "male": 368733,
+          "female": 370740,
+          "house": 303565
+        },
+        "2022": {
+          "total": 735293,
+          "male": 366294,
+          "female": 368999,
+          "house": 299270
+        },
+        "2023": {
+          "total": 729697,
+          "male": 362500,
+          "female": 367197,
+          "house": 303427
+        },
+        "2024": {
+          "total": 725266,
+          "male": 360040,
+          "female": 365226,
+          "house": 306787
+        },
+        "2025": {
+          "total": 721560,
+          "male": 357927,
+          "female": 363633,
+          "house": 308446
+        }
+      }
+    },
+    {
+      "region": "Central Region",
+      "province": "Sing Buri",
+      "values": {
+        "2021": {
+          "total": 204526,
+          "male": 97144,
+          "female": 107382,
+          "house": 79494
+        },
+        "2022": {
+          "total": 202797,
+          "male": 96345,
+          "female": 106452,
+          "house": 80341
+        },
+        "2023": {
+          "total": 201439,
+          "male": 95652,
+          "female": 105787,
+          "house": 81191
+        },
+        "2024": {
+          "total": 199803,
+          "male": 94895,
+          "female": 104908,
+          "house": 81992
+        },
+        "2025": {
+          "total": 198024,
+          "male": 93983,
+          "female": 104041,
+          "house": 82690
+        }
+      }
+    },
+    {
+      "region": "Central Region",
+      "province": "Chai Nat",
+      "values": {
+        "2021": {
+          "total": 320432,
+          "male": 153962,
+          "female": 166470,
+          "house": 128284
+        },
+        "2022": {
+          "total": 318308,
+          "male": 152800,
+          "female": 165508,
+          "house": 129825
+        },
+        "2023": {
+          "total": 316220,
+          "male": 151775,
+          "female": 164445,
+          "house": 131349
+        },
+        "2024": {
+          "total": 313759,
+          "male": 150495,
+          "female": 163264,
+          "house": 132908
+        },
+        "2025": {
+          "total": 311674,
+          "male": 149462,
+          "female": 162212,
+          "house": 134321
+        }
+      }
+    },
+    {
+      "region": "Central Region",
+      "province": "Saraburi",
+      "values": {
+        "2021": {
+          "total": 643963,
+          "male": 316201,
+          "female": 327762,
+          "house": 288275
+        },
+        "2022": {
+          "total": 638582,
+          "male": 313213,
+          "female": 325369,
+          "house": 294429
+        },
+        "2023": {
+          "total": 638826,
+          "male": 313097,
+          "female": 325729,
+          "house": 300003
+        },
+        "2024": {
+          "total": 639165,
+          "male": 313262,
+          "female": 325903,
+          "house": 305526
+        },
+        "2025": {
+          "total": 638477,
+          "male": 312863,
+          "female": 325614,
+          "house": 310146
+        }
+      }
+    },
+    {
+      "region": "Central Region",
+      "province": "Chon Buri",
+      "values": {
+        "2021": {
+          "total": 1583672,
+          "male": 772463,
+          "female": 811209,
+          "house": 1092000
+        },
+        "2022": {
+          "total": 1594758,
+          "male": 777220,
+          "female": 817538,
+          "house": 1118807
+        },
+        "2023": {
+          "total": 1618066,
+          "male": 787986,
+          "female": 830080,
+          "house": 1145520
+        },
+        "2024": {
+          "total": 1635525,
+          "male": 794783,
+          "female": 840742,
+          "house": 1172425
+        },
+        "2025": {
+          "total": 1645985,
+          "male": 798596,
+          "female": 847389,
+          "house": 1194372
+        }
+      }
+    },
+    {
+      "region": "Central Region",
+      "province": "Rayong",
+      "values": {
+        "2021": {
+          "total": 751343,
+          "male": 368992,
+          "female": 382351,
+          "house": 524479
+        },
+        "2022": {
+          "total": 759386,
+          "male": 372863,
+          "female": 386523,
+          "house": 541063
+        },
+        "2023": {
+          "total": 771189,
+          "male": 378051,
+          "female": 393138,
+          "house": 560445
+        },
+        "2024": {
+          "total": 782171,
+          "male": 382979,
+          "female": 399192,
+          "house": 578414
+        },
+        "2025": {
+          "total": 789730,
+          "male": 386293,
+          "female": 403437,
+          "house": 594435
+        }
+      }
+    },
+    {
+      "region": "Central Region",
+      "province": "Chanthaburi",
+      "values": {
+        "2021": {
+          "total": 536557,
+          "male": 262257,
+          "female": 274300,
+          "house": 248074
+        },
+        "2022": {
+          "total": 536144,
+          "male": 261874,
+          "female": 274270,
+          "house": 252725
+        },
+        "2023": {
+          "total": 536436,
+          "male": 261834,
+          "female": 274602,
+          "house": 257417
+        },
+        "2024": {
+          "total": 536388,
+          "male": 261555,
+          "female": 274833,
+          "house": 261649
+        },
+        "2025": {
+          "total": 535563,
+          "male": 261002,
+          "female": 274561,
+          "house": 265747
+        }
+      }
+    },
+    {
+      "region": "Central Region",
+      "province": "Trat",
+      "values": {
+        "2021": {
+          "total": 228376,
+          "male": 112941,
+          "female": 115435,
+          "house": 109890
+        },
+        "2022": {
+          "total": 227808,
+          "male": 112668,
+          "female": 115140,
+          "house": 111480
+        },
+        "2023": {
+          "total": 227052,
+          "male": 112157,
+          "female": 114895,
+          "house": 112977
+        },
+        "2024": {
+          "total": 226517,
+          "male": 111893,
+          "female": 114624,
+          "house": 114393
+        },
+        "2025": {
+          "total": 225591,
+          "male": 111274,
+          "female": 114317,
+          "house": 115767
+        }
+      }
+    },
+    {
+      "region": "Central Region",
+      "province": "Chachoengsao",
+      "values": {
+        "2021": {
+          "total": 724178,
+          "male": 354834,
+          "female": 369344,
+          "house": 321929
+        },
+        "2022": {
+          "total": 726687,
+          "male": 355759,
+          "female": 370928,
+          "house": 329606
+        },
+        "2023": {
+          "total": 730543,
+          "male": 357453,
+          "female": 373090,
+          "house": 338168
+        },
+        "2024": {
+          "total": 733131,
+          "male": 358556,
+          "female": 374575,
+          "house": 345381
+        },
+        "2025": {
+          "total": 733400,
+          "male": 358444,
+          "female": 374956,
+          "house": 351277
+        }
+      }
+    },
+    {
+      "region": "Central Region",
+      "province": "Prachin Buri",
+      "values": {
+        "2021": {
+          "total": 495325,
+          "male": 244642,
+          "female": 250683,
+          "house": 225949
+        },
+        "2022": {
+          "total": 497778,
+          "male": 245884,
+          "female": 251894,
+          "house": 232139
+        },
+        "2023": {
+          "total": 499563,
+          "male": 246490,
+          "female": 253073,
+          "house": 238172
+        },
+        "2024": {
+          "total": 500607,
+          "male": 246835,
+          "female": 253772,
+          "house": 242594
+        },
+        "2025": {
+          "total": 501954,
+          "male": 247521,
+          "female": 254433,
+          "house": 246663
+        }
+      }
+    },
+    {
+      "region": "Central Region",
+      "province": "Nakhon Nayok",
+      "values": {
+        "2021": {
+          "total": 260433,
+          "male": 128854,
+          "female": 131579,
+          "house": 104249
+        },
+        "2022": {
+          "total": 260406,
+          "male": 128790,
+          "female": 131616,
+          "house": 106639
+        },
+        "2023": {
+          "total": 260117,
+          "male": 128575,
+          "female": 131542,
+          "house": 108919
+        },
+        "2024": {
+          "total": 259770,
+          "male": 128349,
+          "female": 131421,
+          "house": 111246
+        },
+        "2025": {
+          "total": 259683,
+          "male": 128262,
+          "female": 131421,
+          "house": 113187
+        }
+      }
+    },
+    {
+      "region": "Central Region",
+      "province": "Sa Kaeo",
+      "values": {
+        "2021": {
+          "total": 561992,
+          "male": 280673,
+          "female": 281319,
+          "house": 221802
+        },
+        "2022": {
+          "total": 562816,
+          "male": 281252,
+          "female": 281564,
+          "house": 226312
+        },
+        "2023": {
+          "total": 562902,
+          "male": 281069,
+          "female": 281833,
+          "house": 230171
+        },
+        "2024": {
+          "total": 562242,
+          "male": 280641,
+          "female": 281601,
+          "house": 233852
+        },
+        "2025": {
+          "total": 560847,
+          "male": 279611,
+          "female": 281236,
+          "house": 237085
+        }
+      }
+    },
+    {
+      "region": "Central Region",
+      "province": "Ratchaburi",
+      "values": {
+        "2021": {
+          "total": 868281,
+          "male": 421921,
+          "female": 446360,
+          "house": 332214
+        },
+        "2022": {
+          "total": 865807,
+          "male": 420322,
+          "female": 445485,
+          "house": 338676
+        },
+        "2023": {
+          "total": 864746,
+          "male": 419181,
+          "female": 445565,
+          "house": 344905
+        },
+        "2024": {
+          "total": 864037,
+          "male": 418947,
+          "female": 445090,
+          "house": 350718
+        },
+        "2025": {
+          "total": 861879,
+          "male": 417614,
+          "female": 444265,
+          "house": 355963
+        }
+      }
+    },
+    {
+      "region": "Central Region",
+      "province": "Kanchanaburi",
+      "values": {
+        "2021": {
+          "total": 894054,
+          "male": 448312,
+          "female": 445742,
+          "house": 353679
+        },
+        "2022": {
+          "total": 894283,
+          "male": 448109,
+          "female": 446174,
+          "house": 359348
+        },
+        "2023": {
+          "total": 895281,
+          "male": 447878,
+          "female": 447403,
+          "house": 365095
+        },
+        "2024": {
+          "total": 896351,
+          "male": 447653,
+          "female": 448698,
+          "house": 370344
+        },
+        "2025": {
+          "total": 896673,
+          "male": 447296,
+          "female": 449377,
+          "house": 375254
+        }
+      }
+    },
+    {
+      "region": "Central Region",
+      "province": "Suphan Buri",
+      "values": {
+        "2021": {
+          "total": 835360,
+          "male": 402883,
+          "female": 432477,
+          "house": 311136
+        },
+        "2022": {
+          "total": 830695,
+          "male": 400366,
+          "female": 430329,
+          "house": 315286
+        },
+        "2023": {
+          "total": 826391,
+          "male": 398001,
+          "female": 428390,
+          "house": 319886
+        },
+        "2024": {
+          "total": 822211,
+          "male": 395769,
+          "female": 426442,
+          "house": 324002
+        },
+        "2025": {
+          "total": 817849,
+          "male": 393212,
+          "female": 424637,
+          "house": 327755
+        }
+      }
+    },
+    {
+      "region": "Central Region",
+      "province": "Nakhon Pathom",
+      "values": {
+        "2021": {
+          "total": 922171,
+          "male": 442800,
+          "female": 479371,
+          "house": 417915
+        },
+        "2022": {
+          "total": 921882,
+          "male": 442350,
+          "female": 479532,
+          "house": 426205
+        },
+        "2023": {
+          "total": 924521,
+          "male": 443250,
+          "female": 481271,
+          "house": 434658
+        },
+        "2024": {
+          "total": 925758,
+          "male": 443395,
+          "female": 482363,
+          "house": 442482
+        },
+        "2025": {
+          "total": 926318,
+          "male": 443582,
+          "female": 482736,
+          "house": 449769
+        }
+      }
+    },
+    {
+      "region": "Central Region",
+      "province": "Samut Sakhon",
+      "values": {
+        "2021": {
+          "total": 586789,
+          "male": 282683,
+          "female": 304106,
+          "house": 302618
+        },
+        "2022": {
+          "total": 589428,
+          "male": 283474,
+          "female": 305954,
+          "house": 309823
+        },
+        "2023": {
+          "total": 592033,
+          "male": 284337,
+          "female": 307696,
+          "house": 316718
+        },
+        "2024": {
+          "total": 590867,
+          "male": 283460,
+          "female": 307407,
+          "house": 323332
+        },
+        "2025": {
+          "total": 587367,
+          "male": 281271,
+          "female": 306096,
+          "house": 327860
+        }
+      }
+    },
+    {
+      "region": "Central Region",
+      "province": "Samut Songkhram",
+      "values": {
+        "2021": {
+          "total": 190842,
+          "male": 91101,
+          "female": 99741,
+          "house": 73940
+        },
+        "2022": {
+          "total": 189453,
+          "male": 90381,
+          "female": 99072,
+          "house": 75048
+        },
+        "2023": {
+          "total": 187993,
+          "male": 89679,
+          "female": 98314,
+          "house": 76343
+        },
+        "2024": {
+          "total": 186784,
+          "male": 89040,
+          "female": 97744,
+          "house": 77393
+        },
+        "2025": {
+          "total": 185281,
+          "male": 88237,
+          "female": 97044,
+          "house": 78449
+        }
+      }
+    },
+    {
+      "region": "Central Region",
+      "province": "Phetchaburi",
+      "values": {
+        "2021": {
+          "total": 482875,
+          "male": 232927,
+          "female": 249948,
+          "house": 224570
+        },
+        "2022": {
+          "total": 482950,
+          "male": 232601,
+          "female": 250349,
+          "house": 229092
+        },
+        "2023": {
+          "total": 483668,
+          "male": 232872,
+          "female": 250796,
+          "house": 233561
+        },
+        "2024": {
+          "total": 484145,
+          "male": 232930,
+          "female": 251215,
+          "house": 237512
+        },
+        "2025": {
+          "total": 484127,
+          "male": 232868,
+          "female": 251259,
+          "house": 241198
+        }
+      }
+    },
+    {
+      "region": "Central Region",
+      "province": "Prachuap Khiri Khan",
+      "values": {
+        "2021": {
+          "total": 553171,
+          "male": 274049,
+          "female": 279122,
+          "house": 276936
+        },
+        "2022": {
+          "total": 553298,
+          "male": 273525,
+          "female": 279773,
+          "house": 282967
+        },
+        "2023": {
+          "total": 550977,
+          "male": 270074,
+          "female": 280903,
+          "house": 288188
+        },
+        "2024": {
+          "total": 551769,
+          "male": 270215,
+          "female": 281554,
+          "house": 293330
+        },
+        "2025": {
+          "total": 551443,
+          "male": 269387,
+          "female": 282056,
+          "house": 299161
+        }
+      }
+    },
+    {
+      "region": "Northern Region",
+      "province": "Northern Region",
+      "values": {
+        "2021": {
+          "total": 12010024,
+          "male": 5871707,
+          "female": 6138317,
+          "house": 4964044
+        },
+        "2022": {
+          "total": 11977896,
+          "male": 5849580,
+          "female": 6128316,
+          "house": 5033502
+        },
+        "2023": {
+          "total": 11940324,
+          "male": 5827007,
+          "female": 6113317,
+          "house": 5098866
+        },
+        "2024": {
+          "total": 11893771,
+          "male": 5799058,
+          "female": 6094713,
+          "house": 5164260
+        },
+        "2025": {
+          "total": 11848082,
+          "male": 5770192,
+          "female": 6077890,
+          "house": 5230278
+        }
+      }
+    },
+    {
+      "region": "Northern Region",
+      "province": "Chiang Mai",
+      "values": {
+        "2021": {
+          "total": 1789385,
+          "male": 864364,
+          "female": 925021,
+          "house": 852520
+        },
+        "2022": {
+          "total": 1792474,
+          "male": 864339,
+          "female": 928135,
+          "house": 866675
+        },
+        "2023": {
+          "total": 1797075,
+          "male": 865666,
+          "female": 931409,
+          "house": 883862
+        },
+        "2024": {
+          "total": 1799019,
+          "male": 865486,
+          "female": 933533,
+          "house": 900484
+        },
+        "2025": {
+          "total": 1798588,
+          "male": 863853,
+          "female": 934735,
+          "house": 916688
+        }
+      }
+    },
+    {
+      "region": "Northern Region",
+      "province": "Lamphun",
+      "values": {
+        "2021": {
+          "total": 401139,
+          "male": 192712,
+          "female": 208427,
+          "house": 185253
+        },
+        "2022": {
+          "total": 399557,
+          "male": 191596,
+          "female": 207961,
+          "house": 188061
+        },
+        "2023": {
+          "total": 398440,
+          "male": 190822,
+          "female": 207618,
+          "house": 191094
+        },
+        "2024": {
+          "total": 396753,
+          "male": 189647,
+          "female": 207106,
+          "house": 193492
+        },
+        "2025": {
+          "total": 394944,
+          "male": 188407,
+          "female": 206537,
+          "house": 195859
+        }
+      }
+    },
+    {
+      "region": "Northern Region",
+      "province": "Lampang",
+      "values": {
+        "2021": {
+          "total": 724678,
+          "male": 352894,
+          "female": 371784,
+          "house": 298848
+        },
+        "2022": {
+          "total": 718790,
+          "male": 349574,
+          "female": 369216,
+          "house": 302165
+        },
+        "2023": {
+          "total": 711478,
+          "male": 345539,
+          "female": 365939,
+          "house": 305171
+        },
+        "2024": {
+          "total": 704126,
+          "male": 341663,
+          "female": 362463,
+          "house": 307969
+        },
+        "2025": {
+          "total": 697679,
+          "male": 337970,
+          "female": 359709,
+          "house": 310381
+        }
+      }
+    },
+    {
+      "region": "Northern Region",
+      "province": "Uttaradit",
+      "values": {
+        "2021": {
+          "total": 446148,
+          "male": 217413,
+          "female": 228735,
+          "house": 174440
+        },
+        "2022": {
+          "total": 442949,
+          "male": 215648,
+          "female": 227301,
+          "house": 175738
+        },
+        "2023": {
+          "total": 439629,
+          "male": 213882,
+          "female": 225747,
+          "house": 177596
+        },
+        "2024": {
+          "total": 436283,
+          "male": 212005,
+          "female": 224278,
+          "house": 179308
+        },
+        "2025": {
+          "total": 433275,
+          "male": 210378,
+          "female": 222897,
+          "house": 180771
+        }
+      }
+    },
+    {
+      "region": "Northern Region",
+      "province": "Phrae",
+      "values": {
+        "2021": {
+          "total": 434580,
+          "male": 209403,
+          "female": 225177,
+          "house": 180833
+        },
+        "2022": {
+          "total": 430669,
+          "male": 207174,
+          "female": 223495,
+          "house": 182675
+        },
+        "2023": {
+          "total": 426331,
+          "male": 204787,
+          "female": 221544,
+          "house": 184393
+        },
+        "2024": {
+          "total": 421745,
+          "male": 202378,
+          "female": 219367,
+          "house": 185874
+        },
+        "2025": {
+          "total": 417480,
+          "male": 200080,
+          "female": 217400,
+          "house": 187264
+        }
+      }
+    },
+    {
+      "region": "Northern Region",
+      "province": "Nan",
+      "values": {
+        "2021": {
+          "total": 475875,
+          "male": 237959,
+          "female": 237916,
+          "house": 173216
+        },
+        "2022": {
+          "total": 474539,
+          "male": 236941,
+          "female": 237598,
+          "house": 175817
+        },
+        "2023": {
+          "total": 472722,
+          "male": 236008,
+          "female": 236714,
+          "house": 178167
+        },
+        "2024": {
+          "total": 470507,
+          "male": 234647,
+          "female": 235860,
+          "house": 180461
+        },
+        "2025": {
+          "total": 468368,
+          "male": 233287,
+          "female": 235081,
+          "house": 182521
+        }
+      }
+    },
+    {
+      "region": "Northern Region",
+      "province": "Phayao",
+      "values": {
+        "2021": {
+          "total": 464505,
+          "male": 225943,
+          "female": 238562,
+          "house": 197593
+        },
+        "2022": {
+          "total": 461431,
+          "male": 224063,
+          "female": 237368,
+          "house": 199936
+        },
+        "2023": {
+          "total": 458287,
+          "male": 222408,
+          "female": 235879,
+          "house": 202202
+        },
+        "2024": {
+          "total": 454764,
+          "male": 220378,
+          "female": 234386,
+          "house": 204387
+        },
+        "2025": {
+          "total": 451964,
+          "male": 218714,
+          "female": 233250,
+          "house": 207675
+        }
+      }
+    },
+    {
+      "region": "Northern Region",
+      "province": "Chiang Rai",
+      "values": {
+        "2021": {
+          "total": 1298425,
+          "male": 630868,
+          "female": 667557,
+          "house": 569461
+        },
+        "2022": {
+          "total": 1299636,
+          "male": 630619,
+          "female": 669017,
+          "house": 579417
+        },
+        "2023": {
+          "total": 1298977,
+          "male": 629917,
+          "female": 669060,
+          "house": 586117
+        },
+        "2024": {
+          "total": 1297657,
+          "male": 628811,
+          "female": 668846,
+          "house": 594808
+        },
+        "2025": {
+          "total": 1295922,
+          "male": 627342,
+          "female": 668580,
+          "house": 603627
+        }
+      }
+    },
+    {
+      "region": "Northern Region",
+      "province": "Mae Hong Son",
+      "values": {
+        "2021": {
+          "total": 285916,
+          "male": 144811,
+          "female": 141105,
+          "house": 117497
+        },
+        "2022": {
+          "total": 286786,
+          "male": 145194,
+          "female": 141592,
+          "house": 119841
+        },
+        "2023": {
+          "total": 287644,
+          "male": 145500,
+          "female": 142144,
+          "house": 121896
+        },
+        "2024": {
+          "total": 288082,
+          "male": 145723,
+          "female": 142359,
+          "house": 123826
+        },
+        "2025": {
+          "total": 288757,
+          "male": 145888,
+          "female": 142869,
+          "house": 125752
+        }
+      }
+    },
+    {
+      "region": "Northern Region",
+      "province": "Nakhon Sawan",
+      "values": {
+        "2021": {
+          "total": 1035028,
+          "male": 504657,
+          "female": 530371,
+          "house": 426048
+        },
+        "2022": {
+          "total": 1028814,
+          "male": 501235,
+          "female": 527579,
+          "house": 429988
+        },
+        "2023": {
+          "total": 1021883,
+          "male": 497375,
+          "female": 524508,
+          "house": 433815
+        },
+        "2024": {
+          "total": 1014401,
+          "male": 493281,
+          "female": 521120,
+          "house": 437370
+        },
+        "2025": {
+          "total": 1008362,
+          "male": 489891,
+          "female": 518471,
+          "house": 442181
+        }
+      }
+    },
+    {
+      "region": "Northern Region",
+      "province": "Uthai Thani",
+      "values": {
+        "2021": {
+          "total": 325116,
+          "male": 158926,
+          "female": 166190,
+          "house": 127506
+        },
+        "2022": {
+          "total": 323860,
+          "male": 158139,
+          "female": 165721,
+          "house": 129514
+        },
+        "2023": {
+          "total": 322273,
+          "male": 157266,
+          "female": 165007,
+          "house": 130318
+        },
+        "2024": {
+          "total": 320445,
+          "male": 156311,
+          "female": 164134,
+          "house": 132050
+        },
+        "2025": {
+          "total": 318968,
+          "male": 155460,
+          "female": 163508,
+          "house": 133605
+        }
+      }
+    },
+    {
+      "region": "Northern Region",
+      "province": "Kamphaeng Phet",
+      "values": {
+        "2021": {
+          "total": 712143,
+          "male": 351539,
+          "female": 360604,
+          "house": 281829
+        },
+        "2022": {
+          "total": 708775,
+          "male": 349696,
+          "female": 359079,
+          "house": 285190
+        },
+        "2023": {
+          "total": 704948,
+          "male": 347579,
+          "female": 357369,
+          "house": 288391
+        },
+        "2024": {
+          "total": 700862,
+          "male": 345166,
+          "female": 355696,
+          "house": 291549
+        },
+        "2025": {
+          "total": 696972,
+          "male": 342943,
+          "female": 354029,
+          "house": 294361
+        }
+      }
+    },
+    {
+      "region": "Northern Region",
+      "province": "Tak",
+      "values": {
+        "2021": {
+          "total": 676583,
+          "male": 341966,
+          "female": 334617,
+          "house": 228736
+        },
+        "2022": {
+          "total": 684140,
+          "male": 345732,
+          "female": 338408,
+          "house": 233293
+        },
+        "2023": {
+          "total": 691714,
+          "male": 349504,
+          "female": 342210,
+          "house": 236902
+        },
+        "2024": {
+          "total": 698597,
+          "male": 352933,
+          "female": 345664,
+          "house": 241517
+        },
+        "2025": {
+          "total": 704494,
+          "male": 355835,
+          "female": 348659,
+          "house": 246226
+        }
+      }
+    },
+    {
+      "region": "Northern Region",
+      "province": "Sukhothai",
+      "values": {
+        "2021": {
+          "total": 585352,
+          "male": 283429,
+          "female": 301923,
+          "house": 222630
+        },
+        "2022": {
+          "total": 581652,
+          "male": 281413,
+          "female": 300239,
+          "house": 224948
+        },
+        "2023": {
+          "total": 577866,
+          "male": 279555,
+          "female": 298311,
+          "house": 227208
+        },
+        "2024": {
+          "total": 573388,
+          "male": 277179,
+          "female": 296209,
+          "house": 229235
+        },
+        "2025": {
+          "total": 569262,
+          "male": 274878,
+          "female": 294384,
+          "house": 231232
+        }
+      }
+    },
+    {
+      "region": "Northern Region",
+      "province": "Phitsanulok",
+      "values": {
+        "2021": {
+          "total": 847384,
+          "male": 414577,
+          "female": 432807,
+          "house": 358036
+        },
+        "2022": {
+          "total": 844494,
+          "male": 412742,
+          "female": 431752,
+          "house": 363476
+        },
+        "2023": {
+          "total": 841729,
+          "male": 411058,
+          "female": 430671,
+          "house": 368521
+        },
+        "2024": {
+          "total": 839116,
+          "male": 409596,
+          "female": 429520,
+          "house": 372740
+        },
+        "2025": {
+          "total": 835480,
+          "male": 407212,
+          "female": 428268,
+          "house": 377281
+        }
+      }
+    },
+    {
+      "region": "Northern Region",
+      "province": "Phichit",
+      "values": {
+        "2021": {
+          "total": 529395,
+          "male": 258012,
+          "female": 271383,
+          "house": 200600
+        },
+        "2022": {
+          "total": 525944,
+          "male": 256341,
+          "female": 269603,
+          "house": 202835
+        },
+        "2023": {
+          "total": 521907,
+          "male": 254271,
+          "female": 267636,
+          "house": 204897
+        },
+        "2024": {
+          "total": 517308,
+          "male": 251787,
+          "female": 265521,
+          "house": 206966
+        },
+        "2025": {
+          "total": 513150,
+          "male": 249551,
+          "female": 263599,
+          "house": 209014
+        }
+      }
+    },
+    {
+      "region": "Northern Region",
+      "province": "Phetchabun",
+      "values": {
+        "2021": {
+          "total": 978372,
+          "male": 482234,
+          "female": 496138,
+          "house": 368998
+        },
+        "2022": {
+          "total": 973386,
+          "male": 479134,
+          "female": 494252,
+          "house": 373933
+        },
+        "2023": {
+          "total": 967421,
+          "male": 475870,
+          "female": 491551,
+          "house": 378316
+        },
+        "2024": {
+          "total": 960718,
+          "male": 472067,
+          "female": 488651,
+          "house": 382224
+        },
+        "2025": {
+          "total": 954417,
+          "male": 468503,
+          "female": 485914,
+          "house": 385840
+        }
+      }
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Northeastern Region",
+      "values": {
+        "2021": {
+          "total": 21826920,
+          "male": 10814540,
+          "female": 11012380,
+          "house": 7339935
+        },
+        "2022": {
+          "total": 21781418,
+          "male": 10782912,
+          "female": 10998506,
+          "house": 7470134
+        },
+        "2023": {
+          "total": 21716975,
+          "male": 10745900,
+          "female": 10971075,
+          "house": 7585586
+        },
+        "2024": {
+          "total": 21619050,
+          "male": 10687530,
+          "female": 10931520,
+          "house": 7686839
+        },
+        "2025": {
+          "total": 21539805,
+          "male": 10638036,
+          "female": 10901769,
+          "house": 7781002
+        }
+      }
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Nakhon Ratchasima",
+      "values": {
+        "2021": {
+          "total": 2634154,
+          "male": 1293783,
+          "female": 1340371,
+          "house": 1024002
+        },
+        "2022": {
+          "total": 2630058,
+          "male": 1290253,
+          "female": 1339805,
+          "house": 1044524
+        },
+        "2023": {
+          "total": 2625794,
+          "male": 1286634,
+          "female": 1339160,
+          "house": 1063007
+        },
+        "2024": {
+          "total": 2620172,
+          "male": 1282763,
+          "female": 1337409,
+          "house": 1079582
+        },
+        "2025": {
+          "total": 2613432,
+          "male": 1278348,
+          "female": 1335084,
+          "house": 1094756
+        }
+      }
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Buri Ram",
+      "values": {
+        "2021": {
+          "total": 1579805,
+          "male": 783531,
+          "female": 796274,
+          "house": 483349
+        },
+        "2022": {
+          "total": 1576915,
+          "male": 781530,
+          "female": 795385,
+          "house": 490644
+        },
+        "2023": {
+          "total": 1573230,
+          "male": 779221,
+          "female": 794009,
+          "house": 497860
+        },
+        "2024": {
+          "total": 1566308,
+          "male": 775230,
+          "female": 791078,
+          "house": 504266
+        },
+        "2025": {
+          "total": 1560279,
+          "male": 771659,
+          "female": 788620,
+          "house": 510228
+        }
+      }
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Surin",
+      "values": {
+        "2021": {
+          "total": 1376230,
+          "male": 684354,
+          "female": 691876,
+          "house": 410088
+        },
+        "2022": {
+          "total": 1372910,
+          "male": 682371,
+          "female": 690539,
+          "house": 415987
+        },
+        "2023": {
+          "total": 1367842,
+          "male": 679575,
+          "female": 688267,
+          "house": 421268
+        },
+        "2024": {
+          "total": 1360245,
+          "male": 675268,
+          "female": 684977,
+          "house": 426326
+        },
+        "2025": {
+          "total": 1354477,
+          "male": 671798,
+          "female": 682679,
+          "house": 430692
+        }
+      }
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Si Sa Ket",
+      "values": {
+        "2021": {
+          "total": 1457556,
+          "male": 725426,
+          "female": 732130,
+          "house": 405275
+        },
+        "2022": {
+          "total": 1454730,
+          "male": 723755,
+          "female": 730975,
+          "house": 410815
+        },
+        "2023": {
+          "total": 1450333,
+          "male": 721690,
+          "female": 728643,
+          "house": 416240
+        },
+        "2024": {
+          "total": 1442013,
+          "male": 717079,
+          "female": 724934,
+          "house": 420976
+        },
+        "2025": {
+          "total": 1436741,
+          "male": 714181,
+          "female": 722560,
+          "house": 425296
+        }
+      }
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Ubon Ratchathani",
+      "values": {
+        "2021": {
+          "total": 1868519,
+          "male": 932466,
+          "female": 936053,
+          "house": 629504
+        },
+        "2022": {
+          "total": 1869806,
+          "male": 932120,
+          "female": 937686,
+          "house": 642015
+        },
+        "2023": {
+          "total": 1869608,
+          "male": 931541,
+          "female": 938067,
+          "house": 652557
+        },
+        "2024": {
+          "total": 1867942,
+          "male": 929772,
+          "female": 938170,
+          "house": 661003
+        },
+        "2025": {
+          "total": 1865501,
+          "male": 927678,
+          "female": 937823,
+          "house": 668687
+        }
+      }
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Yasothon",
+      "values": {
+        "2021": {
+          "total": 533394,
+          "male": 265945,
+          "female": 267449,
+          "house": 179229
+        },
+        "2022": {
+          "total": 531599,
+          "male": 264756,
+          "female": 266843,
+          "house": 183618
+        },
+        "2023": {
+          "total": 528878,
+          "male": 263199,
+          "female": 265679,
+          "house": 186684
+        },
+        "2024": {
+          "total": 525325,
+          "male": 261204,
+          "female": 264121,
+          "house": 189342
+        },
+        "2025": {
+          "total": 522819,
+          "male": 259694,
+          "female": 263125,
+          "house": 191679
+        }
+      }
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Chaiyaphum",
+      "values": {
+        "2021": {
+          "total": 1122265,
+          "male": 554299,
+          "female": 567966,
+          "house": 406943
+        },
+        "2022": {
+          "total": 1117925,
+          "male": 551407,
+          "female": 566518,
+          "house": 413107
+        },
+        "2023": {
+          "total": 1113378,
+          "male": 549032,
+          "female": 564346,
+          "house": 418980
+        },
+        "2024": {
+          "total": 1106404,
+          "male": 544954,
+          "female": 561450,
+          "house": 424219
+        },
+        "2025": {
+          "total": 1100647,
+          "male": 541513,
+          "female": 559134,
+          "house": 428916
+        }
+      }
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Amnat Charoen",
+      "values": {
+        "2021": {
+          "total": 376350,
+          "male": 187122,
+          "female": 189228,
+          "house": 122801
+        },
+        "2022": {
+          "total": 375382,
+          "male": 186594,
+          "female": 188788,
+          "house": 125118
+        },
+        "2023": {
+          "total": 374137,
+          "male": 185906,
+          "female": 188231,
+          "house": 126956
+        },
+        "2024": {
+          "total": 372183,
+          "male": 184783,
+          "female": 187400,
+          "house": 128559
+        },
+        "2025": {
+          "total": 370677,
+          "male": 183905,
+          "female": 186772,
+          "house": 129998
+        }
+      }
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Bueng Kan",
+      "values": {
+        "2021": {
+          "total": 421995,
+          "male": 211494,
+          "female": 210501,
+          "house": 140512
+        },
+        "2022": {
+          "total": 421684,
+          "male": 211158,
+          "female": 210526,
+          "house": 143368
+        },
+        "2023": {
+          "total": 420487,
+          "male": 210408,
+          "female": 210079,
+          "house": 145677
+        },
+        "2024": {
+          "total": 418733,
+          "male": 209459,
+          "female": 209274,
+          "house": 147459
+        },
+        "2025": {
+          "total": 417907,
+          "male": 208991,
+          "female": 208916,
+          "house": 149134
+        }
+      }
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Nong Bua Lam Phu",
+      "values": {
+        "2021": {
+          "total": 509001,
+          "male": 253757,
+          "female": 255244,
+          "house": 154912
+        },
+        "2022": {
+          "total": 508325,
+          "male": 253342,
+          "female": 254983,
+          "house": 157566
+        },
+        "2023": {
+          "total": 506872,
+          "male": 252436,
+          "female": 254436,
+          "house": 159950
+        },
+        "2024": {
+          "total": 504379,
+          "male": 250862,
+          "female": 253517,
+          "house": 161989
+        },
+        "2025": {
+          "total": 502088,
+          "male": 249382,
+          "female": 252706,
+          "house": 163997
+        }
+      }
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Khon Kaen",
+      "values": {
+        "2021": {
+          "total": 1790863,
+          "male": 879849,
+          "female": 911014,
+          "house": 654344
+        },
+        "2022": {
+          "total": 1784641,
+          "male": 876082,
+          "female": 908559,
+          "house": 668539
+        },
+        "2023": {
+          "total": 1779373,
+          "male": 872661,
+          "female": 906712,
+          "house": 680877
+        },
+        "2024": {
+          "total": 1772381,
+          "male": 868299,
+          "female": 904082,
+          "house": 692088
+        },
+        "2025": {
+          "total": 1765967,
+          "male": 863862,
+          "female": 902105,
+          "house": 703153
+        }
+      }
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Udon Thani",
+      "values": {
+        "2021": {
+          "total": 1566510,
+          "male": 775357,
+          "female": 791153,
+          "house": 538277
+        },
+        "2022": {
+          "total": 1563048,
+          "male": 772344,
+          "female": 790704,
+          "house": 548525
+        },
+        "2023": {
+          "total": 1558528,
+          "male": 769682,
+          "female": 788846,
+          "house": 557058
+        },
+        "2024": {
+          "total": 1552135,
+          "male": 765475,
+          "female": 786660,
+          "house": 565876
+        },
+        "2025": {
+          "total": 1546737,
+          "male": 762067,
+          "female": 784670,
+          "house": 573112
+        }
+      }
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Loei",
+      "values": {
+        "2021": {
+          "total": 638732,
+          "male": 319949,
+          "female": 318783,
+          "house": 230763
+        },
+        "2022": {
+          "total": 637341,
+          "male": 319099,
+          "female": 318242,
+          "house": 234063
+        },
+        "2023": {
+          "total": 635142,
+          "male": 317538,
+          "female": 317604,
+          "house": 237489
+        },
+        "2024": {
+          "total": 632187,
+          "male": 315871,
+          "female": 316316,
+          "house": 240382
+        },
+        "2025": {
+          "total": 629377,
+          "male": 314066,
+          "female": 315311,
+          "house": 243020
+        }
+      }
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Nong Khai",
+      "values": {
+        "2021": {
+          "total": 516843,
+          "male": 256268,
+          "female": 260575,
+          "house": 181752
+        },
+        "2022": {
+          "total": 515795,
+          "male": 255393,
+          "female": 260402,
+          "house": 184909
+        },
+        "2023": {
+          "total": 514021,
+          "male": 254558,
+          "female": 259463,
+          "house": 187581
+        },
+        "2024": {
+          "total": 511706,
+          "male": 253194,
+          "female": 258512,
+          "house": 190025
+        },
+        "2025": {
+          "total": 510189,
+          "male": 252051,
+          "female": 258138,
+          "house": 192378
+        }
+      }
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Maha Sarakham",
+      "values": {
+        "2021": {
+          "total": 948310,
+          "male": 464976,
+          "female": 483334,
+          "house": 308947
+        },
+        "2022": {
+          "total": 944605,
+          "male": 462896,
+          "female": 481709,
+          "house": 313596
+        },
+        "2023": {
+          "total": 937915,
+          "male": 460095,
+          "female": 477820,
+          "house": 317734
+        },
+        "2024": {
+          "total": 929952,
+          "male": 456246,
+          "female": 473706,
+          "house": 321366
+        },
+        "2025": {
+          "total": 924124,
+          "male": 453093,
+          "female": 471031,
+          "house": 324703
+        }
+      }
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Roi Et",
+      "values": {
+        "2021": {
+          "total": 1296013,
+          "male": 641883,
+          "female": 654130,
+          "house": 400811
+        },
+        "2022": {
+          "total": 1291131,
+          "male": 639009,
+          "female": 652122,
+          "house": 407315
+        },
+        "2023": {
+          "total": 1284836,
+          "male": 635320,
+          "female": 649516,
+          "house": 412826
+        },
+        "2024": {
+          "total": 1275519,
+          "male": 629825,
+          "female": 645694,
+          "house": 417865
+        },
+        "2025": {
+          "total": 1269448,
+          "male": 625987,
+          "female": 643461,
+          "house": 422603
+        }
+      }
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Kalasin",
+      "values": {
+        "2021": {
+          "total": 975570,
+          "male": 481988,
+          "female": 493582,
+          "house": 316604
+        },
+        "2022": {
+          "total": 972101,
+          "male": 479874,
+          "female": 492227,
+          "house": 322190
+        },
+        "2023": {
+          "total": 968065,
+          "male": 477905,
+          "female": 490160,
+          "house": 327426
+        },
+        "2024": {
+          "total": 962444,
+          "male": 474533,
+          "female": 487911,
+          "house": 331891
+        },
+        "2025": {
+          "total": 957421,
+          "male": 471528,
+          "female": 485893,
+          "house": 335591
+        }
+      }
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Sakon Nakhon",
+      "values": {
+        "2021": {
+          "total": 1146286,
+          "male": 569364,
+          "female": 576922,
+          "house": 396177
+        },
+        "2022": {
+          "total": 1145187,
+          "male": 568553,
+          "female": 576634,
+          "house": 402016
+        },
+        "2023": {
+          "total": 1142657,
+          "male": 567271,
+          "female": 575386,
+          "house": 407975
+        },
+        "2024": {
+          "total": 1137772,
+          "male": 564205,
+          "female": 573567,
+          "house": 411116
+        },
+        "2025": {
+          "total": 1134091,
+          "male": 561786,
+          "female": 572305,
+          "house": 415928
+        }
+      }
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Nakhon Phanom",
+      "values": {
+        "2021": {
+          "total": 717040,
+          "male": 357096,
+          "female": 359944,
+          "house": 235673
+        },
+        "2022": {
+          "total": 716647,
+          "male": 356834,
+          "female": 359813,
+          "house": 239861
+        },
+        "2023": {
+          "total": 714284,
+          "male": 355557,
+          "female": 358727,
+          "house": 242917
+        },
+        "2024": {
+          "total": 710740,
+          "male": 353531,
+          "female": 357209,
+          "house": 246183
+        },
+        "2025": {
+          "total": 708265,
+          "male": 352126,
+          "female": 356139,
+          "house": 249246
+        }
+      }
+    },
+    {
+      "region": "Northeastern Region",
+      "province": "Mukdahan",
+      "values": {
+        "2021": {
+          "total": 351484,
+          "male": 175633,
+          "female": 175851,
+          "house": 119972
+        },
+        "2022": {
+          "total": 351588,
+          "male": 175542,
+          "female": 176046,
+          "house": 122358
+        },
+        "2023": {
+          "total": 351595,
+          "male": 175671,
+          "female": 175924,
+          "house": 124524
+        },
+        "2024": {
+          "total": 350510,
+          "male": 174977,
+          "female": 175533,
+          "house": 126326
+        },
+        "2025": {
+          "total": 349618,
+          "male": 174321,
+          "female": 175297,
+          "house": 127885
+        }
+      }
+    },
+    {
+      "region": "Southern Region",
+      "province": "Southern Region",
+      "values": {
+        "2021": {
+          "total": 9492267,
+          "male": 4667882,
+          "female": 4824385,
+          "house": 3748832
+        },
+        "2022": {
+          "total": 9496991,
+          "male": 4668680,
+          "female": 4828311,
+          "house": 3208389
+        },
+        "2023": {
+          "total": 9512975,
+          "male": 4675742,
+          "female": 4837233,
+          "house": 3869404
+        },
+        "2024": {
+          "total": 9520292,
+          "male": 4677877,
+          "female": 4842415,
+          "house": 3931492
+        },
+        "2025": {
+          "total": 9523239,
+          "male": 4677216,
+          "female": 4846023,
+          "house": 3993532
+        }
+      }
+    },
+    {
+      "region": "Southern Region",
+      "province": "Nakhon Si Thammarat",
+      "values": {
+        "2021": {
+          "total": 1549344,
+          "male": 764471,
+          "female": 784873,
+          "house": 590976
+        },
+        "2022": {
+          "total": 1545147,
+          "male": 762647,
+          "female": 782500,
+          "house": 599937
+        },
+        "2023": {
+          "total": 1540953,
+          "male": 760886,
+          "female": 780067,
+          "house": 608533
+        },
+        "2024": {
+          "total": 1534653,
+          "male": 757539,
+          "female": 777114,
+          "house": 616268
+        },
+        "2025": {
+          "total": 1530435,
+          "male": 754930,
+          "female": 775505,
+          "house": 624899
+        }
+      }
+    },
+    {
+      "region": "Southern Region",
+      "province": "Krabi",
+      "values": {
+        "2021": {
+          "total": 479351,
+          "male": 238092,
+          "female": 241259,
+          "house": 197381
+        },
+        "2022": {
+          "total": 480057,
+          "male": 238455,
+          "female": 241602,
+          "house": 201080
+        },
+        "2023": {
+          "total": 482121,
+          "male": 239441,
+          "female": 242680,
+          "house": 204440
+        },
+        "2024": {
+          "total": 483855,
+          "male": 240313,
+          "female": 243542,
+          "house": 208232
+        },
+        "2025": {
+          "total": 484796,
+          "male": 240718,
+          "female": 244078,
+          "house": 212135
+        }
+      }
+    },
+    {
+      "region": "Southern Region",
+      "province": "Phangnga",
+      "values": {
+        "2021": {
+          "total": 268016,
+          "male": 133785,
+          "female": 134231,
+          "house": 120551
+        },
+        "2022": {
+          "total": 267442,
+          "male": 133459,
+          "female": 133983,
+          "house": 122210
+        },
+        "2023": {
+          "total": 267057,
+          "male": 133379,
+          "female": 133678,
+          "house": 123860
+        },
+        "2024": {
+          "total": 266296,
+          "male": 132910,
+          "female": 133386,
+          "house": 125443
+        },
+        "2025": {
+          "total": 265653,
+          "male": 132518,
+          "female": 133135,
+          "house": 127398
+        }
+      }
+    },
+    {
+      "region": "Southern Region",
+      "province": "Phuket",
+      "values": {
+        "2021": {
+          "total": 418785,
+          "male": 197874,
+          "female": 220911,
+          "house": 277112
+        },
+        "2022": {
+          "total": 417891,
+          "male": 197101,
+          "female": 220790,
+          "house": 281204
+        },
+        "2023": {
+          "total": 423599,
+          "male": 199500,
+          "female": 224099,
+          "house": 285937
+        },
+        "2024": {
+          "total": 429583,
+          "male": 201988,
+          "female": 227595,
+          "house": 294383
+        },
+        "2025": {
+          "total": 432464,
+          "male": 203101,
+          "female": 229363,
+          "house": 303160
+        }
+      }
+    },
+    {
+      "region": "Southern Region",
+      "province": "Surat Thani",
+      "values": {
+        "2021": {
+          "total": 1072464,
+          "male": 527349,
+          "female": 545115,
+          "house": 521265
+        },
+        "2022": {
+          "total": 1073663,
+          "male": 527555,
+          "female": 546108,
+          "house": 530712
+        },
+        "2023": {
+          "total": 1075788,
+          "male": 528358,
+          "female": 547430,
+          "house": 539755
+        },
+        "2024": {
+          "total": 1076666,
+          "male": 529077,
+          "female": 547589,
+          "house": 550373
+        },
+        "2025": {
+          "total": 1075977,
+          "male": 528853,
+          "female": 547124,
+          "house": 559761
+        }
+      }
+    },
+    {
+      "region": "Southern Region",
+      "province": "Ranong",
+      "values": {
+        "2021": {
+          "total": 194573,
+          "male": 98136,
+          "female": 96437,
+          "house": 94295
+        },
+        "2022": {
+          "total": 194226,
+          "male": 97803,
+          "female": 96423,
+          "house": 95752
+        },
+        "2023": {
+          "total": 193371,
+          "male": 97359,
+          "female": 96012,
+          "house": 97081
+        },
+        "2024": {
+          "total": 192927,
+          "male": 96944,
+          "female": 95983,
+          "house": 98370
+        },
+        "2025": {
+          "total": 192487,
+          "male": 96644,
+          "female": 95843,
+          "house": 99564
+        }
+      }
+    },
+    {
+      "region": "Southern Region",
+      "province": "Chumphon",
+      "values": {
+        "2021": {
+          "total": 509479,
+          "male": 251405,
+          "female": 258074,
+          "house": 244176
+        },
+        "2022": {
+          "total": 509385,
+          "male": 251226,
+          "female": 258159,
+          "house": 248311
+        },
+        "2023": {
+          "total": 508857,
+          "male": 250921,
+          "female": 257936,
+          "house": 252386
+        },
+        "2024": {
+          "total": 508053,
+          "male": 250267,
+          "female": 257786,
+          "house": 256148
+        },
+        "2025": {
+          "total": 506856,
+          "male": 249489,
+          "female": 257367,
+          "house": 259113
+        }
+      }
+    },
+    {
+      "region": "Southern Region",
+      "province": "Songkhla",
+      "values": {
+        "2021": {
+          "total": 1431536,
+          "male": 697256,
+          "female": 734280,
+          "house": 562422
+        },
+        "2022": {
+          "total": 1431063,
+          "male": 696482,
+          "female": 734581,
+          "house": 572645
+        },
+        "2023": {
+          "total": 1431959,
+          "male": 696601,
+          "female": 735358,
+          "house": 584425
+        },
+        "2024": {
+          "total": 1431107,
+          "male": 695802,
+          "female": 735305,
+          "house": 593923
+        },
+        "2025": {
+          "total": 1429125,
+          "male": 693970,
+          "female": 735155,
+          "house": 602196
+        }
+      }
+    },
+    {
+      "region": "Southern Region",
+      "province": "Satun",
+      "values": {
+        "2021": {
+          "total": 324835,
+          "male": 161640,
+          "female": 163195,
+          "house": 107562
+        },
+        "2022": {
+          "total": 325303,
+          "male": 161878,
+          "female": 163425,
+          "house": 109030
+        },
+        "2023": {
+          "total": 325470,
+          "male": 162039,
+          "female": 163431,
+          "house": 110545
+        },
+        "2024": {
+          "total": 324879,
+          "male": 161667,
+          "female": 163212,
+          "house": 111775
+        },
+        "2025": {
+          "total": 324560,
+          "male": 161425,
+          "female": 163135,
+          "house": 113018
+        }
+      }
+    },
+    {
+      "region": "Southern Region",
+      "province": "Trang",
+      "values": {
+        "2021": {
+          "total": 639788,
+          "male": 312693,
+          "female": 327095,
+          "house": 237935
+        },
+        "2022": {
+          "total": 638206,
+          "male": 311849,
+          "female": 326357,
+          "house": 241159
+        },
+        "2023": {
+          "total": 637017,
+          "male": 311212,
+          "female": 325805,
+          "house": 243956
+        },
+        "2024": {
+          "total": 634959,
+          "male": 310045,
+          "female": 324914,
+          "house": 246853
+        },
+        "2025": {
+          "total": 633416,
+          "male": 309150,
+          "female": 324266,
+          "house": 249101
+        }
+      }
+    },
+    {
+      "region": "Southern Region",
+      "province": "Phattalung",
+      "values": {
+        "2021": {
+          "total": 522541,
+          "male": 254425,
+          "female": 268116,
+          "house": 199687
+        },
+        "2022": {
+          "total": 521619,
+          "male": 253817,
+          "female": 267802,
+          "house": 202367
+        },
+        "2023": {
+          "total": 520598,
+          "male": 253232,
+          "female": 267366,
+          "house": 205036
+        },
+        "2024": {
+          "total": 519440,
+          "male": 252460,
+          "female": 266980,
+          "house": 207767
+        },
+        "2025": {
+          "total": 518066,
+          "male": 251652,
+          "female": 266414,
+          "house": 211206
+        }
+      }
+    },
+    {
+      "region": "Southern Region",
+      "province": "Pattani",
+      "values": {
+        "2021": {
+          "total": 729581,
+          "male": 360348,
+          "female": 369233,
+          "house": 199103
+        },
+        "2022": {
+          "total": 732955,
+          "male": 362263,
+          "female": 370692,
+          "house": 201433
+        },
+        "2023": {
+          "total": 737077,
+          "male": 364396,
+          "female": 372681,
+          "house": 204902
+        },
+        "2024": {
+          "total": 740904,
+          "male": 366532,
+          "female": 374372,
+          "house": 208009
+        },
+        "2025": {
+          "total": 744971,
+          "male": 368511,
+          "female": 376460,
+          "house": 212220
+        }
+      }
+    },
+    {
+      "region": "Southern Region",
+      "province": "Yala",
+      "values": {
+        "2021": {
+          "total": 542314,
+          "male": 269907,
+          "female": 272407,
+          "house": 173226
+        },
+        "2022": {
+          "total": 545913,
+          "male": 271480,
+          "female": 274433,
+          "house": 175981
+        },
+        "2023": {
+          "total": 549946,
+          "male": 273248,
+          "female": 276698,
+          "house": 178717
+        },
+        "2024": {
+          "total": 552974,
+          "male": 274701,
+          "female": 278273,
+          "house": 181284
+        },
+        "2025": {
+          "total": 556087,
+          "male": 276503,
+          "female": 279584,
+          "house": 183827
+        }
+      }
+    },
+    {
+      "region": "Southern Region",
+      "province": "Narathiwat",
+      "values": {
+        "2021": {
+          "total": 809660,
+          "male": 400501,
+          "female": 409159,
+          "house": 223141
+        },
+        "2022": {
+          "total": 814121,
+          "male": 402665,
+          "female": 411456,
+          "house": 226505
+        },
+        "2023": {
+          "total": 819162,
+          "male": 405170,
+          "female": 413992,
+          "house": 229831
+        },
+        "2024": {
+          "total": 823996,
+          "male": 407632,
+          "female": 416364,
+          "house": 232664
+        },
+        "2025": {
+          "total": 828346,
+          "male": 409752,
+          "female": 418594,
+          "house": 235934
+        }
+      }
+    }
+  ]
+}
