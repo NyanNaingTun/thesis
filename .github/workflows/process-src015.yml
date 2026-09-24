@@ -13,30 +13,31 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: pip install openpyxl requests
+      - run: pip install requests xlrd
       - name: Convert SRC-015 and update registry
         run: |
           python - <<'PY'
-          import json, requests
-          from openpyxl import load_workbook
+          import json, requests, xlrd
           from io import BytesIO
           url="https://www.nso.go.th/nsoweb/downloadFile/stat_impt/ik/file_xls_en"
-          b=requests.get(url,timeout=60).content
-          wb=load_workbook(BytesIO(b),data_only=True)
-          ws=wb.active
-          rows=list(ws.iter_rows(values_only=True))
+          h={"User-Agent":"Mozilla/5.0","Referer":"https://www.nso.go.th/"}
+          b=requests.get(url,headers=h,timeout=60).content
+          book=xlrd.open_workbook(file_contents=b)
+          sh=book.sheet_by_index(0)
+          rows=[sh.row_values(i) for i in range(sh.nrows)]
           years=[int(x) for x in rows[2][5:19]]
           valid={'Total','15 - 19','20 - 24','25 - 29','30 - 34','35 - 39','40 - 44','45 - 49','50 - 54','55 - 59','60 and over'}
           last=[None]*4; dm={}
-          for r in rows[3:]:
-              r=list(r)
-              if r[4] not in valid: continue
+          for r0 in rows[3:]:
+              r=list(r0)
+              if str(r[4]).strip() not in valid: continue
+              r[4]=str(r[4]).strip()
               for i in range(4):
-                  if r[i] is not None: last[i]=str(r[i]).strip()
+                  if r[i] not in (None,""): last[i]=str(r[i]).strip()
                   else: r[i]=last[i]
               region,province,etype,sex,age=r[:5]
               sm=dm.setdefault(region,{}).setdefault(province,{}).setdefault(etype,{}).setdefault(sex,{})
-              sm[age]={str(y):r[5+j] for j,y in enumerate(years) if r[5+j] is not None}
+              sm[age]={str(y):r[5+j] for j,y in enumerate(years) if r[5+j] not in (None,"")}
           data=[]
           for region,provs in dm.items():
               pp=[]
@@ -45,6 +46,10 @@ jobs:
                   pp.append({"province":province,"employment_type":et})
               data.append({"region":region,"provinces":pp})
           out={"source_id":"SRC-015","title":str(rows[0][0]).strip(),"country":"Thailand","unit":"Persons","years":years,"hierarchy":"Region > Province > Type of Employment > Sex > Age Group > Year > Number","data":data}
+          assert len(data)==7
+          first=data[0]["provinces"][0]["employment_type"]
+          assert all(x in first for x in ("Total","Formal","Informal"))
+          assert all(x in first["Informal"]["sex"] for x in ("Total","Male","Female"))
           with open("processed/SRC-015.json","w",encoding="utf-8") as f: json.dump(out,f,ensure_ascii=False,indent=2)
           p="metadata/source_registry.json"
           reg=json.load(open(p,encoding="utf-8"))
