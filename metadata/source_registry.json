@@ -307,7 +307,11 @@
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
           },
-          "id": "SRC-018"
+          "id": "SRC-018",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-018.json",
+          "completed_at": "2026-09-25",
+          "processed_commit": "1d0f912fad3010f8a270108d1ae74e2a7f934da1"
         },
         {
           "name": "Elderly workers",
