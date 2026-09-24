@@ -1,0 +1,98 @@
+{
+  "source_id": "SRC-020",
+  "title": "Average Academic Year of Population by Age Group and Sex: Academic Year: 2012 - 2021",
+  "country": "Thailand",
+  "unit": "year",
+  "source_organization": "Office of the Education Council, Ministry of Education",
+  "source_url": "https://www.nso.go.th/nsoweb/downloadFile/stat_impt/jg/file_xls_en",
+  "original_file_name": "20230420170313_13932.xlsx",
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "data": [
+    {
+      "age_group": "15 years and over",
+      "values": {
+        "2012": {"total": 8, "male": 8.2, "female": 7.8},
+        "2013": {"total": 8, "male": 8.2, "female": 7.8},
+        "2014": {"total": 8.1, "male": 8.2, "female": 7.9},
+        "2015": {"total": 8.5, "male": 8.6, "female": 8.4},
+        "2016": {"total": 8.6, "male": 8.7, "female": 8.4},
+        "2017": {"total": 8.6, "male": 8.7, "female": 8.5},
+        "2018": {"total": 8.6, "male": 8.7, "female": 8.5},
+        "2019": {"total": 8.69, "male": 8.77, "female": 8.61},
+        "2020": {"total": 8.86, "male": 8.92, "female": 8.8},
+        "2021": {"total": 8.93, "male": 8.99, "female": 8.88}
+      }
+    },
+    {
+      "age_group": "15 - 39 years",
+      "values": {
+        "2012": {"total": 10.4, "male": 10, "female": 10.8},
+        "2013": {"total": 10.5, "male": 10.1, "female": 10.9},
+        "2014": {"total": 10.7, "male": 10.2, "female": 11.1},
+        "2015": {"total": 10.5, "male": 10.2, "female": 10.9},
+        "2016": {"total": 10.7, "male": 10.3, "female": 11.1},
+        "2017": {"total": 10.8, "male": 10.3, "female": 11.2},
+        "2018": {"total": 10.8, "male": 10.3, "female": 11.3},
+        "2019": {"total": 10.83, "male": 10.33, "female": 11.32},
+        "2020": {"total": 10.97, "male": 10.49, "female": 10.02},
+        "2021": {"total": 11, "male": 10.52, "female": 11.49}
+      }
+    },
+    {
+      "age_group": "15 - 59 years",
+      "values": {
+        "2012": {"total": 8.8, "male": 8.9, "female": 8.8},
+        "2013": {"total": 8.9, "male": 8.9, "female": 8.9},
+        "2014": {"total": 9, "male": 9, "female": 9},
+        "2015": {"total": 9.3, "male": 9.2, "female": 9.3},
+        "2016": {"total": 9.4, "male": 9.3, "female": 9.5},
+        "2017": {"total": 9.5, "male": 9.4, "female": 9.6},
+        "2018": {"total": 9.6, "male": 9.5, "female": 9.7},
+        "2019": {"total": 9.65, "male": 9.52, "female": 9.78},
+        "2020": {"total": 9.86, "male": 9.69, "female": 11.46},
+        "2021": {"total": 9.96, "male": 9.78, "female": 10.13}
+      }
+    },
+    {
+      "age_group": "40 - 59 years",
+      "values": {
+        "2012": {"total": 7.2, "male": 7.5, "female": 6.9},
+        "2013": {"total": 7.3, "male": 7.6, "female": 7},
+        "2014": {"total": 7.4, "male": 7.7, "female": 7.2},
+        "2015": {"total": 7.8, "male": 8.1, "female": 7.5},
+        "2016": {"total": 7.9, "male": 8.2, "female": 7.6},
+        "2017": {"total": 8.1, "male": 8.3, "female": 7.8},
+        "2018": {"total": 8.2, "male": 8.4, "female": 7.9},
+        "2019": {"total": 8.32, "male": 8.55, "female": 8.1},
+        "2020": {"total": 8.59, "male": 8.74, "female": 8.46},
+        "2021": {"total": 8.78, "male": 8.9, "female": 8.68}
+      }
+    },
+    {
+      "age_group": "60 years and over",
+      "values": {
+        "2012": {"total": 4.5, "male": 5.1, "female": 4.1},
+        "2013": {"total": 4.7, "male": 5.3, "female": 4.2},
+        "2014": {"total": 4.8, "male": 5.4, "female": 4.3},
+        "2015": {"total": 5, "male": 5.6, "female": 4.5},
+        "2016": {"total": 5, "male": 5.7, "female": 4.5},
+        "2017": {"total": 5.1, "male": 5.7, "female": 4.6},
+        "2018": {"total": 5.1, "male": 5.7, "female": 4.6},
+        "2019": {"total": 5.22, "male": 5.8, "female": 4.74},
+        "2020": {"total": 5.42, "male": 6, "female": 4.94},
+        "2021": {"total": 5.54, "male": 6.12, "female": 5.08}
+      }
+    }
+  ]
+}
