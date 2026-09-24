@@ -1,0 +1,37 @@
+{
+  "source_id": "SRC-018",
+  "title": "Labour Force Participation Rate by  Sex and Month: 2017 - 2024",
+  "country": "Thailand",
+  "unit": "Percentage",
+  "years": [2017, 2018, 2019, 2020, 2022, 2023, 2024],
+  "hierarchy": "Sex > Year > Month > Rate (%)",
+  "data": {
+    "Total": {
+      "2017": {"January":68,"February":68.7,"March":68.6,"April":67.8,"May":67.9,"June":69.4,"July":68.8,"August":68,"September":67.4,"October":66.4,"November":68.3,"December":67.2},
+      "2018": {"January":67.3,"February":68.4,"March":67.8,"April":67.6,"May":68.5,"June":69,"July":69.4,"August":68.8,"September":68.1,"October":67.6,"November":68.7,"December":68},
+      "2019": {"January":67.7,"February":67.9,"March":68.2,"April":67.3,"May":67.9,"June":68.6,"July":67.3,"August":67.3,"September":66.6,"October":66.1,"November":67.4,"December":67.4},
+      "2020": {"January":66.8,"February":67.7,"March":67.3,"April":" - ","May":" - ","June":" - ","July":68.1,"August":68.3,"September":67.9,"October":68.1,"November":68.7,"December":69.3},
+      "2022": {"January":68,"February":67.7,"March":67.7,"April":67,"May":68,"June":69.2,"July":68.2,"August":68.6,"September":68.3,"October":67.9,"November":68.7,"December":68.6},
+      "2023": {"January":68.2,"February":68.8,"March":68.8,"April":67.9,"May":68.5,"June":69.1,"July":68.9,"August":69,"September":68.3,"October":68.4,"November":69.6,"December":68.8},
+      "2024": {"January":67.4,"February":68.6,"March":68.4,"April":67.3,"May":67.6,"June":69.1,"July":68.3}
+    },
+    "Male": {
+      "2017": {"January":76.9,"February":77.1,"March":77.6,"April":76.7,"May":76.4,"June":78.1,"July":77.3,"August":76.5,"September":76.7,"October":75.6,"November":77,"December":76.1},
+      "2018": {"January":76.1,"February":77.3,"March":77,"April":76.5,"May":77.4,"June":77.4,"July":78,"August":77.7,"September":77.1,"October":76.2,"November":77.2,"December":76.8},
+      "2019": {"January":75.9,"February":76.4,"March":76.6,"April":75.8,"May":76.8,"June":77.2,"July":75.6,"August":76.4,"September":75.7,"October":74.8,"November":76,"December":76.3},
+      "2020": {"January":74.9,"February":76.2,"March":75.9,"April":" - ","May":" - ","June":" - ","July":76.3,"August":76.7,"September":76.7,"October":76.4,"November":77,"December":77.9},
+      "2022": {"January":76.6,"February":75.8,"March":77,"April":76,"May":76,"June":77.6,"July":76.7,"August":76.5,"September":77.2,"October":76.4,"November":77,"December":77.5},
+      "2023": {"January":76.8,"February":76.7,"March":77.3,"April":76.7,"May":76.5,"June":77.5,"July":77.3,"August":77.3,"September":77,"October":77.1,"November":78,"December":77.3},
+      "2024": {"January":77,"February":77.3,"March":77.4,"April":76.4,"May":76.7,"June":77.6,"July":76.7}
+    },
+    "Female": {
+      "2017": {"January":59.7,"February":61,"March":60.2,"April":59.5,"May":60,"June":61.2,"July":60.8,"August":60,"September":58.8,"October":57.8,"November":60.1,"December":58.9},
+      "2018": {"January":59.2,"February":60.1,"March":59.3,"April":59.3,"May":60.2,"June":61.3,"July":61.3,"August":60.4,"September":59.8,"October":59.5,"November":60.8,"December":59.7},
+      "2019": {"January":60,"February":59.9,"March":60.2,"April":59.4,"May":59.7,"June":60.6,"July":59.6,"August":58.8,"September":58.1,"October":58,"November":59.4,"December":59.1},
+      "2020": {"January":59.2,"February":59.7,"March":59.3,"April":" - ","May":" - ","June":" - ","July":60.4,"August":60.4,"September":59.6,"October":60.3,"November":61,"December":61.2},
+      "2022": {"January":60.1,"February":60.3,"March":59.2,"April":58.8,"May":60.7,"June":61.5,"July":60.5,"August":61.4,"September":60.2,"October":60.1,"November":61.2,"December":60.5},
+      "2023": {"January":60.3,"February":61.7,"March":61,"April":59.9,"May":61.2,"June":61.4,"July":61.3,"August":61.4,"September":60.4,"October":60.5,"November":62,"December":61.1},
+      "2024": {"January":58.6,"February":60.7,"March":60.3,"April":58.9,"May":59.3,"June":61.3,"July":60.7}
+    }
+  }
+}
