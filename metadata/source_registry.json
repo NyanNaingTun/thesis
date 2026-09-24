@@ -109,7 +109,11 @@
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
           },
-          "id": "SRC-007"
+          "id": "SRC-007",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-007.json",
+          "completed_at": "2026-09-24",
+          "processed_commit": "837abd6a5ff53b67c7ce7dfb93a9cb6da60a7171"
         },
         {
           "name": "NSO demo",
