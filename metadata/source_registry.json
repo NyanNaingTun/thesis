@@ -510,7 +510,11 @@
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
           },
-          "id": "SRC-035"
+          "id": "SRC-035",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-035.json",
+          "completed_at": "2026-09-24",
+          "processed_commit": "ecba2911f299542953e6fc5ed27cb5409d23063d"
         },
         {
           "name": "Consumption expenditure",
