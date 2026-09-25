@@ -671,7 +671,12 @@
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
           },
-          "id": "SRC-038"
+          "id": "SRC-038",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-038.json",
+          "completed_at": "2026-09-25",
+          "processed_commit": "abe11648d35fd6111b3b45cafde310bc2582d91a",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-038.json"
         },
         {
           "name": "GDP per capita",
