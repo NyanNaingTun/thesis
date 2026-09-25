@@ -709,7 +709,12 @@
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
           },
-          "id": "SRC-040"
+          "id": "SRC-040",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-040.json",
+          "completed_at": "2026-09-25",
+          "processed_commit": "e7128b057cbd24c39c1db13b441c405b88c6a0b3",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-040.json"
         },
         {
           "name": "General consumer price by province & commodity",
