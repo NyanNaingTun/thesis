@@ -766,7 +766,12 @@
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
           },
-          "id": "SRC-043"
+          "id": "SRC-043",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-043.json",
+          "completed_at": "2026-09-25",
+          "processed_commit": "343651ad9fdcc778a606b32834f788f6c8e08cbb",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-043.json"
         },
         {
           "name": "Producer price index",
