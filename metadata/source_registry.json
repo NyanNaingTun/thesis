@@ -504,7 +504,12 @@
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
           },
-          "id": "SRC-028"
+          "id": "SRC-028",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-028.json",
+          "completed_at": "2026-09-25",
+          "processed_commit": "d4b0f6b74aebfcc6952a2637a440a73fcf44c738",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-028.json"
         },
         {
           "name": "Poor expenditure by region",
