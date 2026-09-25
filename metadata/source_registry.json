@@ -690,7 +690,12 @@
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
           },
-          "id": "SRC-039"
+          "id": "SRC-039",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-039.json",
+          "completed_at": "2026-09-25",
+          "processed_commit": "aeb25a88ed4bb8e6a59832f08b994b83f13dbe26",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-039.json"
         },
         {
           "name": "Logistics cost",
