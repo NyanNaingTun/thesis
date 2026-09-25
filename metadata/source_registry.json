@@ -633,7 +633,12 @@
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
           },
-          "id": "SRC-036"
+          "id": "SRC-036",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-036.json",
+          "completed_at": "2026-09-25",
+          "processed_commit": "direct_uploaded",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-036.json"
         },
         {
           "name": "Personal income, saving, expenditure",
