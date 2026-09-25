@@ -823,7 +823,12 @@
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
           },
-          "id": "SRC-046"
+          "id": "SRC-046",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-046.json",
+          "completed_at": "2026-09-25",
+          "processed_commit": "97e53c6e3d37c06de6e026ee868e4cdb5ee66767",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-046.json"
         },
         {
           "name": "Agriculture price",
