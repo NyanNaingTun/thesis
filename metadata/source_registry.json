@@ -485,7 +485,12 @@
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
           },
-          "id": "SRC-027"
+          "id": "SRC-027",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-027.json",
+          "completed_at": "2026-09-25",
+          "processed_commit": "af64ea218ebfc9337de5a1a10f27817a0fcdea34",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-027.json"
         },
         {
           "name": "Consumption expenditure by poor, non-poor, overall",
