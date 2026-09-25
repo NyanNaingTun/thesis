@@ -963,7 +963,12 @@
             "verification_status": "web_verified",
             "known_file": "nutrition_dataset.csv"
           },
-          "id": "SRC-054"
+          "id": "SRC-054",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-054.json",
+          "completed_at": "2026-09-25",
+          "processed_commit": "user_uploaded",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-054.json"
         },
         {
           "name": "Traditional Thai dishes / Foods in Thailand",
