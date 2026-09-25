@@ -251,6 +251,15 @@
       "name": "OTOP Food",
       "source_link": "https://opendata.dla.go.th/dataset/otopfood/resource/8a386806-2647-4725-9deb-57bf92041193",
       "processed_file_link": "[SRC-056](https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-056.json)"
+    },
+    {
+      "category": "Food & Nutrition",
+      "name": "Wongnai Reviews",
+      "source_link": "https://huggingface.co/datasets/Wongnai/wongnai_reviews",
+      "processed_file_link": [
+        "[SRC-052_train](https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-052_train.json)",
+        "[SRC-052_test](https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-052_test.json)"
+      ]
     }
   ]
 }
