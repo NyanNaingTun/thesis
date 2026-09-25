@@ -785,7 +785,12 @@
             "conversion_target": "JSON",
             "verification_status": "classified_by_url_pattern"
           },
-          "id": "SRC-044"
+          "id": "SRC-044",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-044.json",
+          "completed_at": "2026-09-25",
+          "processed_commit": "05762b4c1cdd79547214ee6188399c53df12518e",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-044.json"
         },
         {
           "name": "Retail Sales",
