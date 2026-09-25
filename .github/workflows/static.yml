@@ -29,6 +29,7 @@ jobs:
         run: |
           mkdir -p _site
           cp metadata/metadata.html _site/index.html
+          cp metadata/SRC-034-tables.html _site/SRC-034-tables.html
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
