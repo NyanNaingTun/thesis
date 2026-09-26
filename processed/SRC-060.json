@@ -1,7 +1,7 @@
 {
   "source_id": "SRC-060",
   "category": "Packaged food, instant food, frozen food, snacks & beverages data",
-  "confirmed_record_count": 160,
+  "confirmed_record_count": 180,
   "data": [
     {
       "item_code": "SRC060-001",
@@ -1122,6 +1122,146 @@
       "price": 61,
       "unit": "710 ml",
       "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-161",
+      "item_name": "Canned Sugar Palm Seed in Syrup",
+      "price": 69,
+      "unit": "610 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-162",
+      "item_name": "Canned Luncheon Pork",
+      "price": 125,
+      "unit": "340 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-163",
+      "item_name": "Canned Fried Baby Clams Spicy",
+      "price": 32,
+      "unit": "40 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-164",
+      "item_name": "Canned Tai Pla Dried Curry",
+      "price": 25,
+      "unit": "60 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-165",
+      "item_name": "Canned Fish Paste",
+      "price": 21,
+      "unit": "80 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-166",
+      "item_name": "Canned Sweet Corn Soup",
+      "price": 38,
+      "unit": "425 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-167",
+      "item_name": "Canned Cream Corn & Mushroom Soup",
+      "price": 87,
+      "unit": "305 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-168",
+      "item_name": "Canned Pickled Lettuce with Chili",
+      "price": 21,
+      "unit": "145 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-169",
+      "item_name": "Canned Massaman Tuna",
+      "price": 55,
+      "unit": "185 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-170",
+      "item_name": "Canned Whole Peeled Tomato",
+      "price": 46,
+      "unit": "20 oz",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-171",
+      "item_name": "Jasmine White Rice",
+      "price": 235,
+      "unit": "5 kg",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-172",
+      "item_name": "Mixed Fragrant Rice",
+      "price": 149,
+      "unit": "5 kg",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-173",
+      "item_name": "Japanese Rice",
+      "price": 240,
+      "unit": "5 kg",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-174",
+      "item_name": "Thai White Rice",
+      "price": 102,
+      "unit": "5 kg",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-175",
+      "item_name": "White Rice 15%",
+      "price": 100,
+      "unit": "5 kg",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-176",
+      "item_name": "Fragrant Rice",
+      "price": 132,
+      "unit": "5 kg",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-177",
+      "item_name": "Sao Hai Rice",
+      "price": 109,
+      "unit": "5 kg",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-178",
+      "item_name": "RD43 Rice",
+      "price": 165,
+      "unit": "5 kg",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-179",
+      "item_name": "Oyster Sauce",
+      "price": 74,
+      "unit": "780 g",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-180",
+      "item_name": "Seasoning Sauce",
+      "price": 36,
+      "unit": "680 ml",
+      "item_category": "Packaged food"
     }
   ]
 }
