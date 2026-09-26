@@ -1,7 +1,7 @@
 {
   "source_id": "SRC-060",
   "category": "Packaged food, instant food, frozen food, snacks & beverages data",
-  "confirmed_record_count": 120,
+  "confirmed_record_count": 140,
   "data": [
     {
       "item_code": "SRC060-001",
@@ -841,6 +841,146 @@
       "item_name": "Mixed-Fruit Gummy Candy",
       "price": 10,
       "unit": "20 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-121",
+      "item_name": "Tapioca Chips",
+      "price": 20,
+      "unit": "67 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-122",
+      "item_name": "Green Pea Snack",
+      "price": 47,
+      "unit": "15 g × 12",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-123",
+      "item_name": "Multigrain Protein Chips",
+      "price": 25,
+      "unit": "35 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-124",
+      "item_name": "Chocolate-Coated Yam Chips",
+      "price": 47,
+      "unit": "12 g × 12",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-125",
+      "item_name": "Caramel Coated Sweet Potato Snack",
+      "price": 45,
+      "unit": "12 g × 12",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-126",
+      "item_name": "Potato Stick with Tomato Sauce",
+      "price": 45,
+      "unit": "12 g × 12",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-127",
+      "item_name": "Crispy Potato Snack",
+      "price": 50,
+      "unit": "13 g × 12",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-128",
+      "item_name": "Salted Peanuts",
+      "price": 47,
+      "unit": "18 g × 12",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-129",
+      "item_name": "Onion Rings Snack",
+      "price": 40,
+      "unit": "40 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-130",
+      "item_name": "Cod Fish Cheese Snack",
+      "price": 210,
+      "unit": "50 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-131",
+      "item_name": "Freeze-Dried Durian Sticky Rice",
+      "price": 352,
+      "unit": "90 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-132",
+      "item_name": "Freeze-Dried Mixed Fruits",
+      "price": 75,
+      "unit": "30 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-133",
+      "item_name": "Freeze-Dried Rambutan",
+      "price": 219,
+      "unit": "50 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-134",
+      "item_name": "Freeze-Dried Mangosteen",
+      "price": 498,
+      "unit": "30 g × 4",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-135",
+      "item_name": "Dried Prunes",
+      "price": 90,
+      "unit": "200 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-136",
+      "item_name": "Soft Dried Mango",
+      "price": 155,
+      "unit": "190 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-137",
+      "item_name": "Dried Pineapple",
+      "price": 35,
+      "unit": "35 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-138",
+      "item_name": "Okra Chips",
+      "price": 52,
+      "unit": "25 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-139",
+      "item_name": "Salted Dried Papaya",
+      "price": 23,
+      "unit": "40 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-140",
+      "item_name": "Mixed Nuts and Dried Fruits",
+      "price": 25,
+      "unit": "25 g",
       "item_category": "Snacks"
     }
   ]
