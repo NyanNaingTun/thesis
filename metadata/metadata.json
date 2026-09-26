@@ -264,13 +264,14 @@
     {
       "source_id": "SRC-060",
       "category": "Packaged food, instant food, frozen food, snacks & beverages data",
-      "name": "Makro / Big C / 7-Eleven Thailand",
+      "name": "Makro / Big C / 7-Eleven Thailand product dataset (450 items)",
       "source_link": [
         "https://www.makro.pro/en/fp/fresh-and-frozen",
         "https://www.bigc.co.th/",
         "https://www.7eleven.co.th/"
       ],
-      "processed_file_link": "[SRC-060](https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-060.json)"
+      "processed_file_link": "[SRC-060](https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-060.json)",
+      "data_structure": "Product item[] → item_code / item_name / price / unit / item_category"
     }
   ]
 }
