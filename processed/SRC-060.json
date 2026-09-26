@@ -1,7 +1,7 @@
 {
   "source_id": "SRC-060",
   "category": "Packaged food, instant food, frozen food, snacks & beverages data",
-  "confirmed_record_count": 410,
+  "confirmed_record_count": 430,
   "data": [
     {
       "item_code": "SRC060-001",
@@ -2872,6 +2872,146 @@
       "price": 129,
       "unit": "500 g",
       "item_category": "Ready-to-cook"
+    },
+    {
+      "item_code": "SRC060-411",
+      "item_name": "Korean Seasoned Seaweed",
+      "price": 77,
+      "unit": "5 g × 6",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-412",
+      "item_name": "Mini Bear Gummy Jelly",
+      "price": 39,
+      "unit": "20 g × 12",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-413",
+      "item_name": "Party Mix Gummy Jelly",
+      "price": 39,
+      "unit": "20 g × 12",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-414",
+      "item_name": "Coconut Bread with Pineapple Jam",
+      "price": 90,
+      "unit": "540 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-415",
+      "item_name": "Leaf-Shaped Ready-to-Fry Snack",
+      "price": 60,
+      "unit": "1 kg",
+      "item_category": "Ready-to-cook"
+    },
+    {
+      "item_code": "SRC060-416",
+      "item_name": "Chocolate Cream Wafer Stick",
+      "price": 379,
+      "unit": "5 kg",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-417",
+      "item_name": "Pineapple Jam Mini Cracker",
+      "price": 90,
+      "unit": "510 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-418",
+      "item_name": "Seasoned Bread Stick",
+      "price": 65,
+      "unit": "420 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-419",
+      "item_name": "Coffee Cream-Filled Cookie",
+      "price": 99,
+      "unit": "540 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-420",
+      "item_name": "Chocolate-Filled Bear Bread",
+      "price": 69,
+      "unit": "450 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-421",
+      "item_name": "Salted Bread Stick",
+      "price": 129,
+      "unit": "1.2 kg",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-422",
+      "item_name": "Cream-Filled Cracker",
+      "price": 45,
+      "unit": "24 g × 12",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-423",
+      "item_name": "Chocolate Crispy Waffle",
+      "price": 45,
+      "unit": "21 g × 12",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-424",
+      "item_name": "Chocolate Cream Cookie",
+      "price": 48,
+      "unit": "26.25 g × 12",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-425",
+      "item_name": "Mini Cream-Filled Cookie",
+      "price": 45,
+      "unit": "30 g × 12",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-426",
+      "item_name": "Chocolate Cream-Filled Cracker",
+      "price": 45,
+      "unit": "24 g × 12",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-427",
+      "item_name": "Butter Waffle Crisp",
+      "price": 45,
+      "unit": "22 g × 12",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-428",
+      "item_name": "Strawberry Cream Sandwich Cookie",
+      "price": 48,
+      "unit": "26.25 g × 12",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-429",
+      "item_name": "Chocolate Mini Cookie",
+      "price": 45,
+      "unit": "30 g × 12",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-430",
+      "item_name": "Milk Cream-Filled Cracker",
+      "price": 45,
+      "unit": "24 g × 12",
+      "item_category": "Snacks"
     }
   ]
 }
