@@ -6,61 +6,71 @@
     {
       "item_code": "SRC060-001",
       "item_name": "Frozen French Fries",
-      "price": "฿99",
+      "price": 99,
+      "unit": "2 kg",
       "item_category": "Frozen food"
     },
     {
       "item_code": "SRC060-002",
       "item_name": "Frozen Chicken Nuggets",
-      "price": "฿129",
+      "price": 129,
+      "unit": "1 kg",
       "item_category": "Frozen food"
     },
     {
       "item_code": "SRC060-003",
       "item_name": "Frozen Spring Roll Sheet",
-      "price": "฿89",
+      "price": 89,
+      "unit": "40 sheets / 660 g",
       "item_category": "Frozen food"
     },
     {
       "item_code": "SRC060-004",
       "item_name": "Frozen Cheese Balls",
-      "price": "฿125",
+      "price": 125,
+      "unit": "500 g",
       "item_category": "Frozen food"
     },
     {
       "item_code": "SRC060-005",
       "item_name": "Frozen Chicken Roll",
-      "price": "฿159",
+      "price": 159,
+      "unit": "1 kg",
       "item_category": "Frozen food"
     },
     {
       "item_code": "SRC060-006",
-      "item_name": "Frozen Roti Sheet",
-      "price": "฿255",
+      "item_name": "Frozen Pork Gyoza",
+      "price": 145,
+      "unit": "30 pcs / 660 g",
       "item_category": "Frozen food"
     },
     {
       "item_code": "SRC060-007",
-      "item_name": "Frozen Pork Gyoza",
-      "price": "฿145",
+      "item_name": "Frozen Vegetable Spring Roll",
+      "price": 234,
+      "unit": "40 pcs / 1 kg",
       "item_category": "Frozen food"
     },
     {
       "item_code": "SRC060-008",
-      "item_name": "Frozen Vegetable Spring Roll",
-      "price": "฿234",
+      "item_name": "Frozen Roti Sheet",
+      "price": 255,
+      "unit": "20 pcs / 1.6 kg",
       "item_category": "Frozen food"
     },
     {
       "item_code": "SRC060-009",
-      "item_name": "Frozen Thai Fish Cakes",
-      "price": "฿49",
+      "item_name": "Frozen Ebi Roll",
+      "price": 339,
+      "unit": "50 pcs / 750 g",
       "item_category": "Frozen food"
     },
     {
       "item_code": "SRC060-010",
       "item_name": "Frozen Green Seaweed Salad",
-      "price": "฿145",
+      "price": 145,
+      "unit": "1 kg",
       "item_category": "Frozen food"
     }
   ]
