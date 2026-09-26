@@ -1,7 +1,7 @@
 {
   "source_id": "SRC-060",
   "category": "Packaged food, instant food, frozen food, snacks & beverages data",
-  "confirmed_record_count": 390,
+  "confirmed_record_count": 410,
   "data": [
     {
       "item_code": "SRC060-001",
@@ -2731,6 +2731,146 @@
       "item_name": "Nam Ngiao Fried Chili Paste",
       "price": 19,
       "unit": "80 g",
+      "item_category": "Ready-to-cook"
+    },
+    {
+      "item_code": "SRC060-391",
+      "item_name": "Crispy Seaweed Roll",
+      "price": 115,
+      "unit": "32 g × 6",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-392",
+      "item_name": "Crispy Fish Skin",
+      "price": 139,
+      "unit": "100 g × 3",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-393",
+      "item_name": "Roasted Broad Beans",
+      "price": 105,
+      "unit": "100 g × 6",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-394",
+      "item_name": "Roasted Cashew Nuts",
+      "price": 189,
+      "unit": "400 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-395",
+      "item_name": "Roasted Almonds",
+      "price": 219,
+      "unit": "400 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-396",
+      "item_name": "Pistachio Nuts",
+      "price": 249,
+      "unit": "400 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-397",
+      "item_name": "Dried Banana Chips",
+      "price": 89,
+      "unit": "500 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-398",
+      "item_name": "Dried Sweet Potato Chips",
+      "price": 95,
+      "unit": "500 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-399",
+      "item_name": "Crispy Coconut Chips",
+      "price": 109,
+      "unit": "300 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-400",
+      "item_name": "Crispy Mushroom Snack",
+      "price": 125,
+      "unit": "250 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-401",
+      "item_name": "Chocolate Brownie Cake",
+      "price": 129,
+      "unit": "400 g",
+      "item_category": "Cake"
+    },
+    {
+      "item_code": "SRC060-402",
+      "item_name": "Pandan Chiffon Cake",
+      "price": 109,
+      "unit": "400 g",
+      "item_category": "Cake"
+    },
+    {
+      "item_code": "SRC060-403",
+      "item_name": "Chocolate Lava Cake",
+      "price": 159,
+      "unit": "360 g",
+      "item_category": "Cake"
+    },
+    {
+      "item_code": "SRC060-404",
+      "item_name": "Frozen Coconut Pancake",
+      "price": 115,
+      "unit": "500 g",
+      "item_category": "Dessert"
+    },
+    {
+      "item_code": "SRC060-405",
+      "item_name": "Frozen Thai Crispy Pancake",
+      "price": 129,
+      "unit": "500 g",
+      "item_category": "Dessert"
+    },
+    {
+      "item_code": "SRC060-406",
+      "item_name": "Sticky Rice with Taro",
+      "price": 89,
+      "unit": "500 g",
+      "item_category": "Dessert"
+    },
+    {
+      "item_code": "SRC060-407",
+      "item_name": "Sticky Rice with Black Bean",
+      "price": 89,
+      "unit": "500 g",
+      "item_category": "Dessert"
+    },
+    {
+      "item_code": "SRC060-408",
+      "item_name": "Frozen Steamed Chive Dumpling",
+      "price": 115,
+      "unit": "500 g",
+      "item_category": "Ready-to-cook"
+    },
+    {
+      "item_code": "SRC060-409",
+      "item_name": "Frozen Fried Taro Cake",
+      "price": 129,
+      "unit": "500 g",
+      "item_category": "Ready-to-cook"
+    },
+    {
+      "item_code": "SRC060-410",
+      "item_name": "Frozen Radish Cake",
+      "price": 129,
+      "unit": "500 g",
       "item_category": "Ready-to-cook"
     }
   ]
