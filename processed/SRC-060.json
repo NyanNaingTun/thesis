@@ -1,7 +1,7 @@
 {
   "source_id": "SRC-060",
   "category": "Packaged food, instant food, frozen food, snacks & beverages data",
-  "confirmed_record_count": 10,
+  "confirmed_record_count": 20,
   "data": [
     {
       "item_code": "SRC060-001",
@@ -72,6 +72,76 @@
       "price": 145,
       "unit": "1 kg",
       "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-011",
+      "item_name": "Instant Noodles",
+      "price": 171,
+      "unit": "57 g × 30 pcs",
+      "item_category": "Instant food"
+    },
+    {
+      "item_code": "SRC060-012",
+      "item_name": "Spaghetti",
+      "price": 110,
+      "unit": "1 kg",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-013",
+      "item_name": "Bean Vermicelli",
+      "price": 79,
+      "unit": "500 g",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-014",
+      "item_name": "Potato Chips",
+      "price": 49,
+      "unit": "13 g × 12 packs",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-015",
+      "item_name": "Drinking Water",
+      "price": 49,
+      "unit": "1.5 L × 6 bottles",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-016",
+      "item_name": "Soft Drink",
+      "price": 299,
+      "unit": "1.25 L × 12 bottles",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-017",
+      "item_name": "Electrolyte Drink",
+      "price": 252,
+      "unit": "250 ml × 24 bottles",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-018",
+      "item_name": "Pasteurized Milk",
+      "price": 99.75,
+      "unit": "2 L",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-019",
+      "item_name": "Energy Drink",
+      "price": 105,
+      "unit": "150 ml × 10 bottles",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-020",
+      "item_name": "Soy Milk UHT",
+      "price": 340,
+      "unit": "300 ml × 36 packs",
+      "item_category": "Beverages"
     }
   ]
 }
