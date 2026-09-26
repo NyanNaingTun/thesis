@@ -1,7 +1,7 @@
 {
   "source_id": "SRC-060",
   "category": "Packaged food, instant food, frozen food, snacks & beverages data",
-  "confirmed_record_count": 270,
+  "confirmed_record_count": 290,
   "data": [
     {
       "item_code": "SRC060-001",
@@ -1892,6 +1892,146 @@
       "price": 540,
       "unit": "1.6 kg / 80 pcs",
       "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-271",
+      "item_name": "Frozen Seasoned Minced Pork",
+      "price": 39,
+      "unit": "100 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-272",
+      "item_name": "Frozen New Orleans Chicken Wings",
+      "price": 99,
+      "unit": "200 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-273",
+      "item_name": "Frozen Red Bean Bun",
+      "price": 59,
+      "unit": "300 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-274",
+      "item_name": "Frozen Vegetarian Mee Sua",
+      "price": 79,
+      "unit": "300 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-275",
+      "item_name": "Frozen Pork Panang Curry",
+      "price": 250,
+      "unit": "1 kg",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-276",
+      "item_name": "Frozen Pork Khua Kling",
+      "price": 250,
+      "unit": "1 kg",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-277",
+      "item_name": "Frozen Pork Green Curry",
+      "price": 230,
+      "unit": "1 kg",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-278",
+      "item_name": "Braised Pork Leg",
+      "price": 180,
+      "unit": "540 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-279",
+      "item_name": "Chicken Cocktail Sausage",
+      "price": 49,
+      "unit": "280 g",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-280",
+      "item_name": "Crispy Smoked Chicken Frank",
+      "price": 59,
+      "unit": "250 g",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-281",
+      "item_name": "Chili Bologna",
+      "price": 49,
+      "unit": "250 g",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-282",
+      "item_name": "Chicken Hot Dog Sausage",
+      "price": 105,
+      "unit": "1 kg",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-283",
+      "item_name": "Cheese-Filled Chicken Sausage",
+      "price": 109,
+      "unit": "500 g",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-284",
+      "item_name": "Japanese-Style Pork Sausage",
+      "price": 47,
+      "unit": "90 g",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-285",
+      "item_name": "Truffle Cheese Pork Sausage",
+      "price": 47,
+      "unit": "95 g",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-286",
+      "item_name": "Smoked Pork Ham",
+      "price": 299,
+      "unit": "1 kg",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-287",
+      "item_name": "Pork Breakfast Sausage",
+      "price": 139,
+      "unit": "500 g",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-288",
+      "item_name": "Bacon",
+      "price": 350,
+      "unit": "500 g",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-289",
+      "item_name": "Chicken Cocktail Sausage Vanilla Flavor",
+      "price": 75,
+      "unit": "500 g",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-290",
+      "item_name": "Pork Ham Bologna with Chili",
+      "price": 38,
+      "unit": "105 g",
+      "item_category": "Chilled food"
     }
   ]
 }
