@@ -1,7 +1,7 @@
 {
   "source_id": "SRC-060",
   "category": "Packaged food, instant food, frozen food, snacks & beverages data",
-  "confirmed_record_count": 80,
+  "confirmed_record_count": 100,
   "data": [
     {
       "item_code": "SRC060-001",
@@ -562,6 +562,146 @@
       "price": 20,
       "unit": "325 ml",
       "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-081",
+      "item_name": "Frozen Mixed Vegetables",
+      "price": 45,
+      "unit": "1 kg",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-082",
+      "item_name": "Frozen Aromatic Duck with Giblets",
+      "price": 388,
+      "unit": "1.99 kg",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-083",
+      "item_name": "Frozen Strawberry",
+      "price": 99,
+      "unit": "1 kg",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-084",
+      "item_name": "Frozen Mixed Berries",
+      "price": 159,
+      "unit": "1 kg",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-085",
+      "item_name": "Frozen Atlantic Salmon Portion",
+      "price": 90,
+      "unit": "100 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-086",
+      "item_name": "Frozen Lump Crab Meat",
+      "price": 179,
+      "unit": "250 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-087",
+      "item_name": "Frozen Chicken Inner Fillet",
+      "price": 110,
+      "unit": "1 kg",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-088",
+      "item_name": "Frozen Mackerel Fillet",
+      "price": 105,
+      "unit": "500 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-089",
+      "item_name": "Frozen Raw Vannamei Shrimp",
+      "price": 139,
+      "unit": "500 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-090",
+      "item_name": "Frozen Passion Fruit Puree",
+      "price": 179,
+      "unit": "1 kg",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-091",
+      "item_name": "Frozen Raspberry",
+      "price": 249,
+      "unit": "1 kg",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-092",
+      "item_name": "Frozen Snow Peas",
+      "price": 135,
+      "unit": "500 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-093",
+      "item_name": "Frozen Kiwi Slices",
+      "price": 75,
+      "unit": "500 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-094",
+      "item_name": "Frozen Longan",
+      "price": 179,
+      "unit": "1 kg",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-095",
+      "item_name": "Frozen Fish Tofu",
+      "price": 79,
+      "unit": "500 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-096",
+      "item_name": "Frozen Red Pork Bun",
+      "price": 106,
+      "unit": "333 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-097",
+      "item_name": "Frozen Fish Ball",
+      "price": 155,
+      "unit": "500 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-098",
+      "item_name": "Frozen Fried Tofu",
+      "price": 36,
+      "unit": "250 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-099",
+      "item_name": "Frozen Roti Boom",
+      "price": 92,
+      "unit": "480 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-100",
+      "item_name": "Frozen Cream Bun",
+      "price": 69,
+      "unit": "280 g",
+      "item_category": "Frozen food"
     }
   ]
 }
