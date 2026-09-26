@@ -1,7 +1,7 @@
 {
   "source_id": "SRC-060",
   "category": "Packaged food, instant food, frozen food, snacks & beverages data",
-  "confirmed_record_count": 240,
+  "confirmed_record_count": 260,
   "data": [
     {
       "item_code": "SRC060-001",
@@ -1682,6 +1682,146 @@
       "price": 29,
       "unit": "400 g",
       "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-241",
+      "item_name": "Frozen Grilled Salmon with Teriyaki Sauce",
+      "price": 205,
+      "unit": "3 pcs",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-242",
+      "item_name": "Frozen Minced Pork Mini Buns",
+      "price": 125,
+      "unit": "450 g / 30 pcs",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-243",
+      "item_name": "Frozen Seaweed-Wrapped Pork",
+      "price": 97,
+      "unit": "225 g / 15 pcs",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-244",
+      "item_name": "Frozen Jade Pork Shumai",
+      "price": 105,
+      "unit": "240 g / 15 pcs",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-245",
+      "item_name": "Frozen Salted Egg Minced Pork Shumai",
+      "price": 105,
+      "unit": "240 g / 15 pcs",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-246",
+      "item_name": "Frozen Salted Egg Lava Cream Buns",
+      "price": 129,
+      "unit": "9 pcs",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-247",
+      "item_name": "Frozen Taro Buns",
+      "price": 88,
+      "unit": "333 g / 9 pcs",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-248",
+      "item_name": "Frozen Chicken Gyoza",
+      "price": 159,
+      "unit": "600 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-249",
+      "item_name": "Frozen Shrimp Wonton Noodles",
+      "price": 69,
+      "unit": "226 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-250",
+      "item_name": "Frozen Tom Yum Shrimp Wontons",
+      "price": 69,
+      "unit": "143 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-251",
+      "item_name": "Frozen Corn Chicken Nuggets",
+      "price": 79,
+      "unit": "200 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-252",
+      "item_name": "Frozen Smoked Duck Breast",
+      "price": 259,
+      "unit": "510 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-253",
+      "item_name": "Frozen Grain Rice with Chicken",
+      "price": 65,
+      "unit": "210 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-254",
+      "item_name": "Frozen Brown Rice Porridge with Chicken",
+      "price": 65,
+      "unit": "300 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-255",
+      "item_name": "Frozen Fish Khua Kling Rice",
+      "price": 55,
+      "unit": "210 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-256",
+      "item_name": "Frozen Fish Yellow Curry Rice with Pineapple",
+      "price": 55,
+      "unit": "240 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-257",
+      "item_name": "Frozen Hawaiian Pizza",
+      "price": 109,
+      "unit": "220 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-258",
+      "item_name": "Frozen Mexican Pizza",
+      "price": 109,
+      "unit": "220 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-259",
+      "item_name": "Frozen Taro Rice Balls",
+      "price": 105,
+      "unit": "160 g × 4",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-260",
+      "item_name": "Frozen Ginger Rice Balls",
+      "price": 129,
+      "unit": "150 g × 4",
+      "item_category": "Frozen food"
     }
   ]
 }
