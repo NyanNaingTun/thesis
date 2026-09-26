@@ -4,3150 +4,3150 @@
   "confirmed_record_count": 450,
   "data": [
     {
-      "item_code": "SRC060-001",
+      "item_code": "001",
       "item_name": "Frozen French Fries",
       "price": 99,
       "unit": "2 kg",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-002",
+      "item_code": "002",
       "item_name": "Frozen Chicken Nuggets",
       "price": 129,
       "unit": "1 kg",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-003",
+      "item_code": "003",
       "item_name": "Frozen Spring Roll Sheet",
       "price": 89,
       "unit": "40 sheets / 660 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-004",
+      "item_code": "004",
       "item_name": "Frozen Cheese Balls",
       "price": 125,
       "unit": "500 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-005",
+      "item_code": "005",
       "item_name": "Frozen Chicken Roll",
       "price": 159,
       "unit": "1 kg",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-006",
+      "item_code": "006",
       "item_name": "Frozen Pork Gyoza",
       "price": 145,
       "unit": "30 pcs / 660 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-007",
+      "item_code": "007",
       "item_name": "Frozen Vegetable Spring Roll",
       "price": 234,
       "unit": "40 pcs / 1 kg",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-008",
+      "item_code": "008",
       "item_name": "Frozen Roti Sheet",
       "price": 255,
       "unit": "20 pcs / 1.6 kg",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-009",
+      "item_code": "009",
       "item_name": "Frozen Ebi Roll",
       "price": 339,
       "unit": "50 pcs / 750 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-010",
+      "item_code": "010",
       "item_name": "Frozen Green Seaweed Salad",
       "price": 145,
       "unit": "1 kg",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-011",
+      "item_code": "011",
       "item_name": "Instant Noodles",
       "price": 171,
       "unit": "57 g × 30 pcs",
       "item_category": "Instant food"
     },
     {
-      "item_code": "SRC060-012",
+      "item_code": "012",
       "item_name": "Spaghetti",
       "price": 110,
       "unit": "1 kg",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-013",
+      "item_code": "013",
       "item_name": "Bean Vermicelli",
       "price": 79,
       "unit": "500 g",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-014",
+      "item_code": "014",
       "item_name": "Potato Chips",
       "price": 49,
       "unit": "13 g × 12 packs",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-015",
+      "item_code": "015",
       "item_name": "Drinking Water",
       "price": 49,
       "unit": "1.5 L × 6 bottles",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-016",
+      "item_code": "016",
       "item_name": "Soft Drink",
       "price": 299,
       "unit": "1.25 L × 12 bottles",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-017",
+      "item_code": "017",
       "item_name": "Electrolyte Drink",
       "price": 252,
       "unit": "250 ml × 24 bottles",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-018",
+      "item_code": "018",
       "item_name": "Pasteurized Milk",
       "price": 99.75,
       "unit": "2 L",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-019",
+      "item_code": "019",
       "item_name": "Energy Drink",
       "price": 105,
       "unit": "150 ml × 10 bottles",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-020",
+      "item_code": "020",
       "item_name": "Soy Milk UHT",
       "price": 340,
       "unit": "300 ml × 36 packs",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-021",
+      "item_code": "021",
       "item_name": "Frozen Taro Spring Roll",
       "price": 55,
       "unit": "250 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-022",
+      "item_code": "022",
       "item_name": "Frozen Shrimp Cake",
       "price": 161,
       "unit": "180 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-023",
+      "item_code": "023",
       "item_name": "Frozen Barbecue Pork Bun",
       "price": 109,
       "unit": "180 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-024",
+      "item_code": "024",
       "item_name": "Frozen Broad Beans",
       "price": 179,
       "unit": "500 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-025",
+      "item_code": "025",
       "item_name": "Frozen Rice with Stir-Fried Pork & Kimchi",
       "price": 75,
       "unit": "270 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-026",
+      "item_code": "026",
       "item_name": "Konjac Snack",
       "price": 25,
       "unit": "50 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-027",
+      "item_code": "027",
       "item_name": "Coconut Juice",
       "price": 12,
       "unit": "250 ml",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-028",
+      "item_code": "028",
       "item_name": "Vitamin Water",
       "price": 20,
       "unit": "480 ml",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-029",
+      "item_code": "029",
       "item_name": "Chrysanthemum Drink",
       "price": 15,
       "unit": "350 ml",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-030",
+      "item_code": "030",
       "item_name": "Lemon Iced Tea No Sugar",
       "price": 20,
       "unit": "445 ml",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-031",
+      "item_code": "031",
       "item_name": "Frozen Edamame",
       "price": 49,
       "unit": "320 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-032",
+      "item_code": "032",
       "item_name": "Frozen Minced Pork Bun",
       "price": 69,
       "unit": "280 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-033",
+      "item_code": "033",
       "item_name": "Frozen Chicken Frankfurter Sausage",
       "price": 49,
       "unit": "155 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-034",
+      "item_code": "034",
       "item_name": "Frozen Paratha",
       "price": 93,
       "unit": "400 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-035",
+      "item_code": "035",
       "item_name": "Pad Thai Meal Kit",
       "price": 59,
       "unit": "195 g",
       "item_category": "Instant food"
     },
     {
-      "item_code": "SRC060-036",
+      "item_code": "036",
       "item_name": "Potted Glass Noodles Meal Kit",
       "price": 59,
       "unit": "162 g",
       "item_category": "Instant food"
     },
     {
-      "item_code": "SRC060-037",
+      "item_code": "037",
       "item_name": "Tteokbokki Meal Kit",
       "price": 74,
       "unit": "140 g",
       "item_category": "Instant food"
     },
     {
-      "item_code": "SRC060-038",
+      "item_code": "038",
       "item_name": "Curry Pork Retort Meal",
       "price": 89,
       "unit": "180 g",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-039",
+      "item_code": "039",
       "item_name": "Cooked Jasmine Rice",
       "price": 21,
       "unit": "150 g",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-040",
+      "item_code": "040",
       "item_name": "Baked Macaroni & Cheese",
       "price": 84,
       "unit": "280 g",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-041",
+      "item_code": "041",
       "item_name": "Canned Tuna in Spring Water",
       "price": 42,
       "unit": "185 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-042",
+      "item_code": "042",
       "item_name": "Canned Sardines in Tomato Sauce",
       "price": 20,
       "unit": "155 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-043",
+      "item_code": "043",
       "item_name": "Canned Mackerel in Tomato Sauce",
       "price": 18,
       "unit": "155 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-044",
+      "item_code": "044",
       "item_name": "Canned Fried Mackerel with Chilli",
       "price": 27,
       "unit": "90 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-045",
+      "item_code": "045",
       "item_name": "Canned Pickled Mustard Greens",
       "price": 18,
       "unit": "140 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-046",
+      "item_code": "046",
       "item_name": "Canned Sweet Corn",
       "price": 39,
       "unit": "340 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-047",
+      "item_code": "047",
       "item_name": "Canned Green Peas",
       "price": 43,
       "unit": "400 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-048",
+      "item_code": "048",
       "item_name": "Canned Baked Beans in Tomato Sauce",
       "price": 49,
       "unit": "425 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-049",
+      "item_code": "049",
       "item_name": "Canned Longan in Syrup",
       "price": 69,
       "unit": "565 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-050",
+      "item_code": "050",
       "item_name": "Canned Rambutan in Syrup",
       "price": 75,
       "unit": "565 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-051",
+      "item_code": "051",
       "item_name": "Canned Pineapple in Syrup",
       "price": 55,
       "unit": "565 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-052",
+      "item_code": "052",
       "item_name": "Canned Lychee in Syrup",
       "price": 69,
       "unit": "565 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-053",
+      "item_code": "053",
       "item_name": "Canned Coconut Milk",
       "price": 29,
       "unit": "400 ml",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-054",
+      "item_code": "054",
       "item_name": "Canned Button Mushrooms",
       "price": 58,
       "unit": "425 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-055",
+      "item_code": "055",
       "item_name": "Canned Bamboo Shoots",
       "price": 35,
       "unit": "565 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-056",
+      "item_code": "056",
       "item_name": "Canned Water Chestnuts",
       "price": 49,
       "unit": "565 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-057",
+      "item_code": "057",
       "item_name": "Canned Baby Corn",
       "price": 45,
       "unit": "425 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-058",
+      "item_code": "058",
       "item_name": "Canned Mixed Fruits in Syrup",
       "price": 72,
       "unit": "565 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-059",
+      "item_code": "059",
       "item_name": "Canned Red Kidney Beans",
       "price": 55,
       "unit": "400 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-060",
+      "item_code": "060",
       "item_name": "Canned Chickpeas",
       "price": 59,
       "unit": "400 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-061",
+      "item_code": "061",
       "item_name": "Instant Rice Porridge",
       "price": 15,
       "unit": "35 g",
       "item_category": "Instant food"
     },
     {
-      "item_code": "SRC060-062",
+      "item_code": "062",
       "item_name": "Instant Cup Rice",
       "price": 39,
       "unit": "115 g",
       "item_category": "Instant food"
     },
     {
-      "item_code": "SRC060-063",
+      "item_code": "063",
       "item_name": "Instant Glass Noodles",
       "price": 20,
       "unit": "40 g",
       "item_category": "Instant food"
     },
     {
-      "item_code": "SRC060-064",
+      "item_code": "064",
       "item_name": "Instant Pasta",
       "price": 39,
       "unit": "65 g",
       "item_category": "Instant food"
     },
     {
-      "item_code": "SRC060-065",
+      "item_code": "065",
       "item_name": "Instant Mashed Potato",
       "price": 45,
       "unit": "56 g",
       "item_category": "Instant food"
     },
     {
-      "item_code": "SRC060-066",
+      "item_code": "066",
       "item_name": "Seaweed Snack",
       "price": 39,
       "unit": "32 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-067",
+      "item_code": "067",
       "item_name": "Rice Crackers",
       "price": 35,
       "unit": "100 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-068",
+      "item_code": "068",
       "item_name": "Corn Snack",
       "price": 20,
       "unit": "62 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-069",
+      "item_code": "069",
       "item_name": "Shrimp Crackers",
       "price": 30,
       "unit": "75 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-070",
+      "item_code": "070",
       "item_name": "Fish Snack",
       "price": 30,
       "unit": "80 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-071",
+      "item_code": "071",
       "item_name": "Wafer Biscuits",
       "price": 32,
       "unit": "100 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-072",
+      "item_code": "072",
       "item_name": "Butter Cookies",
       "price": 55,
       "unit": "120 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-073",
+      "item_code": "073",
       "item_name": "Chocolate Biscuits",
       "price": 35,
       "unit": "100 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-074",
+      "item_code": "074",
       "item_name": "Gummy Candy",
       "price": 20,
       "unit": "40 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-075",
+      "item_code": "075",
       "item_name": "Ready-to-Drink Green Tea",
       "price": 20,
       "unit": "500 ml",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-076",
+      "item_code": "076",
       "item_name": "Ready-to-Drink Coffee",
       "price": 25,
       "unit": "180 ml",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-077",
+      "item_code": "077",
       "item_name": "UHT Chocolate Milk",
       "price": 15,
       "unit": "180 ml",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-078",
+      "item_code": "078",
       "item_name": "Orange Juice",
       "price": 20,
       "unit": "200 ml",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-079",
+      "item_code": "079",
       "item_name": "Aloe Vera Drink",
       "price": 25,
       "unit": "500 ml",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-080",
+      "item_code": "080",
       "item_name": "Sparkling Water",
       "price": 20,
       "unit": "325 ml",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-081",
+      "item_code": "081",
       "item_name": "Frozen Mixed Vegetables",
       "price": 45,
       "unit": "1 kg",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-082",
+      "item_code": "082",
       "item_name": "Frozen Aromatic Duck with Giblets",
       "price": 388,
       "unit": "1.99 kg",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-083",
+      "item_code": "083",
       "item_name": "Frozen Strawberry",
       "price": 99,
       "unit": "1 kg",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-084",
+      "item_code": "084",
       "item_name": "Frozen Mixed Berries",
       "price": 159,
       "unit": "1 kg",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-085",
+      "item_code": "085",
       "item_name": "Frozen Atlantic Salmon Portion",
       "price": 90,
       "unit": "100 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-086",
+      "item_code": "086",
       "item_name": "Frozen Lump Crab Meat",
       "price": 179,
       "unit": "250 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-087",
+      "item_code": "087",
       "item_name": "Frozen Chicken Inner Fillet",
       "price": 110,
       "unit": "1 kg",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-088",
+      "item_code": "088",
       "item_name": "Frozen Mackerel Fillet",
       "price": 105,
       "unit": "500 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-089",
+      "item_code": "089",
       "item_name": "Frozen Raw Vannamei Shrimp",
       "price": 139,
       "unit": "500 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-090",
+      "item_code": "090",
       "item_name": "Frozen Passion Fruit Puree",
       "price": 179,
       "unit": "1 kg",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-091",
+      "item_code": "091",
       "item_name": "Frozen Raspberry",
       "price": 249,
       "unit": "1 kg",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-092",
+      "item_code": "092",
       "item_name": "Frozen Snow Peas",
       "price": 135,
       "unit": "500 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-093",
+      "item_code": "093",
       "item_name": "Frozen Kiwi Slices",
       "price": 75,
       "unit": "500 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-094",
+      "item_code": "094",
       "item_name": "Frozen Longan",
       "price": 179,
       "unit": "1 kg",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-095",
+      "item_code": "095",
       "item_name": "Frozen Fish Tofu",
       "price": 79,
       "unit": "500 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-096",
+      "item_code": "096",
       "item_name": "Frozen Red Pork Bun",
       "price": 106,
       "unit": "333 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-097",
+      "item_code": "097",
       "item_name": "Frozen Fish Ball",
       "price": 155,
       "unit": "500 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-098",
+      "item_code": "098",
       "item_name": "Frozen Fried Tofu",
       "price": 36,
       "unit": "250 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-099",
+      "item_code": "099",
       "item_name": "Frozen Roti Boom",
       "price": 92,
       "unit": "480 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-100",
+      "item_code": "100",
       "item_name": "Frozen Cream Bun",
       "price": 69,
       "unit": "280 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-101",
+      "item_code": "101",
       "item_name": "Caramelised Biscuit",
       "price": 39,
       "unit": "125 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-102",
+      "item_code": "102",
       "item_name": "Peanut Butter Cracker",
       "price": 48,
       "unit": "15 g × 12",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-103",
+      "item_code": "103",
       "item_name": "Coconut Butter Cracker with Sesame",
       "price": 12,
       "unit": "70 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-104",
+      "item_code": "104",
       "item_name": "Lemon Puff Biscuit",
       "price": 79,
       "unit": "170 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-105",
+      "item_code": "105",
       "item_name": "Biscuit Roll with Chocolate Cream",
       "price": 16,
       "unit": "41 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-106",
+      "item_code": "106",
       "item_name": "Cheese Thin Biscuit",
       "price": 50,
       "unit": "25 g × 12",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-107",
+      "item_code": "107",
       "item_name": "Cream Cracker",
       "price": 32,
       "unit": "13 g × 16",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-108",
+      "item_code": "108",
       "item_name": "Digestive Wheatmeal Biscuit",
       "price": 99,
       "unit": "200 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-109",
+      "item_code": "109",
       "item_name": "Pretzel Cheddar Cheese",
       "price": 39,
       "unit": "70 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-110",
+      "item_code": "110",
       "item_name": "Cheese Sandwich Biscuit",
       "price": 51,
       "unit": "112 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-111",
+      "item_code": "111",
       "item_name": "Chocolate Wafer Stick",
       "price": 14,
       "unit": "28 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-112",
+      "item_code": "112",
       "item_name": "Chocolate Dipping Biscuit Stick",
       "price": 35,
       "unit": "44 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-113",
+      "item_code": "113",
       "item_name": "Chocolate Coated Wafer",
       "price": 89,
       "unit": "18 g × 6",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-114",
+      "item_code": "114",
       "item_name": "Popcorn",
       "price": 65,
       "unit": "70 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-115",
+      "item_code": "115",
       "item_name": "Dried Raisins",
       "price": 89,
       "unit": "250 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-116",
+      "item_code": "116",
       "item_name": "Milk Chocolate Bar",
       "price": 49,
       "unit": "50 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-117",
+      "item_code": "117",
       "item_name": "Peanut Caramel Chocolate Bar",
       "price": 35,
       "unit": "51 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-118",
+      "item_code": "118",
       "item_name": "Peanut Chocolate Candy",
       "price": 35,
       "unit": "37 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-119",
+      "item_code": "119",
       "item_name": "Chewy Milk Candy",
       "price": 18,
       "unit": "67 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-120",
+      "item_code": "120",
       "item_name": "Mixed-Fruit Gummy Candy",
       "price": 10,
       "unit": "20 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-121",
+      "item_code": "121",
       "item_name": "Tapioca Chips",
       "price": 20,
       "unit": "67 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-122",
+      "item_code": "122",
       "item_name": "Green Pea Snack",
       "price": 47,
       "unit": "15 g × 12",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-123",
+      "item_code": "123",
       "item_name": "Multigrain Protein Chips",
       "price": 25,
       "unit": "35 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-124",
+      "item_code": "124",
       "item_name": "Chocolate-Coated Yam Chips",
       "price": 47,
       "unit": "12 g × 12",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-125",
+      "item_code": "125",
       "item_name": "Caramel Coated Sweet Potato Snack",
       "price": 45,
       "unit": "12 g × 12",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-126",
+      "item_code": "126",
       "item_name": "Potato Stick with Tomato Sauce",
       "price": 45,
       "unit": "12 g × 12",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-127",
+      "item_code": "127",
       "item_name": "Crispy Potato Snack",
       "price": 50,
       "unit": "13 g × 12",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-128",
+      "item_code": "128",
       "item_name": "Salted Peanuts",
       "price": 47,
       "unit": "18 g × 12",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-129",
+      "item_code": "129",
       "item_name": "Onion Rings Snack",
       "price": 40,
       "unit": "40 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-130",
+      "item_code": "130",
       "item_name": "Cod Fish Cheese Snack",
       "price": 210,
       "unit": "50 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-131",
+      "item_code": "131",
       "item_name": "Freeze-Dried Durian Sticky Rice",
       "price": 352,
       "unit": "90 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-132",
+      "item_code": "132",
       "item_name": "Freeze-Dried Mixed Fruits",
       "price": 75,
       "unit": "30 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-133",
+      "item_code": "133",
       "item_name": "Freeze-Dried Rambutan",
       "price": 219,
       "unit": "50 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-134",
+      "item_code": "134",
       "item_name": "Freeze-Dried Mangosteen",
       "price": 498,
       "unit": "30 g × 4",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-135",
+      "item_code": "135",
       "item_name": "Dried Prunes",
       "price": 90,
       "unit": "200 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-136",
+      "item_code": "136",
       "item_name": "Soft Dried Mango",
       "price": 155,
       "unit": "190 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-137",
+      "item_code": "137",
       "item_name": "Dried Pineapple",
       "price": 35,
       "unit": "35 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-138",
+      "item_code": "138",
       "item_name": "Okra Chips",
       "price": 52,
       "unit": "25 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-139",
+      "item_code": "139",
       "item_name": "Salted Dried Papaya",
       "price": 23,
       "unit": "40 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-140",
+      "item_code": "140",
       "item_name": "Mixed Nuts and Dried Fruits",
       "price": 25,
       "unit": "25 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-141",
+      "item_code": "141",
       "item_name": "Natural Mineral Water",
       "price": 65,
       "unit": "500 ml",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-142",
+      "item_code": "142",
       "item_name": "Sparkling Mineral Water",
       "price": 98,
       "unit": "750 ml",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-143",
+      "item_code": "143",
       "item_name": "Mandarin Orange Juice 100%",
       "price": 89,
       "unit": "1 L",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-144",
+      "item_code": "144",
       "item_name": "Mixed Vegetable & Fruit Juice",
       "price": 47,
       "unit": "200 ml × 3",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-145",
+      "item_code": "145",
       "item_name": "Concentrated Orange Drink",
       "price": 175,
       "unit": "700 ml",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-146",
+      "item_code": "146",
       "item_name": "Strawberry Juice",
       "price": 82,
       "unit": "1 L",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-147",
+      "item_code": "147",
       "item_name": "Honey & Lime Squash",
       "price": 98,
       "unit": "500 ml",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-148",
+      "item_code": "148",
       "item_name": "Pomegranate & Mixed Fruit Juice",
       "price": 89,
       "unit": "1 L",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-149",
+      "item_code": "149",
       "item_name": "Green Vegetable Juice",
       "price": 76,
       "unit": "1 L",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-150",
+      "item_code": "150",
       "item_name": "Herbal Tea Drink",
       "price": 197,
       "unit": "315 ml × 24",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-151",
+      "item_code": "151",
       "item_name": "Jasmine Green Tea No Sugar",
       "price": 30,
       "unit": "500 ml",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-152",
+      "item_code": "152",
       "item_name": "Japanese Green Tea No Sugar",
       "price": 30,
       "unit": "400 ml",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-153",
+      "item_code": "153",
       "item_name": "Oat Milk",
       "price": 59,
       "unit": "1 L",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-154",
+      "item_code": "154",
       "item_name": "Almond Milk",
       "price": 79,
       "unit": "180 ml × 3",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-155",
+      "item_code": "155",
       "item_name": "Lactose-Free UHT Milk",
       "price": 53,
       "unit": "180 ml × 2",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-156",
+      "item_code": "156",
       "item_name": "UHT Chocolate Malt Beverage",
       "price": 109,
       "unit": "180 ml × 12",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-157",
+      "item_code": "157",
       "item_name": "Vitamin C Lemon Drink",
       "price": 16,
       "unit": "140 ml",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-158",
+      "item_code": "158",
       "item_name": "Bird's Nest Beverage",
       "price": 479,
       "unit": "42 ml × 6",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-159",
+      "item_code": "159",
       "item_name": "Black Coffee No Sugar",
       "price": 95,
       "unit": "1 L",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-160",
+      "item_code": "160",
       "item_name": "Cream Soda Syrup",
       "price": 61,
       "unit": "710 ml",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-161",
+      "item_code": "161",
       "item_name": "Canned Sugar Palm Seed in Syrup",
       "price": 69,
       "unit": "610 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-162",
+      "item_code": "162",
       "item_name": "Canned Luncheon Pork",
       "price": 125,
       "unit": "340 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-163",
+      "item_code": "163",
       "item_name": "Canned Fried Baby Clams Spicy",
       "price": 32,
       "unit": "40 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-164",
+      "item_code": "164",
       "item_name": "Canned Tai Pla Dried Curry",
       "price": 25,
       "unit": "60 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-165",
+      "item_code": "165",
       "item_name": "Canned Fish Paste",
       "price": 21,
       "unit": "80 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-166",
+      "item_code": "166",
       "item_name": "Canned Sweet Corn Soup",
       "price": 38,
       "unit": "425 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-167",
+      "item_code": "167",
       "item_name": "Canned Cream Corn & Mushroom Soup",
       "price": 87,
       "unit": "305 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-168",
+      "item_code": "168",
       "item_name": "Canned Pickled Lettuce with Chili",
       "price": 21,
       "unit": "145 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-169",
+      "item_code": "169",
       "item_name": "Canned Massaman Tuna",
       "price": 55,
       "unit": "185 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-170",
+      "item_code": "170",
       "item_name": "Canned Whole Peeled Tomato",
       "price": 46,
       "unit": "20 oz",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-171",
+      "item_code": "171",
       "item_name": "Jasmine White Rice",
       "price": 235,
       "unit": "5 kg",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-172",
+      "item_code": "172",
       "item_name": "Mixed Fragrant Rice",
       "price": 149,
       "unit": "5 kg",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-173",
+      "item_code": "173",
       "item_name": "Japanese Rice",
       "price": 240,
       "unit": "5 kg",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-174",
+      "item_code": "174",
       "item_name": "Thai White Rice",
       "price": 102,
       "unit": "5 kg",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-175",
+      "item_code": "175",
       "item_name": "White Rice 15%",
       "price": 100,
       "unit": "5 kg",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-176",
+      "item_code": "176",
       "item_name": "Fragrant Rice",
       "price": 132,
       "unit": "5 kg",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-177",
+      "item_code": "177",
       "item_name": "Sao Hai Rice",
       "price": 109,
       "unit": "5 kg",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-178",
+      "item_code": "178",
       "item_name": "RD43 Rice",
       "price": 165,
       "unit": "5 kg",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-179",
+      "item_code": "179",
       "item_name": "Oyster Sauce",
       "price": 74,
       "unit": "780 g",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-180",
+      "item_code": "180",
       "item_name": "Seasoning Sauce",
       "price": 36,
       "unit": "680 ml",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-181",
+      "item_code": "181",
       "item_name": "Cola Drink",
       "price": 104,
       "unit": "180 g × 3",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-182",
+      "item_code": "182",
       "item_name": "Canned Cola",
       "price": 112,
       "unit": "245 ml × 6",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-183",
+      "item_code": "183",
       "item_name": "Yogurt Drink",
       "price": 104,
       "unit": "180 g × 3",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-184",
+      "item_code": "184",
       "item_name": "pH Plus Drinking Water",
       "price": 390,
       "unit": "550 ml × 24",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-186",
+      "item_code": "185",
       "item_name": "Tomato Juice 100%",
       "price": 169,
       "unit": "1 L",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-187",
+      "item_code": "186",
       "item_name": "Valencia Orange Juice 100%",
       "price": 154,
       "unit": "1 L",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-188",
+      "item_code": "187",
       "item_name": "Pomegranate Juice 100%",
       "price": 169,
       "unit": "1 L",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-189",
+      "item_code": "188",
       "item_name": "Cherry Berry Juice 100%",
       "price": 144,
       "unit": "1 L",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-190",
+      "item_code": "189",
       "item_name": "Apple Juice 100%",
       "price": 169,
       "unit": "1 L",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-191",
+      "item_code": "190",
       "item_name": "Lychee Honey Drink",
       "price": 67,
       "unit": "380 ml",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-192",
+      "item_code": "191",
       "item_name": "Beauty Collagen Drink",
       "price": 420,
       "unit": "360 ml × 24",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-193",
+      "item_code": "192",
       "item_name": "Sparkling Energy Drink",
       "price": 182,
       "unit": "150 ml × 10",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-194",
+      "item_code": "193",
       "item_name": "Ginseng Drink",
       "price": 180,
       "unit": "50 ml × 8",
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-195",
+      "item_code": "194",
       "item_name": "Canned Tuna Salad with Mayonnaise",
       "price": 96,
       "unit": "185 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-196",
+      "item_code": "195",
       "item_name": "Canned Tuna Green Curry",
       "price": 49,
       "unit": "150 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-197",
+      "item_code": "196",
       "item_name": "Canned Pickled Ginger",
       "price": 52,
       "unit": "325 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-198",
+      "item_code": "197",
       "item_name": "Canned Salmon Spread with Crackers",
       "price": 42,
       "unit": "85 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-199",
+      "item_code": "198",
       "item_name": "Canned Spicy Cockles",
       "price": 305,
       "unit": "40 g × 10",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-200",
+      "item_code": "199",
       "item_name": "Canned Spicy Sardine Salad",
       "price": 279,
       "unit": "155 g × 10",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-201",
+      "item_code": "200",
       "item_name": "Canned Concentrated Corn Soup",
       "price": 87,
       "unit": "305 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-202",
+      "item_code": "201",
       "item_name": "Canned Concentrated Cream Mushroom Soup",
       "price": 87,
       "unit": "298 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-203",
+      "item_code": "202",
       "item_name": "Canned Tuna Panang Curry",
       "price": 49,
       "unit": "185 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-204",
+      "item_code": "203",
       "item_name": "Canned Tuna Himalayan Style",
       "price": 52,
       "unit": "150 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-205",
+      "item_code": "204",
       "item_name": "Canned Tuna in Shoyu Sauce",
       "price": 45,
       "unit": "165 g",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-206",
+      "item_code": "205",
       "item_name": "Canned Mackerel",
       "price": 190,
       "unit": "155 g × 10",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-207",
+      "item_code": "206",
       "item_name": "Canned Tuna in Spicy Oil",
       "price": 172,
       "unit": "165 g × 4",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-208",
+      "item_code": "207",
       "item_name": "Canned Spicy Mackerel Salad",
       "price": 112,
       "unit": "155 g × 5",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-209",
+      "item_code": "208",
       "item_name": "Canned Tuna Steak in Mineral Water",
       "price": 175,
       "unit": "165 g × 4",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-210",
+      "item_code": "209",
       "item_name": "Tuna Spread with Hokkaido Milk Crackers",
       "price": 155,
       "unit": "107 g × 4",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-211",
+      "item_code": "210",
       "item_name": "Canned Fried Clams Korean Spicy Sauce",
       "price": 310,
       "unit": "40 g × 10",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-212",
+      "item_code": "211",
       "item_name": "Canned Premium Spicy Fried Fish",
       "price": 205,
       "unit": "90 g × 6",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-213",
+      "item_code": "212",
       "item_name": "Sour Pickled Mustard Greens",
       "price": 77,
       "unit": "250 g × 3",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-214",
+      "item_code": "213",
       "item_name": "Stir-Fried Spicy Tuna Paste",
       "price": 185,
       "unit": "70 g × 6",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-215",
+      "item_code": "214",
       "item_name": "Boiled Bamboo Shoots in Brine",
       "price": 220,
       "unit": "1 kg × 2",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-216",
+      "item_code": "215",
       "item_name": "Shredded Bamboo Shoots in Brine",
       "price": 260,
       "unit": "500 g × 2",
       "item_category": "Canned food"
     },
     {
-      "item_code": "SRC060-217",
+      "item_code": "216",
       "item_name": "Lime Juice",
       "price": 52,
       "unit": "700 ml",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-218",
+      "item_code": "217",
       "item_name": "Mushroom Light Soy Sauce",
       "price": 120,
       "unit": "700 ml",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-219",
+      "item_code": "218",
       "item_name": "Low-Sodium Mushroom Soy Sauce",
       "price": 99,
       "unit": "700 g",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-220",
+      "item_code": "219",
       "item_name": "Artificial Vinegar 5%",
       "price": 39,
       "unit": "700 ml × 3",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-221",
+      "item_code": "220",
       "item_name": "Fish Sauce",
       "price": 59,
       "unit": "700 ml × 2",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-222",
+      "item_code": "221",
       "item_name": "Sweet Soy Sauce",
       "price": 54,
       "unit": "950 g",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-223",
+      "item_code": "222",
       "item_name": "Black Soy Sauce",
       "price": 39,
       "unit": "940 g",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-224",
+      "item_code": "223",
       "item_name": "Sukiyaki Sauce",
       "price": 65,
       "unit": "830 g",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-225",
+      "item_code": "224",
       "item_name": "Seafood Dipping Sauce",
       "price": 59,
       "unit": "800 g",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-226",
+      "item_code": "225",
       "item_name": "Teriyaki Sauce",
       "price": 79,
       "unit": "500 ml",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-227",
+      "item_code": "226",
       "item_name": "Korean BBQ Sauce",
       "price": 89,
       "unit": "500 g",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-228",
+      "item_code": "227",
       "item_name": "Worcestershire Sauce",
       "price": 75,
       "unit": "150 ml",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-229",
+      "item_code": "228",
       "item_name": "Chili Oil",
       "price": 89,
       "unit": "200 ml",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-230",
+      "item_code": "229",
       "item_name": "Sesame Oil",
       "price": 95,
       "unit": "150 ml",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-231",
+      "item_code": "230",
       "item_name": "Curry Powder",
       "price": 29,
       "unit": "50 g",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-232",
+      "item_code": "231",
       "item_name": "Ground Black Pepper",
       "price": 39,
       "unit": "50 g",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-233",
+      "item_code": "232",
       "item_name": "Ground White Pepper",
       "price": 42,
       "unit": "50 g",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-234",
+      "item_code": "233",
       "item_name": "Garlic Powder",
       "price": 45,
       "unit": "50 g",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-235",
+      "item_code": "234",
       "item_name": "Chili Powder",
       "price": 35,
       "unit": "100 g",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-236",
+      "item_code": "235",
       "item_name": "Paprika Powder",
       "price": 55,
       "unit": "50 g",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-237",
+      "item_code": "236",
       "item_name": "Bread Crumbs",
       "price": 39,
       "unit": "200 g",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-238",
+      "item_code": "237",
       "item_name": "Tempura Flour",
       "price": 37,
       "unit": "500 g",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-239",
+      "item_code": "238",
       "item_name": "Corn Starch",
       "price": 35,
       "unit": "400 g",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-240",
+      "item_code": "239",
       "item_name": "Tapioca Starch",
       "price": 29,
       "unit": "400 g",
       "item_category": "Packaged food"
     },
     {
-      "item_code": "SRC060-241",
+      "item_code": "240",
       "item_name": "Frozen Grilled Salmon with Teriyaki Sauce",
       "price": 205,
       "unit": "3 pcs",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-242",
+      "item_code": "241",
       "item_name": "Frozen Minced Pork Mini Buns",
       "price": 125,
       "unit": "450 g / 30 pcs",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-243",
+      "item_code": "242",
       "item_name": "Frozen Seaweed-Wrapped Pork",
       "price": 97,
       "unit": "225 g / 15 pcs",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-244",
+      "item_code": "243",
       "item_name": "Frozen Jade Pork Shumai",
       "price": 105,
       "unit": "240 g / 15 pcs",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-245",
+      "item_code": "244",
       "item_name": "Frozen Salted Egg Minced Pork Shumai",
       "price": 105,
       "unit": "240 g / 15 pcs",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-246",
+      "item_code": "245",
       "item_name": "Frozen Salted Egg Lava Cream Buns",
       "price": 129,
       "unit": "9 pcs",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-247",
+      "item_code": "246",
       "item_name": "Frozen Taro Buns",
       "price": 88,
       "unit": "333 g / 9 pcs",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-248",
+      "item_code": "247",
       "item_name": "Frozen Chicken Gyoza",
       "price": 159,
       "unit": "600 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-249",
+      "item_code": "248",
       "item_name": "Frozen Shrimp Wonton Noodles",
       "price": 69,
       "unit": "226 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-250",
+      "item_code": "249",
       "item_name": "Frozen Tom Yum Shrimp Wontons",
       "price": 69,
       "unit": "143 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-251",
+      "item_code": "250",
       "item_name": "Frozen Corn Chicken Nuggets",
       "price": 79,
       "unit": "200 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-252",
+      "item_code": "251",
       "item_name": "Frozen Smoked Duck Breast",
       "price": 259,
       "unit": "510 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-253",
+      "item_code": "252",
       "item_name": "Frozen Grain Rice with Chicken",
       "price": 65,
       "unit": "210 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-254",
+      "item_code": "253",
       "item_name": "Frozen Brown Rice Porridge with Chicken",
       "price": 65,
       "unit": "300 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-255",
+      "item_code": "254",
       "item_name": "Frozen Fish Khua Kling Rice",
       "price": 55,
       "unit": "210 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-256",
+      "item_code": "255",
       "item_name": "Frozen Fish Yellow Curry Rice with Pineapple",
       "price": 55,
       "unit": "240 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-257",
+      "item_code": "256",
       "item_name": "Frozen Hawaiian Pizza",
       "price": 109,
       "unit": "220 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-258",
+      "item_code": "257",
       "item_name": "Frozen Mexican Pizza",
       "price": 109,
       "unit": "220 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-259",
+      "item_code": "258",
       "item_name": "Frozen Taro Rice Balls",
       "price": 105,
       "unit": "160 g × 4",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-260",
+      "item_code": "259",
       "item_name": "Frozen Ginger Rice Balls",
       "price": 129,
       "unit": "150 g × 4",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-261",
+      "item_code": "260",
       "item_name": "Frozen Cheese Sticks",
       "price": 99,
       "unit": "155 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-262",
+      "item_code": "261",
       "item_name": "Chilled Pork Sausage",
       "price": 54,
       "unit": "400 g",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-263",
+      "item_code": "262",
       "item_name": "Baked Spinach with Cheese",
       "price": 37,
       "unit": "100 g",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-264",
+      "item_code": "263",
       "item_name": "Frozen Pork Basil Stir-Fry",
       "price": 200,
       "unit": "1 kg",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-265",
+      "item_code": "264",
       "item_name": "Frozen Chicken Teriyaki",
       "price": 200,
       "unit": "1 kg",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-266",
+      "item_code": "265",
       "item_name": "Frozen Ginger Chicken Stir-Fry",
       "price": 230,
       "unit": "1 kg",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-267",
+      "item_code": "266",
       "item_name": "Frozen Frankfurter Sausage",
       "price": 245,
       "unit": "1 kg",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-268",
+      "item_code": "267",
       "item_name": "Frozen Smoked Sausage",
       "price": 225,
       "unit": "1 kg",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-269",
+      "item_code": "268",
       "item_name": "Frozen Bologna",
       "price": 129,
       "unit": "500 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-270",
+      "item_code": "269",
       "item_name": "Frozen Shrimp Wontons Bulk Pack",
       "price": 540,
       "unit": "1.6 kg / 80 pcs",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-271",
+      "item_code": "270",
       "item_name": "Frozen Seasoned Minced Pork",
       "price": 39,
       "unit": "100 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-272",
+      "item_code": "271",
       "item_name": "Frozen New Orleans Chicken Wings",
       "price": 99,
       "unit": "200 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-273",
+      "item_code": "272",
       "item_name": "Frozen Red Bean Bun",
       "price": 59,
       "unit": "300 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-274",
+      "item_code": "273",
       "item_name": "Frozen Vegetarian Mee Sua",
       "price": 79,
       "unit": "300 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-275",
+      "item_code": "274",
       "item_name": "Frozen Pork Panang Curry",
       "price": 250,
       "unit": "1 kg",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-276",
+      "item_code": "275",
       "item_name": "Frozen Pork Khua Kling",
       "price": 250,
       "unit": "1 kg",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-277",
+      "item_code": "276",
       "item_name": "Frozen Pork Green Curry",
       "price": 230,
       "unit": "1 kg",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-278",
+      "item_code": "277",
       "item_name": "Braised Pork Leg",
       "price": 180,
       "unit": "540 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-279",
+      "item_code": "278",
       "item_name": "Chicken Cocktail Sausage",
       "price": 49,
       "unit": "280 g",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-280",
+      "item_code": "279",
       "item_name": "Crispy Smoked Chicken Frank",
       "price": 59,
       "unit": "250 g",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-281",
+      "item_code": "280",
       "item_name": "Chili Bologna",
       "price": 49,
       "unit": "250 g",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-282",
+      "item_code": "281",
       "item_name": "Chicken Hot Dog Sausage",
       "price": 105,
       "unit": "1 kg",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-283",
+      "item_code": "282",
       "item_name": "Cheese-Filled Chicken Sausage",
       "price": 109,
       "unit": "500 g",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-284",
+      "item_code": "283",
       "item_name": "Japanese-Style Pork Sausage",
       "price": 47,
       "unit": "90 g",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-285",
+      "item_code": "284",
       "item_name": "Truffle Cheese Pork Sausage",
       "price": 47,
       "unit": "95 g",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-286",
+      "item_code": "285",
       "item_name": "Smoked Pork Ham",
       "price": 299,
       "unit": "1 kg",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-287",
+      "item_code": "286",
       "item_name": "Pork Breakfast Sausage",
       "price": 139,
       "unit": "500 g",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-288",
+      "item_code": "287",
       "item_name": "Bacon",
       "price": 350,
       "unit": "500 g",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-289",
+      "item_code": "288",
       "item_name": "Chicken Cocktail Sausage Vanilla Flavor",
       "price": 75,
       "unit": "500 g",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-290",
+      "item_code": "289",
       "item_name": "Pork Ham Bologna with Chili",
       "price": 38,
       "unit": "105 g",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-291",
+      "item_code": "290",
       "item_name": "Frozen Shrimp Shumai",
       "price": 105,
       "unit": "240 g / 15 pcs",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-292",
+      "item_code": "291",
       "item_name": "Frozen Pork Wonton",
       "price": 69,
       "unit": "145 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-293",
+      "item_code": "292",
       "item_name": "Frozen Chicken Karaage",
       "price": 89,
       "unit": "200 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-294",
+      "item_code": "293",
       "item_name": "Frozen Fried Chicken with Garlic",
       "price": 79,
       "unit": "200 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-295",
+      "item_code": "294",
       "item_name": "Frozen Crispy Chicken",
       "price": 89,
       "unit": "200 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-296",
+      "item_code": "295",
       "item_name": "Frozen Pork Tonkatsu",
       "price": 99,
       "unit": "200 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-297",
+      "item_code": "296",
       "item_name": "Frozen Shrimp Tempura",
       "price": 129,
       "unit": "160 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-298",
+      "item_code": "297",
       "item_name": "Frozen Fried Shrimp Cake",
       "price": 109,
       "unit": "200 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-299",
+      "item_code": "298",
       "item_name": "Frozen Crab Stick",
       "price": 79,
       "unit": "250 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-300",
+      "item_code": "299",
       "item_name": "Frozen Squid Rings",
       "price": 99,
       "unit": "200 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-301",
+      "item_code": "300",
       "item_name": "Chilled Pork Meatballs",
       "price": 59,
       "unit": "200 g",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-302",
+      "item_code": "301",
       "item_name": "Chilled Fish Balls",
       "price": 49,
       "unit": "200 g",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-303",
+      "item_code": "302",
       "item_name": "Chilled Shrimp Balls",
       "price": 69,
       "unit": "200 g",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-304",
+      "item_code": "303",
       "item_name": "Chilled Chicken Ham",
       "price": 69,
       "unit": "200 g",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-305",
+      "item_code": "304",
       "item_name": "Chilled Smoked Pork Loin",
       "price": 89,
       "unit": "200 g",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-306",
+      "item_code": "305",
       "item_name": "Chilled Cheese Pork Frankfurter",
       "price": 79,
       "unit": "200 g",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-307",
+      "item_code": "306",
       "item_name": "Chilled Garlic Pork Sausage",
       "price": 69,
       "unit": "200 g",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-308",
+      "item_code": "307",
       "item_name": "Chilled Isan Pork Sausage",
       "price": 59,
       "unit": "200 g",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-309",
+      "item_code": "308",
       "item_name": "Chilled Vietnamese Pork Sausage",
       "price": 69,
       "unit": "200 g",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-310",
+      "item_code": "309",
       "item_name": "Chilled Pork Roll",
       "price": 79,
       "unit": "200 g",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-311",
+      "item_code": "310",
       "item_name": "Frozen Soybean Kernels",
       "price": 70,
       "unit": "350 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-313",
+      "item_code": "311",
       "item_name": "Frozen BBQ Pork Buns Bulk Pack",
       "price": 625,
       "unit": "2.22 kg / 60 pcs",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-314",
+      "item_code": "312",
       "item_name": "Frozen Cream Mini Buns",
       "price": 125,
       "unit": "450 g / 30 pcs",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-315",
+      "item_code": "313",
       "item_name": "Frozen Pork Panang Rice with Fish Cake",
       "price": 49,
       "unit": "275 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-316",
+      "item_code": "314",
       "item_name": "Frozen Japanese Curry Pork Rice",
       "price": 65,
       "unit": "290 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-318",
+      "item_code": "315",
       "item_name": "Frozen Truffle Butter",
       "price": 259,
       "unit": "110 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-319",
+      "item_code": "316",
       "item_name": "Pasteurized Liquid Egg White",
       "price": 179,
       "unit": "2 L",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-320",
+      "item_code": "317",
       "item_name": "Lactose-Free Chocolate Milk",
       "price": 170,
       "unit": "946 ml",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-321",
+      "item_code": "318",
       "item_name": "Lactose-Free Plain Milk",
       "price": 76,
       "unit": "946 ml",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-322",
+      "item_code": "319",
       "item_name": "Lactose-Free 0% Fat Milk",
       "price": 76,
       "unit": "946 ml",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-323",
+      "item_code": "320",
       "item_name": "Probiotic Natural Yogurt",
       "price": 159,
       "unit": "125 g × 4",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-324",
+      "item_code": "321",
       "item_name": "Mixed-Fruit Probiotic Yogurt",
       "price": 135,
       "unit": "125 g × 4",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-325",
+      "item_code": "322",
       "item_name": "Coconut-Jelly Yogurt",
       "price": 52,
       "unit": "125 g × 4",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-326",
+      "item_code": "323",
       "item_name": "Strawberry-Raspberry Drinking Yogurt",
       "price": 52,
       "unit": "150 ml × 3",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-327",
+      "item_code": "324",
       "item_name": "Kale-Pineapple Lactose-Free Yogurt Drink",
       "price": 47,
       "unit": "100 ml × 4",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-328",
+      "item_code": "325",
       "item_name": "High-Protein Chocolate Milk",
       "price": 159,
       "unit": "350 ml × 3",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-329",
+      "item_code": "326",
       "item_name": "High-Protein Green Tea Milk",
       "price": 125,
       "unit": "350 ml × 3",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-330",
+      "item_code": "327",
       "item_name": "High-Protein Strawberry Milk",
       "price": 135,
       "unit": "340 ml × 3",
       "item_category": "Chilled food"
     },
     {
-      "item_code": "SRC060-331",
+      "item_code": "328",
       "item_name": "Hash Brown Patties",
       "price": 119,
       "unit": "1.28 kg",
       "item_category": "Ready-to-cook"
     },
     {
-      "item_code": "SRC060-332",
+      "item_code": "329",
       "item_name": "Salted Fried Chicken Ribs",
       "price": 139,
       "unit": "1 kg",
       "item_category": "Ready-to-cook"
     },
     {
-      "item_code": "SRC060-333",
+      "item_code": "330",
       "item_name": "Frozen Assorted Cake",
       "price": 565,
       "unit": "25 g × 45 pcs",
       "item_category": "Cake"
     },
     {
-      "item_code": "SRC060-334",
+      "item_code": "331",
       "item_name": "Mini Croissant",
       "price": 189,
       "unit": "15 g × 40 pcs",
       "item_category": "Bakery"
     },
     {
-      "item_code": "SRC060-335",
+      "item_code": "332",
       "item_name": "Banana Cup Cake",
       "price": 330,
       "unit": "55 g × 48 pcs",
       "item_category": "Cake"
     },
     {
-      "item_code": "SRC060-336",
+      "item_code": "333",
       "item_name": "Almond Brownie",
       "price": 780,
       "unit": "20 g × 96 pcs",
       "item_category": "Cake"
     },
     {
-      "item_code": "SRC060-337",
+      "item_code": "334",
       "item_name": "Sugar Donut",
       "price": 498,
       "unit": "30 g × 48 pcs",
       "item_category": "Bakery"
     },
     {
-      "item_code": "SRC060-338",
+      "item_code": "335",
       "item_name": "Assorted Cake Roll",
       "price": 109,
       "unit": "30 g × 9 pcs",
       "item_category": "Cake"
     },
     {
-      "item_code": "SRC060-339",
+      "item_code": "336",
       "item_name": "Butter Croissant",
       "price": 365,
       "unit": "43 g × 25 pcs",
       "item_category": "Bakery"
     },
     {
-      "item_code": "SRC060-340",
+      "item_code": "337",
       "item_name": "Assorted Muffin",
       "price": 600,
       "unit": "65 g × 48 pcs",
       "item_category": "Cake"
     },
     {
-      "item_code": "SRC060-341",
+      "item_code": "338",
       "item_name": "Almond Danish",
       "price": 490,
       "unit": "40 g × 48 pcs",
       "item_category": "Bakery"
     },
     {
-      "item_code": "SRC060-342",
+      "item_code": "339",
       "item_name": "Egg Tart",
       "price": 630,
       "unit": "60 g × 40 pcs",
       "item_category": "Bakery"
     },
     {
-      "item_code": "SRC060-343",
+      "item_code": "340",
       "item_name": "Shredded Chicken Danish",
       "price": 505,
       "unit": "40 g × 48 pcs",
       "item_category": "Bakery"
     },
     {
-      "item_code": "SRC060-344",
+      "item_code": "341",
       "item_name": "Ham Cheese Mini Croissant",
       "price": 710,
       "unit": "30 g × 48 pcs",
       "item_category": "Bakery"
     },
     {
-      "item_code": "SRC060-345",
+      "item_code": "342",
       "item_name": "Thai Custard Bun",
       "price": 210,
       "unit": "48 g × 24 pcs",
       "item_category": "Bakery"
     },
     {
-      "item_code": "SRC060-346",
+      "item_code": "343",
       "item_name": "Pork Sausage Bun",
       "price": 390,
       "unit": "42 g × 48 pcs",
       "item_category": "Bakery"
     },
     {
-      "item_code": "SRC060-347",
+      "item_code": "344",
       "item_name": "Chicken Sausage Bun",
       "price": 390,
       "unit": "45 g × 48 pcs",
       "item_category": "Bakery"
     },
     {
-      "item_code": "SRC060-348",
+      "item_code": "345",
       "item_name": "Pineapple Pie",
       "price": 105,
       "unit": "75 g × 4 pcs",
       "item_category": "Bakery"
     },
     {
-      "item_code": "SRC060-349",
+      "item_code": "346",
       "item_name": "Curry Chicken Pie",
       "price": 105,
       "unit": "80 g × 4 pcs",
       "item_category": "Ready-to-eat"
     },
     {
-      "item_code": "SRC060-350",
+      "item_code": "347",
       "item_name": "Sweet Chinese Pastry",
       "price": 80,
       "unit": "40 g × 9 pcs",
       "item_category": "Bakery"
     },
     {
-      "item_code": "SRC060-351",
+      "item_code": "348",
       "item_name": "Sliced Sandwich Bread",
       "price": 42,
       "unit": "600 g",
       "item_category": "Bakery"
     },
     {
-      "item_code": "SRC060-352",
+      "item_code": "349",
       "item_name": "Open Top Bread",
       "price": 39,
       "unit": "540 g",
       "item_category": "Bakery"
     },
     {
-      "item_code": "SRC060-353",
+      "item_code": "350",
       "item_name": "Burger Bun",
       "price": 37,
       "unit": "60 g × 6",
       "item_category": "Bakery"
     },
     {
-      "item_code": "SRC060-354",
+      "item_code": "351",
       "item_name": "Whole Wheat Bread",
       "price": 44,
       "unit": "500 g",
       "item_category": "Bakery"
     },
     {
-      "item_code": "SRC060-355",
+      "item_code": "352",
       "item_name": "Chinese Sweetmeat",
       "price": 64,
       "unit": "400 g",
       "item_category": "Bakery"
     },
     {
-      "item_code": "SRC060-356",
+      "item_code": "353",
       "item_name": "French Baguette",
       "price": 39,
       "unit": "220 g",
       "item_category": "Bakery"
     },
     {
-      "item_code": "SRC060-357",
+      "item_code": "354",
       "item_name": "Soft Roll",
       "price": 26,
       "unit": "25 g × 12",
       "item_category": "Bakery"
     },
     {
-      "item_code": "SRC060-358",
+      "item_code": "355",
       "item_name": "Kraftkorn Bread",
       "price": 69,
       "unit": "330 g",
       "item_category": "Bakery"
     },
     {
-      "item_code": "SRC060-359",
+      "item_code": "356",
       "item_name": "Shredded Pork Bread",
       "price": 65,
       "unit": "360 g",
       "item_category": "Bakery"
     },
     {
-      "item_code": "SRC060-360",
+      "item_code": "357",
       "item_name": "Frozen Tart Shell",
       "price": 98,
       "unit": "18 pcs",
       "item_category": "Ready-to-cook"
     },
     {
-      "item_code": "SRC060-361",
+      "item_code": "358",
       "item_name": "Raisin Danish",
       "price": 79,
       "unit": "40 g × 6",
       "item_category": "Bakery"
     },
     {
-      "item_code": "SRC060-362",
+      "item_code": "359",
       "item_name": "Chocolate Chip Stick",
       "price": 79,
       "unit": "40 g × 8",
       "item_category": "Bakery"
     },
     {
-      "item_code": "SRC060-363",
+      "item_code": "360",
       "item_name": "Pineapple Danish",
       "price": 79,
       "unit": "40 g × 6",
       "item_category": "Bakery"
     },
     {
-      "item_code": "SRC060-364",
+      "item_code": "361",
       "item_name": "Grass Jelly Cube",
       "price": 35,
       "unit": "1 kg",
       "item_category": "Dessert"
     },
     {
-      "item_code": "SRC060-365",
+      "item_code": "362",
       "item_name": "Bua Loy",
       "price": 48,
       "unit": "500 g",
       "item_category": "Dessert"
     },
     {
-      "item_code": "SRC060-366",
+      "item_code": "363",
       "item_name": "Coconut Jelly in Syrup",
       "price": 54,
       "unit": "1 kg",
       "item_category": "Dessert"
     },
     {
-      "item_code": "SRC060-367",
+      "item_code": "364",
       "item_name": "Taro Pearl in Coconut Cream",
       "price": 109,
       "unit": "160 g × 4",
       "item_category": "Dessert"
     },
     {
-      "item_code": "SRC060-368",
+      "item_code": "365",
       "item_name": "Frozen Water Chestnut with Tapioca",
       "price": 140,
       "unit": "160 g × 4",
       "item_category": "Dessert"
     },
     {
-      "item_code": "SRC060-369",
+      "item_code": "366",
       "item_name": "Frozen Black Sesame Ball",
       "price": 135,
       "unit": "480 g",
       "item_category": "Dessert"
     },
     {
-      "item_code": "SRC060-370",
+      "item_code": "367",
       "item_name": "Frozen Waffle",
       "price": 85,
       "unit": "225 g",
       "item_category": "Bakery"
     },
     {
-      "item_code": "SRC060-371",
+      "item_code": "368",
       "item_name": "Custard Cake",
       "price": 55,
       "unit": "17 g × 12 pcs",
       "item_category": "Cake"
     },
     {
-      "item_code": "SRC060-372",
+      "item_code": "369",
       "item_name": "Vanilla Cream Sandwich Cookie",
       "price": 48,
       "unit": "24.6 g × 12",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-373",
+      "item_code": "370",
       "item_name": "Big Sheet Seaweed Snack",
       "price": 49,
       "unit": "3.2 g × 12",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-374",
+      "item_code": "371",
       "item_name": "Chocolate-Coated Extruded Snack",
       "price": 48,
       "unit": "12 g × 12",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-375",
+      "item_code": "372",
       "item_name": "Nori Seaweed Potato Chips",
       "price": 52,
       "unit": "13 g × 12",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-376",
+      "item_code": "373",
       "item_name": "Tomato Rice Cracker",
       "price": 49,
       "unit": "80 g × 3",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-377",
+      "item_code": "374",
       "item_name": "BBQ Potato Chips",
       "price": 103,
       "unit": "48 g × 6",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-378",
+      "item_code": "375",
       "item_name": "Tomato Sauce Extruded Snack",
       "price": 48,
       "unit": "17 g × 12",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-379",
+      "item_code": "376",
       "item_name": "Sweet & Spicy Squid Snack",
       "price": 48,
       "unit": "4 g × 12 pcs",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-380",
+      "item_code": "377",
       "item_name": "Chocolate Cream Sandwich Cookie",
       "price": 49.5,
       "unit": "40.5 g × 12 pcs",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-381",
+      "item_code": "378",
       "item_name": "Milk-Flavored Corn Snack",
       "price": 29,
       "unit": "38 g × 6",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-382",
+      "item_code": "379",
       "item_name": "Chocolate Roll Snack",
       "price": 47,
       "unit": "24 g × 12",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-383",
+      "item_code": "380",
       "item_name": "Coconut-Flavored Sunflower Seeds",
       "price": 96,
       "unit": "72 g × 6",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-384",
+      "item_code": "381",
       "item_name": "Ice Cream Vanilla Flavor",
       "price": 359,
       "unit": "3.6 kg",
       "item_category": "Dessert"
     },
     {
-      "item_code": "SRC060-385",
+      "item_code": "382",
       "item_name": "Yam in Syrup",
       "price": 81,
       "unit": "1 kg",
       "item_category": "Dessert"
     },
     {
-      "item_code": "SRC060-386",
+      "item_code": "383",
       "item_name": "Azuki Red Bean Paste",
       "price": 80,
       "unit": "500 g",
       "item_category": "Dessert"
     },
     {
-      "item_code": "SRC060-387",
+      "item_code": "384",
       "item_name": "Three-Flavored Pearls in Coconut Cream",
       "price": 112,
       "unit": "160 g × 4",
       "item_category": "Dessert"
     },
     {
-      "item_code": "SRC060-388",
+      "item_code": "385",
       "item_name": "Pandanus Tapioca Seed",
       "price": 50,
       "unit": "400 g × 2",
       "item_category": "Dessert"
     },
     {
-      "item_code": "SRC060-389",
+      "item_code": "386",
       "item_name": "Black Sesame Dumplings in Ginger Syrup",
       "price": 140,
       "unit": "150 g × 4",
       "item_category": "Dessert"
     },
     {
-      "item_code": "SRC060-390",
+      "item_code": "387",
       "item_name": "Nam Ngiao Fried Chili Paste",
       "price": 19,
       "unit": "80 g",
       "item_category": "Ready-to-cook"
     },
     {
-      "item_code": "SRC060-391",
+      "item_code": "388",
       "item_name": "Crispy Seaweed Roll",
       "price": 115,
       "unit": "32 g × 6",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-392",
+      "item_code": "389",
       "item_name": "Crispy Fish Skin",
       "price": 139,
       "unit": "100 g × 3",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-393",
+      "item_code": "390",
       "item_name": "Roasted Broad Beans",
       "price": 105,
       "unit": "100 g × 6",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-394",
+      "item_code": "391",
       "item_name": "Roasted Cashew Nuts",
       "price": 189,
       "unit": "400 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-395",
+      "item_code": "392",
       "item_name": "Roasted Almonds",
       "price": 219,
       "unit": "400 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-396",
+      "item_code": "393",
       "item_name": "Pistachio Nuts",
       "price": 249,
       "unit": "400 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-397",
+      "item_code": "394",
       "item_name": "Dried Banana Chips",
       "price": 89,
       "unit": "500 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-398",
+      "item_code": "395",
       "item_name": "Dried Sweet Potato Chips",
       "price": 95,
       "unit": "500 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-399",
+      "item_code": "396",
       "item_name": "Crispy Coconut Chips",
       "price": 109,
       "unit": "300 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-400",
+      "item_code": "397",
       "item_name": "Crispy Mushroom Snack",
       "price": 125,
       "unit": "250 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-401",
+      "item_code": "398",
       "item_name": "Chocolate Brownie Cake",
       "price": 129,
       "unit": "400 g",
       "item_category": "Cake"
     },
     {
-      "item_code": "SRC060-402",
+      "item_code": "399",
       "item_name": "Pandan Chiffon Cake",
       "price": 109,
       "unit": "400 g",
       "item_category": "Cake"
     },
     {
-      "item_code": "SRC060-403",
+      "item_code": "400",
       "item_name": "Chocolate Lava Cake",
       "price": 159,
       "unit": "360 g",
       "item_category": "Cake"
     },
     {
-      "item_code": "SRC060-404",
+      "item_code": "401",
       "item_name": "Frozen Coconut Pancake",
       "price": 115,
       "unit": "500 g",
       "item_category": "Dessert"
     },
     {
-      "item_code": "SRC060-405",
+      "item_code": "402",
       "item_name": "Frozen Thai Crispy Pancake",
       "price": 129,
       "unit": "500 g",
       "item_category": "Dessert"
     },
     {
-      "item_code": "SRC060-406",
+      "item_code": "403",
       "item_name": "Sticky Rice with Taro",
       "price": 89,
       "unit": "500 g",
       "item_category": "Dessert"
     },
     {
-      "item_code": "SRC060-407",
+      "item_code": "404",
       "item_name": "Sticky Rice with Black Bean",
       "price": 89,
       "unit": "500 g",
       "item_category": "Dessert"
     },
     {
-      "item_code": "SRC060-408",
+      "item_code": "405",
       "item_name": "Frozen Steamed Chive Dumpling",
       "price": 115,
       "unit": "500 g",
       "item_category": "Ready-to-cook"
     },
     {
-      "item_code": "SRC060-409",
+      "item_code": "406",
       "item_name": "Frozen Fried Taro Cake",
       "price": 129,
       "unit": "500 g",
       "item_category": "Ready-to-cook"
     },
     {
-      "item_code": "SRC060-410",
+      "item_code": "407",
       "item_name": "Frozen Radish Cake",
       "price": 129,
       "unit": "500 g",
       "item_category": "Ready-to-cook"
     },
     {
-      "item_code": "SRC060-411",
+      "item_code": "408",
       "item_name": "Korean Seasoned Seaweed",
       "price": 77,
       "unit": "5 g × 6",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-412",
+      "item_code": "409",
       "item_name": "Mini Bear Gummy Jelly",
       "price": 39,
       "unit": "20 g × 12",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-413",
+      "item_code": "410",
       "item_name": "Party Mix Gummy Jelly",
       "price": 39,
       "unit": "20 g × 12",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-414",
+      "item_code": "411",
       "item_name": "Coconut Bread with Pineapple Jam",
       "price": 90,
       "unit": "540 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-415",
+      "item_code": "412",
       "item_name": "Leaf-Shaped Ready-to-Fry Snack",
       "price": 60,
       "unit": "1 kg",
       "item_category": "Ready-to-cook"
     },
     {
-      "item_code": "SRC060-416",
+      "item_code": "413",
       "item_name": "Chocolate Cream Wafer Stick",
       "price": 379,
       "unit": "5 kg",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-417",
+      "item_code": "414",
       "item_name": "Pineapple Jam Mini Cracker",
       "price": 90,
       "unit": "510 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-418",
+      "item_code": "415",
       "item_name": "Seasoned Bread Stick",
       "price": 65,
       "unit": "420 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-419",
+      "item_code": "416",
       "item_name": "Coffee Cream-Filled Cookie",
       "price": 99,
       "unit": "540 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-420",
+      "item_code": "417",
       "item_name": "Chocolate-Filled Bear Bread",
       "price": 69,
       "unit": "450 g",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-421",
+      "item_code": "418",
       "item_name": "Salted Bread Stick",
       "price": 129,
       "unit": "1.2 kg",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-422",
+      "item_code": "419",
       "item_name": "Cream-Filled Cracker",
       "price": 45,
       "unit": "24 g × 12",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-423",
+      "item_code": "420",
       "item_name": "Chocolate Crispy Waffle",
       "price": 45,
       "unit": "21 g × 12",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-424",
+      "item_code": "421",
       "item_name": "Chocolate Cream Cookie",
       "price": 48,
       "unit": "26.25 g × 12",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-425",
+      "item_code": "422",
       "item_name": "Mini Cream-Filled Cookie",
       "price": 45,
       "unit": "30 g × 12",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-426",
+      "item_code": "423",
       "item_name": "Chocolate Cream-Filled Cracker",
       "price": 45,
       "unit": "24 g × 12",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-427",
+      "item_code": "424",
       "item_name": "Butter Waffle Crisp",
       "price": 45,
       "unit": "22 g × 12",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-428",
+      "item_code": "425",
       "item_name": "Strawberry Cream Sandwich Cookie",
       "price": 48,
       "unit": "26.25 g × 12",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-429",
+      "item_code": "426",
       "item_name": "Chocolate Mini Cookie",
       "price": 45,
       "unit": "30 g × 12",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-430",
+      "item_code": "427",
       "item_name": "Milk Cream-Filled Cracker",
       "price": 45,
       "unit": "24 g × 12",
       "item_category": "Snacks"
     },
     {
-      "item_code": "SRC060-431",
+      "item_code": "428",
       "item_name": "Brown Jasmine Rice",
       "price": 149,
       "unit": "2 kg",
       "item_category": "Rice"
     },
     {
-      "item_code": "SRC060-432",
+      "item_code": "429",
       "item_name": "Brown Rice",
       "price": 135,
       "unit": "2 kg",
       "item_category": "Rice"
     },
     {
-      "item_code": "SRC060-433",
+      "item_code": "430",
       "item_name": "Red Cargo Rice",
       "price": 139,
       "unit": "2 kg",
       "item_category": "Rice"
     },
     {
-      "item_code": "SRC060-434",
+      "item_code": "431",
       "item_name": "Riceberry Rice",
       "price": 159,
       "unit": "2 kg",
       "item_category": "Rice"
     },
     {
-      "item_code": "SRC060-435",
+      "item_code": "432",
       "item_name": "Black Glutinous Rice",
       "price": 85,
       "unit": "1 kg",
       "item_category": "Rice"
     },
     {
-      "item_code": "SRC060-436",
+      "item_code": "433",
       "item_name": "White Glutinous Rice",
       "price": 145,
       "unit": "5 kg",
       "item_category": "Rice"
     },
     {
-      "item_code": "SRC060-437",
+      "item_code": "434",
       "item_name": "Broken Jasmine Rice",
       "price": 159,
       "unit": "5 kg",
       "item_category": "Rice"
     },
     {
-      "item_code": "SRC060-438",
+      "item_code": "435",
       "item_name": "Pathum Thani Fragrant Rice",
       "price": 179,
       "unit": "5 kg",
       "item_category": "Rice"
     },
     {
-      "item_code": "SRC060-439",
+      "item_code": "436",
       "item_name": "Hom Mali New-Crop Rice",
       "price": 229,
       "unit": "5 kg",
       "item_category": "Rice"
     },
     {
-      "item_code": "SRC060-440",
+      "item_code": "437",
       "item_name": "Organic Jasmine Rice",
       "price": 169,
       "unit": "2 kg",
       "item_category": "Rice"
     },
     {
-      "item_code": "SRC060-441",
+      "item_code": "438",
       "item_name": "Soybean Oil",
       "price": 219,
       "unit": "5 L",
       "item_category": "Cooking oil"
     },
     {
-      "item_code": "SRC060-442",
+      "item_code": "439",
       "item_name": "Palm Olein Oil",
       "price": 198,
       "unit": "5 L",
       "item_category": "Cooking oil"
     },
     {
-      "item_code": "SRC060-443",
+      "item_code": "440",
       "item_name": "Rice Bran Oil",
       "price": 245,
       "unit": "5 L",
       "item_category": "Cooking oil"
     },
     {
-      "item_code": "SRC060-444",
+      "item_code": "441",
       "item_name": "Canola Oil",
       "price": 189,
       "unit": "1 L",
       "item_category": "Cooking oil"
     },
     {
-      "item_code": "SRC060-445",
+      "item_code": "442",
       "item_name": "Sunflower Oil",
       "price": 175,
       "unit": "1 L",
       "item_category": "Cooking oil"
     },
     {
-      "item_code": "SRC060-446",
+      "item_code": "443",
       "item_name": "Corn Oil",
       "price": 189,
       "unit": "1 L",
       "item_category": "Cooking oil"
     },
     {
-      "item_code": "SRC060-447",
+      "item_code": "444",
       "item_name": "Extra Virgin Olive Oil",
       "price": 399,
       "unit": "1 L",
       "item_category": "Cooking oil"
     },
     {
-      "item_code": "SRC060-448",
+      "item_code": "445",
       "item_name": "Pure Olive Oil",
       "price": 359,
       "unit": "1 L",
       "item_category": "Cooking oil"
     },
     {
-      "item_code": "SRC060-449",
+      "item_code": "446",
       "item_name": "Coconut Cooking Oil",
       "price": 189,
       "unit": "1 L",
       "item_category": "Cooking oil"
     },
     {
-      "item_code": "SRC060-450",
+      "item_code": "447",
       "item_name": "Avocado Oil",
       "price": 399,
       "unit": "1 L",
       "item_category": "Cooking oil"
     },
     {
-      "item_code": "SRC060-451",
+      "item_code": "448",
       "item_name": "ARO Chicken Pop",
       "price": 179,
       "unit": "1 kg",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-452",
+      "item_code": "449",
       "item_name": "SRIKAMOL SEAFOOD Thai Fish Cakes",
       "price": 49,
       "unit": "500 g",
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-453",
+      "item_code": "450",
       "item_name": "ARO Frozen Fish Finger",
       "price": 85,
       "unit": "500 g",
