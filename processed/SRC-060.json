@@ -1,7 +1,7 @@
 {
   "source_id": "SRC-060",
   "category": "Packaged food, instant food, frozen food, snacks & beverages data",
-  "confirmed_record_count": 200,
+  "confirmed_record_count": 220,
   "data": [
     {
       "item_code": "SRC060-001",
@@ -1402,6 +1402,146 @@
       "price": 279,
       "unit": "155 g × 10",
       "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-201",
+      "item_name": "Canned Concentrated Corn Soup",
+      "price": 87,
+      "unit": "305 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-202",
+      "item_name": "Canned Concentrated Cream Mushroom Soup",
+      "price": 87,
+      "unit": "298 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-203",
+      "item_name": "Canned Tuna Panang Curry",
+      "price": 49,
+      "unit": "185 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-204",
+      "item_name": "Canned Tuna Himalayan Style",
+      "price": 52,
+      "unit": "150 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-205",
+      "item_name": "Canned Tuna in Shoyu Sauce",
+      "price": 45,
+      "unit": "165 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-206",
+      "item_name": "Canned Mackerel",
+      "price": 190,
+      "unit": "155 g × 10",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-207",
+      "item_name": "Canned Tuna in Spicy Oil",
+      "price": 172,
+      "unit": "165 g × 4",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-208",
+      "item_name": "Canned Spicy Mackerel Salad",
+      "price": 112,
+      "unit": "155 g × 5",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-209",
+      "item_name": "Canned Tuna Steak in Mineral Water",
+      "price": 175,
+      "unit": "165 g × 4",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-210",
+      "item_name": "Tuna Spread with Hokkaido Milk Crackers",
+      "price": 155,
+      "unit": "107 g × 4",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-211",
+      "item_name": "Canned Fried Clams Korean Spicy Sauce",
+      "price": 310,
+      "unit": "40 g × 10",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-212",
+      "item_name": "Canned Premium Spicy Fried Fish",
+      "price": 205,
+      "unit": "90 g × 6",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-213",
+      "item_name": "Sour Pickled Mustard Greens",
+      "price": 77,
+      "unit": "250 g × 3",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-214",
+      "item_name": "Stir-Fried Spicy Tuna Paste",
+      "price": 185,
+      "unit": "70 g × 6",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-215",
+      "item_name": "Boiled Bamboo Shoots in Brine",
+      "price": 220,
+      "unit": "1 kg × 2",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-216",
+      "item_name": "Shredded Bamboo Shoots in Brine",
+      "price": 260,
+      "unit": "500 g × 2",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-217",
+      "item_name": "Lime Juice",
+      "price": 52,
+      "unit": "700 ml",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-218",
+      "item_name": "Mushroom Light Soy Sauce",
+      "price": 120,
+      "unit": "700 ml",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-219",
+      "item_name": "Low-Sodium Mushroom Soy Sauce",
+      "price": 99,
+      "unit": "700 g",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-220",
+      "item_name": "Artificial Vinegar 5%",
+      "price": 39,
+      "unit": "700 ml × 3",
+      "item_category": "Packaged food"
     }
   ]
 }
