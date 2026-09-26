@@ -1,6 +1,12 @@
 {
   "source_id": "SRC-060",
   "category": "Packaged food, instant food, frozen food, snacks & beverages data",
+  "source": [
+    "Makro",
+    "Big C",
+    "7-Eleven Thailand"
+  ],
+  "collected_date": "2026-09-26",
   "confirmed_record_count": 450,
   "data": [
     {
@@ -3153,11 +3159,5 @@
       "unit": "500 g",
       "item_category": "Frozen food"
     }
-  ],
-  "source": [
-    "Makro",
-    "Big C",
-    "7-Eleven Thailand"
-  ],
-  "collected_date": "2026-09-26"
+  ]
 }
