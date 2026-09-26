@@ -1,7 +1,7 @@
 {
   "source_id": "SRC-060",
   "category": "Packaged food, instant food, frozen food, snacks & beverages data",
-  "confirmed_record_count": 310,
+  "confirmed_record_count": 330,
   "data": [
     {
       "item_code": "SRC060-001",
@@ -2171,6 +2171,146 @@
       "item_name": "Chilled Pork Roll",
       "price": 79,
       "unit": "200 g",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-311",
+      "item_name": "Frozen Soybean Kernels",
+      "price": 70,
+      "unit": "350 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-312",
+      "item_name": "Frozen Shrimp Shumai Bulk Pack",
+      "price": 685,
+      "unit": "1.92 kg / 120 pcs",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-313",
+      "item_name": "Frozen BBQ Pork Buns Bulk Pack",
+      "price": 625,
+      "unit": "2.22 kg / 60 pcs",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-314",
+      "item_name": "Frozen Cream Mini Buns",
+      "price": 125,
+      "unit": "450 g / 30 pcs",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-315",
+      "item_name": "Frozen Pork Panang Rice with Fish Cake",
+      "price": 49,
+      "unit": "275 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-316",
+      "item_name": "Frozen Japanese Curry Pork Rice",
+      "price": 65,
+      "unit": "290 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-317",
+      "item_name": "Frozen Ginger Rice Balls",
+      "price": 129,
+      "unit": "150 g × 4",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-318",
+      "item_name": "Frozen Truffle Butter",
+      "price": 259,
+      "unit": "110 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-319",
+      "item_name": "Pasteurized Liquid Egg White",
+      "price": 179,
+      "unit": "2 L",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-320",
+      "item_name": "Lactose-Free Chocolate Milk",
+      "price": 170,
+      "unit": "946 ml",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-321",
+      "item_name": "Lactose-Free Plain Milk",
+      "price": 76,
+      "unit": "946 ml",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-322",
+      "item_name": "Lactose-Free 0% Fat Milk",
+      "price": 76,
+      "unit": "946 ml",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-323",
+      "item_name": "Probiotic Natural Yogurt",
+      "price": 159,
+      "unit": "125 g × 4",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-324",
+      "item_name": "Mixed-Fruit Probiotic Yogurt",
+      "price": 135,
+      "unit": "125 g × 4",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-325",
+      "item_name": "Coconut-Jelly Yogurt",
+      "price": 52,
+      "unit": "125 g × 4",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-326",
+      "item_name": "Strawberry-Raspberry Drinking Yogurt",
+      "price": 52,
+      "unit": "150 ml × 3",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-327",
+      "item_name": "Kale-Pineapple Lactose-Free Yogurt Drink",
+      "price": 47,
+      "unit": "100 ml × 4",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-328",
+      "item_name": "High-Protein Chocolate Milk",
+      "price": 159,
+      "unit": "350 ml × 3",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-329",
+      "item_name": "High-Protein Green Tea Milk",
+      "price": 125,
+      "unit": "350 ml × 3",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-330",
+      "item_name": "High-Protein Strawberry Milk",
+      "price": 135,
+      "unit": "340 ml × 3",
       "item_category": "Chilled food"
     }
   ]
