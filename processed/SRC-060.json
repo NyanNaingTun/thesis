@@ -1,7 +1,7 @@
 {
   "source_id": "SRC-060",
   "category": "Packaged food, instant food, frozen food, snacks & beverages data",
-  "confirmed_record_count": 40,
+  "confirmed_record_count": 60,
   "data": [
     {
       "item_code": "SRC060-001",
@@ -282,6 +282,146 @@
       "price": 84,
       "unit": "280 g",
       "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-041",
+      "item_name": "Canned Tuna in Spring Water",
+      "price": 42,
+      "unit": "185 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-042",
+      "item_name": "Canned Sardines in Tomato Sauce",
+      "price": 20,
+      "unit": "155 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-043",
+      "item_name": "Canned Mackerel in Tomato Sauce",
+      "price": 18,
+      "unit": "155 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-044",
+      "item_name": "Canned Fried Mackerel with Chilli",
+      "price": 27,
+      "unit": "90 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-045",
+      "item_name": "Canned Pickled Mustard Greens",
+      "price": 18,
+      "unit": "140 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-046",
+      "item_name": "Canned Sweet Corn",
+      "price": 39,
+      "unit": "340 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-047",
+      "item_name": "Canned Green Peas",
+      "price": 43,
+      "unit": "400 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-048",
+      "item_name": "Canned Baked Beans in Tomato Sauce",
+      "price": 49,
+      "unit": "425 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-049",
+      "item_name": "Canned Longan in Syrup",
+      "price": 69,
+      "unit": "565 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-050",
+      "item_name": "Canned Rambutan in Syrup",
+      "price": 75,
+      "unit": "565 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-051",
+      "item_name": "Canned Pineapple in Syrup",
+      "price": 55,
+      "unit": "565 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-052",
+      "item_name": "Canned Lychee in Syrup",
+      "price": 69,
+      "unit": "565 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-053",
+      "item_name": "Canned Coconut Milk",
+      "price": 29,
+      "unit": "400 ml",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-054",
+      "item_name": "Canned Button Mushrooms",
+      "price": 58,
+      "unit": "425 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-055",
+      "item_name": "Canned Bamboo Shoots",
+      "price": 35,
+      "unit": "565 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-056",
+      "item_name": "Canned Water Chestnuts",
+      "price": 49,
+      "unit": "565 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-057",
+      "item_name": "Canned Baby Corn",
+      "price": 45,
+      "unit": "425 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-058",
+      "item_name": "Canned Mixed Fruits in Syrup",
+      "price": 72,
+      "unit": "565 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-059",
+      "item_name": "Canned Red Kidney Beans",
+      "price": 55,
+      "unit": "400 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-060",
+      "item_name": "Canned Chickpeas",
+      "price": 59,
+      "unit": "400 g",
+      "item_category": "Canned food"
     }
   ]
 }
