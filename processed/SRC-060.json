@@ -1,7 +1,7 @@
 {
   "source_id": "SRC-060",
   "category": "Packaged food, instant food, frozen food, snacks & beverages data",
-  "confirmed_record_count": 20,
+  "confirmed_record_count": 30,
   "data": [
     {
       "item_code": "SRC060-001",
@@ -141,6 +141,76 @@
       "item_name": "Soy Milk UHT",
       "price": 340,
       "unit": "300 ml × 36 packs",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-021",
+      "item_name": "Frozen Taro Spring Roll",
+      "price": 55,
+      "unit": "250 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-022",
+      "item_name": "Frozen Shrimp Cake",
+      "price": 161,
+      "unit": "180 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-023",
+      "item_name": "Frozen Barbecue Pork Bun",
+      "price": 109,
+      "unit": "180 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-024",
+      "item_name": "Frozen Broad Beans",
+      "price": 179,
+      "unit": "500 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-025",
+      "item_name": "Frozen Rice with Stir-Fried Pork & Kimchi",
+      "price": 75,
+      "unit": "270 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-026",
+      "item_name": "Konjac Snack",
+      "price": 25,
+      "unit": "50 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-027",
+      "item_name": "Coconut Juice",
+      "price": 12,
+      "unit": "250 ml",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-028",
+      "item_name": "Vitamin Water",
+      "price": 20,
+      "unit": "480 ml",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-029",
+      "item_name": "Chrysanthemum Drink",
+      "price": 15,
+      "unit": "350 ml",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-030",
+      "item_name": "Lemon Iced Tea No Sugar",
+      "price": 20,
+      "unit": "445 ml",
       "item_category": "Beverages"
     }
   ]
