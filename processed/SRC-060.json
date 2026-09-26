@@ -1,7 +1,7 @@
 {
   "source_id": "SRC-060",
   "category": "Packaged food, instant food, frozen food, snacks & beverages data",
-  "confirmed_record_count": 370,
+  "confirmed_record_count": 390,
   "data": [
     {
       "item_code": "SRC060-001",
@@ -2592,6 +2592,146 @@
       "price": 85,
       "unit": "225 g",
       "item_category": "Bakery"
+    },
+    {
+      "item_code": "SRC060-371",
+      "item_name": "Custard Cake",
+      "price": 55,
+      "unit": "17 g × 12 pcs",
+      "item_category": "Cake"
+    },
+    {
+      "item_code": "SRC060-372",
+      "item_name": "Vanilla Cream Sandwich Cookie",
+      "price": 48,
+      "unit": "24.6 g × 12",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-373",
+      "item_name": "Big Sheet Seaweed Snack",
+      "price": 49,
+      "unit": "3.2 g × 12",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-374",
+      "item_name": "Chocolate-Coated Extruded Snack",
+      "price": 48,
+      "unit": "12 g × 12",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-375",
+      "item_name": "Nori Seaweed Potato Chips",
+      "price": 52,
+      "unit": "13 g × 12",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-376",
+      "item_name": "Tomato Rice Cracker",
+      "price": 49,
+      "unit": "80 g × 3",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-377",
+      "item_name": "BBQ Potato Chips",
+      "price": 103,
+      "unit": "48 g × 6",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-378",
+      "item_name": "Tomato Sauce Extruded Snack",
+      "price": 48,
+      "unit": "17 g × 12",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-379",
+      "item_name": "Sweet & Spicy Squid Snack",
+      "price": 48,
+      "unit": "4 g × 12 pcs",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-380",
+      "item_name": "Chocolate Cream Sandwich Cookie",
+      "price": 49.5,
+      "unit": "40.5 g × 12 pcs",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-381",
+      "item_name": "Milk-Flavored Corn Snack",
+      "price": 29,
+      "unit": "38 g × 6",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-382",
+      "item_name": "Chocolate Roll Snack",
+      "price": 47,
+      "unit": "24 g × 12",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-383",
+      "item_name": "Coconut-Flavored Sunflower Seeds",
+      "price": 96,
+      "unit": "72 g × 6",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-384",
+      "item_name": "Ice Cream Vanilla Flavor",
+      "price": 359,
+      "unit": "3.6 kg",
+      "item_category": "Dessert"
+    },
+    {
+      "item_code": "SRC060-385",
+      "item_name": "Yam in Syrup",
+      "price": 81,
+      "unit": "1 kg",
+      "item_category": "Dessert"
+    },
+    {
+      "item_code": "SRC060-386",
+      "item_name": "Azuki Red Bean Paste",
+      "price": 80,
+      "unit": "500 g",
+      "item_category": "Dessert"
+    },
+    {
+      "item_code": "SRC060-387",
+      "item_name": "Three-Flavored Pearls in Coconut Cream",
+      "price": 112,
+      "unit": "160 g × 4",
+      "item_category": "Dessert"
+    },
+    {
+      "item_code": "SRC060-388",
+      "item_name": "Pandanus Tapioca Seed",
+      "price": 50,
+      "unit": "400 g × 2",
+      "item_category": "Dessert"
+    },
+    {
+      "item_code": "SRC060-389",
+      "item_name": "Black Sesame Dumplings in Ginger Syrup",
+      "price": 140,
+      "unit": "150 g × 4",
+      "item_category": "Dessert"
+    },
+    {
+      "item_code": "SRC060-390",
+      "item_name": "Nam Ngiao Fried Chili Paste",
+      "price": 19,
+      "unit": "80 g",
+      "item_category": "Ready-to-cook"
     }
   ]
 }
