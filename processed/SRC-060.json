@@ -1,7 +1,7 @@
 {
   "source_id": "SRC-060",
   "category": "Packaged food, instant food, frozen food, snacks & beverages data",
-  "confirmed_record_count": 30,
+  "confirmed_record_count": 40,
   "data": [
     {
       "item_code": "SRC060-001",
@@ -212,6 +212,76 @@
       "price": 20,
       "unit": "445 ml",
       "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-031",
+      "item_name": "Frozen Edamame",
+      "price": 49,
+      "unit": "320 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-032",
+      "item_name": "Frozen Minced Pork Bun",
+      "price": 69,
+      "unit": "280 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-033",
+      "item_name": "Frozen Chicken Frankfurter Sausage",
+      "price": 49,
+      "unit": "155 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-034",
+      "item_name": "Frozen Paratha",
+      "price": 93,
+      "unit": "400 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-035",
+      "item_name": "Pad Thai Meal Kit",
+      "price": 59,
+      "unit": "195 g",
+      "item_category": "Instant food"
+    },
+    {
+      "item_code": "SRC060-036",
+      "item_name": "Potted Glass Noodles Meal Kit",
+      "price": 59,
+      "unit": "162 g",
+      "item_category": "Instant food"
+    },
+    {
+      "item_code": "SRC060-037",
+      "item_name": "Tteokbokki Meal Kit",
+      "price": 74,
+      "unit": "140 g",
+      "item_category": "Instant food"
+    },
+    {
+      "item_code": "SRC060-038",
+      "item_name": "Curry Pork Retort Meal",
+      "price": 89,
+      "unit": "180 g",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-039",
+      "item_name": "Cooked Jasmine Rice",
+      "price": 21,
+      "unit": "150 g",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-040",
+      "item_name": "Baked Macaroni & Cheese",
+      "price": 84,
+      "unit": "280 g",
+      "item_category": "Packaged food"
     }
   ]
 }
