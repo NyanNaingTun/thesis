@@ -1,7 +1,7 @@
 {
   "source_id": "SRC-060",
   "category": "Packaged food, instant food, frozen food, snacks & beverages data",
-  "confirmed_record_count": 430,
+  "confirmed_record_count": 450,
   "data": [
     {
       "item_code": "SRC060-001",
@@ -3012,6 +3012,146 @@
       "price": 45,
       "unit": "24 g × 12",
       "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-431",
+      "item_name": "Brown Jasmine Rice",
+      "price": 149,
+      "unit": "2 kg",
+      "item_category": "Rice"
+    },
+    {
+      "item_code": "SRC060-432",
+      "item_name": "Brown Rice",
+      "price": 135,
+      "unit": "2 kg",
+      "item_category": "Rice"
+    },
+    {
+      "item_code": "SRC060-433",
+      "item_name": "Red Cargo Rice",
+      "price": 139,
+      "unit": "2 kg",
+      "item_category": "Rice"
+    },
+    {
+      "item_code": "SRC060-434",
+      "item_name": "Riceberry Rice",
+      "price": 159,
+      "unit": "2 kg",
+      "item_category": "Rice"
+    },
+    {
+      "item_code": "SRC060-435",
+      "item_name": "Black Glutinous Rice",
+      "price": 85,
+      "unit": "1 kg",
+      "item_category": "Rice"
+    },
+    {
+      "item_code": "SRC060-436",
+      "item_name": "White Glutinous Rice",
+      "price": 145,
+      "unit": "5 kg",
+      "item_category": "Rice"
+    },
+    {
+      "item_code": "SRC060-437",
+      "item_name": "Broken Jasmine Rice",
+      "price": 159,
+      "unit": "5 kg",
+      "item_category": "Rice"
+    },
+    {
+      "item_code": "SRC060-438",
+      "item_name": "Pathum Thani Fragrant Rice",
+      "price": 179,
+      "unit": "5 kg",
+      "item_category": "Rice"
+    },
+    {
+      "item_code": "SRC060-439",
+      "item_name": "Hom Mali New-Crop Rice",
+      "price": 229,
+      "unit": "5 kg",
+      "item_category": "Rice"
+    },
+    {
+      "item_code": "SRC060-440",
+      "item_name": "Organic Jasmine Rice",
+      "price": 169,
+      "unit": "2 kg",
+      "item_category": "Rice"
+    },
+    {
+      "item_code": "SRC060-441",
+      "item_name": "Soybean Oil",
+      "price": 219,
+      "unit": "5 L",
+      "item_category": "Cooking oil"
+    },
+    {
+      "item_code": "SRC060-442",
+      "item_name": "Palm Olein Oil",
+      "price": 198,
+      "unit": "5 L",
+      "item_category": "Cooking oil"
+    },
+    {
+      "item_code": "SRC060-443",
+      "item_name": "Rice Bran Oil",
+      "price": 245,
+      "unit": "5 L",
+      "item_category": "Cooking oil"
+    },
+    {
+      "item_code": "SRC060-444",
+      "item_name": "Canola Oil",
+      "price": 189,
+      "unit": "1 L",
+      "item_category": "Cooking oil"
+    },
+    {
+      "item_code": "SRC060-445",
+      "item_name": "Sunflower Oil",
+      "price": 175,
+      "unit": "1 L",
+      "item_category": "Cooking oil"
+    },
+    {
+      "item_code": "SRC060-446",
+      "item_name": "Corn Oil",
+      "price": 189,
+      "unit": "1 L",
+      "item_category": "Cooking oil"
+    },
+    {
+      "item_code": "SRC060-447",
+      "item_name": "Extra Virgin Olive Oil",
+      "price": 399,
+      "unit": "1 L",
+      "item_category": "Cooking oil"
+    },
+    {
+      "item_code": "SRC060-448",
+      "item_name": "Pure Olive Oil",
+      "price": 359,
+      "unit": "1 L",
+      "item_category": "Cooking oil"
+    },
+    {
+      "item_code": "SRC060-449",
+      "item_name": "Coconut Cooking Oil",
+      "price": 189,
+      "unit": "1 L",
+      "item_category": "Cooking oil"
+    },
+    {
+      "item_code": "SRC060-450",
+      "item_name": "Avocado Oil",
+      "price": 399,
+      "unit": "1 L",
+      "item_category": "Cooking oil"
     }
   ]
 }
