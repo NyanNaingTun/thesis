@@ -1,7 +1,7 @@
 {
   "source_id": "SRC-060",
   "category": "Packaged food, instant food, frozen food, snacks & beverages data",
-  "confirmed_record_count": 330,
+  "confirmed_record_count": 350,
   "data": [
     {
       "item_code": "SRC060-001",
@@ -2312,6 +2312,146 @@
       "price": 135,
       "unit": "340 ml × 3",
       "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-331",
+      "item_name": "Hash Brown Patties",
+      "price": 119,
+      "unit": "1.28 kg",
+      "item_category": "Ready-to-cook"
+    },
+    {
+      "item_code": "SRC060-332",
+      "item_name": "Salted Fried Chicken Ribs",
+      "price": 139,
+      "unit": "1 kg",
+      "item_category": "Ready-to-cook"
+    },
+    {
+      "item_code": "SRC060-333",
+      "item_name": "Frozen Assorted Cake",
+      "price": 565,
+      "unit": "25 g × 45 pcs",
+      "item_category": "Cake"
+    },
+    {
+      "item_code": "SRC060-334",
+      "item_name": "Mini Croissant",
+      "price": 189,
+      "unit": "15 g × 40 pcs",
+      "item_category": "Bakery"
+    },
+    {
+      "item_code": "SRC060-335",
+      "item_name": "Banana Cup Cake",
+      "price": 330,
+      "unit": "55 g × 48 pcs",
+      "item_category": "Cake"
+    },
+    {
+      "item_code": "SRC060-336",
+      "item_name": "Almond Brownie",
+      "price": 780,
+      "unit": "20 g × 96 pcs",
+      "item_category": "Cake"
+    },
+    {
+      "item_code": "SRC060-337",
+      "item_name": "Sugar Donut",
+      "price": 498,
+      "unit": "30 g × 48 pcs",
+      "item_category": "Bakery"
+    },
+    {
+      "item_code": "SRC060-338",
+      "item_name": "Assorted Cake Roll",
+      "price": 109,
+      "unit": "30 g × 9 pcs",
+      "item_category": "Cake"
+    },
+    {
+      "item_code": "SRC060-339",
+      "item_name": "Butter Croissant",
+      "price": 365,
+      "unit": "43 g × 25 pcs",
+      "item_category": "Bakery"
+    },
+    {
+      "item_code": "SRC060-340",
+      "item_name": "Assorted Muffin",
+      "price": 600,
+      "unit": "65 g × 48 pcs",
+      "item_category": "Cake"
+    },
+    {
+      "item_code": "SRC060-341",
+      "item_name": "Almond Danish",
+      "price": 490,
+      "unit": "40 g × 48 pcs",
+      "item_category": "Bakery"
+    },
+    {
+      "item_code": "SRC060-342",
+      "item_name": "Egg Tart",
+      "price": 630,
+      "unit": "60 g × 40 pcs",
+      "item_category": "Bakery"
+    },
+    {
+      "item_code": "SRC060-343",
+      "item_name": "Shredded Chicken Danish",
+      "price": 505,
+      "unit": "40 g × 48 pcs",
+      "item_category": "Bakery"
+    },
+    {
+      "item_code": "SRC060-344",
+      "item_name": "Ham Cheese Mini Croissant",
+      "price": 710,
+      "unit": "30 g × 48 pcs",
+      "item_category": "Bakery"
+    },
+    {
+      "item_code": "SRC060-345",
+      "item_name": "Thai Custard Bun",
+      "price": 210,
+      "unit": "48 g × 24 pcs",
+      "item_category": "Bakery"
+    },
+    {
+      "item_code": "SRC060-346",
+      "item_name": "Pork Sausage Bun",
+      "price": 390,
+      "unit": "42 g × 48 pcs",
+      "item_category": "Bakery"
+    },
+    {
+      "item_code": "SRC060-347",
+      "item_name": "Chicken Sausage Bun",
+      "price": 390,
+      "unit": "45 g × 48 pcs",
+      "item_category": "Bakery"
+    },
+    {
+      "item_code": "SRC060-348",
+      "item_name": "Pineapple Pie",
+      "price": 105,
+      "unit": "75 g × 4 pcs",
+      "item_category": "Bakery"
+    },
+    {
+      "item_code": "SRC060-349",
+      "item_name": "Curry Chicken Pie",
+      "price": 105,
+      "unit": "80 g × 4 pcs",
+      "item_category": "Ready-to-eat"
+    },
+    {
+      "item_code": "SRC060-350",
+      "item_name": "Sweet Chinese Pastry",
+      "price": 80,
+      "unit": "40 g × 9 pcs",
+      "item_category": "Bakery"
     }
   ]
 }
