@@ -1,7 +1,7 @@
 {
   "source_id": "SRC-060",
   "category": "Packaged food, instant food, frozen food, snacks & beverages data",
-  "confirmed_record_count": 60,
+  "confirmed_record_count": 80,
   "data": [
     {
       "item_code": "SRC060-001",
@@ -422,6 +422,146 @@
       "price": 59,
       "unit": "400 g",
       "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-061",
+      "item_name": "Instant Rice Porridge",
+      "price": 15,
+      "unit": "35 g",
+      "item_category": "Instant food"
+    },
+    {
+      "item_code": "SRC060-062",
+      "item_name": "Instant Cup Rice",
+      "price": 39,
+      "unit": "115 g",
+      "item_category": "Instant food"
+    },
+    {
+      "item_code": "SRC060-063",
+      "item_name": "Instant Glass Noodles",
+      "price": 20,
+      "unit": "40 g",
+      "item_category": "Instant food"
+    },
+    {
+      "item_code": "SRC060-064",
+      "item_name": "Instant Pasta",
+      "price": 39,
+      "unit": "65 g",
+      "item_category": "Instant food"
+    },
+    {
+      "item_code": "SRC060-065",
+      "item_name": "Instant Mashed Potato",
+      "price": 45,
+      "unit": "56 g",
+      "item_category": "Instant food"
+    },
+    {
+      "item_code": "SRC060-066",
+      "item_name": "Seaweed Snack",
+      "price": 39,
+      "unit": "32 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-067",
+      "item_name": "Rice Crackers",
+      "price": 35,
+      "unit": "100 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-068",
+      "item_name": "Corn Snack",
+      "price": 20,
+      "unit": "62 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-069",
+      "item_name": "Shrimp Crackers",
+      "price": 30,
+      "unit": "75 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-070",
+      "item_name": "Fish Snack",
+      "price": 30,
+      "unit": "80 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-071",
+      "item_name": "Wafer Biscuits",
+      "price": 32,
+      "unit": "100 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-072",
+      "item_name": "Butter Cookies",
+      "price": 55,
+      "unit": "120 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-073",
+      "item_name": "Chocolate Biscuits",
+      "price": 35,
+      "unit": "100 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-074",
+      "item_name": "Gummy Candy",
+      "price": 20,
+      "unit": "40 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-075",
+      "item_name": "Ready-to-Drink Green Tea",
+      "price": 20,
+      "unit": "500 ml",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-076",
+      "item_name": "Ready-to-Drink Coffee",
+      "price": 25,
+      "unit": "180 ml",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-077",
+      "item_name": "UHT Chocolate Milk",
+      "price": 15,
+      "unit": "180 ml",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-078",
+      "item_name": "Orange Juice",
+      "price": 20,
+      "unit": "200 ml",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-079",
+      "item_name": "Aloe Vera Drink",
+      "price": 25,
+      "unit": "500 ml",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-080",
+      "item_name": "Sparkling Water",
+      "price": 20,
+      "unit": "325 ml",
+      "item_category": "Beverages"
     }
   ]
 }
