@@ -1,7 +1,7 @@
 {
   "source_id": "SRC-060",
   "category": "Packaged food, instant food, frozen food, snacks & beverages data",
-  "confirmed_record_count": 260,
+  "confirmed_record_count": 270,
   "data": [
     {
       "item_code": "SRC060-001",
@@ -1821,6 +1821,76 @@
       "item_name": "Frozen Ginger Rice Balls",
       "price": 129,
       "unit": "150 g × 4",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-261",
+      "item_name": "Frozen Cheese Sticks",
+      "price": 99,
+      "unit": "155 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-262",
+      "item_name": "Chilled Pork Sausage",
+      "price": 54,
+      "unit": "400 g",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-263",
+      "item_name": "Baked Spinach with Cheese",
+      "price": 37,
+      "unit": "100 g",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-264",
+      "item_name": "Frozen Pork Basil Stir-Fry",
+      "price": 200,
+      "unit": "1 kg",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-265",
+      "item_name": "Frozen Chicken Teriyaki",
+      "price": 200,
+      "unit": "1 kg",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-266",
+      "item_name": "Frozen Ginger Chicken Stir-Fry",
+      "price": 230,
+      "unit": "1 kg",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-267",
+      "item_name": "Frozen Frankfurter Sausage",
+      "price": 245,
+      "unit": "1 kg",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-268",
+      "item_name": "Frozen Smoked Sausage",
+      "price": 225,
+      "unit": "1 kg",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-269",
+      "item_name": "Frozen Bologna",
+      "price": 129,
+      "unit": "500 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-270",
+      "item_name": "Frozen Shrimp Wontons Bulk Pack",
+      "price": 540,
+      "unit": "1.6 kg / 80 pcs",
       "item_category": "Frozen food"
     }
   ]
