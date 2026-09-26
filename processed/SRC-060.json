@@ -1292,13 +1292,6 @@
       "item_category": "Beverages"
     },
     {
-      "item_code": "SRC060-185",
-      "item_name": "Natural Mineral Water",
-      "price": 175,
-      "unit": "600 ml × 12",
-      "item_category": "Beverages"
-    },
-    {
       "item_code": "SRC060-186",
       "item_name": "Tomato Juice 100%",
       "price": 169,
@@ -2181,13 +2174,6 @@
       "item_category": "Frozen food"
     },
     {
-      "item_code": "SRC060-312",
-      "item_name": "Frozen Shrimp Shumai Bulk Pack",
-      "price": 685,
-      "unit": "1.92 kg / 120 pcs",
-      "item_category": "Frozen food"
-    },
-    {
       "item_code": "SRC060-313",
       "item_name": "Frozen BBQ Pork Buns Bulk Pack",
       "price": 625,
@@ -2213,13 +2199,6 @@
       "item_name": "Frozen Japanese Curry Pork Rice",
       "price": 65,
       "unit": "290 g",
-      "item_category": "Frozen food"
-    },
-    {
-      "item_code": "SRC060-317",
-      "item_name": "Frozen Ginger Rice Balls",
-      "price": 129,
-      "unit": "150 g × 4",
       "item_category": "Frozen food"
     },
     {
@@ -3152,6 +3131,27 @@
       "price": 399,
       "unit": "1 L",
       "item_category": "Cooking oil"
+    },
+    {
+      "item_code": "SRC060-451",
+      "item_name": "ARO Chicken Pop",
+      "price": 179,
+      "unit": "1 kg",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-452",
+      "item_name": "SRIKAMOL SEAFOOD Thai Fish Cakes",
+      "price": 49,
+      "unit": "500 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-453",
+      "item_name": "ARO Frozen Fish Finger",
+      "price": 85,
+      "unit": "500 g",
+      "item_category": "Frozen food"
     }
   ]
 }
