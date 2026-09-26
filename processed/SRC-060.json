@@ -1,7 +1,7 @@
 {
   "source_id": "SRC-060",
   "category": "Packaged food, instant food, frozen food, snacks & beverages data",
-  "confirmed_record_count": 140,
+  "confirmed_record_count": 160,
   "data": [
     {
       "item_code": "SRC060-001",
@@ -982,6 +982,146 @@
       "price": 25,
       "unit": "25 g",
       "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-141",
+      "item_name": "Natural Mineral Water",
+      "price": 65,
+      "unit": "500 ml",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-142",
+      "item_name": "Sparkling Mineral Water",
+      "price": 98,
+      "unit": "750 ml",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-143",
+      "item_name": "Mandarin Orange Juice 100%",
+      "price": 89,
+      "unit": "1 L",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-144",
+      "item_name": "Mixed Vegetable & Fruit Juice",
+      "price": 47,
+      "unit": "200 ml × 3",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-145",
+      "item_name": "Concentrated Orange Drink",
+      "price": 175,
+      "unit": "700 ml",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-146",
+      "item_name": "Strawberry Juice",
+      "price": 82,
+      "unit": "1 L",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-147",
+      "item_name": "Honey & Lime Squash",
+      "price": 98,
+      "unit": "500 ml",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-148",
+      "item_name": "Pomegranate & Mixed Fruit Juice",
+      "price": 89,
+      "unit": "1 L",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-149",
+      "item_name": "Green Vegetable Juice",
+      "price": 76,
+      "unit": "1 L",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-150",
+      "item_name": "Herbal Tea Drink",
+      "price": 197,
+      "unit": "315 ml × 24",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-151",
+      "item_name": "Jasmine Green Tea No Sugar",
+      "price": 30,
+      "unit": "500 ml",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-152",
+      "item_name": "Japanese Green Tea No Sugar",
+      "price": 30,
+      "unit": "400 ml",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-153",
+      "item_name": "Oat Milk",
+      "price": 59,
+      "unit": "1 L",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-154",
+      "item_name": "Almond Milk",
+      "price": 79,
+      "unit": "180 ml × 3",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-155",
+      "item_name": "Lactose-Free UHT Milk",
+      "price": 53,
+      "unit": "180 ml × 2",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-156",
+      "item_name": "UHT Chocolate Malt Beverage",
+      "price": 109,
+      "unit": "180 ml × 12",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-157",
+      "item_name": "Vitamin C Lemon Drink",
+      "price": 16,
+      "unit": "140 ml",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-158",
+      "item_name": "Bird's Nest Beverage",
+      "price": 479,
+      "unit": "42 ml × 6",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-159",
+      "item_name": "Black Coffee No Sugar",
+      "price": 95,
+      "unit": "1 L",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-160",
+      "item_name": "Cream Soda Syrup",
+      "price": 61,
+      "unit": "710 ml",
+      "item_category": "Beverages"
     }
   ]
 }
