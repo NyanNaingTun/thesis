@@ -1,7 +1,7 @@
 {
   "source_id": "SRC-060",
   "category": "Packaged food, instant food, frozen food, snacks & beverages data",
-  "confirmed_record_count": 100,
+  "confirmed_record_count": 120,
   "data": [
     {
       "item_code": "SRC060-001",
@@ -702,6 +702,146 @@
       "price": 69,
       "unit": "280 g",
       "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-101",
+      "item_name": "Caramelised Biscuit",
+      "price": 39,
+      "unit": "125 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-102",
+      "item_name": "Peanut Butter Cracker",
+      "price": 48,
+      "unit": "15 g × 12",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-103",
+      "item_name": "Coconut Butter Cracker with Sesame",
+      "price": 12,
+      "unit": "70 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-104",
+      "item_name": "Lemon Puff Biscuit",
+      "price": 79,
+      "unit": "170 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-105",
+      "item_name": "Biscuit Roll with Chocolate Cream",
+      "price": 16,
+      "unit": "41 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-106",
+      "item_name": "Cheese Thin Biscuit",
+      "price": 50,
+      "unit": "25 g × 12",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-107",
+      "item_name": "Cream Cracker",
+      "price": 32,
+      "unit": "13 g × 16",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-108",
+      "item_name": "Digestive Wheatmeal Biscuit",
+      "price": 99,
+      "unit": "200 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-109",
+      "item_name": "Pretzel Cheddar Cheese",
+      "price": 39,
+      "unit": "70 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-110",
+      "item_name": "Cheese Sandwich Biscuit",
+      "price": 51,
+      "unit": "112 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-111",
+      "item_name": "Chocolate Wafer Stick",
+      "price": 14,
+      "unit": "28 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-112",
+      "item_name": "Chocolate Dipping Biscuit Stick",
+      "price": 35,
+      "unit": "44 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-113",
+      "item_name": "Chocolate Coated Wafer",
+      "price": 89,
+      "unit": "18 g × 6",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-114",
+      "item_name": "Popcorn",
+      "price": 65,
+      "unit": "70 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-115",
+      "item_name": "Dried Raisins",
+      "price": 89,
+      "unit": "250 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-116",
+      "item_name": "Milk Chocolate Bar",
+      "price": 49,
+      "unit": "50 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-117",
+      "item_name": "Peanut Caramel Chocolate Bar",
+      "price": 35,
+      "unit": "51 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-118",
+      "item_name": "Peanut Chocolate Candy",
+      "price": 35,
+      "unit": "37 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-119",
+      "item_name": "Chewy Milk Candy",
+      "price": 18,
+      "unit": "67 g",
+      "item_category": "Snacks"
+    },
+    {
+      "item_code": "SRC060-120",
+      "item_name": "Mixed-Fruit Gummy Candy",
+      "price": 10,
+      "unit": "20 g",
+      "item_category": "Snacks"
     }
   ]
 }
