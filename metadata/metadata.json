@@ -260,6 +260,27 @@
         "[SRC-052_train](https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-052_train.json)",
         "[SRC-052_test](https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-052_test.json)"
       ]
+    },
+    {
+      "category": "Packaged food, instant food, frozen food, snacks & beverages data",
+      "name": "Makro Fresh & Frozen",
+      "source_link": "https://www.makro.pro/en/fp/fresh-and-frozen",
+      "processed_file_link": null,
+      "source_id": "SRC-060"
+    },
+    {
+      "category": "Packaged food, instant food, frozen food, snacks & beverages data",
+      "name": "Big C",
+      "source_link": "https://www.bigc.co.th/",
+      "processed_file_link": null,
+      "source_id": "SRC-061"
+    },
+    {
+      "category": "Packaged food, instant food, frozen food, snacks & beverages data",
+      "name": "7-Eleven Thailand",
+      "source_link": "https://www.7eleven.co.th/",
+      "processed_file_link": null,
+      "source_id": "SRC-062"
     }
   ]
 }
