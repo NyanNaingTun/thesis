@@ -1061,12 +1061,40 @@
           "id": "SRC-059"
         }
       ]
+    },
+    {
+      "category": "Product Market Data",
+      "sources": [
+        {
+          "name": "Makro / Big C / 7-Eleven Thailand product dataset",
+          "url": [
+            "https://www.makro.pro/en/fp/fresh-and-frozen",
+            "https://www.bigc.co.th/",
+            "https://www.7eleven.co.th/"
+          ],
+          "data_access": {
+            "access_type": "retail_web_pages",
+            "data_format": "HTML/product listings",
+            "retrieval_method": "Collect packaged, instant, frozen, snack, beverage and related product listings from retailer web pages and normalize to JSON.",
+            "direct_data_url": false,
+            "conversion_target": "JSON",
+            "verification_status": "processed"
+          },
+          "id": "SRC-060",
+          "processing_status": "done",
+          "processed_file": "processed/SRC-060.json",
+          "completed_at": "2026-09-26",
+          "processed_commit": "9b4b72d4d2effbb4aaa8e39f5ee89e5ab5477aa1",
+          "processed_url": "https://github.com/NyanNaingTun/thesis/blob/main/processed/SRC-060.json",
+          "item_count": 450
+        }
+      ]
     }
   ],
   "metadata_schema_version": "1.1",
   "access_metadata_updated_at": "2026-09-24",
   "access_metadata_note": "data_access describes whether each registry URL is a direct data file, API/dataset interface, or an intermediate page requiring a second download/request. Pattern classifications are marked separately from web-verified classifications; exact downstream file/API endpoints should be recorded during crawl.",
-  "source_count": 59,
+  "source_count": 60,
   "direct_data_url_count": 38,
   "id_scheme": {
     "field": "id",
