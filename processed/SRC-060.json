@@ -1,7 +1,7 @@
 {
   "source_id": "SRC-060",
   "category": "Packaged food, instant food, frozen food, snacks & beverages data",
-  "confirmed_record_count": 180,
+  "confirmed_record_count": 200,
   "data": [
     {
       "item_code": "SRC060-001",
@@ -1262,6 +1262,146 @@
       "price": 36,
       "unit": "680 ml",
       "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-181",
+      "item_name": "Cola Drink",
+      "price": 104,
+      "unit": "180 g × 3",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-182",
+      "item_name": "Canned Cola",
+      "price": 112,
+      "unit": "245 ml × 6",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-183",
+      "item_name": "Yogurt Drink",
+      "price": 104,
+      "unit": "180 g × 3",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-184",
+      "item_name": "pH Plus Drinking Water",
+      "price": 390,
+      "unit": "550 ml × 24",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-185",
+      "item_name": "Natural Mineral Water",
+      "price": 175,
+      "unit": "600 ml × 12",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-186",
+      "item_name": "Tomato Juice 100%",
+      "price": 169,
+      "unit": "1 L",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-187",
+      "item_name": "Valencia Orange Juice 100%",
+      "price": 154,
+      "unit": "1 L",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-188",
+      "item_name": "Pomegranate Juice 100%",
+      "price": 169,
+      "unit": "1 L",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-189",
+      "item_name": "Cherry Berry Juice 100%",
+      "price": 144,
+      "unit": "1 L",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-190",
+      "item_name": "Apple Juice 100%",
+      "price": 169,
+      "unit": "1 L",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-191",
+      "item_name": "Lychee Honey Drink",
+      "price": 67,
+      "unit": "380 ml",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-192",
+      "item_name": "Beauty Collagen Drink",
+      "price": 420,
+      "unit": "360 ml × 24",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-193",
+      "item_name": "Sparkling Energy Drink",
+      "price": 182,
+      "unit": "150 ml × 10",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-194",
+      "item_name": "Ginseng Drink",
+      "price": 180,
+      "unit": "50 ml × 8",
+      "item_category": "Beverages"
+    },
+    {
+      "item_code": "SRC060-195",
+      "item_name": "Canned Tuna Salad with Mayonnaise",
+      "price": 96,
+      "unit": "185 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-196",
+      "item_name": "Canned Tuna Green Curry",
+      "price": 49,
+      "unit": "150 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-197",
+      "item_name": "Canned Pickled Ginger",
+      "price": 52,
+      "unit": "325 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-198",
+      "item_name": "Canned Salmon Spread with Crackers",
+      "price": 42,
+      "unit": "85 g",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-199",
+      "item_name": "Canned Spicy Cockles",
+      "price": 305,
+      "unit": "40 g × 10",
+      "item_category": "Canned food"
+    },
+    {
+      "item_code": "SRC060-200",
+      "item_name": "Canned Spicy Sardine Salad",
+      "price": 279,
+      "unit": "155 g × 10",
+      "item_category": "Canned food"
     }
   ]
 }
