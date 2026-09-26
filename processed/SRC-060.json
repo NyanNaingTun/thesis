@@ -1,7 +1,7 @@
 {
   "source_id": "SRC-060",
   "category": "Packaged food, instant food, frozen food, snacks & beverages data",
-  "confirmed_record_count": 290,
+  "confirmed_record_count": 310,
   "data": [
     {
       "item_code": "SRC060-001",
@@ -2031,6 +2031,146 @@
       "item_name": "Pork Ham Bologna with Chili",
       "price": 38,
       "unit": "105 g",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-291",
+      "item_name": "Frozen Shrimp Shumai",
+      "price": 105,
+      "unit": "240 g / 15 pcs",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-292",
+      "item_name": "Frozen Pork Wonton",
+      "price": 69,
+      "unit": "145 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-293",
+      "item_name": "Frozen Chicken Karaage",
+      "price": 89,
+      "unit": "200 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-294",
+      "item_name": "Frozen Fried Chicken with Garlic",
+      "price": 79,
+      "unit": "200 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-295",
+      "item_name": "Frozen Crispy Chicken",
+      "price": 89,
+      "unit": "200 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-296",
+      "item_name": "Frozen Pork Tonkatsu",
+      "price": 99,
+      "unit": "200 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-297",
+      "item_name": "Frozen Shrimp Tempura",
+      "price": 129,
+      "unit": "160 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-298",
+      "item_name": "Frozen Fried Shrimp Cake",
+      "price": 109,
+      "unit": "200 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-299",
+      "item_name": "Frozen Crab Stick",
+      "price": 79,
+      "unit": "250 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-300",
+      "item_name": "Frozen Squid Rings",
+      "price": 99,
+      "unit": "200 g",
+      "item_category": "Frozen food"
+    },
+    {
+      "item_code": "SRC060-301",
+      "item_name": "Chilled Pork Meatballs",
+      "price": 59,
+      "unit": "200 g",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-302",
+      "item_name": "Chilled Fish Balls",
+      "price": 49,
+      "unit": "200 g",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-303",
+      "item_name": "Chilled Shrimp Balls",
+      "price": 69,
+      "unit": "200 g",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-304",
+      "item_name": "Chilled Chicken Ham",
+      "price": 69,
+      "unit": "200 g",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-305",
+      "item_name": "Chilled Smoked Pork Loin",
+      "price": 89,
+      "unit": "200 g",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-306",
+      "item_name": "Chilled Cheese Pork Frankfurter",
+      "price": 79,
+      "unit": "200 g",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-307",
+      "item_name": "Chilled Garlic Pork Sausage",
+      "price": 69,
+      "unit": "200 g",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-308",
+      "item_name": "Chilled Isan Pork Sausage",
+      "price": 59,
+      "unit": "200 g",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-309",
+      "item_name": "Chilled Vietnamese Pork Sausage",
+      "price": 69,
+      "unit": "200 g",
+      "item_category": "Chilled food"
+    },
+    {
+      "item_code": "SRC060-310",
+      "item_name": "Chilled Pork Roll",
+      "price": 79,
+      "unit": "200 g",
       "item_category": "Chilled food"
     }
   ]
