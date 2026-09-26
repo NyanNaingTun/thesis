@@ -1,7 +1,7 @@
 {
   "source_id": "SRC-060",
   "category": "Packaged food, instant food, frozen food, snacks & beverages data",
-  "confirmed_record_count": 220,
+  "confirmed_record_count": 240,
   "data": [
     {
       "item_code": "SRC060-001",
@@ -1541,6 +1541,146 @@
       "item_name": "Artificial Vinegar 5%",
       "price": 39,
       "unit": "700 ml × 3",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-221",
+      "item_name": "Fish Sauce",
+      "price": 59,
+      "unit": "700 ml × 2",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-222",
+      "item_name": "Sweet Soy Sauce",
+      "price": 54,
+      "unit": "950 g",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-223",
+      "item_name": "Black Soy Sauce",
+      "price": 39,
+      "unit": "940 g",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-224",
+      "item_name": "Sukiyaki Sauce",
+      "price": 65,
+      "unit": "830 g",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-225",
+      "item_name": "Seafood Dipping Sauce",
+      "price": 59,
+      "unit": "800 g",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-226",
+      "item_name": "Teriyaki Sauce",
+      "price": 79,
+      "unit": "500 ml",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-227",
+      "item_name": "Korean BBQ Sauce",
+      "price": 89,
+      "unit": "500 g",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-228",
+      "item_name": "Worcestershire Sauce",
+      "price": 75,
+      "unit": "150 ml",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-229",
+      "item_name": "Chili Oil",
+      "price": 89,
+      "unit": "200 ml",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-230",
+      "item_name": "Sesame Oil",
+      "price": 95,
+      "unit": "150 ml",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-231",
+      "item_name": "Curry Powder",
+      "price": 29,
+      "unit": "50 g",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-232",
+      "item_name": "Ground Black Pepper",
+      "price": 39,
+      "unit": "50 g",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-233",
+      "item_name": "Ground White Pepper",
+      "price": 42,
+      "unit": "50 g",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-234",
+      "item_name": "Garlic Powder",
+      "price": 45,
+      "unit": "50 g",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-235",
+      "item_name": "Chili Powder",
+      "price": 35,
+      "unit": "100 g",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-236",
+      "item_name": "Paprika Powder",
+      "price": 55,
+      "unit": "50 g",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-237",
+      "item_name": "Bread Crumbs",
+      "price": 39,
+      "unit": "200 g",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-238",
+      "item_name": "Tempura Flour",
+      "price": 37,
+      "unit": "500 g",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-239",
+      "item_name": "Corn Starch",
+      "price": 35,
+      "unit": "400 g",
+      "item_category": "Packaged food"
+    },
+    {
+      "item_code": "SRC060-240",
+      "item_name": "Tapioca Starch",
+      "price": 29,
+      "unit": "400 g",
       "item_category": "Packaged food"
     }
   ]
