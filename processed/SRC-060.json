@@ -1,7 +1,7 @@
 {
   "source_id": "SRC-060",
   "category": "Packaged food, instant food, frozen food, snacks & beverages data",
-  "confirmed_record_count": 350,
+  "confirmed_record_count": 370,
   "data": [
     {
       "item_code": "SRC060-001",
@@ -2451,6 +2451,146 @@
       "item_name": "Sweet Chinese Pastry",
       "price": 80,
       "unit": "40 g × 9 pcs",
+      "item_category": "Bakery"
+    },
+    {
+      "item_code": "SRC060-351",
+      "item_name": "Sliced Sandwich Bread",
+      "price": 42,
+      "unit": "600 g",
+      "item_category": "Bakery"
+    },
+    {
+      "item_code": "SRC060-352",
+      "item_name": "Open Top Bread",
+      "price": 39,
+      "unit": "540 g",
+      "item_category": "Bakery"
+    },
+    {
+      "item_code": "SRC060-353",
+      "item_name": "Burger Bun",
+      "price": 37,
+      "unit": "60 g × 6",
+      "item_category": "Bakery"
+    },
+    {
+      "item_code": "SRC060-354",
+      "item_name": "Whole Wheat Bread",
+      "price": 44,
+      "unit": "500 g",
+      "item_category": "Bakery"
+    },
+    {
+      "item_code": "SRC060-355",
+      "item_name": "Chinese Sweetmeat",
+      "price": 64,
+      "unit": "400 g",
+      "item_category": "Bakery"
+    },
+    {
+      "item_code": "SRC060-356",
+      "item_name": "French Baguette",
+      "price": 39,
+      "unit": "220 g",
+      "item_category": "Bakery"
+    },
+    {
+      "item_code": "SRC060-357",
+      "item_name": "Soft Roll",
+      "price": 26,
+      "unit": "25 g × 12",
+      "item_category": "Bakery"
+    },
+    {
+      "item_code": "SRC060-358",
+      "item_name": "Kraftkorn Bread",
+      "price": 69,
+      "unit": "330 g",
+      "item_category": "Bakery"
+    },
+    {
+      "item_code": "SRC060-359",
+      "item_name": "Shredded Pork Bread",
+      "price": 65,
+      "unit": "360 g",
+      "item_category": "Bakery"
+    },
+    {
+      "item_code": "SRC060-360",
+      "item_name": "Frozen Tart Shell",
+      "price": 98,
+      "unit": "18 pcs",
+      "item_category": "Ready-to-cook"
+    },
+    {
+      "item_code": "SRC060-361",
+      "item_name": "Raisin Danish",
+      "price": 79,
+      "unit": "40 g × 6",
+      "item_category": "Bakery"
+    },
+    {
+      "item_code": "SRC060-362",
+      "item_name": "Chocolate Chip Stick",
+      "price": 79,
+      "unit": "40 g × 8",
+      "item_category": "Bakery"
+    },
+    {
+      "item_code": "SRC060-363",
+      "item_name": "Pineapple Danish",
+      "price": 79,
+      "unit": "40 g × 6",
+      "item_category": "Bakery"
+    },
+    {
+      "item_code": "SRC060-364",
+      "item_name": "Grass Jelly Cube",
+      "price": 35,
+      "unit": "1 kg",
+      "item_category": "Dessert"
+    },
+    {
+      "item_code": "SRC060-365",
+      "item_name": "Bua Loy",
+      "price": 48,
+      "unit": "500 g",
+      "item_category": "Dessert"
+    },
+    {
+      "item_code": "SRC060-366",
+      "item_name": "Coconut Jelly in Syrup",
+      "price": 54,
+      "unit": "1 kg",
+      "item_category": "Dessert"
+    },
+    {
+      "item_code": "SRC060-367",
+      "item_name": "Taro Pearl in Coconut Cream",
+      "price": 109,
+      "unit": "160 g × 4",
+      "item_category": "Dessert"
+    },
+    {
+      "item_code": "SRC060-368",
+      "item_name": "Frozen Water Chestnut with Tapioca",
+      "price": 140,
+      "unit": "160 g × 4",
+      "item_category": "Dessert"
+    },
+    {
+      "item_code": "SRC060-369",
+      "item_name": "Frozen Black Sesame Ball",
+      "price": 135,
+      "unit": "480 g",
+      "item_category": "Dessert"
+    },
+    {
+      "item_code": "SRC060-370",
+      "item_name": "Frozen Waffle",
+      "price": 85,
+      "unit": "225 g",
       "item_category": "Bakery"
     }
   ]
